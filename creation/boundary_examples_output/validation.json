@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "examples": 6,
+  "socket_pairs": 15,
+  "max_socket_position_error_m": 0.0,
+  "no_scaling": true,
+  "logical_duplicate_posts": 0,
+  "geometry_contact_test": "NOT_RUN",
+  "character_collision_test": "NOT_RUN",
+  "closed_loop_test": "NOT_RUN",
+  "slope_test": "NOT_RUN",
+  "gpu_render": "NOT_RUN",
+  "art_approval": "PENDING"
+}

@@ -1,0 +1,194 @@
+{
+  "capsule_height_m": 1.6,
+  "capsule_radius_m": 0.25,
+  "cases": [
+    {
+      "end_position": [
+        1.0,
+        -2.08355486392975e-05,
+        -0.400000691413879
+      ],
+      "expected_blocked": true,
+      "loaded_bodies": 8,
+      "on_floor": true,
+      "passed": true,
+      "scene": "stone_closed_l"
+    },
+    {
+      "end_position": [
+        1.0,
+        -2.08355486392975e-05,
+        -0.400000691413879
+      ],
+      "expected_blocked": true,
+      "loaded_bodies": 8,
+      "on_floor": true,
+      "passed": true,
+      "scene": "stone_closed_r"
+    },
+    {
+      "end_position": [
+        1.0,
+        -2.08355486392975e-05,
+        -0.300000667572021
+      ],
+      "expected_blocked": true,
+      "loaded_bodies": 8,
+      "on_floor": true,
+      "passed": true,
+      "scene": "wood_closed_l"
+    },
+    {
+      "end_position": [
+        1.0,
+        -2.08355486392975e-05,
+        -0.300000667572021
+      ],
+      "expected_blocked": true,
+      "loaded_bodies": 8,
+      "on_floor": true,
+      "passed": true,
+      "scene": "wood_closed_r"
+    },
+    {
+      "end_position": [
+        2.65000009536743,
+        0.000106768682599068,
+        -0.35000067949295
+      ],
+      "expected_blocked": true,
+      "loaded_bodies": 4,
+      "on_floor": true,
+      "passed": true,
+      "scene": "gate_closed"
+    },
+    {
+      "end_position": [
+        2.65000009536743,
+        0.000106768682599068,
+        1.79999828338623
+      ],
+      "expected_blocked": false,
+      "loaded_bodies": 4,
+      "on_floor": true,
+      "passed": true,
+      "scene": "gate_open_90"
+    },
+    {
+      "end_position": [
+        1.0,
+        -2.08355486392975e-05,
+        -0.300000667572021
+      ],
+      "expected_blocked": true,
+      "loaded_bodies": 1,
+      "on_floor": true,
+      "passed": true,
+      "scene": "tw_example_slope_0"
+    },
+    {
+      "end_position": [
+        1.0,
+        0.277115851640701,
+        -0.300000667572021
+      ],
+      "expected_blocked": true,
+      "loaded_bodies": 1,
+      "on_floor": true,
+      "passed": true,
+      "scene": "tw_example_slope_15"
+    },
+    {
+      "end_position": [
+        1.0,
+        -0.258782535791397,
+        -0.300000667572021
+      ],
+      "expected_blocked": true,
+      "loaded_bodies": 1,
+      "on_floor": true,
+      "passed": true,
+      "scene": "tw_example_slope_minus15"
+    }
+  ],
+  "corner_seam_traversal": "FINITE_CAPSULE_SWEEPS_NOT_ALL_POSSIBLE_PATHS",
+  "engine": {
+    "build": "official",
+    "hash": "876b290332ec6f2e6d173d08162a02aa7e6ca46d",
+    "hex": 263424,
+    "major": 4,
+    "minor": 5,
+    "patch": 0,
+    "status": "stable",
+    "string": "4.5-stable (official)",
+    "timestamp": 0
+  },
+  "failures": [],
+  "gpu_render": "NOT_RUN",
+  "passed": true,
+  "scope": "120 physics frames forward traversal per scene plus finite capsule sweeps at closed-loop socket neighborhoods and corner elbows. Gate static closed/90deg open. Slope ground supplied by lab.",
+  "seam_sweeps": [
+    {
+      "blocked_sweeps": 144,
+      "clear_space_control": true,
+      "initial_overlap_skipped": 32,
+      "leaks": [],
+      "passed": true,
+      "planned_probes": 176,
+      "scene": "stone_closed_l",
+      "scope": "Radius0.25m height1.6m sweeps; overlapping starts excluded; no claim for smaller actors or arbitrary routes",
+      "zero_mask_control": true
+    },
+    {
+      "blocked_sweeps": 144,
+      "clear_space_control": true,
+      "initial_overlap_skipped": 32,
+      "leaks": [],
+      "passed": true,
+      "planned_probes": 176,
+      "scene": "stone_closed_r",
+      "scope": "Radius0.25m height1.6m sweeps; overlapping starts excluded; no claim for smaller actors or arbitrary routes",
+      "zero_mask_control": true
+    },
+    {
+      "blocked_sweeps": 160,
+      "clear_space_control": true,
+      "initial_overlap_skipped": 16,
+      "leaks": [],
+      "passed": true,
+      "planned_probes": 176,
+      "scene": "wood_closed_l",
+      "scope": "Radius0.25m height1.6m sweeps; overlapping starts excluded; no claim for smaller actors or arbitrary routes",
+      "zero_mask_control": true
+    },
+    {
+      "blocked_sweeps": 160,
+      "clear_space_control": true,
+      "initial_overlap_skipped": 16,
+      "leaks": [],
+      "passed": true,
+      "planned_probes": 176,
+      "scene": "wood_closed_r",
+      "scope": "Radius0.25m height1.6m sweeps; overlapping starts excluded; no claim for smaller actors or arbitrary routes",
+      "zero_mask_control": true
+    }
+  ],
+  "tested_file_sha256": {
+    "boundary_lab.gd": "717599dd3aa83381039e45cca07bea6062aefcf2dc6708f7837dce77996a2121",
+    "boundary_models/TW_EXAMPLE_SLOPE_0_LOD0.glb": "9c084b6774d61d520fc9a02283898103e68e170c8a4836b2d82b4c6c7a6f10f1",
+    "boundary_models/TW_EXAMPLE_SLOPE_15_LOD0.glb": "3289601eefc1d266151b327f0c2939e5139e082fb72b3dea3e8e20c81c2b2f7f",
+    "boundary_models/TW_EXAMPLE_SLOPE_MINUS15_LOD0.glb": "90fe60b990e806485ebcd8e3d8b049d888196a1fc3625234d1cb9cf114e88053",
+    "catalog_models/TW_STONE_CORNER_L90_A_LOD0.glb": "0b466eb3aa7163ee9a441c895cffcc36c482a260e6b6288c7e6763b1e55391ca",
+    "catalog_models/TW_STONE_CORNER_R90_A_LOD0.glb": "5f47c5e2d4bc36b3dad214eaeb1554bc3f6b3c1441832ea337233eadddd16f84",
+    "catalog_models/TW_STONE_WALL_2M_A_LOD0.glb": "6e9404cf3b2b4d0f753e2b48894b71adbc05ccb898486ef9d81ba3b59f1a839c",
+    "catalog_models/TW_STONE_WALL_4M_A_LOD0.glb": "b32b7139eaa796fb27e9bb190e0a8b7b270e5a499e02452cfa22d4f2ed1a547a",
+    "catalog_models/TW_WOOD_CORNER_L90_A_LOD0.glb": "32f2039555e826230bdb94a577d31f42bb2839593c90c0cc877d5fd153ce0c7f",
+    "catalog_models/TW_WOOD_CORNER_R90_A_LOD0.glb": "6bba074d91e7386592871b773cf1d725b503f10a732ae88e6549e0caacc313d9",
+    "catalog_models/TW_WOOD_GATE_FRAME_A_LOD0.glb": "df498fd2f7ab6e36d438b03e1127e12b67cc7a948b272f19df14ea174cc7f238",
+    "catalog_models/TW_WOOD_GATE_LEAF_A_LOD0.glb": "0d291233150378fa73edb484e9746436a8cbb23c5a79576648278b89fdd3f6d8",
+    "catalog_models/TW_WOOD_RAIL_2M_A_LOD0.glb": "2909c2ab8572e0398c606631f7a23d501daad4a750f368cfd8ad3ee49f37828b",
+    "catalog_models/TW_WOOD_RAIL_4M_A_LOD0.glb": "27693237968e3a43277426a3f6053c81ef648a9ae5eb0341b3c5fb57b3d0ed68",
+    "data/boundary_lab.json": "9f20df2ee786b4d3b37c1f829ca0d8e099729cefad09c6304253e40ddfe527dc",
+    "walker.gd": "69e065ef3ba5e68246eceb8c9372d5a4536e88b6cfeafdf8bef364bdb17fd0a8"
+  }
+}

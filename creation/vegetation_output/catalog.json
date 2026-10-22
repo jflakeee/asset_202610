@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "asset_id": "TW_SHRUB_ROUND_A",
+      "file": "props/TW_SHRUB_ROUND_A_LOD0.glb",
+      "triangles": 126,
+      "collider": null
+    },
+    {
+      "asset_id": "TW_SHRUB_SPREAD_A",
+      "file": "props/TW_SHRUB_SPREAD_A_LOD0.glb",
+      "triangles": 210,
+      "collider": null
+    },
+    {
+      "asset_id": "TW_GRASS_TUFT_A",
+      "file": "props/TW_GRASS_TUFT_A_LOD0.glb",
+      "triangles": 70,
+      "collider": null
+    },
+    {
+      "asset_id": "TW_GRASS_TALL_A",
+      "file": "props/TW_GRASS_TALL_A_LOD0.glb",
+      "triangles": 90,
+      "collider": null
+    }
+  ],
+  "origin": "Original convex shrubs and solid blades",
+  "external_geometry_inputs": [],
+  "lod": "LOD0_ONLY"
+}

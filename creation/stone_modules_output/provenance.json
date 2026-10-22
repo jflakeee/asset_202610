@@ -1,0 +1,13 @@
+{
+  "origin": "Original Python dimensioned block geometry and own shared palette",
+  "external_geometry_inputs": [],
+  "source_sha256": "a2b744f28213037f13664b9c3a1a46a88cc906d31b6979d74bb8053fd1dfb7bf",
+  "ownership": "Straight and corner pieces own start posts; corner owns elbow; endpoint post excluded",
+  "endpoint_protection_m": 0.16,
+  "limitations": [
+    "Separate closed blocks retain internal contact faces",
+    "Compound colliders are unsimplified",
+    "End ruin has an intentionally lowered crown",
+    "Slope and engine visual tests not run"
+  ]
+}

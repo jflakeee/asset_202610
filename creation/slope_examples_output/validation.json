@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "examples": [
+    {
+      "asset_id": "TW_EXAMPLE_SLOPE_0",
+      "degrees": 0,
+      "rise_m": 0.0,
+      "triangles": 48,
+      "vertical_posts": 2,
+      "terminal_included": true,
+      "status": "PASS"
+    },
+    {
+      "asset_id": "TW_EXAMPLE_SLOPE_15",
+      "degrees": 15,
+      "rise_m": 0.5358983848622454,
+      "triangles": 48,
+      "vertical_posts": 2,
+      "terminal_included": true,
+      "status": "PASS"
+    },
+    {
+      "asset_id": "TW_EXAMPLE_SLOPE_MINUS15",
+      "degrees": -15,
+      "rise_m": -0.5358983848622454,
+      "triangles": 48,
+      "vertical_posts": 2,
+      "terminal_included": true,
+      "status": "PASS"
+    }
+  ],
+  "rejected_inputs": [
+    "16",
+    "-16",
+    "nan"
+  ],
+  "canonical_count_contribution": 0,
+  "terrain": "linear height h(x)=x*tan(angle); post feet use centerline terrain samples",
+  "surface_contact": "NOT_RUN",
+  "engine_physics": "NOT_RUN",
+  "art_approval": "PENDING"
+}

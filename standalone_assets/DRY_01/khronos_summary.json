@@ -1,0 +1,659 @@
+{
+  "validator": "2.0.0-dev.3.10",
+  "results": [
+    {
+      "file": "TW_BENCH_BACKREST_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_BENCH_SIMPLE_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_CRATE_LONG_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_CRATE_SMALL_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_GRASS_TALL_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_GRASS_TUFT_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_LOG_BROKEN_15M_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_LOG_CUT_2M_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_PAVER_LONG_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_PAVER_ROUND_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_PROP_BRANCH_FORK_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_PROP_BRANCH_FORK_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_PROP_BRANCH_PILE_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_PROP_BRANCH_PILE_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_PROP_LOG_BROKEN_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_PROP_LOG_BROKEN_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_PROP_LOG_STRAIGHT_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_PROP_LOG_STRAIGHT_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_PROP_STUMP_ROUND_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_PROP_STUMP_ROUND_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_PROP_STUMP_SPLIT_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_PROP_STUMP_SPLIT_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_ROCK_CLUSTER_LARGE_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_ROCK_CLUSTER_LARGE_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_ROCK_CLUSTER_SMALL_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_ROCK_CLUSTER_SMALL_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_ROCK_FLAT_SLAB_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_ROCK_FLAT_SLAB_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_ROCK_LOW_WEDGE_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_ROCK_LOW_WEDGE_A_LOD1.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_ROCK_LOW_WEDGE_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_ROCK_SPLIT_MASS_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_ROCK_SPLIT_MASS_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_ROCK_UPRIGHT_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_ROCK_UPRIGHT_A_LOD1.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_ROCK_UPRIGHT_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_SHRUB_ROUND_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_SHRUB_SPREAD_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_SIGN_ARROW_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_SIGN_FORK_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STEPS_LOW3_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STEPS_WIDE4_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_CORNER_L90_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_CORNER_L90_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_CORNER_R90_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_CORNER_R90_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_END_CAP_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_END_CAP_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_END_RUIN_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_END_RUIN_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_POST_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_POST_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_WALL_1M_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_WALL_1M_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_WALL_2M_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_WALL_2M_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_WALL_4M_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STONE_WALL_4M_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STUMP_BROKEN_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STUMP_CUT_SMALL_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TABLE_LONG_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TABLE_SQUARE_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TERMINAL_POST.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TREE_DEAD_FORK_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TREE_DEAD_FORK_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TREE_DEAD_LEAN_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TREE_DEAD_LEAN_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TREE_ROUND_BROAD_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TREE_ROUND_BROAD_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TREE_ROUND_SMALL_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TREE_ROUND_SMALL_A_LOD1.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TREE_ROUND_SMALL_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TREE_TIERED_SLIM_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TREE_TIERED_SLIM_A_LOD1.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TREE_TIERED_SLIM_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TREE_TIERED_WIDE_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_TREE_TIERED_WIDE_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_VEG_BUSH_LONG_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_VEG_BUSH_LONG_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_VEG_BUSH_ROUND_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_VEG_BUSH_ROUND_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_VEG_BUSH_SPARSE_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_VEG_BUSH_SPARSE_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_VEG_GRASS_FAN_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_VEG_GRASS_FAN_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_VEG_GRASS_LOW_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_VEG_GRASS_LOW_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_VEG_GRASS_TUFT_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_VEG_GRASS_TUFT_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_CORNER_L90_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_CORNER_L90_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_CORNER_R90_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_CORNER_R90_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_END_BROKEN_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_END_BROKEN_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_END_CAP_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_END_CAP_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_GATE_FRAME_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_GATE_FRAME_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_GATE_LEAF_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_GATE_LEAF_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_POST_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_POST_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_1M_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_1M_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_2M_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_2M_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_4M_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_4M_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "validator": "2.0.0-dev.3.10",
+  "results": [
+    {
+      "file": "TW_EXAMPLE_SLOPE_0_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_EXAMPLE_SLOPE_15_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_EXAMPLE_SLOPE_MINUS15_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    }
+  ]
+}

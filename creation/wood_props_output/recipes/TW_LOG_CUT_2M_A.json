@@ -1,0 +1,9 @@
+{
+  "asset_id": "TW_LOG_CUT_2M_A",
+  "seed": 42001,
+  "radius": 0.24,
+  "height": 2.0,
+  "sides": 12,
+  "kind": "log",
+  "broken": false
+}

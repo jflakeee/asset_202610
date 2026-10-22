@@ -1,0 +1,11 @@
+{
+  "asset_id": "TW_GRASS_TALL_A",
+  "seed": 52002,
+  "kind": "grass",
+  "size": [
+    0.65,
+    0.5,
+    0.85
+  ],
+  "count": 9
+}

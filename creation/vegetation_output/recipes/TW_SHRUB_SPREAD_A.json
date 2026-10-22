@@ -1,0 +1,11 @@
+{
+  "asset_id": "TW_SHRUB_SPREAD_A",
+  "seed": 51002,
+  "kind": "shrub",
+  "size": [
+    1.4,
+    0.95,
+    0.5
+  ],
+  "count": 5
+}

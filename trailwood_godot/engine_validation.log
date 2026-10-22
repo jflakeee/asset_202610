@@ -1,0 +1,3 @@
+Godot Engine v4.5.stable.official.876b29033 - https://godotengine.org
+
+{"engine":{"build":"official","hash":"876b290332ec6f2e6d173d08162a02aa7e6ca46d","hex":263424,"major":4,"minor":5,"patch":0,"status":"stable","string":"4.5-stable (official)","timestamp":0},"evidence":{"capsule_fence_safe_fraction":0.45703125,"capsule_path_safe_fraction":1.0,"far_lod1_count":11,"near_lod1_count":4,"walker_fence_stop_z":-2.8750011920929,"walker_path_end_x":4.99999856948853,"walker_path_end_y":0.0000380824785679579},"failures":[],"instances":20,"passed":true,"scope":"headless GLB loading, camera LOD visibility, ray/capsule sweeps and CharacterBody3D movement; not rendered image/performance benchmark","shape_count":35}

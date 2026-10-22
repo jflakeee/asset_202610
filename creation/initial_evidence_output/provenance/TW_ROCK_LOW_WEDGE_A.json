@@ -1,0 +1,25 @@
+{
+  "method": "Fresh procedural regeneration and byte-identical theme export comparison",
+  "generator": "build_rocks.py",
+  "source_sha256": {
+    "build_initial_evidence.py": "70d34fde1ae951e5ee45d3c1c84e678919562249d0ea26c7bcc5310cebedc8b0",
+    "build_rocks.py": "61e5ab5a127efe031c52f01ab435bfaec396a9af8dd46b60ffc2569d03aa3499",
+    "build_trees.py": "f309b0094df065063e954bc6d5942751c367eb0b87120356060d19fee0bf03df",
+    "build_fences.py": "6cc04f5b1973ae52267f114f8c547be8dda521de91de8a97bd75a0d6a0e16b5b",
+    "build_themes.py": "b492ef58469af9be29eff09ebfdddc8530af189d8fd36078d5e7ab582db50029",
+    "verify_glb.py": "f0d44432826b930926f7624908d47199ae69ebc2986d077f99b95109e791063f"
+  },
+  "base_glb_sha256": "2cd6780d0595b36548476c0f7696a9c6141b64eefc2357bd11db102f3562d951",
+  "theme_sha256": {
+    "theme_output/MOSS_01/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb": "9ebe53370cd60d7570b9db91d8f2f2593c53622873b6115a93cbdc34661ebe61",
+    "theme_output/DRY_01/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb": "26cfa5403896914887d8ae5f7001bb9056b700aa54905f78cc2cdc0742c19f92",
+    "theme_output/DUSK_01/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb": "8bdede40269e10cc784c29e9237fa4e501f6812f431667046b7699a50d81f7fe"
+  },
+  "external_geometry_inputs_declared": [],
+  "input_allowlist_review": "PENDING",
+  "ai_assistance": "Assistant-authored procedural code and documentation",
+  "human_author": null,
+  "original_creation_date": null,
+  "manual_edit_history": "NOT_RECORDED",
+  "art_approval": "PENDING"
+}

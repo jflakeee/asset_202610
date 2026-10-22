@@ -1,0 +1,700 @@
+{
+  "status": "PASS",
+  "blender_version": "4.5.3 LTS",
+  "models": 84,
+  "source_format": "MOSS_01 LOD0 GLB",
+  "editable_meshes": true,
+  "parametric_modifiers": false,
+  "reopen_validation": "PASS",
+  "packed_images": 1,
+  "packed_palette_sha256": "d5345e13fe30af4fa197b2364c43c4cf59d70340906e47a5cdd8400f4dc8e29f",
+  "art_approval": "PENDING",
+  "gpu_render_test": "NOT_RUN",
+  "blend_sha256": "1bc1d7ed1e2edbf80e66f59f0e95d012df3ba88526b1d3731db53fcccf28fbcc",
+  "assets": [
+    {
+      "asset_id": "TW_PROP_BRANCH_FORK_A",
+      "editable_mesh_objects": 1,
+      "triangles": 48,
+      "sockets": [],
+      "source_glb_sha256": "b3e2ef9a4d0a2fbd21638aebfa8846275992b66207a8e8ad5b212fcea8730cd7"
+    },
+    {
+      "asset_id": "TW_PROP_BRANCH_FORK_B",
+      "editable_mesh_objects": 1,
+      "triangles": 70,
+      "sockets": [],
+      "source_glb_sha256": "1a4771141bc78122ba1c7e54c884a8005878194af562468337ee56197eddb4ae"
+    },
+    {
+      "asset_id": "TW_PROP_BRANCH_PILE_A",
+      "editable_mesh_objects": 1,
+      "triangles": 144,
+      "sockets": [],
+      "source_glb_sha256": "8905ad16367bc801dc05ec3594f337813d9a49f9c1395143654ea90d12e8a84d"
+    },
+    {
+      "asset_id": "TW_PROP_BRANCH_PILE_B",
+      "editable_mesh_objects": 1,
+      "triangles": 216,
+      "sockets": [],
+      "source_glb_sha256": "209cc8b504c936589c0ba29f508ba2197f503b24209ec0179cc28dc57e321821"
+    },
+    {
+      "asset_id": "TW_PROP_LOG_BROKEN_A",
+      "editable_mesh_objects": 1,
+      "triangles": 124,
+      "sockets": [],
+      "source_glb_sha256": "6c2c16ba1c98c155c6eeff6ab8fa268f2cc4857e0947e25684de80eb6323b7ca"
+    },
+    {
+      "asset_id": "TW_PROP_LOG_BROKEN_B",
+      "editable_mesh_objects": 1,
+      "triangles": 166,
+      "sockets": [],
+      "source_glb_sha256": "40a43bd46e5fafe06881a568f9d636c55ae00129b2d0dcbf283eebb84e39a737"
+    },
+    {
+      "asset_id": "TW_PROP_LOG_STRAIGHT_A",
+      "editable_mesh_objects": 1,
+      "triangles": 76,
+      "sockets": [],
+      "source_glb_sha256": "a575f7e4d07cf016389ee9daca168116438b986ef6338c178e2dc58ce005330d"
+    },
+    {
+      "asset_id": "TW_PROP_LOG_STRAIGHT_B",
+      "editable_mesh_objects": 1,
+      "triangles": 102,
+      "sockets": [],
+      "source_glb_sha256": "09bf8293ade8187011470c3c7919421eb1907baf61e790516d41ed14849d17e4"
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_ROUND_A",
+      "editable_mesh_objects": 1,
+      "triangles": 110,
+      "sockets": [],
+      "source_glb_sha256": "aa353203d5e044748d22caa04a71c08be1b5fbc6bcf318e5243c951c301e0015"
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_ROUND_B",
+      "editable_mesh_objects": 1,
+      "triangles": 136,
+      "sockets": [],
+      "source_glb_sha256": "c4130c360335a807921e2dedb2fe6165e8764b54d4f5fc86d6c9a5875256e989"
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_SPLIT_A",
+      "editable_mesh_objects": 1,
+      "triangles": 76,
+      "sockets": [],
+      "source_glb_sha256": "cc343169174acf4b0dabfd7bb39b5cb169b975e7903e6d4f4cb1d538bd6f050e"
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_SPLIT_B",
+      "editable_mesh_objects": 1,
+      "triangles": 122,
+      "sockets": [],
+      "source_glb_sha256": "7c6981313dec40f66b3b226e5cdbe66ee2a8d3b38cc61c62cd47a10b3395a9f9"
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_A",
+      "editable_mesh_objects": 1,
+      "triangles": 260,
+      "sockets": [],
+      "source_glb_sha256": "a68f09e3244afef905b1ae1b60088142fa602965bda84d659f6246fde3f3edee"
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_B",
+      "editable_mesh_objects": 1,
+      "triangles": 360,
+      "sockets": [],
+      "source_glb_sha256": "bc90f89d022ded23e536dbb53c6a5019d327218aa84741277e3714484e5a392d"
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_A",
+      "editable_mesh_objects": 1,
+      "triangles": 156,
+      "sockets": [],
+      "source_glb_sha256": "162b8f6f441a0267d1583082921952f6517497984619fef6041da0460ee7a248"
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_B",
+      "editable_mesh_objects": 1,
+      "triangles": 240,
+      "sockets": [],
+      "source_glb_sha256": "674f8e5e114d0496e690d7db4d5027efcac795fd6f071aaadc9578359a6185f8"
+    },
+    {
+      "asset_id": "TW_ROCK_FLAT_SLAB_A",
+      "editable_mesh_objects": 1,
+      "triangles": 52,
+      "sockets": [],
+      "source_glb_sha256": "f9574e90e020db4e2d5b022f24420f7256978a56f58e783ba1945153be07f9ab"
+    },
+    {
+      "asset_id": "TW_ROCK_FLAT_SLAB_B",
+      "editable_mesh_objects": 1,
+      "triangles": 60,
+      "sockets": [],
+      "source_glb_sha256": "830962164596514222c2b71b1b0a09197df21c12281db9e1f08154b64a566193"
+    },
+    {
+      "asset_id": "TW_ROCK_LOW_WEDGE_A",
+      "editable_mesh_objects": 1,
+      "triangles": 66,
+      "sockets": [],
+      "source_glb_sha256": "9ebe53370cd60d7570b9db91d8f2f2593c53622873b6115a93cbdc34661ebe61"
+    },
+    {
+      "asset_id": "TW_ROCK_LOW_WEDGE_B",
+      "editable_mesh_objects": 1,
+      "triangles": 60,
+      "sockets": [],
+      "source_glb_sha256": "d552561d80713f5a3e5147a869dac64a7673f639c46aceca7b0e16a7144e295b"
+    },
+    {
+      "asset_id": "TW_ROCK_SPLIT_MASS_A",
+      "editable_mesh_objects": 1,
+      "triangles": 104,
+      "sockets": [],
+      "source_glb_sha256": "d23f57c3371fa09a2d55750cdfe6ca78a52c50fd91a4c8b5cbf3f1c44ff907c9"
+    },
+    {
+      "asset_id": "TW_ROCK_SPLIT_MASS_B",
+      "editable_mesh_objects": 1,
+      "triangles": 180,
+      "sockets": [],
+      "source_glb_sha256": "4128347565273d376770ba848c8aa7aa7f2fcbc83ac573a9fed1e51c03ec8a5f"
+    },
+    {
+      "asset_id": "TW_ROCK_UPRIGHT_A",
+      "editable_mesh_objects": 1,
+      "triangles": 70,
+      "sockets": [],
+      "source_glb_sha256": "15e8218a1698156291c34a3623b10742f1f468aeebafb632c21680ff6f382386"
+    },
+    {
+      "asset_id": "TW_ROCK_UPRIGHT_B",
+      "editable_mesh_objects": 1,
+      "triangles": 60,
+      "sockets": [],
+      "source_glb_sha256": "97ec12b495274caf24bfaa5aec19c8fabf60ca3c5fe64c3762e624898b3e617f"
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_L90_A",
+      "editable_mesh_objects": 1,
+      "triangles": 240,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "0b466eb3aa7163ee9a441c895cffcc36c482a260e6b6288c7e6763b1e55391ca"
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_L90_B",
+      "editable_mesh_objects": 1,
+      "triangles": 312,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "bf6b9c115ad155019f43d36fd9c6bfa3255ed1d0e755a22926337937a6024788"
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_R90_A",
+      "editable_mesh_objects": 1,
+      "triangles": 252,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "5f47c5e2d4bc36b3dad214eaeb1554bc3f6b3c1441832ea337233eadddd16f84"
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_R90_B",
+      "editable_mesh_objects": 1,
+      "triangles": 324,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "6ecbce1e94895d8243fbf60ad1e122108a6bb2adaf720bab4d4315f8e9370fcb"
+    },
+    {
+      "asset_id": "TW_STONE_END_CAP_A",
+      "editable_mesh_objects": 1,
+      "triangles": 48,
+      "sockets": [
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "b19bc0fe8ce6194bd59faf584fbeb99cbe6e769d852a487d4c8658cdea847d71"
+    },
+    {
+      "asset_id": "TW_STONE_END_CAP_B",
+      "editable_mesh_objects": 1,
+      "triangles": 72,
+      "sockets": [
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "6313d43b790e834832baceaf6e39924af56868f2eafa76d6fb738883ff31afc7"
+    },
+    {
+      "asset_id": "TW_STONE_END_RUIN_A",
+      "editable_mesh_objects": 1,
+      "triangles": 60,
+      "sockets": [
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "480073c99238911ed9604f5f39198846770055e9dcbaebcc7c25bd7909b33d29"
+    },
+    {
+      "asset_id": "TW_STONE_END_RUIN_B",
+      "editable_mesh_objects": 1,
+      "triangles": 96,
+      "sockets": [
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "7118b9a56cabf6f3836b93e11f7997b7e344032803af93ce6bb4b04b7a20629d"
+    },
+    {
+      "asset_id": "TW_STONE_POST_A",
+      "editable_mesh_objects": 1,
+      "triangles": 36,
+      "sockets": [
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "a14589de61b3fbdb8ee476d721733c499d9c8f447df30e520328252b1e80f364"
+    },
+    {
+      "asset_id": "TW_STONE_POST_B",
+      "editable_mesh_objects": 1,
+      "triangles": 60,
+      "sockets": [
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "5b1e7a9b0d6eb21f30e13f507b9264738e7ebeb9369cdba97ca5fb353addd06a"
+    },
+    {
+      "asset_id": "TW_STONE_WALL_1M_A",
+      "editable_mesh_objects": 1,
+      "triangles": 120,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "54c1c1124aca9d2c0f84f8f767acfa7c9317788a183a728545ebe6032cb0a4f9"
+    },
+    {
+      "asset_id": "TW_STONE_WALL_1M_B",
+      "editable_mesh_objects": 1,
+      "triangles": 156,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "736a9f3da569dda81e0cf2d576286487e88752c82f785b9eff64125734afa1ea"
+    },
+    {
+      "asset_id": "TW_STONE_WALL_2M_A",
+      "editable_mesh_objects": 1,
+      "triangles": 192,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "6e9404cf3b2b4d0f753e2b48894b71adbc05ccb898486ef9d81ba3b59f1a839c"
+    },
+    {
+      "asset_id": "TW_STONE_WALL_2M_B",
+      "editable_mesh_objects": 1,
+      "triangles": 252,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "f85f412e3c2384b99703a7538f47104062214ca5914f39a2d0d141a32d8e5854"
+    },
+    {
+      "asset_id": "TW_STONE_WALL_4M_A",
+      "editable_mesh_objects": 1,
+      "triangles": 372,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "b32b7139eaa796fb27e9bb190e0a8b7b270e5a499e02452cfa22d4f2ed1a547a"
+    },
+    {
+      "asset_id": "TW_STONE_WALL_4M_B",
+      "editable_mesh_objects": 1,
+      "triangles": 420,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "de6fba5390e793c77542d9c9ea5f2309dcdb0850e149656875c04668077ecd5a"
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_FORK_A",
+      "editable_mesh_objects": 1,
+      "triangles": 156,
+      "sockets": [],
+      "source_glb_sha256": "f1ea7b494866b35226f15b5e630e52c4dc9b299083eb57ec73f4015c0ffeb071"
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_FORK_B",
+      "editable_mesh_objects": 1,
+      "triangles": 212,
+      "sockets": [],
+      "source_glb_sha256": "9b544316f07b4e7bfde2b99c9fb9efe48b5794efaef129c88791d8162ca6b701"
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_LEAN_A",
+      "editable_mesh_objects": 1,
+      "triangles": 124,
+      "sockets": [],
+      "source_glb_sha256": "9c16b152d6270dbda086b82a7e93c5395b6b45dcc66e663a20644a3f5f1f21e4"
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_LEAN_B",
+      "editable_mesh_objects": 1,
+      "triangles": 174,
+      "sockets": [],
+      "source_glb_sha256": "61e55c97bc1390a11f1ce1e9f2b040cc57eb5de1d9f4e537d53b31a75ed3f64f"
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_BROAD_A",
+      "editable_mesh_objects": 1,
+      "triangles": 380,
+      "sockets": [],
+      "source_glb_sha256": "37e6aca16ea8a6b37021b2eace30683a5fb9d783947de90a38a8580b90d440d3"
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_BROAD_B",
+      "editable_mesh_objects": 1,
+      "triangles": 478,
+      "sockets": [],
+      "source_glb_sha256": "828196bd6b4b6c3ba06e16ec4f11d0a60e97a179f536a93c2a2e7793e6e9cb7f"
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_SMALL_A",
+      "editable_mesh_objects": 1,
+      "triangles": 352,
+      "sockets": [],
+      "source_glb_sha256": "b975c9c0da24d917b40d583ba22d25b623e821cbf1a61f7598527214885cd827"
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_SMALL_B",
+      "editable_mesh_objects": 1,
+      "triangles": 404,
+      "sockets": [],
+      "source_glb_sha256": "ae8d357dbd9d385cdf89bfa853b6972a4c5083e2116dd4e3735a64e26e631dee"
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_SLIM_A",
+      "editable_mesh_objects": 1,
+      "triangles": 248,
+      "sockets": [],
+      "source_glb_sha256": "7a32145cbe0efd5381519a061ddb98dbc23cb1677d00ac76f6c6546760c41ac0"
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_SLIM_B",
+      "editable_mesh_objects": 1,
+      "triangles": 268,
+      "sockets": [],
+      "source_glb_sha256": "1769950de1cf6e65681bc66792fc4e4bce50b242f9ee79e8596c02b40a9a3a5f"
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_WIDE_A",
+      "editable_mesh_objects": 1,
+      "triangles": 198,
+      "sockets": [],
+      "source_glb_sha256": "c2008f00049f323b226474789a16cc060fef8bcadf8f6d1d6a605873d1865298"
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_WIDE_B",
+      "editable_mesh_objects": 1,
+      "triangles": 268,
+      "sockets": [],
+      "source_glb_sha256": "263ba8d3c9480c08e51444d1eec1e2e96f33905b25424af4dbeb79ebea8efa99"
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_LONG_A",
+      "editable_mesh_objects": 1,
+      "triangles": 112,
+      "sockets": [],
+      "source_glb_sha256": "a25804a3e7ae148fec08253007d925b500162dd29f18d2c6d6c09eea40ca7f3a"
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_LONG_B",
+      "editable_mesh_objects": 1,
+      "triangles": 160,
+      "sockets": [],
+      "source_glb_sha256": "8da8f35101376ef39a8a8623e9e9a4ee4e1ee1b779d0de4e7e7896489ef3169f"
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_ROUND_A",
+      "editable_mesh_objects": 1,
+      "triangles": 84,
+      "sockets": [],
+      "source_glb_sha256": "564536ee78416551cfd18f17aeb5ae80eb16d19566152a4c98b95c4994185e2d"
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_ROUND_B",
+      "editable_mesh_objects": 1,
+      "triangles": 128,
+      "sockets": [],
+      "source_glb_sha256": "d726cc5c78b95cf60ef4c27424aa9c35134a836b47871498f3f2fd81f00d58dd"
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_SPARSE_A",
+      "editable_mesh_objects": 1,
+      "triangles": 56,
+      "sockets": [],
+      "source_glb_sha256": "48f94d2f1d7168f067e6a3676884d1a5bf59c5f7e5550ee22d0d9c8772cebeaf"
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_SPARSE_B",
+      "editable_mesh_objects": 1,
+      "triangles": 96,
+      "sockets": [],
+      "source_glb_sha256": "1340173082b68a37f9a91c170593942001f157b708905f7e927cfa7d7fd63588"
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_FAN_A",
+      "editable_mesh_objects": 1,
+      "triangles": 50,
+      "sockets": [],
+      "source_glb_sha256": "ca9b8945e136b92ee7a3987d536dade10d3b8a600fc8b4448a19adfbd95c32d5"
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_FAN_B",
+      "editable_mesh_objects": 1,
+      "triangles": 70,
+      "sockets": [],
+      "source_glb_sha256": "0dfe2c2e1e25f6797f78b2c735570ec9824284845fcd2073ae9504edb1381621"
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_LOW_A",
+      "editable_mesh_objects": 1,
+      "triangles": 50,
+      "sockets": [],
+      "source_glb_sha256": "b21dad48f98e8d377e889d9522206d241fa7def0497f8dfbddc39e7aa888b896"
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_LOW_B",
+      "editable_mesh_objects": 1,
+      "triangles": 70,
+      "sockets": [],
+      "source_glb_sha256": "261092133c3e9741494e956b0a0c8789becd387daabdf8edcda9ef5b0b059332"
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_TUFT_A",
+      "editable_mesh_objects": 1,
+      "triangles": 50,
+      "sockets": [],
+      "source_glb_sha256": "018619a9bc25e9ee4fd97d6941f4d9ace55d36b7c180d3deffbc673e41aad946"
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_TUFT_B",
+      "editable_mesh_objects": 1,
+      "triangles": 70,
+      "sockets": [],
+      "source_glb_sha256": "ac4aa8d1706f09219dc25522a4f9bdf63b99e9be7b78527c88e72048dfa801f1"
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_L90_A",
+      "editable_mesh_objects": 1,
+      "triangles": 88,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "32f2039555e826230bdb94a577d31f42bb2839593c90c0cc877d5fd153ce0c7f"
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_L90_B",
+      "editable_mesh_objects": 1,
+      "triangles": 124,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "a1694c7c69b9e2d5ca68b90232f07c670f2544126d8ee55fe8be77ca5e1c826f"
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_R90_A",
+      "editable_mesh_objects": 1,
+      "triangles": 100,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "6bba074d91e7386592871b773cf1d725b503f10a732ae88e6549e0caacc313d9"
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_R90_B",
+      "editable_mesh_objects": 1,
+      "triangles": 136,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "f608ad90000801350a7354374bba9c7db00d73a8324c6bec541d961a62fa1ea8"
+    },
+    {
+      "asset_id": "TW_WOOD_END_BROKEN_A",
+      "editable_mesh_objects": 1,
+      "triangles": 36,
+      "sockets": [
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "7155b32721e15e798b814269b5be46f7912ee90a625f9c41db5716371e50f88d"
+    },
+    {
+      "asset_id": "TW_WOOD_END_BROKEN_B",
+      "editable_mesh_objects": 1,
+      "triangles": 48,
+      "sockets": [
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "60b90dbf8156c43fb36704559b78039a61c41a04c1dc5934df65e8e73f40d88a"
+    },
+    {
+      "asset_id": "TW_WOOD_END_CAP_A",
+      "editable_mesh_objects": 1,
+      "triangles": 32,
+      "sockets": [
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "c6a21f1c03cdde0d618034e7f77a9a1900cdd34d3dbd7a465ef1bb88d7870483"
+    },
+    {
+      "asset_id": "TW_WOOD_END_CAP_B",
+      "editable_mesh_objects": 1,
+      "triangles": 44,
+      "sockets": [
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "756a0823e90202e27c8c39fd7e96226861ff53b2ca7d20165c9a623442c567ad"
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_FRAME_A",
+      "editable_mesh_objects": 1,
+      "triangles": 76,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_HINGE",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "df498fd2f7ab6e36d438b03e1127e12b67cc7a948b272f19df14ea174cc7f238"
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_FRAME_B",
+      "editable_mesh_objects": 1,
+      "triangles": 88,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_HINGE",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "c55b523cff3f19d69963934ebda3baee0b9631fbf4b4d99d49edbcaa0475bdbb"
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_LEAF_A",
+      "editable_mesh_objects": 1,
+      "triangles": 108,
+      "sockets": [
+        "SOCKET_HINGE"
+      ],
+      "source_glb_sha256": "0d291233150378fa73edb484e9746436a8cbb23c5a79576648278b89fdd3f6d8"
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_LEAF_B",
+      "editable_mesh_objects": 1,
+      "triangles": 132,
+      "sockets": [
+        "SOCKET_HINGE"
+      ],
+      "source_glb_sha256": "67d7aa1fb224066e72c771a96ca49a3b8f18d9cd076dc291e39a8f969237cc14"
+    },
+    {
+      "asset_id": "TW_WOOD_POST_A",
+      "editable_mesh_objects": 1,
+      "triangles": 20,
+      "sockets": [
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "eb3155543122749f06d5dc9c28cacbfd8789d5f9cdb27e71421de0a6da0e4ced"
+    },
+    {
+      "asset_id": "TW_WOOD_POST_B",
+      "editable_mesh_objects": 1,
+      "triangles": 32,
+      "sockets": [
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "86f17a8ffdefa510745548f35de75d91afee9d1c38d6c896f7fb9f9c655c96f6"
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_1M_A",
+      "editable_mesh_objects": 1,
+      "triangles": 56,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "20ce213fde2e82f2992cb3df5372f567aee66456d711d720c1e22068ee41d09f"
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_1M_B",
+      "editable_mesh_objects": 1,
+      "triangles": 68,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "0c124730e42f152d21b8b61c2ee4a839216441985d8203863600d378fbd04610"
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_2M_A",
+      "editable_mesh_objects": 1,
+      "triangles": 44,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "2909c2ab8572e0398c606631f7a23d501daad4a750f368cfd8ad3ee49f37828b"
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_2M_B",
+      "editable_mesh_objects": 1,
+      "triangles": 68,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "0a6ee5a1d685f59bb13956bd593abcdf7631edca9a6594d782bd8ec69c0a4799"
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_4M_A",
+      "editable_mesh_objects": 1,
+      "triangles": 44,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "27693237968e3a43277426a3f6053c81ef648a9ae5eb0341b3c5fb57b3d0ed68"
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_4M_B",
+      "editable_mesh_objects": 1,
+      "triangles": 68,
+      "sockets": [
+        "SOCKET_END",
+        "SOCKET_START"
+      ],
+      "source_glb_sha256": "d0414ea4ce808a012d938ffe8f1949211ba7ea4a68d37fbd9cbe3614c47748b8"
+    }
+  ]
+}

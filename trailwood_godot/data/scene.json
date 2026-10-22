@@ -1,0 +1,265 @@
+{
+  "coordinate_frame": "Z-up meters; yaw about +Z",
+  "glb_mapping": "(x,z,-y)",
+  "instances": [
+    {
+      "id": "instance_00",
+      "asset_id": "TW_WOOD_RAIL_2M_A",
+      "position_m": [
+        -5,
+        3.2,
+        0
+      ],
+      "yaw_degrees": 0
+    },
+    {
+      "id": "instance_01",
+      "asset_id": "TW_WOOD_RAIL_2M_A",
+      "position_m": [
+        -3,
+        3.2,
+        0
+      ],
+      "yaw_degrees": 0
+    },
+    {
+      "id": "instance_02",
+      "asset_id": "TW_WOOD_RAIL_2M_A",
+      "position_m": [
+        -1,
+        3.2,
+        0
+      ],
+      "yaw_degrees": 0
+    },
+    {
+      "id": "instance_03",
+      "asset_id": "TW_WOOD_RAIL_2M_A",
+      "position_m": [
+        1,
+        3.2,
+        0
+      ],
+      "yaw_degrees": 0
+    },
+    {
+      "id": "instance_04",
+      "asset_id": "TW_WOOD_RAIL_2M_A",
+      "position_m": [
+        3,
+        3.2,
+        0
+      ],
+      "yaw_degrees": 0
+    },
+    {
+      "id": "instance_05",
+      "asset_id": "TW_TERMINAL_POST",
+      "position_m": [
+        5,
+        3.2,
+        0
+      ],
+      "yaw_degrees": 0
+    },
+    {
+      "id": "instance_06",
+      "asset_id": "TW_WOOD_RAIL_1M_A",
+      "position_m": [
+        -5,
+        -3.2,
+        0
+      ],
+      "yaw_degrees": 0
+    },
+    {
+      "id": "instance_07",
+      "asset_id": "TW_WOOD_RAIL_1M_A",
+      "position_m": [
+        -4,
+        -3.2,
+        0
+      ],
+      "yaw_degrees": 0
+    },
+    {
+      "id": "instance_08",
+      "asset_id": "TW_TERMINAL_POST",
+      "position_m": [
+        -3,
+        -3.2,
+        0
+      ],
+      "yaw_degrees": 0
+    },
+    {
+      "id": "instance_09",
+      "asset_id": "TW_TREE_ROUND_SMALL_A",
+      "position_m": [
+        -4,
+        1.5,
+        0
+      ],
+      "yaw_degrees": 20
+    },
+    {
+      "id": "instance_10",
+      "asset_id": "TW_TREE_ROUND_SMALL_A",
+      "position_m": [
+        -1.6,
+        1.7,
+        0
+      ],
+      "yaw_degrees": 75
+    },
+    {
+      "id": "instance_11",
+      "asset_id": "TW_TREE_ROUND_SMALL_A",
+      "position_m": [
+        3.8,
+        1.7,
+        0
+      ],
+      "yaw_degrees": 130
+    },
+    {
+      "id": "instance_12",
+      "asset_id": "TW_TREE_TIERED_SLIM_A",
+      "position_m": [
+        -3.2,
+        -1.8,
+        0
+      ],
+      "yaw_degrees": 35
+    },
+    {
+      "id": "instance_13",
+      "asset_id": "TW_TREE_TIERED_SLIM_A",
+      "position_m": [
+        1.3,
+        1.9,
+        0
+      ],
+      "yaw_degrees": 110
+    },
+    {
+      "id": "instance_14",
+      "asset_id": "TW_TREE_TIERED_SLIM_A",
+      "position_m": [
+        3.5,
+        -1.8,
+        0
+      ],
+      "yaw_degrees": 190
+    },
+    {
+      "id": "instance_15",
+      "asset_id": "TW_ROCK_LOW_WEDGE_A",
+      "position_m": [
+        -4.5,
+        -1.5,
+        0
+      ],
+      "yaw_degrees": 0
+    },
+    {
+      "id": "instance_16",
+      "asset_id": "TW_ROCK_LOW_WEDGE_A",
+      "position_m": [
+        -0.7,
+        -1.7,
+        0
+      ],
+      "yaw_degrees": 35
+    },
+    {
+      "id": "instance_17",
+      "asset_id": "TW_ROCK_LOW_WEDGE_A",
+      "position_m": [
+        4.8,
+        -1.5,
+        0
+      ],
+      "yaw_degrees": 80
+    },
+    {
+      "id": "instance_18",
+      "asset_id": "TW_ROCK_UPRIGHT_A",
+      "position_m": [
+        -2.5,
+        1.2,
+        0
+      ],
+      "yaw_degrees": 40
+    },
+    {
+      "id": "instance_19",
+      "asset_id": "TW_ROCK_UPRIGHT_A",
+      "position_m": [
+        2.3,
+        -1.8,
+        0
+      ],
+      "yaw_degrees": 120
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "TW_ROCK_LOW_WEDGE_A",
+      "file": "assets/TW_ROCK_LOW_WEDGE_A_LOD0.glb",
+      "sha256": "2cd6780d0595b36548476c0f7696a9c6141b64eefc2357bd11db102f3562d951",
+      "triangles": 66
+    },
+    {
+      "asset_id": "TW_ROCK_UPRIGHT_A",
+      "file": "assets/TW_ROCK_UPRIGHT_A_LOD0.glb",
+      "sha256": "1ca01b466bb82bea44d2fd7193932f519285697b36a98ee7abcca3a80c9645fb",
+      "triangles": 70
+    },
+    {
+      "asset_id": "TW_TERMINAL_POST",
+      "file": "assets/TW_TERMINAL_POST.glb",
+      "sha256": "e6f97363b364b27047418d212d3474f99661c94ddebb3297e8cddcce6cb02ce6",
+      "triangles": 20
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_SMALL_A",
+      "file": "assets/TW_TREE_ROUND_SMALL_A_LOD0.glb",
+      "sha256": "2d509a2050e0e3bc94bb22ac2d0a74b4827842551e8220c69ead4fa65a23b26e",
+      "triangles": 352
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_SLIM_A",
+      "file": "assets/TW_TREE_TIERED_SLIM_A_LOD0.glb",
+      "sha256": "21420a077931fc9acb66446bea8b2f7847a0dc2c05d43d65103f6b6fe694de00",
+      "triangles": 248
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_1M_A",
+      "file": "assets/TW_WOOD_RAIL_1M_A_LOD0.glb",
+      "sha256": "055cb7e0008e0b20047c351ae409b789811fd344dcfa966fa323e66f3b34248d",
+      "triangles": 56
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_2M_A",
+      "file": "assets/TW_WOOD_RAIL_2M_A_LOD0.glb",
+      "sha256": "df031a7101cf320955722e30398c5b0442b0c2aefaf36df95728be27a918e11d",
+      "triangles": 44
+    }
+  ],
+  "ground": {
+    "size_m": [
+      12,
+      9
+    ],
+    "height_m": 0,
+    "visual_in_glb": false
+  },
+  "clear_path": {
+    "y_range_m": [
+      -0.7,
+      0.7
+    ],
+    "width_m": 1.4
+  }
+}

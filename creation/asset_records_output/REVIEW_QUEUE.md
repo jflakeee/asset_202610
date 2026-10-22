@@ -1,0 +1,92 @@
+# 84종 제작 근거 및 LOD 작업표
+
+실제 파일과 제작 근거를 연결한 내부 검토 기록입니다. 작성자·제작일·수작업 이력은 확인되지 않아 승인하지 않았습니다.
+LOD1은 4종에만 있으며 LOD2는 없습니다. 누락 항목은 구현 또는 사유를 기록한 예외 검토가 필요합니다.
+기존 IoU는 기록된 측정값이며 GPU 전환 품질 검사를 대신하지 않습니다. 제작 근거가 연결되어도 권리·입력 허용목록 검토는 대기입니다.
+
+| 모델 | LOD0 삼각형 | LOD1 | 제작 근거 파일 | 승인 |
+|---|---:|---|---:|---|
+| TW_PROP_BRANCH_FORK_A | 48 | 구현/예외 검토 | 3 | 대기 |
+| TW_PROP_BRANCH_FORK_B | 70 | 구현/예외 검토 | 3 | 대기 |
+| TW_PROP_BRANCH_PILE_A | 144 | 구현/예외 검토 | 3 | 대기 |
+| TW_PROP_BRANCH_PILE_B | 216 | 구현/예외 검토 | 3 | 대기 |
+| TW_PROP_LOG_BROKEN_A | 124 | 구현/예외 검토 | 3 | 대기 |
+| TW_PROP_LOG_BROKEN_B | 166 | 구현/예외 검토 | 3 | 대기 |
+| TW_PROP_LOG_STRAIGHT_A | 76 | 구현/예외 검토 | 3 | 대기 |
+| TW_PROP_LOG_STRAIGHT_B | 102 | 구현/예외 검토 | 3 | 대기 |
+| TW_PROP_STUMP_ROUND_A | 110 | 구현/예외 검토 | 3 | 대기 |
+| TW_PROP_STUMP_ROUND_B | 136 | 구현/예외 검토 | 3 | 대기 |
+| TW_PROP_STUMP_SPLIT_A | 76 | 구현/예외 검토 | 3 | 대기 |
+| TW_PROP_STUMP_SPLIT_B | 122 | 구현/예외 검토 | 3 | 대기 |
+| TW_ROCK_CLUSTER_LARGE_A | 260 | 구현/예외 검토 | 3 | 대기 |
+| TW_ROCK_CLUSTER_LARGE_B | 360 | 구현/예외 검토 | 3 | 대기 |
+| TW_ROCK_CLUSTER_SMALL_A | 156 | 구현/예외 검토 | 3 | 대기 |
+| TW_ROCK_CLUSTER_SMALL_B | 240 | 구현/예외 검토 | 3 | 대기 |
+| TW_ROCK_FLAT_SLAB_A | 52 | 구현/예외 검토 | 3 | 대기 |
+| TW_ROCK_FLAT_SLAB_B | 60 | 구현/예외 검토 | 3 | 대기 |
+| TW_ROCK_LOW_WEDGE_A | 66 | 측정됨·검토 대기 | 3 | 대기 |
+| TW_ROCK_LOW_WEDGE_B | 60 | 구현/예외 검토 | 3 | 대기 |
+| TW_ROCK_SPLIT_MASS_A | 104 | 구현/예외 검토 | 3 | 대기 |
+| TW_ROCK_SPLIT_MASS_B | 180 | 구현/예외 검토 | 3 | 대기 |
+| TW_ROCK_UPRIGHT_A | 70 | 측정됨·검토 대기 | 3 | 대기 |
+| TW_ROCK_UPRIGHT_B | 60 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_CORNER_L90_A | 240 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_CORNER_L90_B | 312 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_CORNER_R90_A | 252 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_CORNER_R90_B | 324 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_END_CAP_A | 48 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_END_CAP_B | 72 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_END_RUIN_A | 60 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_END_RUIN_B | 96 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_POST_A | 36 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_POST_B | 60 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_WALL_1M_A | 120 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_WALL_1M_B | 156 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_WALL_2M_A | 192 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_WALL_2M_B | 252 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_WALL_4M_A | 372 | 구현/예외 검토 | 3 | 대기 |
+| TW_STONE_WALL_4M_B | 420 | 구현/예외 검토 | 3 | 대기 |
+| TW_TREE_DEAD_FORK_A | 156 | 구현/예외 검토 | 3 | 대기 |
+| TW_TREE_DEAD_FORK_B | 212 | 구현/예외 검토 | 3 | 대기 |
+| TW_TREE_DEAD_LEAN_A | 124 | 구현/예외 검토 | 3 | 대기 |
+| TW_TREE_DEAD_LEAN_B | 174 | 구현/예외 검토 | 3 | 대기 |
+| TW_TREE_ROUND_BROAD_A | 380 | 구현/예외 검토 | 3 | 대기 |
+| TW_TREE_ROUND_BROAD_B | 478 | 구현/예외 검토 | 3 | 대기 |
+| TW_TREE_ROUND_SMALL_A | 352 | 측정됨·검토 대기 | 3 | 대기 |
+| TW_TREE_ROUND_SMALL_B | 404 | 구현/예외 검토 | 3 | 대기 |
+| TW_TREE_TIERED_SLIM_A | 248 | 측정됨·검토 대기 | 3 | 대기 |
+| TW_TREE_TIERED_SLIM_B | 268 | 구현/예외 검토 | 3 | 대기 |
+| TW_TREE_TIERED_WIDE_A | 198 | 구현/예외 검토 | 3 | 대기 |
+| TW_TREE_TIERED_WIDE_B | 268 | 구현/예외 검토 | 3 | 대기 |
+| TW_VEG_BUSH_LONG_A | 112 | 구현/예외 검토 | 3 | 대기 |
+| TW_VEG_BUSH_LONG_B | 160 | 구현/예외 검토 | 3 | 대기 |
+| TW_VEG_BUSH_ROUND_A | 84 | 구현/예외 검토 | 3 | 대기 |
+| TW_VEG_BUSH_ROUND_B | 128 | 구현/예외 검토 | 3 | 대기 |
+| TW_VEG_BUSH_SPARSE_A | 56 | 구현/예외 검토 | 3 | 대기 |
+| TW_VEG_BUSH_SPARSE_B | 96 | 구현/예외 검토 | 3 | 대기 |
+| TW_VEG_GRASS_FAN_A | 50 | 구현/예외 검토 | 3 | 대기 |
+| TW_VEG_GRASS_FAN_B | 70 | 구현/예외 검토 | 3 | 대기 |
+| TW_VEG_GRASS_LOW_A | 50 | 구현/예외 검토 | 3 | 대기 |
+| TW_VEG_GRASS_LOW_B | 70 | 구현/예외 검토 | 3 | 대기 |
+| TW_VEG_GRASS_TUFT_A | 50 | 구현/예외 검토 | 3 | 대기 |
+| TW_VEG_GRASS_TUFT_B | 70 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_CORNER_L90_A | 88 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_CORNER_L90_B | 124 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_CORNER_R90_A | 100 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_CORNER_R90_B | 136 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_END_BROKEN_A | 36 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_END_BROKEN_B | 48 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_END_CAP_A | 32 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_END_CAP_B | 44 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_GATE_FRAME_A | 76 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_GATE_FRAME_B | 88 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_GATE_LEAF_A | 108 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_GATE_LEAF_B | 132 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_POST_A | 20 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_POST_B | 32 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_RAIL_1M_A | 56 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_RAIL_1M_B | 68 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_RAIL_2M_A | 44 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_RAIL_2M_B | 68 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_RAIL_4M_A | 44 | 구현/예외 검토 | 3 | 대기 |
+| TW_WOOD_RAIL_4M_B | 68 | 구현/예외 검토 | 3 | 대기 |

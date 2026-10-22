@@ -1,0 +1,9 @@
+{
+  "asset_id": "TW_LOG_BROKEN_15M_A",
+  "seed": 42002,
+  "radius": 0.3,
+  "height": 1.5,
+  "sides": 12,
+  "kind": "log",
+  "broken": true
+}

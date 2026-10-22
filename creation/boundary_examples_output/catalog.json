@@ -1,0 +1,41 @@
+{
+  "examples": [
+    {
+      "example_id": "wood_7m",
+      "scene": "scenes/wood_7m.json",
+      "preview": "previews/wood_7m.png",
+      "instances": 4
+    },
+    {
+      "example_id": "stone_7m",
+      "scene": "scenes/stone_7m.json",
+      "preview": "previews/stone_7m.png",
+      "instances": 4
+    },
+    {
+      "example_id": "wood_left_turn",
+      "scene": "scenes/wood_left_turn.json",
+      "preview": "previews/wood_left_turn.png",
+      "instances": 4
+    },
+    {
+      "example_id": "stone_right_turn",
+      "scene": "scenes/stone_right_turn.json",
+      "preview": "previews/stone_right_turn.png",
+      "instances": 4
+    },
+    {
+      "example_id": "wood_gate",
+      "scene": "scenes/wood_gate.json",
+      "preview": "previews/wood_gate.png",
+      "instances": 2
+    },
+    {
+      "example_id": "boundary_comparison",
+      "scene": "scenes/boundary_comparison.json",
+      "preview": "previews/boundary_comparison.png",
+      "instances": 4
+    }
+  ],
+  "scope": "Internal engineering review examples; not approved sales scenes"
+}

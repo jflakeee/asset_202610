@@ -1,0 +1,16 @@
+{
+  "asset_id": "TW_TREE_TIERED_SLIM_A",
+  "family_id": "TREE_TIERED_SLIM",
+  "seed": 11003,
+  "height_m": 3.8,
+  "trunk_height_m": 3.55,
+  "trunk_radius_m": 0.12,
+  "trunk_sides": 8,
+  "trunk_rings": 6,
+  "bend_deg": 3,
+  "branch_count": 0,
+  "tier_count": 3,
+  "tier_sides": 9,
+  "canopy_width_m": 1.7,
+  "tier_overlap_ratio": 0.18
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "asset_id": "TW_STUMP_CUT_SMALL_A",
+    "triangles": 118,
+    "dimensions_xyz_m": [
+      0.7385267707618747,
+      0.7518886491549546,
+      0.48
+    ],
+    "closed_manifold": true,
+    "volume_m3": 0.14160801661125832,
+    "status": "PASS",
+    "art_approval": "PENDING"
+  },
+  {
+    "asset_id": "TW_STUMP_BROKEN_A",
+    "triangles": 118,
+    "dimensions_xyz_m": [
+      1.0144225067652493,
+      1.041909893897238,
+      0.8199999999999998
+    ],
+    "closed_manifold": true,
+    "volume_m3": 0.4262003344677831,
+    "status": "PASS",
+    "art_approval": "PENDING"
+  },
+  {
+    "asset_id": "TW_LOG_CUT_2M_A",
+    "triangles": 118,
+    "dimensions_xyz_m": [
+      2.0,
+      0.4746593443455528,
+      0.47796609918661115
+    ],
+    "closed_manifold": true,
+    "volume_m3": 0.31877952141828075,
+    "status": "PASS",
+    "art_approval": "PENDING"
+  },
+  {
+    "asset_id": "TW_LOG_BROKEN_15M_A",
+    "triangles": 118,
+    "dimensions_xyz_m": [
+      1.5,
+      0.5975535543368891,
+      0.6163373091182693
+    ],
+    "closed_manifold": true,
+    "volume_m3": 0.35908404055784443,
+    "status": "PASS",
+    "art_approval": "PENDING"
+  }
+]

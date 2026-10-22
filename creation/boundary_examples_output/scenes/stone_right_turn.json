@@ -1,0 +1,232 @@
+{
+  "example_id": "stone_right_turn",
+  "coordinate_frame": "glTF Y-up meters",
+  "matrix_layout": "row-major 4x4; column vectors",
+  "instances": [
+    {
+      "asset_id": "TW_STONE_WALL_2M_B",
+      "file": "stone_modules_output/models/TW_STONE_WALL_2M_B_LOD0.glb",
+      "world_matrix_row_major": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "bounds_y_up_m": [
+        [
+          -0.17000000178813934,
+          0.0,
+          -0.17000000178813934
+        ],
+        [
+          1.840000033378601,
+          1.1299999952316284,
+          0.17000000178813934
+        ]
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_R90_A",
+      "file": "stone_modules_output/models/TW_STONE_CORNER_R90_A_LOD0.glb",
+      "world_matrix_row_major": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          2.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "bounds_y_up_m": [
+        [
+          1.8299999982118607,
+          0.0,
+          -0.17000000178813934
+        ],
+        [
+          3.200000047683716,
+          1.1399999856948853,
+          0.8399999737739563
+        ]
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_WALL_2M_A",
+      "file": "stone_modules_output/models/TW_STONE_WALL_2M_A_LOD0.glb",
+      "world_matrix_row_major": [
+        [
+          0.0,
+          0.0,
+          -1.0,
+          3.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "bounds_y_up_m": [
+        [
+          2.8299999982118607,
+          0.0,
+          0.8299999982118607
+        ],
+        [
+          3.1700000017881393,
+          1.0800000429153442,
+          2.840000033378601
+        ]
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_END_CAP_A",
+      "file": "stone_modules_output/models/TW_STONE_END_CAP_A_LOD0.glb",
+      "world_matrix_row_major": [
+        [
+          0.0,
+          0.0,
+          -1.0,
+          3.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          3.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "bounds_y_up_m": [
+        [
+          2.810000002384186,
+          0.0,
+          2.810000002384186
+        ],
+        [
+          3.189999997615814,
+          1.159999966621399,
+          3.189999997615814
+        ]
+      ]
+    }
+  ],
+  "socket_checks": [
+    {
+      "from_asset": "TW_STONE_WALL_2M_B_LOD0",
+      "to_asset": "TW_STONE_CORNER_R90_A",
+      "kind": "connection",
+      "position_error_m": 0.0,
+      "outward_error_degrees": 0.0,
+      "status": "PASS"
+    },
+    {
+      "from_asset": "TW_STONE_CORNER_R90_A_LOD0",
+      "to_asset": "TW_STONE_WALL_2M_A",
+      "kind": "connection",
+      "position_error_m": 0.0,
+      "outward_error_degrees": 0.0,
+      "status": "PASS"
+    },
+    {
+      "from_asset": "TW_STONE_WALL_2M_A_LOD0",
+      "to_asset": "TW_STONE_END_CAP_A",
+      "kind": "connection",
+      "position_error_m": 0.0,
+      "outward_error_degrees": 0.0,
+      "status": "PASS"
+    }
+  ],
+  "logical_post_centers_y_up_m": [
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      2.0,
+      0.0,
+      0.0
+    ],
+    [
+      3.0,
+      0.0,
+      0.0
+    ],
+    [
+      3.0,
+      0.0,
+      1.0
+    ],
+    [
+      3.0,
+      0.0,
+      3.0
+    ]
+  ],
+  "logical_duplicate_posts": 0,
+  "status": "PASS",
+  "scope": "Rigid socket placement and logical post ownership; not physical character or GPU validation",
+  "gate_state": null
+}

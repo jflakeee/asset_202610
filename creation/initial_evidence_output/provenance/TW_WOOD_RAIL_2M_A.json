@@ -1,0 +1,25 @@
+{
+  "method": "Fresh procedural regeneration and byte-identical theme export comparison",
+  "generator": "build_fences.py",
+  "source_sha256": {
+    "build_initial_evidence.py": "70d34fde1ae951e5ee45d3c1c84e678919562249d0ea26c7bcc5310cebedc8b0",
+    "build_rocks.py": "61e5ab5a127efe031c52f01ab435bfaec396a9af8dd46b60ffc2569d03aa3499",
+    "build_trees.py": "f309b0094df065063e954bc6d5942751c367eb0b87120356060d19fee0bf03df",
+    "build_fences.py": "6cc04f5b1973ae52267f114f8c547be8dda521de91de8a97bd75a0d6a0e16b5b",
+    "build_themes.py": "b492ef58469af9be29eff09ebfdddc8530af189d8fd36078d5e7ab582db50029",
+    "verify_glb.py": "f0d44432826b930926f7624908d47199ae69ebc2986d077f99b95109e791063f"
+  },
+  "base_glb_sha256": "df031a7101cf320955722e30398c5b0442b0c2aefaf36df95728be27a918e11d",
+  "theme_sha256": {
+    "theme_output/MOSS_01/models/TW_WOOD_RAIL_2M_A_LOD0.glb": "2909c2ab8572e0398c606631f7a23d501daad4a750f368cfd8ad3ee49f37828b",
+    "theme_output/DRY_01/models/TW_WOOD_RAIL_2M_A_LOD0.glb": "352428530005883c6bbbf0972e731dedc7c7e92f074502edcc27d962d4c1135f",
+    "theme_output/DUSK_01/models/TW_WOOD_RAIL_2M_A_LOD0.glb": "c5979a61c94cebd53df9f2c439cf28098824ff3c04f519ea27ca26448d6d8130"
+  },
+  "external_geometry_inputs_declared": [],
+  "input_allowlist_review": "PENDING",
+  "ai_assistance": "Assistant-authored procedural code and documentation",
+  "human_author": null,
+  "original_creation_date": null,
+  "manual_edit_history": "NOT_RECORDED",
+  "art_approval": "PENDING"
+}

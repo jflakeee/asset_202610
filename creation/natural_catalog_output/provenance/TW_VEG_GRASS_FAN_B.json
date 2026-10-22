@@ -1,0 +1,10 @@
+{
+  "origin": "Original parametric tubes, hulls and own palette",
+  "external_geometry_inputs": [],
+  "source_sha256": {
+    "build_natural_catalog.py": "7ff4ecea3d38d0da8e2d8ac3c40969a052fa9d4ba20f46c99e730d122f34f207",
+    "build_trees.py": "f309b0094df065063e954bc6d5942751c367eb0b87120356060d19fee0bf03df",
+    "build_rocks.py": "61e5ab5a127efe031c52f01ab435bfaec396a9af8dd46b60ffc2569d03aa3499"
+  },
+  "art_approval": "PENDING"
+}

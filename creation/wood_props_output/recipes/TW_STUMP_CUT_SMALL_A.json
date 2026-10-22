@@ -1,0 +1,9 @@
+{
+  "asset_id": "TW_STUMP_CUT_SMALL_A",
+  "seed": 41001,
+  "radius": 0.32,
+  "height": 0.48,
+  "sides": 12,
+  "kind": "stump",
+  "broken": false
+}

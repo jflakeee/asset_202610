@@ -1,0 +1,15 @@
+{
+  "static_data_checks": "PASS",
+  "target_engine": "Godot 4.5",
+  "engine_execution": "PASS_HEADLESS_SEE_ENGINE_REPORT",
+  "gdscript_parser": "PASS_ENGINE_STARTUP",
+  "instances": 20,
+  "unique_assets": 7,
+  "glb_files": 11,
+  "collision_shapes_with_ground": 35,
+  "all_lod0_asset_triangles": 2510,
+  "all_available_lod1_asset_triangles": 1908,
+  "performance_measurement": "NOT_RUN",
+  "self_test": "PASS",
+  "rendered_visual_review": "NOT_RUN"
+}

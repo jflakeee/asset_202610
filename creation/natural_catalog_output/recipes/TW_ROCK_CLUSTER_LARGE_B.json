@@ -1,0 +1,8 @@
+{
+  "asset_id": "TW_ROCK_CLUSTER_LARGE_B",
+  "family_id": "ROCK_CLUSTER_LARGE",
+  "variant": "B",
+  "seed": 70023,
+  "generator_version": "0.17.0",
+  "coordinate_frame": "Z-up meters"
+}

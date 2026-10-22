@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "reserved_span_source": "exported gate-frame SOCKET_START/END",
+  "exact_plan": "2m rail + 1.6m gate frame + 4m rail",
+  "protected_interval_overlap": 0,
+  "negative_controls": [
+    "overlap",
+    "outside",
+    "negative",
+    "zero"
+  ],
+  "scale_applied": false,
+  "engine_passage": "NOT_RUN",
+  "gate_animation": "NOT_IMPLEMENTED"
+}

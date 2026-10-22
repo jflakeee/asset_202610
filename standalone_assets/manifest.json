@@ -1,0 +1,2952 @@
+{
+  "unique_models": 104,
+  "lod1_variants": 4,
+  "terminal_fixtures": 1,
+  "themes": 3,
+  "glb_files": 327,
+  "entries": [
+    {
+      "file": "MOSS_01/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_ROCK_LOW_WEDGE_A_LOD0",
+      "triangles": 66,
+      "geometry_buffer_sha256": "e8b927b673ed42b191ebc72a6a8de7d7110a91d87b630e5ac72fee5a3f35484a",
+      "nodes_sha256": "93fffcf13bfd3814351a920e71e52126459434a01cd7065e387954a24e4607a3",
+      "sha256": "9ebe53370cd60d7570b9db91d8f2f2593c53622873b6115a93cbdc34661ebe61"
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_UPRIGHT_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_ROCK_UPRIGHT_A_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "6c9237ee8a23e12f7bd2cc053bc82bb40db784caaf0a277f2253edc3b311c4d0",
+      "nodes_sha256": "2ca57e3501a0e4494aabcad9a87589c860f230c5c06f579627acffbc50b2f3a1",
+      "sha256": "15e8218a1698156291c34a3623b10742f1f468aeebafb632c21680ff6f382386"
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_ROUND_SMALL_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TREE_ROUND_SMALL_A_LOD0",
+      "triangles": 352,
+      "geometry_buffer_sha256": "65ff01404c9783e4e412a40d9269cdb062a4a0c8fbc0f745360bdf04cc3f5b9d",
+      "nodes_sha256": "f8c5ef6b1582384b5815352b5fffbc5af9645ecebc3bbf95b89493708f71c260",
+      "sha256": "b975c9c0da24d917b40d583ba22d25b623e821cbf1a61f7598527214885cd827"
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_TIERED_SLIM_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TREE_TIERED_SLIM_A_LOD0",
+      "triangles": 248,
+      "geometry_buffer_sha256": "4421796fed21e674d41975ea5497ccbf1a8ccda274e887583dc2beafaa90112f",
+      "nodes_sha256": "7568392703bd2197d5a63ec0f767c4e75f9f207a334a4fe1e382c8c6d8fb750e",
+      "sha256": "7a32145cbe0efd5381519a061ddb98dbc23cb1677d00ac76f6c6546760c41ac0"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_RAIL_1M_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_RAIL_1M_A_LOD0",
+      "triangles": 56,
+      "geometry_buffer_sha256": "d2a1203da8fb083351edd3734dc5bb1e0b45bb207c00a937a695880ab3f56c4c",
+      "nodes_sha256": "8fd79be1102f9fb15a4871aa66f852851a8ad0a5585320765b9d8cf1ab3ab5c1",
+      "sha256": "20ce213fde2e82f2992cb3df5372f567aee66456d711d720c1e22068ee41d09f"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_RAIL_2M_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_RAIL_2M_A_LOD0",
+      "triangles": 44,
+      "geometry_buffer_sha256": "36d933b8631373d43bd7bf3a02f8d086dfcbb230a64081e9f0ce2025e8423245",
+      "nodes_sha256": "e7eb6d8436b296c3a50e436f4738942a15550272f45e5c1038521fee09b898bd",
+      "sha256": "2909c2ab8572e0398c606631f7a23d501daad4a750f368cfd8ad3ee49f37828b"
+    },
+    {
+      "file": "MOSS_01/models/TW_LOG_BROKEN_15M_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_LOG_BROKEN_15M_A_LOD0",
+      "triangles": 118,
+      "geometry_buffer_sha256": "d4bd4e075f27aa43432d4b57051a3e18557265b30f6801f4deb54cf99c3cc10a",
+      "nodes_sha256": "e76e89d6f50dbd413bc96f5d7960b0cbdb69d233bdcc71a1a4a4d27dc6e04cb0",
+      "sha256": "e53136bd9f917e2d96539a5f4604cab9e5e08f12bf9cf37ad26ef5cd4362186b"
+    },
+    {
+      "file": "MOSS_01/models/TW_LOG_CUT_2M_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_LOG_CUT_2M_A_LOD0",
+      "triangles": 118,
+      "geometry_buffer_sha256": "6dc6bded3ac82d8d2055ac40b2a32358d2b9b1ed8e41d774c7613b7b79bdda85",
+      "nodes_sha256": "0d0b8847d64f6d6ab14529f3b3cbbc085fa333fd82d7f53e8d06615ab7126cd3",
+      "sha256": "35cf86366634f909d32505183d346b03eb8863549d7aca45339db098808cf5f9"
+    },
+    {
+      "file": "MOSS_01/models/TW_STUMP_BROKEN_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STUMP_BROKEN_A_LOD0",
+      "triangles": 118,
+      "geometry_buffer_sha256": "3918938887c540c629f5de0f1f0f754cb45db9fae160a899f00c8da982f01fc0",
+      "nodes_sha256": "fe600dcd6560f64a3d57666c97016bf929d1bbed78c0e37430e7f84d75b6db7a",
+      "sha256": "a539b4f8379b0ecd75d0893c82fc82938e17292f70c625f31b6f34fb950e5eda"
+    },
+    {
+      "file": "MOSS_01/models/TW_STUMP_CUT_SMALL_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STUMP_CUT_SMALL_A_LOD0",
+      "triangles": 118,
+      "geometry_buffer_sha256": "c3c3b7911ae9b8b022aef06568ebf131720a05ba32b7881cc8bc8fc3c18e5628",
+      "nodes_sha256": "84a963e50e47748151fb06d61f41d31aab1ec54cecd6385c55ac4a542e1e5d4e",
+      "sha256": "6529e30e350b146c428d8c90c25bdffeaa7b0255bc674f50a50fcb8a8fede425"
+    },
+    {
+      "file": "MOSS_01/models/TW_GRASS_TALL_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_GRASS_TALL_A_LOD0",
+      "triangles": 90,
+      "geometry_buffer_sha256": "1431f696994b4a0ba3ba918ba395a1856d6d3dc632c339716a6a71cd71e4e44a",
+      "nodes_sha256": "3a836d4a5a710d2ec567c03218749ea479a8f47b0420be83dad7650841742b07",
+      "sha256": "840c6c163be88c16603b2a7e8e2c303e5a03fc601ccb134d8e07ac880736e372"
+    },
+    {
+      "file": "MOSS_01/models/TW_GRASS_TUFT_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_GRASS_TUFT_A_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "bda3197ba3babd1800300196b29de584e9417d56144e771ef228bb84535def95",
+      "nodes_sha256": "5cf32f03b8be3e7aeb6bfe69f7993cc82dbf6549bb5bc2eee1df3a3dcf336f26",
+      "sha256": "d4e92cbf27adda9b6d9326c6346c270d109c289a78693fe8e036dc940722253f"
+    },
+    {
+      "file": "MOSS_01/models/TW_SHRUB_ROUND_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_SHRUB_ROUND_A_LOD0",
+      "triangles": 126,
+      "geometry_buffer_sha256": "f345586f27913ac227b9ead7184b55022f041d87924d4aa3dd0b0176fcae5faa",
+      "nodes_sha256": "00fb5f5bb86a717afd657f3ef005c098f40f570972cfcebd47199efbe261be8f",
+      "sha256": "fcc69438a68c47e117e289eabdb4ae85db0c16dfbdc4233ee7d1545989cb5dc2"
+    },
+    {
+      "file": "MOSS_01/models/TW_SHRUB_SPREAD_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_SHRUB_SPREAD_A_LOD0",
+      "triangles": 210,
+      "geometry_buffer_sha256": "5f08d96d4df5f3b9631f9313a68cd27ba7057b04596763ba878a468f8ddd8c66",
+      "nodes_sha256": "f3c0eb341e124d2825e88aae848d2898d5fcb2de8ad386d239fa82360df34d62",
+      "sha256": "b778fb40029fdc2ee02174024f0b1a997e49b32769e0110e2f75dbcf3f575494"
+    },
+    {
+      "file": "MOSS_01/models/TW_CRATE_LONG_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_CRATE_LONG_A_LOD0",
+      "triangles": 156,
+      "geometry_buffer_sha256": "08f78dbecfa573b4015df7befe365c99e31538b5e227e6b33c4d366e3cb9c039",
+      "nodes_sha256": "afc204352b126fe8150d1fe9c5a038430230b2ef5dcc8221f2cb65d764a08e46",
+      "sha256": "18fe8c1fa0688bc500252c168de8f09a10bd6ed632f469b8a55160cfe59b3e1f"
+    },
+    {
+      "file": "MOSS_01/models/TW_CRATE_SMALL_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_CRATE_SMALL_A_LOD0",
+      "triangles": 108,
+      "geometry_buffer_sha256": "f4f5e70490e238d957703f00a276c84c47b0b642c240c7f31c6bf7c7ff763d58",
+      "nodes_sha256": "6befcbec1dcb41278dd89b30a09db39a626157db95100b29686082c5fded950b",
+      "sha256": "d85aa66ebb4b2c20a6d5aa8fd1181e43d9560c655a7b129bc4ed1cb1facaa976"
+    },
+    {
+      "file": "MOSS_01/models/TW_SIGN_ARROW_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_SIGN_ARROW_A_LOD0",
+      "triangles": 28,
+      "geometry_buffer_sha256": "ddf50cf90a9bfe9a19be068c54bde88bc05724b7577177ad0df900d273814ea3",
+      "nodes_sha256": "796daac818d95bd2bb8a555db6a757d7f83f970526c0b2eda77d23443db524d9",
+      "sha256": "d2a1c00521cfd27bd822b250ee212db250b032dad7e0b5a0365a9dfc8189887a"
+    },
+    {
+      "file": "MOSS_01/models/TW_SIGN_FORK_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_SIGN_FORK_A_LOD0",
+      "triangles": 44,
+      "geometry_buffer_sha256": "13f8f74044c266eed3a9476eda9e9bdbe1f8a98b00d0ddd3e337325611abf383",
+      "nodes_sha256": "0dd7cb31f8680df822a14a3a8d919dcca1fbfa7c4fea0c3f5ff7a4ae0ed55e00",
+      "sha256": "4bc24034138c7fca8ca9ed9c833ec23ce4a9d5c1cae200dc3c7513cdc2c90623"
+    },
+    {
+      "file": "MOSS_01/models/TW_PAVER_LONG_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_PAVER_LONG_A_LOD0",
+      "triangles": 44,
+      "geometry_buffer_sha256": "d7159e2852c5667bbb857730f62bb321b47b44bc89036928844f81d89b787c73",
+      "nodes_sha256": "55a8b1f68b6d8c650017dd4a5535ecd315564dddda1c769e17a4285ae20cd17e",
+      "sha256": "a36bbfc49ef0f9e2fff29aae0909ba8114866a2a5e4b853afaf66e320c2fb183"
+    },
+    {
+      "file": "MOSS_01/models/TW_PAVER_ROUND_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_PAVER_ROUND_A_LOD0",
+      "triangles": 50,
+      "geometry_buffer_sha256": "c2a3073a6e4a5ab822bb66780768b2fc587074381069fe6d0599f3b586616d4f",
+      "nodes_sha256": "280931e3946ebd7e5d0cc9bc185db36203311b1bd75cef225ff400e18d25e14a",
+      "sha256": "e93da46f84fd3de8a0364a3b9376ba279b7c801cd364422aaadd2baef06ddc62"
+    },
+    {
+      "file": "MOSS_01/models/TW_STEPS_LOW3_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STEPS_LOW3_A_LOD0",
+      "triangles": 36,
+      "geometry_buffer_sha256": "3bb55c32210adf68ced36e975ae6de86dc4e1ffc798281e9900333aa9268e59e",
+      "nodes_sha256": "6808032c674f39a6072438d43401076431f1a66f2eb0c526137003ca716a6397",
+      "sha256": "b22e5a20e8d924b35375d073a4cba386d73d5adab5d597ba5e8da01b0c16982f"
+    },
+    {
+      "file": "MOSS_01/models/TW_STEPS_WIDE4_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STEPS_WIDE4_A_LOD0",
+      "triangles": 48,
+      "geometry_buffer_sha256": "87054c3db5ee7d03a7570f22b1118f8681b9188e93ced66fafe40176ce09cb81",
+      "nodes_sha256": "e0f9671da45520f71b159a37f5d6a3dcbd9c6e99701f5277006b1463721821a8",
+      "sha256": "a5c2a7e5759f06e4163ea77afeaeecb11483f0fb1cb712f019daa7ec6a840ea3"
+    },
+    {
+      "file": "MOSS_01/models/TW_BENCH_BACKREST_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_BENCH_BACKREST_A_LOD0",
+      "triangles": 192,
+      "geometry_buffer_sha256": "4bd8d39c12f6e5c68bd6a87c1ea4e192c67361d1164f9d219300a8f33b43c8d7",
+      "nodes_sha256": "fb1e628604cbef94b7bbb63e4fe247d002ef23bea451c39f317a372a9c934bcc",
+      "sha256": "ec8183cd2754573359a9fa7923cf10bdd31d1d20fd49a6712f44c3ca9057c9a5"
+    },
+    {
+      "file": "MOSS_01/models/TW_BENCH_SIMPLE_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_BENCH_SIMPLE_A_LOD0",
+      "triangles": 144,
+      "geometry_buffer_sha256": "0360d33f119d30ac13107df51c16deb70cdc61c484c2cd7a198dbacc576acd68",
+      "nodes_sha256": "ecccbb7ece18facd6c606185eed0376fb5f31061a0ce1e7e91309d32ed489fe9",
+      "sha256": "d640250f62e60f25b823de797ac3ef6c711823e2505ce38010cba5511e1579a1"
+    },
+    {
+      "file": "MOSS_01/models/TW_TABLE_LONG_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TABLE_LONG_A_LOD0",
+      "triangles": 144,
+      "geometry_buffer_sha256": "e3e5e93f870e749957e7f580c751953c10bbee7f049be7dd9515aa72c8bc70d2",
+      "nodes_sha256": "0e933ca73f7019e3e83410e87b55f31765f1e71128e42d998bf3cd35bd1063b0",
+      "sha256": "849ddcff2f04e4ada847add70fcc592626afa041ef70a5e859e6ba30d4de57da"
+    },
+    {
+      "file": "MOSS_01/models/TW_TABLE_SQUARE_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TABLE_SQUARE_A_LOD0",
+      "triangles": 144,
+      "geometry_buffer_sha256": "cd84acbbe01148c0ec868bebc807e6231cf341e02afe0b8df2b19e497b82cc68",
+      "nodes_sha256": "c123a928055e07804855bf557be8d083d24433fb59b55a1e2446198d34b2a491",
+      "sha256": "7820f711ae96999eb8fb2aa23db3058b425542e4cd89870bb8733a2402423d5b"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_CORNER_L90_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_CORNER_L90_A_LOD0",
+      "triangles": 88,
+      "geometry_buffer_sha256": "4f1fffa0501a51c86c5aa5066fd9a2b372fc20a3072aa8a9df929abddf6d7e9a",
+      "nodes_sha256": "eb236d160ad866d0fa13ad01ddc820e0734c19d63e8823ee09f1501714c44a4b",
+      "sha256": "32f2039555e826230bdb94a577d31f42bb2839593c90c0cc877d5fd153ce0c7f"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_CORNER_L90_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_CORNER_L90_B_LOD0",
+      "triangles": 124,
+      "geometry_buffer_sha256": "10e7333e40b485178f2f00aeb82a43f240b18d5dfe0cbb4b65b52b688e83f171",
+      "nodes_sha256": "02c256ec240ff2c886b4e411c5188605e00ea686cd518fac15f1191f5be4ea60",
+      "sha256": "a1694c7c69b9e2d5ca68b90232f07c670f2544126d8ee55fe8be77ca5e1c826f"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_CORNER_R90_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_CORNER_R90_A_LOD0",
+      "triangles": 100,
+      "geometry_buffer_sha256": "6f0abea525bd9737456352e95c136eb50db5709dc87baa159d3df89d3d1891c3",
+      "nodes_sha256": "47b60af443578255608eb51f43738db0bd8d83a0a10e1e55c10995f4cb5f8af6",
+      "sha256": "6bba074d91e7386592871b773cf1d725b503f10a732ae88e6549e0caacc313d9"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_CORNER_R90_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_CORNER_R90_B_LOD0",
+      "triangles": 136,
+      "geometry_buffer_sha256": "6ed5ee92f40a31185e4f070a214269c37dfe1f4ca644fc2433f9f7046dddbb61",
+      "nodes_sha256": "2ac1bdd4608ff065523def45d29c345741b122706c37b6feb19b3f6f1335c6f7",
+      "sha256": "f608ad90000801350a7354374bba9c7db00d73a8324c6bec541d961a62fa1ea8"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_END_BROKEN_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_END_BROKEN_A_LOD0",
+      "triangles": 36,
+      "geometry_buffer_sha256": "d01eb2d5173d1a49fef0d4be599fe5b937928c40455535897555afcc6b85c148",
+      "nodes_sha256": "b1a30b5bdfddce2b7fa52929ac991f499d32e43a11ad7548f1f68dc0b3dc0ce9",
+      "sha256": "7155b32721e15e798b814269b5be46f7912ee90a625f9c41db5716371e50f88d"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_END_BROKEN_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_END_BROKEN_B_LOD0",
+      "triangles": 48,
+      "geometry_buffer_sha256": "855aca44d4cd0a3f408bd7f72727ce488b361f4a7c86041690c81ed2b1d3096f",
+      "nodes_sha256": "b4c6d3a2920c8a8b9791bbbc8556a88124094fd72722b389a40ba44ea359fd5a",
+      "sha256": "60b90dbf8156c43fb36704559b78039a61c41a04c1dc5934df65e8e73f40d88a"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_END_CAP_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_END_CAP_A_LOD0",
+      "triangles": 32,
+      "geometry_buffer_sha256": "f39cbd706f40c64ea55a09724a8c096ab923201bdfa206011585cf14b0da176f",
+      "nodes_sha256": "092f75ffc17717c1cefaecbbc33319368ea8e881413ffe2466829c731dd47058",
+      "sha256": "c6a21f1c03cdde0d618034e7f77a9a1900cdd34d3dbd7a465ef1bb88d7870483"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_END_CAP_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_END_CAP_B_LOD0",
+      "triangles": 44,
+      "geometry_buffer_sha256": "23adf7c81672bf64a692e7fae830be1fc094df8ba7d198452053f96fbaad05d6",
+      "nodes_sha256": "0b1d87680b3e75dcd2f2c7a9b1a95f6cbf869a929131b49473fd27862118b404",
+      "sha256": "756a0823e90202e27c8c39fd7e96226861ff53b2ca7d20165c9a623442c567ad"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_GATE_FRAME_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_GATE_FRAME_A_LOD0",
+      "triangles": 76,
+      "geometry_buffer_sha256": "d700ea6460c03f83f51c7571ea31f31f3b6dda75b164449329ca133aafa7258b",
+      "nodes_sha256": "f13ff888c7e9a842e458042438c80274f0ec9b566120c19527c13cd93adae659",
+      "sha256": "df498fd2f7ab6e36d438b03e1127e12b67cc7a948b272f19df14ea174cc7f238"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_GATE_FRAME_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_GATE_FRAME_B_LOD0",
+      "triangles": 88,
+      "geometry_buffer_sha256": "208dca2985df93a0bcf5fdb2ab6a2b74236c4b5b41458cdd1e542a76c616ca11",
+      "nodes_sha256": "60ef951f0036b521b57df8fb974e8a4c02bb98e2b07ca770e384753d0c4ad007",
+      "sha256": "c55b523cff3f19d69963934ebda3baee0b9631fbf4b4d99d49edbcaa0475bdbb"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_GATE_LEAF_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_GATE_LEAF_A_LOD0",
+      "triangles": 108,
+      "geometry_buffer_sha256": "ad41db2c77d276954ab8e1f3a6a53a1d3a3cae09fe1bc813cb45183fc3e1e9b9",
+      "nodes_sha256": "04d1ebdc2aa1ed089f92b39bd159add75cf41d2d8954952fd7fbdb02d43e0893",
+      "sha256": "0d291233150378fa73edb484e9746436a8cbb23c5a79576648278b89fdd3f6d8"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_GATE_LEAF_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_GATE_LEAF_B_LOD0",
+      "triangles": 132,
+      "geometry_buffer_sha256": "0af8184638e6c26db5d8e2d527fa1d22647cc0cf37cfde14c735bc3e191d0953",
+      "nodes_sha256": "1395053990fa94cd049e0e53e1a76b788ed92208345ef71ebdb11b1bc00211b5",
+      "sha256": "67d7aa1fb224066e72c771a96ca49a3b8f18d9cd076dc291e39a8f969237cc14"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_POST_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_POST_A_LOD0",
+      "triangles": 20,
+      "geometry_buffer_sha256": "dd92a7cfcd0306c1cfdb6eb73b3a761a1cc58a6135f2f78132d55ff05cc1076d",
+      "nodes_sha256": "658f09600af731ba3f10e686ad7f4e9fa5c255954811278d5a383853474e43dc",
+      "sha256": "eb3155543122749f06d5dc9c28cacbfd8789d5f9cdb27e71421de0a6da0e4ced"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_POST_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_POST_B_LOD0",
+      "triangles": 32,
+      "geometry_buffer_sha256": "49110d84ff87397fe63f295c91a3516d70d6669480b62ae2ae6864bf718e6db1",
+      "nodes_sha256": "d15bd9f0468d13527a779bde8e882b4ed30be01259e90c4dff0bcde960ac4b7a",
+      "sha256": "86f17a8ffdefa510745548f35de75d91afee9d1c38d6c896f7fb9f9c655c96f6"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_RAIL_1M_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_RAIL_1M_B_LOD0",
+      "triangles": 68,
+      "geometry_buffer_sha256": "b8fe0a1672a651c405468dfc39749b7c0c9a87842b15e41e6fe2e0e6b18b874f",
+      "nodes_sha256": "7c73bc878278b997b98ef9fd9072a78c7fc64af1d2d2c02626a430cfdaa8b1e8",
+      "sha256": "0c124730e42f152d21b8b61c2ee4a839216441985d8203863600d378fbd04610"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_RAIL_2M_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_RAIL_2M_B_LOD0",
+      "triangles": 68,
+      "geometry_buffer_sha256": "cba8035c22599f675d9080b5f659953d1a94553da69e6577cf039712614a514d",
+      "nodes_sha256": "4be9f85d0809d61cb760fe7085c3e241e5c7888b140bce4e4a7bc725105c65f0",
+      "sha256": "0a6ee5a1d685f59bb13956bd593abcdf7631edca9a6594d782bd8ec69c0a4799"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_RAIL_4M_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_RAIL_4M_A_LOD0",
+      "triangles": 44,
+      "geometry_buffer_sha256": "46f85348ac131c9ba7b643060411f986c113631e4f7860651ccd29fbecd0d8c1",
+      "nodes_sha256": "2b6ac7881cdf7a7cee60ad33e72516a6cc5923ccead67cec7ae79eca065120d3",
+      "sha256": "27693237968e3a43277426a3f6053c81ef648a9ae5eb0341b3c5fb57b3d0ed68"
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_RAIL_4M_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_WOOD_RAIL_4M_B_LOD0",
+      "triangles": 68,
+      "geometry_buffer_sha256": "0205a6dfd1bc81f1e1d182d42f7b66c8ea1fae9715fcc9b71eeefbf37b2c1afe",
+      "nodes_sha256": "20c0b132f5497a3dc01b71a006439620839dad07702c94c13c4a1de6c2c1b498",
+      "sha256": "d0414ea4ce808a012d938ffe8f1949211ba7ea4a68d37fbd9cbe3614c47748b8"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_CORNER_L90_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_CORNER_L90_A_LOD0",
+      "triangles": 240,
+      "geometry_buffer_sha256": "450523f557fef9a18577b4fd17662eb7b23f4f71bbff1e81aab26bee2713bd35",
+      "nodes_sha256": "9b673d1bf1dfa47d9ba6be52009bd76f25314bd4768585caca751a2d9fff8c37",
+      "sha256": "0b466eb3aa7163ee9a441c895cffcc36c482a260e6b6288c7e6763b1e55391ca"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_CORNER_L90_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_CORNER_L90_B_LOD0",
+      "triangles": 312,
+      "geometry_buffer_sha256": "b962808cc0e2677da2b3ec53c4a56441685f94038a79b556c31317a30736794c",
+      "nodes_sha256": "50dc72fcdc859dbbb96fe974db4a7e57520177db73c50379ff8923c395517e22",
+      "sha256": "bf6b9c115ad155019f43d36fd9c6bfa3255ed1d0e755a22926337937a6024788"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_CORNER_R90_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_CORNER_R90_A_LOD0",
+      "triangles": 252,
+      "geometry_buffer_sha256": "993f9726bd84187ff214ef85fe32fecdd8868d008a00b02685124606bf9ac0b3",
+      "nodes_sha256": "eb6e011f29ec6ce35e223ff48d9238c04c86a115486ab6948b9949c55670fd71",
+      "sha256": "5f47c5e2d4bc36b3dad214eaeb1554bc3f6b3c1441832ea337233eadddd16f84"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_CORNER_R90_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_CORNER_R90_B_LOD0",
+      "triangles": 324,
+      "geometry_buffer_sha256": "e77ac837e83c42b13a8cb87ecd76fe223fb248aee45d2b9a9ef53de9759b1b3e",
+      "nodes_sha256": "4d8aa746b5a2165fae4adb83a97b19a26bb66fc264db87788312610a9fd87ac8",
+      "sha256": "6ecbce1e94895d8243fbf60ad1e122108a6bb2adaf720bab4d4315f8e9370fcb"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_END_CAP_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_END_CAP_A_LOD0",
+      "triangles": 48,
+      "geometry_buffer_sha256": "62430b7a5f447244dfbca93dd55e771934b9c83b5ba8d93d216841b3f49237a4",
+      "nodes_sha256": "2e8e446885c7cc2ab4d5f4a8dcdbfa7c5ee3a69c3f6408d980e9e4d7640bac33",
+      "sha256": "b19bc0fe8ce6194bd59faf584fbeb99cbe6e769d852a487d4c8658cdea847d71"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_END_CAP_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_END_CAP_B_LOD0",
+      "triangles": 72,
+      "geometry_buffer_sha256": "cbee6a2f0f2801991f56413321b5e33902eb6035fbc3cc410ca1e7dac054811a",
+      "nodes_sha256": "6e402598b8895cfb2759e923f0c9b1e1427ce850490cc94a0b3d05a4e3bc0103",
+      "sha256": "6313d43b790e834832baceaf6e39924af56868f2eafa76d6fb738883ff31afc7"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_END_RUIN_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_END_RUIN_A_LOD0",
+      "triangles": 60,
+      "geometry_buffer_sha256": "0b33d59a9859dd5060d441dc12e642d6aea23ddef7f6234512f0b98be255285f",
+      "nodes_sha256": "e5046d4221fd01d18a5710f521c7722d5815ee7aa7bab92b0fa84f54da66f2b9",
+      "sha256": "480073c99238911ed9604f5f39198846770055e9dcbaebcc7c25bd7909b33d29"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_END_RUIN_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_END_RUIN_B_LOD0",
+      "triangles": 96,
+      "geometry_buffer_sha256": "96cea02b4dea3f8884611779ab74e281a093fd41232b7f1c571f8fd5925332fa",
+      "nodes_sha256": "c8da09075d39d5b04f9a83b9d0e9cef5667613eceeb2a88743aa039022d03d4a",
+      "sha256": "7118b9a56cabf6f3836b93e11f7997b7e344032803af93ce6bb4b04b7a20629d"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_POST_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_POST_A_LOD0",
+      "triangles": 36,
+      "geometry_buffer_sha256": "23b502eae7b9f1d223927b7b42e25ef2c809a2ab724f2c2660175c4548aedf4d",
+      "nodes_sha256": "5902bbd389191167d27d5435da106e32e9fe24e207184a334ed5541c3356ff7b",
+      "sha256": "a14589de61b3fbdb8ee476d721733c499d9c8f447df30e520328252b1e80f364"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_POST_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_POST_B_LOD0",
+      "triangles": 60,
+      "geometry_buffer_sha256": "88337ccd0318f7baaf0bb5f476288913b187a9dc36acb8917cf7a6deb145982b",
+      "nodes_sha256": "4c95f377dba8fa59e9f4ef54ffe24075fcc135c7ae36a52c985a75f20ff4ac23",
+      "sha256": "5b1e7a9b0d6eb21f30e13f507b9264738e7ebeb9369cdba97ca5fb353addd06a"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_WALL_1M_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_WALL_1M_A_LOD0",
+      "triangles": 120,
+      "geometry_buffer_sha256": "bdf80ab46c6834484695748d31e052e726665265bcf3f1da52f73a65003db97f",
+      "nodes_sha256": "ae8a529706afad4e9883451714117bfd74de9bbd6f2d72191b9832a413d25d95",
+      "sha256": "54c1c1124aca9d2c0f84f8f767acfa7c9317788a183a728545ebe6032cb0a4f9"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_WALL_1M_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_WALL_1M_B_LOD0",
+      "triangles": 156,
+      "geometry_buffer_sha256": "919d9214158fa402d62cc0ff77ed4fac6b72ed40bcc59d5819f3031ade43f364",
+      "nodes_sha256": "c22c2accfdcb12d6718424317f1ecd692d3b64593ea5c0dd381c856a1ea62c32",
+      "sha256": "736a9f3da569dda81e0cf2d576286487e88752c82f785b9eff64125734afa1ea"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_WALL_2M_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_WALL_2M_A_LOD0",
+      "triangles": 192,
+      "geometry_buffer_sha256": "f4f0748a604629e9cb3605e8b4dfc87de38a67563506673a6fbc4a13b0990fa5",
+      "nodes_sha256": "862bc3710335d0c37681be64a4c023b646b29d5328595b1e2a665dd3099a700b",
+      "sha256": "6e9404cf3b2b4d0f753e2b48894b71adbc05ccb898486ef9d81ba3b59f1a839c"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_WALL_2M_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_WALL_2M_B_LOD0",
+      "triangles": 252,
+      "geometry_buffer_sha256": "b76ffbdd05d9442a7f81e74d22c3a017b69bd105cd186f9897e6a60dccbe1ac4",
+      "nodes_sha256": "8012d501f0f9f867ee58db61e8f21a24795b7086efa7c19d6cc6d22692f8626e",
+      "sha256": "f85f412e3c2384b99703a7538f47104062214ca5914f39a2d0d141a32d8e5854"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_WALL_4M_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_WALL_4M_A_LOD0",
+      "triangles": 372,
+      "geometry_buffer_sha256": "3e9072eaac509936e9839cd9666e0dd85dc06e5641115bcefda75c869e931c88",
+      "nodes_sha256": "0a79e099b4e1d0ec87f5f17db15369e735b6a167a25fcec6a66908cb70fe1639",
+      "sha256": "b32b7139eaa796fb27e9bb190e0a8b7b270e5a499e02452cfa22d4f2ed1a547a"
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_WALL_4M_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_STONE_WALL_4M_B_LOD0",
+      "triangles": 420,
+      "geometry_buffer_sha256": "c896458d4318f6d1bd1eec61e9a1613f89e480fe97666be600ea62f27470361b",
+      "nodes_sha256": "5ba9109e1604126afad2979f80ab17baee55dc31551d85eb4d7d7aaab8a57d88",
+      "sha256": "de6fba5390e793c77542d9c9ea5f2309dcdb0850e149656875c04668077ecd5a"
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_BRANCH_FORK_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_PROP_BRANCH_FORK_A_LOD0",
+      "triangles": 48,
+      "geometry_buffer_sha256": "4db2a248abb3df325139d16024897fb4000f7e1640afdafd01e04ac4d22321f9",
+      "nodes_sha256": "e03e6327e0af20c6126043431ff6d135dc94b5e95a11d389ff461a1d40b4b176",
+      "sha256": "b3e2ef9a4d0a2fbd21638aebfa8846275992b66207a8e8ad5b212fcea8730cd7"
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_BRANCH_FORK_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_PROP_BRANCH_FORK_B_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "6c3bd4555a19cff3a76b5b58ffffd0da5c771fa43956bba0becb721f152a0f99",
+      "nodes_sha256": "e39f54075dbdade27bed637039c275b5791c220fe11ffe6849d93e2685770c53",
+      "sha256": "1a4771141bc78122ba1c7e54c884a8005878194af562468337ee56197eddb4ae"
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_BRANCH_PILE_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_PROP_BRANCH_PILE_A_LOD0",
+      "triangles": 144,
+      "geometry_buffer_sha256": "c94e771c7893fca57eef25b589d740c73c789f7a11324f071bf17f24df3ec341",
+      "nodes_sha256": "911af8e48dfdce700a1d3047eaeb1f73df2a2c4650ae1e9f980a3804a34bf5bd",
+      "sha256": "8905ad16367bc801dc05ec3594f337813d9a49f9c1395143654ea90d12e8a84d"
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_BRANCH_PILE_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_PROP_BRANCH_PILE_B_LOD0",
+      "triangles": 216,
+      "geometry_buffer_sha256": "9051946b6c4b6f2d91c186037d1ae6764a35aa84e6832c67eed822171e0ebdfc",
+      "nodes_sha256": "c071f6bd572cbe79da2a7819435cb035663486a7a9a0256c354dae50024136ea",
+      "sha256": "209cc8b504c936589c0ba29f508ba2197f503b24209ec0179cc28dc57e321821"
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_LOG_BROKEN_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_PROP_LOG_BROKEN_A_LOD0",
+      "triangles": 124,
+      "geometry_buffer_sha256": "375838aa872b7f37a18e2afda91b343008bc55c69dcb92a2876746a782d9cdf8",
+      "nodes_sha256": "4a757970aa6a5ac2af3b3e78adb7bf15faad2f8f1ed8aeb53067a1bc4359698c",
+      "sha256": "6c2c16ba1c98c155c6eeff6ab8fa268f2cc4857e0947e25684de80eb6323b7ca"
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_LOG_BROKEN_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_PROP_LOG_BROKEN_B_LOD0",
+      "triangles": 166,
+      "geometry_buffer_sha256": "bed5ef893bfc445df6fb45398d935fd9252912da04be97b0e9c61ecca90d7f51",
+      "nodes_sha256": "d85d2cb612871523161672eea1900c25a7692ac0296bc398355dbbb0d2a23125",
+      "sha256": "40a43bd46e5fafe06881a568f9d636c55ae00129b2d0dcbf283eebb84e39a737"
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_LOG_STRAIGHT_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_PROP_LOG_STRAIGHT_A_LOD0",
+      "triangles": 76,
+      "geometry_buffer_sha256": "549c5bfcf1bf44dbb74f23cdc6ef54710325ad7e6050d83a51a93fb8979a9066",
+      "nodes_sha256": "459c240442bd91120f649cd25c08964d36f4c66e97396cc2710ac14008ad1d77",
+      "sha256": "a575f7e4d07cf016389ee9daca168116438b986ef6338c178e2dc58ce005330d"
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_LOG_STRAIGHT_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_PROP_LOG_STRAIGHT_B_LOD0",
+      "triangles": 102,
+      "geometry_buffer_sha256": "0b963d6bb0e973b96da5aac1ce61f4533bd65fa0fb27f7bda6e97db6e0dbed49",
+      "nodes_sha256": "89adf5436a111e6afc5144224aacee0f0202719affe8adb2dbfb4be1da89f5d0",
+      "sha256": "09bf8293ade8187011470c3c7919421eb1907baf61e790516d41ed14849d17e4"
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_STUMP_ROUND_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_PROP_STUMP_ROUND_A_LOD0",
+      "triangles": 110,
+      "geometry_buffer_sha256": "8f032680a3e1552dea5ad042983a277c1e8652097f92fec3c24fee9aee898658",
+      "nodes_sha256": "0e47f4bad9cf1eef40df4136333a8baa101f119f3cbd254ca47ac86d2c14e75c",
+      "sha256": "aa353203d5e044748d22caa04a71c08be1b5fbc6bcf318e5243c951c301e0015"
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_STUMP_ROUND_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_PROP_STUMP_ROUND_B_LOD0",
+      "triangles": 136,
+      "geometry_buffer_sha256": "0dd2312321d8a66bcd2f93b5907addb2f67b5c08e192cc89d12220463f1685bb",
+      "nodes_sha256": "39648fec51f24dea9bac602b3c4e33750703d78de09ccd626f2b4a51cfccfd1c",
+      "sha256": "c4130c360335a807921e2dedb2fe6165e8764b54d4f5fc86d6c9a5875256e989"
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_STUMP_SPLIT_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_PROP_STUMP_SPLIT_A_LOD0",
+      "triangles": 76,
+      "geometry_buffer_sha256": "90d205eefbb7eb2d31ce752c853334917795da07355a28b9e65fe05266284ee4",
+      "nodes_sha256": "d35da8845bb13b3f445c85975e8caf20b642f3643a21a5d16b890fe3974a8020",
+      "sha256": "cc343169174acf4b0dabfd7bb39b5cb169b975e7903e6d4f4cb1d538bd6f050e"
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_STUMP_SPLIT_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_PROP_STUMP_SPLIT_B_LOD0",
+      "triangles": 122,
+      "geometry_buffer_sha256": "4d179a1cfa7e778df336d72d043ac73103c9359f6317b4eda3adc69b2cd27b5b",
+      "nodes_sha256": "da6eb6c7f76660123ec6652d0881a92088c3b74dc5fa5931eb942e53bc869ecc",
+      "sha256": "7c6981313dec40f66b3b226e5cdbe66ee2a8d3b38cc61c62cd47a10b3395a9f9"
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_CLUSTER_LARGE_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_ROCK_CLUSTER_LARGE_A_LOD0",
+      "triangles": 260,
+      "geometry_buffer_sha256": "08689472e0844a2ffd5295b26d78828425e712edc20bef082289a3e78b1ef609",
+      "nodes_sha256": "7268aeb9c040d6744304600f9fd68d8cd0a2a728a630d4cb5934f488fa686d0b",
+      "sha256": "a68f09e3244afef905b1ae1b60088142fa602965bda84d659f6246fde3f3edee"
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_CLUSTER_LARGE_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_ROCK_CLUSTER_LARGE_B_LOD0",
+      "triangles": 360,
+      "geometry_buffer_sha256": "b75fdb4644cd531e2d39229344a28c61bf5dc3117998f5b379fd6d41c1c4126f",
+      "nodes_sha256": "ce4fa6b0908e6ae625b94ee12ced1f8f9d7162b71249ac90bcc1cce8482bc266",
+      "sha256": "bc90f89d022ded23e536dbb53c6a5019d327218aa84741277e3714484e5a392d"
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_CLUSTER_SMALL_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_ROCK_CLUSTER_SMALL_A_LOD0",
+      "triangles": 156,
+      "geometry_buffer_sha256": "f885a8f8c2b1ccf34172575e06a5b09fa272e95ad3005e38da6c2af89a252401",
+      "nodes_sha256": "dcc57ff8e55c982419d3945b451917cdeeed1dd2044455241fdb6c548b5d96cd",
+      "sha256": "162b8f6f441a0267d1583082921952f6517497984619fef6041da0460ee7a248"
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_CLUSTER_SMALL_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_ROCK_CLUSTER_SMALL_B_LOD0",
+      "triangles": 240,
+      "geometry_buffer_sha256": "2a24d414826c3a24c9a890e39873b731c88fe1b2be375c464002b08a7177409c",
+      "nodes_sha256": "47706697b32a0b4fc64fd94a6cdebc9303d23395e1bdc42c690e36f1f74a3c5c",
+      "sha256": "674f8e5e114d0496e690d7db4d5027efcac795fd6f071aaadc9578359a6185f8"
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_FLAT_SLAB_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_ROCK_FLAT_SLAB_A_LOD0",
+      "triangles": 52,
+      "geometry_buffer_sha256": "7deceece187cdca9e31732c9a62f0cb83188e12f566e50f8b9fe1c293684a9ea",
+      "nodes_sha256": "12716616843c0ba0a64e6ab6a6093dd379545854d02b30ebdfdf5ca7aa258646",
+      "sha256": "f9574e90e020db4e2d5b022f24420f7256978a56f58e783ba1945153be07f9ab"
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_FLAT_SLAB_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_ROCK_FLAT_SLAB_B_LOD0",
+      "triangles": 60,
+      "geometry_buffer_sha256": "786b4c28c45e36c3a706c0f110eff170bdf39fcafe181f52b91b8e4af285412b",
+      "nodes_sha256": "93262e89dd17785fa34ec23ed90f41e2958452497b6015eb854fb566a84eff78",
+      "sha256": "830962164596514222c2b71b1b0a09197df21c12281db9e1f08154b64a566193"
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_LOW_WEDGE_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_ROCK_LOW_WEDGE_B_LOD0",
+      "triangles": 60,
+      "geometry_buffer_sha256": "1b3d52591b14e561f6c667e9039eefcfd35c78f61e4b9a48a454e1fe2e7f1b43",
+      "nodes_sha256": "fd6e3bc6a018a8a3616f7974e69c34f7f0e2b2cd28e1e490e04e33b303d29729",
+      "sha256": "d552561d80713f5a3e5147a869dac64a7673f639c46aceca7b0e16a7144e295b"
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_SPLIT_MASS_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_ROCK_SPLIT_MASS_A_LOD0",
+      "triangles": 104,
+      "geometry_buffer_sha256": "f3f7ceec73862de820a6cdf48aec4ab82c2a57cdb784f68df193ac658d4a2ade",
+      "nodes_sha256": "f434c73fd13a6c1097ea2f0ef457af0f2a185a27a04c059490efd62c89075b3b",
+      "sha256": "d23f57c3371fa09a2d55750cdfe6ca78a52c50fd91a4c8b5cbf3f1c44ff907c9"
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_SPLIT_MASS_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_ROCK_SPLIT_MASS_B_LOD0",
+      "triangles": 180,
+      "geometry_buffer_sha256": "f77bded03eb19c9aa328e6713513032b613669577a5190b3da71318389575d12",
+      "nodes_sha256": "90691f1b2286cd6659618e68e1a9b81eb439a5c7ff572119de0de653f987d848",
+      "sha256": "4128347565273d376770ba848c8aa7aa7f2fcbc83ac573a9fed1e51c03ec8a5f"
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_UPRIGHT_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_ROCK_UPRIGHT_B_LOD0",
+      "triangles": 60,
+      "geometry_buffer_sha256": "98d265e62787a442fa7f59306b906334d55cb957019e9f5951d1d8fc755ba52b",
+      "nodes_sha256": "62b020742c79905601a3d035febbacf603c93bbdd4ba8abd9a6a0564bfee76a3",
+      "sha256": "97ec12b495274caf24bfaa5aec19c8fabf60ca3c5fe64c3762e624898b3e617f"
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_DEAD_FORK_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TREE_DEAD_FORK_A_LOD0",
+      "triangles": 156,
+      "geometry_buffer_sha256": "f084dffb0949e0be845d60b4e543af27fc9b1f7bf913af340a97a7ee4cd65114",
+      "nodes_sha256": "6e32fa602e9c51338dc3e617c98812a87c859453ff6d4ade3e58af4d8fc925fd",
+      "sha256": "f1ea7b494866b35226f15b5e630e52c4dc9b299083eb57ec73f4015c0ffeb071"
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_DEAD_FORK_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TREE_DEAD_FORK_B_LOD0",
+      "triangles": 212,
+      "geometry_buffer_sha256": "21e137d4a83d3c8945f2c8a9987e8d7fc70b94d0918c3b20d1267dbf8b7b29f5",
+      "nodes_sha256": "260fbcb8db6eb7f04ded00d9305df0ab1fea47614bbb46ef1afb108b0506975d",
+      "sha256": "9b544316f07b4e7bfde2b99c9fb9efe48b5794efaef129c88791d8162ca6b701"
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_DEAD_LEAN_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TREE_DEAD_LEAN_A_LOD0",
+      "triangles": 124,
+      "geometry_buffer_sha256": "0bb56b50c0d5c1a4f2e8da2e31206bdfb64e18db098aa42cc19835d0f11f0695",
+      "nodes_sha256": "4c22ff960cb781a2c028bb88beeba3c896302def61ebe62a26258863a3fc8030",
+      "sha256": "9c16b152d6270dbda086b82a7e93c5395b6b45dcc66e663a20644a3f5f1f21e4"
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_DEAD_LEAN_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TREE_DEAD_LEAN_B_LOD0",
+      "triangles": 174,
+      "geometry_buffer_sha256": "70b2ebee3f4ce048965d999817167383acf7b436778786c32aa9a2f649f6d9c7",
+      "nodes_sha256": "2ad0ab2f430126ac3b4530325f1b26763e25f7249361b5817b0e3ae83a2d6494",
+      "sha256": "61e55c97bc1390a11f1ce1e9f2b040cc57eb5de1d9f4e537d53b31a75ed3f64f"
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_ROUND_BROAD_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TREE_ROUND_BROAD_A_LOD0",
+      "triangles": 380,
+      "geometry_buffer_sha256": "3f84d2c188ddffb4f9a83200f8313a2fd4c8a6753ca0075f4db955143e0d10bb",
+      "nodes_sha256": "7b567cbf8856adc4c1179065b839b0855b63eda257f92c698b09ad870bddd03d",
+      "sha256": "37e6aca16ea8a6b37021b2eace30683a5fb9d783947de90a38a8580b90d440d3"
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_ROUND_BROAD_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TREE_ROUND_BROAD_B_LOD0",
+      "triangles": 478,
+      "geometry_buffer_sha256": "988646d81afd231a61988fa522ada7e9d037759e88d28a24e98a8c33571ae45f",
+      "nodes_sha256": "ae4ec3a563bfbc7136c97a8e94e4397a887a566495a145851d86858bb396f7c4",
+      "sha256": "828196bd6b4b6c3ba06e16ec4f11d0a60e97a179f536a93c2a2e7793e6e9cb7f"
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_ROUND_SMALL_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TREE_ROUND_SMALL_B_LOD0",
+      "triangles": 404,
+      "geometry_buffer_sha256": "847f65303063a8947994dc354300468b38bcfedfa518ae64bd6c3708ba4c449b",
+      "nodes_sha256": "83b5747c4abb9571668633d12ae92bd1c96023a05b79a7f222a1ee5eb8f35ab2",
+      "sha256": "ae8d357dbd9d385cdf89bfa853b6972a4c5083e2116dd4e3735a64e26e631dee"
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_TIERED_SLIM_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TREE_TIERED_SLIM_B_LOD0",
+      "triangles": 268,
+      "geometry_buffer_sha256": "652f36712380e43c730958b241b399fa4515d1a50a78aef7d1f34e723741e57b",
+      "nodes_sha256": "a9307ff9d470f5a0899bed457c3230e2ff2a388e8620d7dba82538fda951d78d",
+      "sha256": "1769950de1cf6e65681bc66792fc4e4bce50b242f9ee79e8596c02b40a9a3a5f"
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_TIERED_WIDE_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TREE_TIERED_WIDE_A_LOD0",
+      "triangles": 198,
+      "geometry_buffer_sha256": "9e5c1f79c18df981ed12b2376d81ea027d635f400a72bc73605434193c63048f",
+      "nodes_sha256": "8adcd6f9761ce57690ae95577d3ace1acebda7b2d2a26bd9dda6eb671e3afdee",
+      "sha256": "c2008f00049f323b226474789a16cc060fef8bcadf8f6d1d6a605873d1865298"
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_TIERED_WIDE_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TREE_TIERED_WIDE_B_LOD0",
+      "triangles": 268,
+      "geometry_buffer_sha256": "c35a8b794a74094cf0dcc713a10d5b85133ba2aa369853aee7692725ae151a5e",
+      "nodes_sha256": "9c6e025d2f820366c8b82120873604ddbb427475214f1650f231eff6e72e4355",
+      "sha256": "263ba8d3c9480c08e51444d1eec1e2e96f33905b25424af4dbeb79ebea8efa99"
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_BUSH_LONG_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_VEG_BUSH_LONG_A_LOD0",
+      "triangles": 112,
+      "geometry_buffer_sha256": "7012467f195e27d54358dfe5b25c5c1084109c9ef88777e0645e528fea459a4c",
+      "nodes_sha256": "c0eef3a7b7faf4113defeefa95abebabc94b6f3444b6f7455db371cd9fd0b44a",
+      "sha256": "a25804a3e7ae148fec08253007d925b500162dd29f18d2c6d6c09eea40ca7f3a"
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_BUSH_LONG_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_VEG_BUSH_LONG_B_LOD0",
+      "triangles": 160,
+      "geometry_buffer_sha256": "a446d5bf14074c154e4eded8da318768633f1999e930665d64c08bdc05f2f63c",
+      "nodes_sha256": "327cedc95792f3709da7ae51029724b98dbf17436b8184070a551ea3323236b8",
+      "sha256": "8da8f35101376ef39a8a8623e9e9a4ee4e1ee1b779d0de4e7e7896489ef3169f"
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_BUSH_ROUND_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_VEG_BUSH_ROUND_A_LOD0",
+      "triangles": 84,
+      "geometry_buffer_sha256": "4dabf155087f1d861512a04fbc1570bcebfa778ed5d1d55c3ca639ae1c9e9185",
+      "nodes_sha256": "fc0cf5f3f081711ade0c13600da84431e7f4ceef1fe4dddfb630bf90f12caa3c",
+      "sha256": "564536ee78416551cfd18f17aeb5ae80eb16d19566152a4c98b95c4994185e2d"
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_BUSH_ROUND_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_VEG_BUSH_ROUND_B_LOD0",
+      "triangles": 128,
+      "geometry_buffer_sha256": "1e8d0b6b064c4780b23feb457e1ef1bea5f007eac4fa33524702a053ea09c26f",
+      "nodes_sha256": "3638fbf83da9d037cfbb0b906c4be5a72481dd35d61a6ceb5535db2567898f53",
+      "sha256": "d726cc5c78b95cf60ef4c27424aa9c35134a836b47871498f3f2fd81f00d58dd"
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_BUSH_SPARSE_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_VEG_BUSH_SPARSE_A_LOD0",
+      "triangles": 56,
+      "geometry_buffer_sha256": "2354a270b5787176ad1f2b6e7f3d8297104c0de3987c185b363adeb209661688",
+      "nodes_sha256": "4bb8f7011212f4599f1cd62e9ea6513af0d40c262f1e346e8356257cf4d3a484",
+      "sha256": "48f94d2f1d7168f067e6a3676884d1a5bf59c5f7e5550ee22d0d9c8772cebeaf"
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_BUSH_SPARSE_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_VEG_BUSH_SPARSE_B_LOD0",
+      "triangles": 96,
+      "geometry_buffer_sha256": "11d7be48f4394fd55f5ea78f29c2f7c1c33de3180fe94bcff1cdbf86cd178c33",
+      "nodes_sha256": "7a17c5140b198d014e4829335afcda14e0a7099d9391a54b9a81862cd2637e35",
+      "sha256": "1340173082b68a37f9a91c170593942001f157b708905f7e927cfa7d7fd63588"
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_GRASS_FAN_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_VEG_GRASS_FAN_A_LOD0",
+      "triangles": 50,
+      "geometry_buffer_sha256": "688eb056118e4f18c93bfccf170a167ef576815cbccd1379ac68c6b1346556aa",
+      "nodes_sha256": "c9d11c6dbe9ce3b3860c74c904c01dd0512543746a7350f3f4913e86e5c03a54",
+      "sha256": "ca9b8945e136b92ee7a3987d536dade10d3b8a600fc8b4448a19adfbd95c32d5"
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_GRASS_FAN_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_VEG_GRASS_FAN_B_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "2fdb9ada5d7c4de97a6223f747d1a75d91a99076f7485ae0c0568c90475a01ed",
+      "nodes_sha256": "1037debcaa229de5fd832b2819602b92eb2fd5a6fdf5621dcb314f40a2316748",
+      "sha256": "0dfe2c2e1e25f6797f78b2c735570ec9824284845fcd2073ae9504edb1381621"
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_GRASS_LOW_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_VEG_GRASS_LOW_A_LOD0",
+      "triangles": 50,
+      "geometry_buffer_sha256": "267901a8aab809080b6add12c7de3c780b7eb3c73b447ac0902184951ff12997",
+      "nodes_sha256": "910511ba7b6dd891dad2cf08c9a465a36d7bca1c3676e4387aef73a4d344deef",
+      "sha256": "b21dad48f98e8d377e889d9522206d241fa7def0497f8dfbddc39e7aa888b896"
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_GRASS_LOW_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_VEG_GRASS_LOW_B_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "4df698882826c32c510fc2dae3c4952ce7d80ab877c227540ba98a6e97782e48",
+      "nodes_sha256": "4dc796f614f2005887a372773dc6c664a7cce1d39f6051fa3e26240506d65657",
+      "sha256": "261092133c3e9741494e956b0a0c8789becd387daabdf8edcda9ef5b0b059332"
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_GRASS_TUFT_A_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_VEG_GRASS_TUFT_A_LOD0",
+      "triangles": 50,
+      "geometry_buffer_sha256": "3d35c383cfaa9a86736287ed148aa554fafbc43ccda0501fdbf96ecb3f567d0e",
+      "nodes_sha256": "34d2d1cddb518b106f480916e43df8fd959a98138b24e8e191daff648132d65f",
+      "sha256": "018619a9bc25e9ee4fd97d6941f4d9ace55d36b7c180d3deffbc673e41aad946"
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_GRASS_TUFT_B_LOD0.glb",
+      "theme": "MOSS_01",
+      "model": "TW_VEG_GRASS_TUFT_B_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "20e1536db75a0a4eba747b90a5c8a0926e0fef3aa32da39a9437b7ff5eeba7d8",
+      "nodes_sha256": "2c19bb526d45d5be795cf131af364040dcb452dad5d4742a9bb84eb46d0ac878",
+      "sha256": "ac4aa8d1706f09219dc25522a4f9bdf63b99e9be7b78527c88e72048dfa801f1"
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_LOW_WEDGE_A_LOD1.glb",
+      "theme": "MOSS_01",
+      "model": "TW_ROCK_LOW_WEDGE_A_LOD1",
+      "triangles": 52,
+      "geometry_buffer_sha256": "e0a947fdb406fd932697faaaf42d92fcf3d3d67576690ba1e19126808901e75f",
+      "nodes_sha256": "4e4fa44a4f31078ad41a07c8321cdeb68527235f2137a8aaccd063caba610d0a",
+      "sha256": "6e64d45d937ed56fdb24e1f701d2f93bf02d76f48d3d74e5888e0386cd1f3533"
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_UPRIGHT_A_LOD1.glb",
+      "theme": "MOSS_01",
+      "model": "TW_ROCK_UPRIGHT_A_LOD1",
+      "triangles": 48,
+      "geometry_buffer_sha256": "c2082bd2309786c00d3442a093274c6f2a8eaa30fbb33221abcf40d7b7191a9e",
+      "nodes_sha256": "5c79cb8756d8e610ecdb7467d5731ff6b87668916aa29ceaa733ff3a8f742af1",
+      "sha256": "d108cd7032d3476a54a3552fc269772588b4149486166585811d98d2042d63a4"
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_ROUND_SMALL_A_LOD1.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TREE_ROUND_SMALL_A_LOD1",
+      "triangles": 244,
+      "geometry_buffer_sha256": "7363bdb767f1d014354aef16cf32e940a1cd33aad1214e2d786ac4a19171536c",
+      "nodes_sha256": "9be40d309dc7aff202ffb90a32616263783400cba7ca07d903d05cf7ea6938ce",
+      "sha256": "95e3a762a4c512a2a5db99b3dce8a839a4c7f5c295554851e4b8a50961a663a7"
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_TIERED_SLIM_A_LOD1.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TREE_TIERED_SLIM_A_LOD1",
+      "triangles": 184,
+      "geometry_buffer_sha256": "c5266c8ff27b546e4f17f2670958671613a8482076bd2f14f4a1b68147312519",
+      "nodes_sha256": "4beef12e1eceab9c672bd51a2f522c5af3e69ca9cc1e4d374a60bd6a49393389",
+      "sha256": "e39f56de128bff7344ef6c028ce5088b82963d8538843ad9c88e907019677684"
+    },
+    {
+      "file": "MOSS_01/models/TW_TERMINAL_POST.glb",
+      "theme": "MOSS_01",
+      "model": "TW_TERMINAL_POST",
+      "triangles": 20,
+      "geometry_buffer_sha256": "589cd8d46f6ead6b5914857326eeb57affbccb135da318b6c227a1eb5b946863",
+      "nodes_sha256": "1f1661cf6884c922e70fa3b055eb2c24dd8c3be052a45531143ebc65a67bc245",
+      "sha256": "2d5a3bbd48d9e76bbc6576718f00782d3f3f8b53be130d17e4cf7560af9045b8"
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_ROCK_LOW_WEDGE_A_LOD0",
+      "triangles": 66,
+      "geometry_buffer_sha256": "e8b927b673ed42b191ebc72a6a8de7d7110a91d87b630e5ac72fee5a3f35484a",
+      "nodes_sha256": "93fffcf13bfd3814351a920e71e52126459434a01cd7065e387954a24e4607a3",
+      "sha256": "26cfa5403896914887d8ae5f7001bb9056b700aa54905f78cc2cdc0742c19f92"
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_UPRIGHT_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_ROCK_UPRIGHT_A_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "6c9237ee8a23e12f7bd2cc053bc82bb40db784caaf0a277f2253edc3b311c4d0",
+      "nodes_sha256": "2ca57e3501a0e4494aabcad9a87589c860f230c5c06f579627acffbc50b2f3a1",
+      "sha256": "451d14a4b1b1daa9c544d5fc042fd0faec35a8db3ef9d7b5daee498da7c6ca16"
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_ROUND_SMALL_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_TREE_ROUND_SMALL_A_LOD0",
+      "triangles": 352,
+      "geometry_buffer_sha256": "65ff01404c9783e4e412a40d9269cdb062a4a0c8fbc0f745360bdf04cc3f5b9d",
+      "nodes_sha256": "f8c5ef6b1582384b5815352b5fffbc5af9645ecebc3bbf95b89493708f71c260",
+      "sha256": "08a02d505176aa002d1cd8c0660afa55fafba1f80b2b5150b4ae2915da2828a2"
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_TIERED_SLIM_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_TREE_TIERED_SLIM_A_LOD0",
+      "triangles": 248,
+      "geometry_buffer_sha256": "4421796fed21e674d41975ea5497ccbf1a8ccda274e887583dc2beafaa90112f",
+      "nodes_sha256": "7568392703bd2197d5a63ec0f767c4e75f9f207a334a4fe1e382c8c6d8fb750e",
+      "sha256": "625f6c3ceb618737b17f6d6ae2e5e12253f48f2917ece726384f6c1f7df4a720"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_RAIL_1M_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_RAIL_1M_A_LOD0",
+      "triangles": 56,
+      "geometry_buffer_sha256": "d2a1203da8fb083351edd3734dc5bb1e0b45bb207c00a937a695880ab3f56c4c",
+      "nodes_sha256": "8fd79be1102f9fb15a4871aa66f852851a8ad0a5585320765b9d8cf1ab3ab5c1",
+      "sha256": "6726d3402e27734e389bde888f4d573c824a6ba1f8e2ece9dd3101cbade3870e"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_RAIL_2M_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_RAIL_2M_A_LOD0",
+      "triangles": 44,
+      "geometry_buffer_sha256": "36d933b8631373d43bd7bf3a02f8d086dfcbb230a64081e9f0ce2025e8423245",
+      "nodes_sha256": "e7eb6d8436b296c3a50e436f4738942a15550272f45e5c1038521fee09b898bd",
+      "sha256": "352428530005883c6bbbf0972e731dedc7c7e92f074502edcc27d962d4c1135f"
+    },
+    {
+      "file": "DRY_01/models/TW_LOG_BROKEN_15M_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_LOG_BROKEN_15M_A_LOD0",
+      "triangles": 118,
+      "geometry_buffer_sha256": "d4bd4e075f27aa43432d4b57051a3e18557265b30f6801f4deb54cf99c3cc10a",
+      "nodes_sha256": "e76e89d6f50dbd413bc96f5d7960b0cbdb69d233bdcc71a1a4a4d27dc6e04cb0",
+      "sha256": "59fca1f443fbd79b38a02647875fbd4a8c929ce119518f6e44b4af1612a68e58"
+    },
+    {
+      "file": "DRY_01/models/TW_LOG_CUT_2M_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_LOG_CUT_2M_A_LOD0",
+      "triangles": 118,
+      "geometry_buffer_sha256": "6dc6bded3ac82d8d2055ac40b2a32358d2b9b1ed8e41d774c7613b7b79bdda85",
+      "nodes_sha256": "0d0b8847d64f6d6ab14529f3b3cbbc085fa333fd82d7f53e8d06615ab7126cd3",
+      "sha256": "e58bff98d693a65ff074d432a6f13d8cb9cb65061e55c620ee8fb9cbfea4159d"
+    },
+    {
+      "file": "DRY_01/models/TW_STUMP_BROKEN_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STUMP_BROKEN_A_LOD0",
+      "triangles": 118,
+      "geometry_buffer_sha256": "3918938887c540c629f5de0f1f0f754cb45db9fae160a899f00c8da982f01fc0",
+      "nodes_sha256": "fe600dcd6560f64a3d57666c97016bf929d1bbed78c0e37430e7f84d75b6db7a",
+      "sha256": "81d60f3d2d1c223f4c62f6c027b9c3a803f6d9e8820717db46810a8e62f0ad0c"
+    },
+    {
+      "file": "DRY_01/models/TW_STUMP_CUT_SMALL_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STUMP_CUT_SMALL_A_LOD0",
+      "triangles": 118,
+      "geometry_buffer_sha256": "c3c3b7911ae9b8b022aef06568ebf131720a05ba32b7881cc8bc8fc3c18e5628",
+      "nodes_sha256": "84a963e50e47748151fb06d61f41d31aab1ec54cecd6385c55ac4a542e1e5d4e",
+      "sha256": "38128936d3994dd803219c03cd97c50e909acf963ea08b8545f8ad04e90a3cee"
+    },
+    {
+      "file": "DRY_01/models/TW_GRASS_TALL_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_GRASS_TALL_A_LOD0",
+      "triangles": 90,
+      "geometry_buffer_sha256": "1431f696994b4a0ba3ba918ba395a1856d6d3dc632c339716a6a71cd71e4e44a",
+      "nodes_sha256": "3a836d4a5a710d2ec567c03218749ea479a8f47b0420be83dad7650841742b07",
+      "sha256": "425eb1a364fd14a267ac22437406895e7e8ac222efa406418f58b1f9f1b25c5e"
+    },
+    {
+      "file": "DRY_01/models/TW_GRASS_TUFT_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_GRASS_TUFT_A_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "bda3197ba3babd1800300196b29de584e9417d56144e771ef228bb84535def95",
+      "nodes_sha256": "5cf32f03b8be3e7aeb6bfe69f7993cc82dbf6549bb5bc2eee1df3a3dcf336f26",
+      "sha256": "6463cb40d19154b2047483272315cf154ce757b3a77b8e81b7d7f1291f063baa"
+    },
+    {
+      "file": "DRY_01/models/TW_SHRUB_ROUND_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_SHRUB_ROUND_A_LOD0",
+      "triangles": 126,
+      "geometry_buffer_sha256": "f345586f27913ac227b9ead7184b55022f041d87924d4aa3dd0b0176fcae5faa",
+      "nodes_sha256": "00fb5f5bb86a717afd657f3ef005c098f40f570972cfcebd47199efbe261be8f",
+      "sha256": "487db49f83cc528f007f87633b3dde17428ec83f3a3f79ae42d39d158e247dad"
+    },
+    {
+      "file": "DRY_01/models/TW_SHRUB_SPREAD_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_SHRUB_SPREAD_A_LOD0",
+      "triangles": 210,
+      "geometry_buffer_sha256": "5f08d96d4df5f3b9631f9313a68cd27ba7057b04596763ba878a468f8ddd8c66",
+      "nodes_sha256": "f3c0eb341e124d2825e88aae848d2898d5fcb2de8ad386d239fa82360df34d62",
+      "sha256": "5c3575338da0e56afc34da6df595f9ed2c1befc206570c863d00ce89096efc6e"
+    },
+    {
+      "file": "DRY_01/models/TW_CRATE_LONG_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_CRATE_LONG_A_LOD0",
+      "triangles": 156,
+      "geometry_buffer_sha256": "08f78dbecfa573b4015df7befe365c99e31538b5e227e6b33c4d366e3cb9c039",
+      "nodes_sha256": "afc204352b126fe8150d1fe9c5a038430230b2ef5dcc8221f2cb65d764a08e46",
+      "sha256": "03c7cf2fdd751ed59be6a9f55a4c657b67f428d020157fc16d50ab7a69d4af75"
+    },
+    {
+      "file": "DRY_01/models/TW_CRATE_SMALL_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_CRATE_SMALL_A_LOD0",
+      "triangles": 108,
+      "geometry_buffer_sha256": "f4f5e70490e238d957703f00a276c84c47b0b642c240c7f31c6bf7c7ff763d58",
+      "nodes_sha256": "6befcbec1dcb41278dd89b30a09db39a626157db95100b29686082c5fded950b",
+      "sha256": "33ef591975189bc440dd9559a7a98bc2b643e9eaf2548d3222c327e85585066c"
+    },
+    {
+      "file": "DRY_01/models/TW_SIGN_ARROW_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_SIGN_ARROW_A_LOD0",
+      "triangles": 28,
+      "geometry_buffer_sha256": "ddf50cf90a9bfe9a19be068c54bde88bc05724b7577177ad0df900d273814ea3",
+      "nodes_sha256": "796daac818d95bd2bb8a555db6a757d7f83f970526c0b2eda77d23443db524d9",
+      "sha256": "02a1af1160f9498ea5dd769e9bd4612fcd39ea1c722c1f4c50fe5309972b1436"
+    },
+    {
+      "file": "DRY_01/models/TW_SIGN_FORK_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_SIGN_FORK_A_LOD0",
+      "triangles": 44,
+      "geometry_buffer_sha256": "13f8f74044c266eed3a9476eda9e9bdbe1f8a98b00d0ddd3e337325611abf383",
+      "nodes_sha256": "0dd7cb31f8680df822a14a3a8d919dcca1fbfa7c4fea0c3f5ff7a4ae0ed55e00",
+      "sha256": "2bc999a2be9b8c41c5d5de606ed15750e456df4910e91588f860ff4c54d873e0"
+    },
+    {
+      "file": "DRY_01/models/TW_PAVER_LONG_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_PAVER_LONG_A_LOD0",
+      "triangles": 44,
+      "geometry_buffer_sha256": "d7159e2852c5667bbb857730f62bb321b47b44bc89036928844f81d89b787c73",
+      "nodes_sha256": "55a8b1f68b6d8c650017dd4a5535ecd315564dddda1c769e17a4285ae20cd17e",
+      "sha256": "2b9e78f203d363edb3622f72cb0324081250fdb58a10c69779df80a574c576f2"
+    },
+    {
+      "file": "DRY_01/models/TW_PAVER_ROUND_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_PAVER_ROUND_A_LOD0",
+      "triangles": 50,
+      "geometry_buffer_sha256": "c2a3073a6e4a5ab822bb66780768b2fc587074381069fe6d0599f3b586616d4f",
+      "nodes_sha256": "280931e3946ebd7e5d0cc9bc185db36203311b1bd75cef225ff400e18d25e14a",
+      "sha256": "fc92ab53a803acb530fc7118f944dbb9f5603cd2654b2eb584eaa55520a6e333"
+    },
+    {
+      "file": "DRY_01/models/TW_STEPS_LOW3_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STEPS_LOW3_A_LOD0",
+      "triangles": 36,
+      "geometry_buffer_sha256": "3bb55c32210adf68ced36e975ae6de86dc4e1ffc798281e9900333aa9268e59e",
+      "nodes_sha256": "6808032c674f39a6072438d43401076431f1a66f2eb0c526137003ca716a6397",
+      "sha256": "0e8ae2e4611f97a51eb747c088fd4010eb8306b12890957dbd12d65ed377d58e"
+    },
+    {
+      "file": "DRY_01/models/TW_STEPS_WIDE4_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STEPS_WIDE4_A_LOD0",
+      "triangles": 48,
+      "geometry_buffer_sha256": "87054c3db5ee7d03a7570f22b1118f8681b9188e93ced66fafe40176ce09cb81",
+      "nodes_sha256": "e0f9671da45520f71b159a37f5d6a3dcbd9c6e99701f5277006b1463721821a8",
+      "sha256": "d620b14e5edf4d51b17ca66e23e3e0aaead5b660504e11fb19955ee2d183cea4"
+    },
+    {
+      "file": "DRY_01/models/TW_BENCH_BACKREST_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_BENCH_BACKREST_A_LOD0",
+      "triangles": 192,
+      "geometry_buffer_sha256": "4bd8d39c12f6e5c68bd6a87c1ea4e192c67361d1164f9d219300a8f33b43c8d7",
+      "nodes_sha256": "fb1e628604cbef94b7bbb63e4fe247d002ef23bea451c39f317a372a9c934bcc",
+      "sha256": "19f659ce617f5bcc365c99fa8b5842a1220ba89e11360df0d4a28847bbf96dc6"
+    },
+    {
+      "file": "DRY_01/models/TW_BENCH_SIMPLE_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_BENCH_SIMPLE_A_LOD0",
+      "triangles": 144,
+      "geometry_buffer_sha256": "0360d33f119d30ac13107df51c16deb70cdc61c484c2cd7a198dbacc576acd68",
+      "nodes_sha256": "ecccbb7ece18facd6c606185eed0376fb5f31061a0ce1e7e91309d32ed489fe9",
+      "sha256": "8f0b70408fd41fa5a0806b0bd17fa2b5b9ccc88f149a23b4b9d8ddfe12061766"
+    },
+    {
+      "file": "DRY_01/models/TW_TABLE_LONG_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_TABLE_LONG_A_LOD0",
+      "triangles": 144,
+      "geometry_buffer_sha256": "e3e5e93f870e749957e7f580c751953c10bbee7f049be7dd9515aa72c8bc70d2",
+      "nodes_sha256": "0e933ca73f7019e3e83410e87b55f31765f1e71128e42d998bf3cd35bd1063b0",
+      "sha256": "2ca934afa3af1ec09357b61798d35b582ba21c8940cc1b7ed88a99b7e0b68487"
+    },
+    {
+      "file": "DRY_01/models/TW_TABLE_SQUARE_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_TABLE_SQUARE_A_LOD0",
+      "triangles": 144,
+      "geometry_buffer_sha256": "cd84acbbe01148c0ec868bebc807e6231cf341e02afe0b8df2b19e497b82cc68",
+      "nodes_sha256": "c123a928055e07804855bf557be8d083d24433fb59b55a1e2446198d34b2a491",
+      "sha256": "5a6cafd58e90f51d73aafd9cd3d4b01efca95ba475e820129703d6a308fafa46"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_CORNER_L90_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_CORNER_L90_A_LOD0",
+      "triangles": 88,
+      "geometry_buffer_sha256": "4f1fffa0501a51c86c5aa5066fd9a2b372fc20a3072aa8a9df929abddf6d7e9a",
+      "nodes_sha256": "eb236d160ad866d0fa13ad01ddc820e0734c19d63e8823ee09f1501714c44a4b",
+      "sha256": "ba1bb096e2a4114b28cbcc99983782785b1d8bb1b09020c57a9ba5c6a6657152"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_CORNER_L90_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_CORNER_L90_B_LOD0",
+      "triangles": 124,
+      "geometry_buffer_sha256": "10e7333e40b485178f2f00aeb82a43f240b18d5dfe0cbb4b65b52b688e83f171",
+      "nodes_sha256": "02c256ec240ff2c886b4e411c5188605e00ea686cd518fac15f1191f5be4ea60",
+      "sha256": "2edf6add36c5e3d024eeca8f81e8e9ed8c8846ee4ac50981c33412d0089482dc"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_CORNER_R90_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_CORNER_R90_A_LOD0",
+      "triangles": 100,
+      "geometry_buffer_sha256": "6f0abea525bd9737456352e95c136eb50db5709dc87baa159d3df89d3d1891c3",
+      "nodes_sha256": "47b60af443578255608eb51f43738db0bd8d83a0a10e1e55c10995f4cb5f8af6",
+      "sha256": "093a1de8714965e128192dbc1a4d0c77a050b0c745e32951a502a0e80ff7ad25"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_CORNER_R90_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_CORNER_R90_B_LOD0",
+      "triangles": 136,
+      "geometry_buffer_sha256": "6ed5ee92f40a31185e4f070a214269c37dfe1f4ca644fc2433f9f7046dddbb61",
+      "nodes_sha256": "2ac1bdd4608ff065523def45d29c345741b122706c37b6feb19b3f6f1335c6f7",
+      "sha256": "db4173b54fb193bb16ab4da8ee6809ada3bbe8ab508c51404fec351c86e9a09b"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_END_BROKEN_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_END_BROKEN_A_LOD0",
+      "triangles": 36,
+      "geometry_buffer_sha256": "d01eb2d5173d1a49fef0d4be599fe5b937928c40455535897555afcc6b85c148",
+      "nodes_sha256": "b1a30b5bdfddce2b7fa52929ac991f499d32e43a11ad7548f1f68dc0b3dc0ce9",
+      "sha256": "422ca9b9e3691d2a59a63ac2c1e300bd330c83a73b98169de4604237182e7c7c"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_END_BROKEN_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_END_BROKEN_B_LOD0",
+      "triangles": 48,
+      "geometry_buffer_sha256": "855aca44d4cd0a3f408bd7f72727ce488b361f4a7c86041690c81ed2b1d3096f",
+      "nodes_sha256": "b4c6d3a2920c8a8b9791bbbc8556a88124094fd72722b389a40ba44ea359fd5a",
+      "sha256": "5a0d989355cc12aca494450e3f61e8327d4dc5c07fea4344850b1c19304b0efa"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_END_CAP_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_END_CAP_A_LOD0",
+      "triangles": 32,
+      "geometry_buffer_sha256": "f39cbd706f40c64ea55a09724a8c096ab923201bdfa206011585cf14b0da176f",
+      "nodes_sha256": "092f75ffc17717c1cefaecbbc33319368ea8e881413ffe2466829c731dd47058",
+      "sha256": "27934289cb4b358d33a68e76cb956a3d6f7ec811d2de1ca4a2e45b263599f62c"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_END_CAP_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_END_CAP_B_LOD0",
+      "triangles": 44,
+      "geometry_buffer_sha256": "23adf7c81672bf64a692e7fae830be1fc094df8ba7d198452053f96fbaad05d6",
+      "nodes_sha256": "0b1d87680b3e75dcd2f2c7a9b1a95f6cbf869a929131b49473fd27862118b404",
+      "sha256": "458963b7ce9faf13c5343dfb472c768738ecece3d12549c10dd6e605572d8253"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_GATE_FRAME_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_GATE_FRAME_A_LOD0",
+      "triangles": 76,
+      "geometry_buffer_sha256": "d700ea6460c03f83f51c7571ea31f31f3b6dda75b164449329ca133aafa7258b",
+      "nodes_sha256": "f13ff888c7e9a842e458042438c80274f0ec9b566120c19527c13cd93adae659",
+      "sha256": "cbdf0ccedf92546a1f493676346b424a3630303234277265c461153ad7f38248"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_GATE_FRAME_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_GATE_FRAME_B_LOD0",
+      "triangles": 88,
+      "geometry_buffer_sha256": "208dca2985df93a0bcf5fdb2ab6a2b74236c4b5b41458cdd1e542a76c616ca11",
+      "nodes_sha256": "60ef951f0036b521b57df8fb974e8a4c02bb98e2b07ca770e384753d0c4ad007",
+      "sha256": "6e795347748e162d9458270a32efe2c02d187e97777b6dcd2a971de2e1f1caa2"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_GATE_LEAF_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_GATE_LEAF_A_LOD0",
+      "triangles": 108,
+      "geometry_buffer_sha256": "ad41db2c77d276954ab8e1f3a6a53a1d3a3cae09fe1bc813cb45183fc3e1e9b9",
+      "nodes_sha256": "04d1ebdc2aa1ed089f92b39bd159add75cf41d2d8954952fd7fbdb02d43e0893",
+      "sha256": "c667c7dcf459c72584299447972c45fc0253f168d6e6eb206c32b8b5a039fc70"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_GATE_LEAF_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_GATE_LEAF_B_LOD0",
+      "triangles": 132,
+      "geometry_buffer_sha256": "0af8184638e6c26db5d8e2d527fa1d22647cc0cf37cfde14c735bc3e191d0953",
+      "nodes_sha256": "1395053990fa94cd049e0e53e1a76b788ed92208345ef71ebdb11b1bc00211b5",
+      "sha256": "60de6af7ad36e41df0bb09af53a1d731dd719935c84c76a8306d2c5141a01e3a"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_POST_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_POST_A_LOD0",
+      "triangles": 20,
+      "geometry_buffer_sha256": "dd92a7cfcd0306c1cfdb6eb73b3a761a1cc58a6135f2f78132d55ff05cc1076d",
+      "nodes_sha256": "658f09600af731ba3f10e686ad7f4e9fa5c255954811278d5a383853474e43dc",
+      "sha256": "7342800448bd574817c28d87f5fb0fbbfa6d4ab6744c4e324a058f435a1516c9"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_POST_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_POST_B_LOD0",
+      "triangles": 32,
+      "geometry_buffer_sha256": "49110d84ff87397fe63f295c91a3516d70d6669480b62ae2ae6864bf718e6db1",
+      "nodes_sha256": "d15bd9f0468d13527a779bde8e882b4ed30be01259e90c4dff0bcde960ac4b7a",
+      "sha256": "97890dc418bf8039eab6c1a5c61482db37913ff67a14e8c94db1107043ea74b4"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_RAIL_1M_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_RAIL_1M_B_LOD0",
+      "triangles": 68,
+      "geometry_buffer_sha256": "b8fe0a1672a651c405468dfc39749b7c0c9a87842b15e41e6fe2e0e6b18b874f",
+      "nodes_sha256": "7c73bc878278b997b98ef9fd9072a78c7fc64af1d2d2c02626a430cfdaa8b1e8",
+      "sha256": "717ef59712097c786521b74982ec5359243fd3a595b73a22ca06be1a098ccc01"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_RAIL_2M_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_RAIL_2M_B_LOD0",
+      "triangles": 68,
+      "geometry_buffer_sha256": "cba8035c22599f675d9080b5f659953d1a94553da69e6577cf039712614a514d",
+      "nodes_sha256": "4be9f85d0809d61cb760fe7085c3e241e5c7888b140bce4e4a7bc725105c65f0",
+      "sha256": "af76ff5ea6bd542601fcc8a233162dab99ed9423edb23a141f44ab5eba5206d8"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_RAIL_4M_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_RAIL_4M_A_LOD0",
+      "triangles": 44,
+      "geometry_buffer_sha256": "46f85348ac131c9ba7b643060411f986c113631e4f7860651ccd29fbecd0d8c1",
+      "nodes_sha256": "2b6ac7881cdf7a7cee60ad33e72516a6cc5923ccead67cec7ae79eca065120d3",
+      "sha256": "68617f6c9ad382d3dd0fb36d07ff875ba6f7ba165618a1d363d35bcfb7a443d6"
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_RAIL_4M_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_WOOD_RAIL_4M_B_LOD0",
+      "triangles": 68,
+      "geometry_buffer_sha256": "0205a6dfd1bc81f1e1d182d42f7b66c8ea1fae9715fcc9b71eeefbf37b2c1afe",
+      "nodes_sha256": "20c0b132f5497a3dc01b71a006439620839dad07702c94c13c4a1de6c2c1b498",
+      "sha256": "4d543fd170f1341afb1b3558fd69905605917b0828e4edf61a584d312c243b4b"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_CORNER_L90_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_CORNER_L90_A_LOD0",
+      "triangles": 240,
+      "geometry_buffer_sha256": "450523f557fef9a18577b4fd17662eb7b23f4f71bbff1e81aab26bee2713bd35",
+      "nodes_sha256": "9b673d1bf1dfa47d9ba6be52009bd76f25314bd4768585caca751a2d9fff8c37",
+      "sha256": "0bc252a425666c848b6d1a0f8c47651a0a4fced337d8263589f14d45afb52056"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_CORNER_L90_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_CORNER_L90_B_LOD0",
+      "triangles": 312,
+      "geometry_buffer_sha256": "b962808cc0e2677da2b3ec53c4a56441685f94038a79b556c31317a30736794c",
+      "nodes_sha256": "50dc72fcdc859dbbb96fe974db4a7e57520177db73c50379ff8923c395517e22",
+      "sha256": "aaf6b07cf8a0fe231a954d9de26c2cde0eb1173320d2de4d11b30c1712844dbc"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_CORNER_R90_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_CORNER_R90_A_LOD0",
+      "triangles": 252,
+      "geometry_buffer_sha256": "993f9726bd84187ff214ef85fe32fecdd8868d008a00b02685124606bf9ac0b3",
+      "nodes_sha256": "eb6e011f29ec6ce35e223ff48d9238c04c86a115486ab6948b9949c55670fd71",
+      "sha256": "6a132cb588e9a3cc789cf91e133ae09b2d0833950d05c0422a840da71249a1f8"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_CORNER_R90_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_CORNER_R90_B_LOD0",
+      "triangles": 324,
+      "geometry_buffer_sha256": "e77ac837e83c42b13a8cb87ecd76fe223fb248aee45d2b9a9ef53de9759b1b3e",
+      "nodes_sha256": "4d8aa746b5a2165fae4adb83a97b19a26bb66fc264db87788312610a9fd87ac8",
+      "sha256": "dd20b8478dd6122b159e5996e2767b6e55064008ade1e024390dbf81b60463e1"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_END_CAP_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_END_CAP_A_LOD0",
+      "triangles": 48,
+      "geometry_buffer_sha256": "62430b7a5f447244dfbca93dd55e771934b9c83b5ba8d93d216841b3f49237a4",
+      "nodes_sha256": "2e8e446885c7cc2ab4d5f4a8dcdbfa7c5ee3a69c3f6408d980e9e4d7640bac33",
+      "sha256": "e8731d01d8f74addaa1905837331710a4939b69a2094cf70ac1f347a5a1b2430"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_END_CAP_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_END_CAP_B_LOD0",
+      "triangles": 72,
+      "geometry_buffer_sha256": "cbee6a2f0f2801991f56413321b5e33902eb6035fbc3cc410ca1e7dac054811a",
+      "nodes_sha256": "6e402598b8895cfb2759e923f0c9b1e1427ce850490cc94a0b3d05a4e3bc0103",
+      "sha256": "093a0e72c88a7e2252040b116735387ce62b9047e1bd0d077ca75ed2e02f0a58"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_END_RUIN_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_END_RUIN_A_LOD0",
+      "triangles": 60,
+      "geometry_buffer_sha256": "0b33d59a9859dd5060d441dc12e642d6aea23ddef7f6234512f0b98be255285f",
+      "nodes_sha256": "e5046d4221fd01d18a5710f521c7722d5815ee7aa7bab92b0fa84f54da66f2b9",
+      "sha256": "f3ba4b6995ed4b4cfc43f5446bb7a613ab980cd64b1e1c0751c44d82d2605b0d"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_END_RUIN_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_END_RUIN_B_LOD0",
+      "triangles": 96,
+      "geometry_buffer_sha256": "96cea02b4dea3f8884611779ab74e281a093fd41232b7f1c571f8fd5925332fa",
+      "nodes_sha256": "c8da09075d39d5b04f9a83b9d0e9cef5667613eceeb2a88743aa039022d03d4a",
+      "sha256": "f909e8d5c4bbe20ac4b744b2f783016e81d3c5148cab9a2fffcebb7945e92655"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_POST_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_POST_A_LOD0",
+      "triangles": 36,
+      "geometry_buffer_sha256": "23b502eae7b9f1d223927b7b42e25ef2c809a2ab724f2c2660175c4548aedf4d",
+      "nodes_sha256": "5902bbd389191167d27d5435da106e32e9fe24e207184a334ed5541c3356ff7b",
+      "sha256": "416bca20cd765437e6f7fec7e3c79de5436172fb1783e08238bd9be23ea03277"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_POST_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_POST_B_LOD0",
+      "triangles": 60,
+      "geometry_buffer_sha256": "88337ccd0318f7baaf0bb5f476288913b187a9dc36acb8917cf7a6deb145982b",
+      "nodes_sha256": "4c95f377dba8fa59e9f4ef54ffe24075fcc135c7ae36a52c985a75f20ff4ac23",
+      "sha256": "e51495cd670fa83afb5ea6559d78e52d31579fcd0793ecc0509c006d79e61e20"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_WALL_1M_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_WALL_1M_A_LOD0",
+      "triangles": 120,
+      "geometry_buffer_sha256": "bdf80ab46c6834484695748d31e052e726665265bcf3f1da52f73a65003db97f",
+      "nodes_sha256": "ae8a529706afad4e9883451714117bfd74de9bbd6f2d72191b9832a413d25d95",
+      "sha256": "70898b880d633e108efa61c51d7117187a90e419357026c559a63806ce591059"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_WALL_1M_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_WALL_1M_B_LOD0",
+      "triangles": 156,
+      "geometry_buffer_sha256": "919d9214158fa402d62cc0ff77ed4fac6b72ed40bcc59d5819f3031ade43f364",
+      "nodes_sha256": "c22c2accfdcb12d6718424317f1ecd692d3b64593ea5c0dd381c856a1ea62c32",
+      "sha256": "96dc3a5004f9875b36504416e09f1b1da8a27ccb8dd51d553886c4de3c324f50"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_WALL_2M_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_WALL_2M_A_LOD0",
+      "triangles": 192,
+      "geometry_buffer_sha256": "f4f0748a604629e9cb3605e8b4dfc87de38a67563506673a6fbc4a13b0990fa5",
+      "nodes_sha256": "862bc3710335d0c37681be64a4c023b646b29d5328595b1e2a665dd3099a700b",
+      "sha256": "7472cbc6b40fbd4f25e2732db1eadcdd0f02ec450c977ce56cddd5f29d40ed4f"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_WALL_2M_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_WALL_2M_B_LOD0",
+      "triangles": 252,
+      "geometry_buffer_sha256": "b76ffbdd05d9442a7f81e74d22c3a017b69bd105cd186f9897e6a60dccbe1ac4",
+      "nodes_sha256": "8012d501f0f9f867ee58db61e8f21a24795b7086efa7c19d6cc6d22692f8626e",
+      "sha256": "8687ee298414464cfd7f9a3474d2b9ffdf46f347693a76bd86225891e6bdc021"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_WALL_4M_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_WALL_4M_A_LOD0",
+      "triangles": 372,
+      "geometry_buffer_sha256": "3e9072eaac509936e9839cd9666e0dd85dc06e5641115bcefda75c869e931c88",
+      "nodes_sha256": "0a79e099b4e1d0ec87f5f17db15369e735b6a167a25fcec6a66908cb70fe1639",
+      "sha256": "6593843677e7080a5981dd73e5a201e2b4144abb00ef2d8639b01cb99f142d68"
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_WALL_4M_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_STONE_WALL_4M_B_LOD0",
+      "triangles": 420,
+      "geometry_buffer_sha256": "c896458d4318f6d1bd1eec61e9a1613f89e480fe97666be600ea62f27470361b",
+      "nodes_sha256": "5ba9109e1604126afad2979f80ab17baee55dc31551d85eb4d7d7aaab8a57d88",
+      "sha256": "1857c064203e90f401eee4de55ab10147d0ce1e4964829055927f8407f935db0"
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_BRANCH_FORK_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_PROP_BRANCH_FORK_A_LOD0",
+      "triangles": 48,
+      "geometry_buffer_sha256": "4db2a248abb3df325139d16024897fb4000f7e1640afdafd01e04ac4d22321f9",
+      "nodes_sha256": "e03e6327e0af20c6126043431ff6d135dc94b5e95a11d389ff461a1d40b4b176",
+      "sha256": "66233b31413474df4324935b137cc038cbe76ab615929ed82ea904b345510581"
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_BRANCH_FORK_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_PROP_BRANCH_FORK_B_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "6c3bd4555a19cff3a76b5b58ffffd0da5c771fa43956bba0becb721f152a0f99",
+      "nodes_sha256": "e39f54075dbdade27bed637039c275b5791c220fe11ffe6849d93e2685770c53",
+      "sha256": "4180e50bdc587828ff4262f35975c10174d5f73346a550a64d5546b8a4131f04"
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_BRANCH_PILE_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_PROP_BRANCH_PILE_A_LOD0",
+      "triangles": 144,
+      "geometry_buffer_sha256": "c94e771c7893fca57eef25b589d740c73c789f7a11324f071bf17f24df3ec341",
+      "nodes_sha256": "911af8e48dfdce700a1d3047eaeb1f73df2a2c4650ae1e9f980a3804a34bf5bd",
+      "sha256": "8990b8415b5a539d6355ac4fef2df5fbd99f8e1578f3c701948e769cc391b15e"
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_BRANCH_PILE_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_PROP_BRANCH_PILE_B_LOD0",
+      "triangles": 216,
+      "geometry_buffer_sha256": "9051946b6c4b6f2d91c186037d1ae6764a35aa84e6832c67eed822171e0ebdfc",
+      "nodes_sha256": "c071f6bd572cbe79da2a7819435cb035663486a7a9a0256c354dae50024136ea",
+      "sha256": "f785a49411f2df2a3b177d9961838407b13cf1301292ba7521be4825f9884de9"
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_LOG_BROKEN_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_PROP_LOG_BROKEN_A_LOD0",
+      "triangles": 124,
+      "geometry_buffer_sha256": "375838aa872b7f37a18e2afda91b343008bc55c69dcb92a2876746a782d9cdf8",
+      "nodes_sha256": "4a757970aa6a5ac2af3b3e78adb7bf15faad2f8f1ed8aeb53067a1bc4359698c",
+      "sha256": "71144c02001a4c76f5c1e86e929473b8baa6d1d2af8210843ac660f7f2c7684a"
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_LOG_BROKEN_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_PROP_LOG_BROKEN_B_LOD0",
+      "triangles": 166,
+      "geometry_buffer_sha256": "bed5ef893bfc445df6fb45398d935fd9252912da04be97b0e9c61ecca90d7f51",
+      "nodes_sha256": "d85d2cb612871523161672eea1900c25a7692ac0296bc398355dbbb0d2a23125",
+      "sha256": "0febe3af6e866366ed3130201e84c061f6b19a781697ce37e369c17feeb06f5b"
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_LOG_STRAIGHT_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_PROP_LOG_STRAIGHT_A_LOD0",
+      "triangles": 76,
+      "geometry_buffer_sha256": "549c5bfcf1bf44dbb74f23cdc6ef54710325ad7e6050d83a51a93fb8979a9066",
+      "nodes_sha256": "459c240442bd91120f649cd25c08964d36f4c66e97396cc2710ac14008ad1d77",
+      "sha256": "1eb083662e6e5a9da5cdaae48c80b717b8e5b1b63c228faabd36c7e2cee0f7d1"
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_LOG_STRAIGHT_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_PROP_LOG_STRAIGHT_B_LOD0",
+      "triangles": 102,
+      "geometry_buffer_sha256": "0b963d6bb0e973b96da5aac1ce61f4533bd65fa0fb27f7bda6e97db6e0dbed49",
+      "nodes_sha256": "89adf5436a111e6afc5144224aacee0f0202719affe8adb2dbfb4be1da89f5d0",
+      "sha256": "e83d166bbb9425d6495b458474275add511249d8019d21ffeb30d70804aca2ff"
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_STUMP_ROUND_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_PROP_STUMP_ROUND_A_LOD0",
+      "triangles": 110,
+      "geometry_buffer_sha256": "8f032680a3e1552dea5ad042983a277c1e8652097f92fec3c24fee9aee898658",
+      "nodes_sha256": "0e47f4bad9cf1eef40df4136333a8baa101f119f3cbd254ca47ac86d2c14e75c",
+      "sha256": "eaa6b2f4b73635353d5ffbbaf3820d67bb1168b040f4076e2b09e3949a940a22"
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_STUMP_ROUND_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_PROP_STUMP_ROUND_B_LOD0",
+      "triangles": 136,
+      "geometry_buffer_sha256": "0dd2312321d8a66bcd2f93b5907addb2f67b5c08e192cc89d12220463f1685bb",
+      "nodes_sha256": "39648fec51f24dea9bac602b3c4e33750703d78de09ccd626f2b4a51cfccfd1c",
+      "sha256": "1b5505b1e0ec35fa2e7a3ac90baf83da086d4cc72bc50a48e9a010b1be225d82"
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_STUMP_SPLIT_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_PROP_STUMP_SPLIT_A_LOD0",
+      "triangles": 76,
+      "geometry_buffer_sha256": "90d205eefbb7eb2d31ce752c853334917795da07355a28b9e65fe05266284ee4",
+      "nodes_sha256": "d35da8845bb13b3f445c85975e8caf20b642f3643a21a5d16b890fe3974a8020",
+      "sha256": "c00679a1401ef8602418e94eafe09b9d3bc40d452b6b79681f40ecb26dabb18d"
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_STUMP_SPLIT_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_PROP_STUMP_SPLIT_B_LOD0",
+      "triangles": 122,
+      "geometry_buffer_sha256": "4d179a1cfa7e778df336d72d043ac73103c9359f6317b4eda3adc69b2cd27b5b",
+      "nodes_sha256": "da6eb6c7f76660123ec6652d0881a92088c3b74dc5fa5931eb942e53bc869ecc",
+      "sha256": "ba68f0f14e65590b17cf58541d7fcecf7508aca3695fe19b9e344b25958efda0"
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_CLUSTER_LARGE_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_ROCK_CLUSTER_LARGE_A_LOD0",
+      "triangles": 260,
+      "geometry_buffer_sha256": "08689472e0844a2ffd5295b26d78828425e712edc20bef082289a3e78b1ef609",
+      "nodes_sha256": "7268aeb9c040d6744304600f9fd68d8cd0a2a728a630d4cb5934f488fa686d0b",
+      "sha256": "659d88756871ce108f645224e7d12fc361b6f388e5233865c47a2282d172c1b9"
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_CLUSTER_LARGE_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_ROCK_CLUSTER_LARGE_B_LOD0",
+      "triangles": 360,
+      "geometry_buffer_sha256": "b75fdb4644cd531e2d39229344a28c61bf5dc3117998f5b379fd6d41c1c4126f",
+      "nodes_sha256": "ce4fa6b0908e6ae625b94ee12ced1f8f9d7162b71249ac90bcc1cce8482bc266",
+      "sha256": "670f5718995eecdc9d0012d02568a037edc510f8cafb5daa8eb38eb0eddf09fb"
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_CLUSTER_SMALL_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_ROCK_CLUSTER_SMALL_A_LOD0",
+      "triangles": 156,
+      "geometry_buffer_sha256": "f885a8f8c2b1ccf34172575e06a5b09fa272e95ad3005e38da6c2af89a252401",
+      "nodes_sha256": "dcc57ff8e55c982419d3945b451917cdeeed1dd2044455241fdb6c548b5d96cd",
+      "sha256": "8f4dcf4631736cd9ebb0be71db5988ecf7ba48c24ffa913ddb4c98746818509e"
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_CLUSTER_SMALL_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_ROCK_CLUSTER_SMALL_B_LOD0",
+      "triangles": 240,
+      "geometry_buffer_sha256": "2a24d414826c3a24c9a890e39873b731c88fe1b2be375c464002b08a7177409c",
+      "nodes_sha256": "47706697b32a0b4fc64fd94a6cdebc9303d23395e1bdc42c690e36f1f74a3c5c",
+      "sha256": "dedf87362c67cc5f6aea5f69c334125f0ef62e5fff2971be940ed46489fcddc5"
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_FLAT_SLAB_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_ROCK_FLAT_SLAB_A_LOD0",
+      "triangles": 52,
+      "geometry_buffer_sha256": "7deceece187cdca9e31732c9a62f0cb83188e12f566e50f8b9fe1c293684a9ea",
+      "nodes_sha256": "12716616843c0ba0a64e6ab6a6093dd379545854d02b30ebdfdf5ca7aa258646",
+      "sha256": "5e52c83b64a4de94f9f4fe8446132862b275a3cab5d17f5fa22d12e35b0b34c4"
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_FLAT_SLAB_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_ROCK_FLAT_SLAB_B_LOD0",
+      "triangles": 60,
+      "geometry_buffer_sha256": "786b4c28c45e36c3a706c0f110eff170bdf39fcafe181f52b91b8e4af285412b",
+      "nodes_sha256": "93262e89dd17785fa34ec23ed90f41e2958452497b6015eb854fb566a84eff78",
+      "sha256": "1cd41c3c7eaba32fea6700872a656b185bf6c969864c0698dda07af4d334ff52"
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_LOW_WEDGE_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_ROCK_LOW_WEDGE_B_LOD0",
+      "triangles": 60,
+      "geometry_buffer_sha256": "1b3d52591b14e561f6c667e9039eefcfd35c78f61e4b9a48a454e1fe2e7f1b43",
+      "nodes_sha256": "fd6e3bc6a018a8a3616f7974e69c34f7f0e2b2cd28e1e490e04e33b303d29729",
+      "sha256": "e4b24369e9da8e6814a2303a96611e48d8c0a2dd73ece6db38af52159af7abcb"
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_SPLIT_MASS_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_ROCK_SPLIT_MASS_A_LOD0",
+      "triangles": 104,
+      "geometry_buffer_sha256": "f3f7ceec73862de820a6cdf48aec4ab82c2a57cdb784f68df193ac658d4a2ade",
+      "nodes_sha256": "f434c73fd13a6c1097ea2f0ef457af0f2a185a27a04c059490efd62c89075b3b",
+      "sha256": "6c673900efcc4135763fc96524490c58f28a2c4e011e24a70c28884f533e0232"
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_SPLIT_MASS_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_ROCK_SPLIT_MASS_B_LOD0",
+      "triangles": 180,
+      "geometry_buffer_sha256": "f77bded03eb19c9aa328e6713513032b613669577a5190b3da71318389575d12",
+      "nodes_sha256": "90691f1b2286cd6659618e68e1a9b81eb439a5c7ff572119de0de653f987d848",
+      "sha256": "d4b9359e9e499e980066b4288a0525f7c8b05df4f4da0a4d23dda1f4d1a35c7d"
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_UPRIGHT_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_ROCK_UPRIGHT_B_LOD0",
+      "triangles": 60,
+      "geometry_buffer_sha256": "98d265e62787a442fa7f59306b906334d55cb957019e9f5951d1d8fc755ba52b",
+      "nodes_sha256": "62b020742c79905601a3d035febbacf603c93bbdd4ba8abd9a6a0564bfee76a3",
+      "sha256": "425934d2f53fa1e47d5a3ffa5e597420d790a0801407205c01c6c180626381ff"
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_DEAD_FORK_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_TREE_DEAD_FORK_A_LOD0",
+      "triangles": 156,
+      "geometry_buffer_sha256": "f084dffb0949e0be845d60b4e543af27fc9b1f7bf913af340a97a7ee4cd65114",
+      "nodes_sha256": "6e32fa602e9c51338dc3e617c98812a87c859453ff6d4ade3e58af4d8fc925fd",
+      "sha256": "959a67f322c0d4bf1dd7ddca38fcb7fcb0bbc541c24ddbb69457a639265dbb32"
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_DEAD_FORK_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_TREE_DEAD_FORK_B_LOD0",
+      "triangles": 212,
+      "geometry_buffer_sha256": "21e137d4a83d3c8945f2c8a9987e8d7fc70b94d0918c3b20d1267dbf8b7b29f5",
+      "nodes_sha256": "260fbcb8db6eb7f04ded00d9305df0ab1fea47614bbb46ef1afb108b0506975d",
+      "sha256": "040f46ddb7315f945db7dc22ee4cbd2b86fafa618184dbdaf4076f261e522ed3"
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_DEAD_LEAN_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_TREE_DEAD_LEAN_A_LOD0",
+      "triangles": 124,
+      "geometry_buffer_sha256": "0bb56b50c0d5c1a4f2e8da2e31206bdfb64e18db098aa42cc19835d0f11f0695",
+      "nodes_sha256": "4c22ff960cb781a2c028bb88beeba3c896302def61ebe62a26258863a3fc8030",
+      "sha256": "5f9518b9b6356bd35ac690ceb050f81b7711136f2cfb6abaa7c8930f0c1af0fe"
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_DEAD_LEAN_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_TREE_DEAD_LEAN_B_LOD0",
+      "triangles": 174,
+      "geometry_buffer_sha256": "70b2ebee3f4ce048965d999817167383acf7b436778786c32aa9a2f649f6d9c7",
+      "nodes_sha256": "2ad0ab2f430126ac3b4530325f1b26763e25f7249361b5817b0e3ae83a2d6494",
+      "sha256": "ea8955b55fdb229b17b82a1dd78ebe0345183f33990458e930a26c318a0cd8bd"
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_ROUND_BROAD_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_TREE_ROUND_BROAD_A_LOD0",
+      "triangles": 380,
+      "geometry_buffer_sha256": "3f84d2c188ddffb4f9a83200f8313a2fd4c8a6753ca0075f4db955143e0d10bb",
+      "nodes_sha256": "7b567cbf8856adc4c1179065b839b0855b63eda257f92c698b09ad870bddd03d",
+      "sha256": "782fe5846dc9652088a872a61704485654fbc48f533120d62e9d6b8ae2ef5d73"
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_ROUND_BROAD_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_TREE_ROUND_BROAD_B_LOD0",
+      "triangles": 478,
+      "geometry_buffer_sha256": "988646d81afd231a61988fa522ada7e9d037759e88d28a24e98a8c33571ae45f",
+      "nodes_sha256": "ae4ec3a563bfbc7136c97a8e94e4397a887a566495a145851d86858bb396f7c4",
+      "sha256": "61617400baf766cf38434e1c305e4e90d0a29488ff6cd5743949ef949d9a762d"
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_ROUND_SMALL_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_TREE_ROUND_SMALL_B_LOD0",
+      "triangles": 404,
+      "geometry_buffer_sha256": "847f65303063a8947994dc354300468b38bcfedfa518ae64bd6c3708ba4c449b",
+      "nodes_sha256": "83b5747c4abb9571668633d12ae92bd1c96023a05b79a7f222a1ee5eb8f35ab2",
+      "sha256": "98b007fb27b21f785a164caa9eec3686dea355030544a7e9fd5e1a6930b30528"
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_TIERED_SLIM_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_TREE_TIERED_SLIM_B_LOD0",
+      "triangles": 268,
+      "geometry_buffer_sha256": "652f36712380e43c730958b241b399fa4515d1a50a78aef7d1f34e723741e57b",
+      "nodes_sha256": "a9307ff9d470f5a0899bed457c3230e2ff2a388e8620d7dba82538fda951d78d",
+      "sha256": "f3dff2f524328711d456562c57d7ace36960b694123e953dc5855794eb302011"
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_TIERED_WIDE_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_TREE_TIERED_WIDE_A_LOD0",
+      "triangles": 198,
+      "geometry_buffer_sha256": "9e5c1f79c18df981ed12b2376d81ea027d635f400a72bc73605434193c63048f",
+      "nodes_sha256": "8adcd6f9761ce57690ae95577d3ace1acebda7b2d2a26bd9dda6eb671e3afdee",
+      "sha256": "46019cf6cd469f34be0b8de1ab5d9119a4c5f1e9a226b815348fb837f57f7024"
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_TIERED_WIDE_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_TREE_TIERED_WIDE_B_LOD0",
+      "triangles": 268,
+      "geometry_buffer_sha256": "c35a8b794a74094cf0dcc713a10d5b85133ba2aa369853aee7692725ae151a5e",
+      "nodes_sha256": "9c6e025d2f820366c8b82120873604ddbb427475214f1650f231eff6e72e4355",
+      "sha256": "017ed0af0fe1ba52d8d049d432b1436f64007cd13f4296107e36ed594a5b143b"
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_BUSH_LONG_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_VEG_BUSH_LONG_A_LOD0",
+      "triangles": 112,
+      "geometry_buffer_sha256": "7012467f195e27d54358dfe5b25c5c1084109c9ef88777e0645e528fea459a4c",
+      "nodes_sha256": "c0eef3a7b7faf4113defeefa95abebabc94b6f3444b6f7455db371cd9fd0b44a",
+      "sha256": "1adbcf8082693b4ac373947ce009eba604bce1cf1916be947f5d42b94b583974"
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_BUSH_LONG_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_VEG_BUSH_LONG_B_LOD0",
+      "triangles": 160,
+      "geometry_buffer_sha256": "a446d5bf14074c154e4eded8da318768633f1999e930665d64c08bdc05f2f63c",
+      "nodes_sha256": "327cedc95792f3709da7ae51029724b98dbf17436b8184070a551ea3323236b8",
+      "sha256": "592d46528b2490e78ddf714f65e72ca6e228a1642c41f38a256b94d02c1490aa"
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_BUSH_ROUND_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_VEG_BUSH_ROUND_A_LOD0",
+      "triangles": 84,
+      "geometry_buffer_sha256": "4dabf155087f1d861512a04fbc1570bcebfa778ed5d1d55c3ca639ae1c9e9185",
+      "nodes_sha256": "fc0cf5f3f081711ade0c13600da84431e7f4ceef1fe4dddfb630bf90f12caa3c",
+      "sha256": "bf12918ab371f8e06b9744a59e59044c981e85cb5d1e12e4c9fa8e6b63b6578e"
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_BUSH_ROUND_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_VEG_BUSH_ROUND_B_LOD0",
+      "triangles": 128,
+      "geometry_buffer_sha256": "1e8d0b6b064c4780b23feb457e1ef1bea5f007eac4fa33524702a053ea09c26f",
+      "nodes_sha256": "3638fbf83da9d037cfbb0b906c4be5a72481dd35d61a6ceb5535db2567898f53",
+      "sha256": "9a231021e1fd2c402c2cef03684fa012a09ad64c5e89a72a2d7453c3fa8ba71f"
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_BUSH_SPARSE_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_VEG_BUSH_SPARSE_A_LOD0",
+      "triangles": 56,
+      "geometry_buffer_sha256": "2354a270b5787176ad1f2b6e7f3d8297104c0de3987c185b363adeb209661688",
+      "nodes_sha256": "4bb8f7011212f4599f1cd62e9ea6513af0d40c262f1e346e8356257cf4d3a484",
+      "sha256": "d2f4d6cc6ad26f6bca43cd3d6136a073556dfc5982e266e54e5e640545af6ec2"
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_BUSH_SPARSE_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_VEG_BUSH_SPARSE_B_LOD0",
+      "triangles": 96,
+      "geometry_buffer_sha256": "11d7be48f4394fd55f5ea78f29c2f7c1c33de3180fe94bcff1cdbf86cd178c33",
+      "nodes_sha256": "7a17c5140b198d014e4829335afcda14e0a7099d9391a54b9a81862cd2637e35",
+      "sha256": "2a52b24d843ad32c813702b83aff8bb231dfe6344e87d983e62be2f88e8dae32"
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_GRASS_FAN_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_VEG_GRASS_FAN_A_LOD0",
+      "triangles": 50,
+      "geometry_buffer_sha256": "688eb056118e4f18c93bfccf170a167ef576815cbccd1379ac68c6b1346556aa",
+      "nodes_sha256": "c9d11c6dbe9ce3b3860c74c904c01dd0512543746a7350f3f4913e86e5c03a54",
+      "sha256": "a5351e73c60eb16cfc86567b2f416b097ef8a16f8a356e180e3bd116036d13ab"
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_GRASS_FAN_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_VEG_GRASS_FAN_B_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "2fdb9ada5d7c4de97a6223f747d1a75d91a99076f7485ae0c0568c90475a01ed",
+      "nodes_sha256": "1037debcaa229de5fd832b2819602b92eb2fd5a6fdf5621dcb314f40a2316748",
+      "sha256": "ddb97f0612289da77d4ac3dabe9c216ebc8ac560e3d12b7e6f026db4bb2e5c38"
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_GRASS_LOW_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_VEG_GRASS_LOW_A_LOD0",
+      "triangles": 50,
+      "geometry_buffer_sha256": "267901a8aab809080b6add12c7de3c780b7eb3c73b447ac0902184951ff12997",
+      "nodes_sha256": "910511ba7b6dd891dad2cf08c9a465a36d7bca1c3676e4387aef73a4d344deef",
+      "sha256": "035a2d9b5e975a5cb73d0f40077d865a9d5f54455ff4f3da21b66d90cd7d00d0"
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_GRASS_LOW_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_VEG_GRASS_LOW_B_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "4df698882826c32c510fc2dae3c4952ce7d80ab877c227540ba98a6e97782e48",
+      "nodes_sha256": "4dc796f614f2005887a372773dc6c664a7cce1d39f6051fa3e26240506d65657",
+      "sha256": "c357327d18741fd8cece2c7627e564bd560b3b0673c171b29a99832431d9546d"
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_GRASS_TUFT_A_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_VEG_GRASS_TUFT_A_LOD0",
+      "triangles": 50,
+      "geometry_buffer_sha256": "3d35c383cfaa9a86736287ed148aa554fafbc43ccda0501fdbf96ecb3f567d0e",
+      "nodes_sha256": "34d2d1cddb518b106f480916e43df8fd959a98138b24e8e191daff648132d65f",
+      "sha256": "0852e61bf42c160b22d42f792ebb1c13d43ec8eb1208d149c54dfafdc92eb870"
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_GRASS_TUFT_B_LOD0.glb",
+      "theme": "DRY_01",
+      "model": "TW_VEG_GRASS_TUFT_B_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "20e1536db75a0a4eba747b90a5c8a0926e0fef3aa32da39a9437b7ff5eeba7d8",
+      "nodes_sha256": "2c19bb526d45d5be795cf131af364040dcb452dad5d4742a9bb84eb46d0ac878",
+      "sha256": "b19b31bc736e8cf406168281960ac4dba84096b25479b0ac5cee284fc4aeb547"
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_LOW_WEDGE_A_LOD1.glb",
+      "theme": "DRY_01",
+      "model": "TW_ROCK_LOW_WEDGE_A_LOD1",
+      "triangles": 52,
+      "geometry_buffer_sha256": "e0a947fdb406fd932697faaaf42d92fcf3d3d67576690ba1e19126808901e75f",
+      "nodes_sha256": "4e4fa44a4f31078ad41a07c8321cdeb68527235f2137a8aaccd063caba610d0a",
+      "sha256": "118ff5862b788b1898c9da8f300db91b71d56c830efcd5f297411987f5a1dbe6"
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_UPRIGHT_A_LOD1.glb",
+      "theme": "DRY_01",
+      "model": "TW_ROCK_UPRIGHT_A_LOD1",
+      "triangles": 48,
+      "geometry_buffer_sha256": "c2082bd2309786c00d3442a093274c6f2a8eaa30fbb33221abcf40d7b7191a9e",
+      "nodes_sha256": "5c79cb8756d8e610ecdb7467d5731ff6b87668916aa29ceaa733ff3a8f742af1",
+      "sha256": "6fa1ffd6c38127c597cdd08859966b10011e7567261b11211a75d877aef805fd"
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_ROUND_SMALL_A_LOD1.glb",
+      "theme": "DRY_01",
+      "model": "TW_TREE_ROUND_SMALL_A_LOD1",
+      "triangles": 244,
+      "geometry_buffer_sha256": "7363bdb767f1d014354aef16cf32e940a1cd33aad1214e2d786ac4a19171536c",
+      "nodes_sha256": "9be40d309dc7aff202ffb90a32616263783400cba7ca07d903d05cf7ea6938ce",
+      "sha256": "15d20d7b815231431889b9c91cd7d3ae7e493ef82855d90db1998b6207fe2f6e"
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_TIERED_SLIM_A_LOD1.glb",
+      "theme": "DRY_01",
+      "model": "TW_TREE_TIERED_SLIM_A_LOD1",
+      "triangles": 184,
+      "geometry_buffer_sha256": "c5266c8ff27b546e4f17f2670958671613a8482076bd2f14f4a1b68147312519",
+      "nodes_sha256": "4beef12e1eceab9c672bd51a2f522c5af3e69ca9cc1e4d374a60bd6a49393389",
+      "sha256": "9f207345e5483cd9bc796d2e28d979bb1408795eaeb599d03c8f887cac48dc85"
+    },
+    {
+      "file": "DRY_01/models/TW_TERMINAL_POST.glb",
+      "theme": "DRY_01",
+      "model": "TW_TERMINAL_POST",
+      "triangles": 20,
+      "geometry_buffer_sha256": "589cd8d46f6ead6b5914857326eeb57affbccb135da318b6c227a1eb5b946863",
+      "nodes_sha256": "1f1661cf6884c922e70fa3b055eb2c24dd8c3be052a45531143ebc65a67bc245",
+      "sha256": "62523a8ee07d0b7b9a2999f65cf8b3c6457e05b9b540ffae01c9ac893a599fdd"
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_ROCK_LOW_WEDGE_A_LOD0",
+      "triangles": 66,
+      "geometry_buffer_sha256": "e8b927b673ed42b191ebc72a6a8de7d7110a91d87b630e5ac72fee5a3f35484a",
+      "nodes_sha256": "93fffcf13bfd3814351a920e71e52126459434a01cd7065e387954a24e4607a3",
+      "sha256": "8bdede40269e10cc784c29e9237fa4e501f6812f431667046b7699a50d81f7fe"
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_UPRIGHT_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_ROCK_UPRIGHT_A_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "6c9237ee8a23e12f7bd2cc053bc82bb40db784caaf0a277f2253edc3b311c4d0",
+      "nodes_sha256": "2ca57e3501a0e4494aabcad9a87589c860f230c5c06f579627acffbc50b2f3a1",
+      "sha256": "d20361ac69e2be54e690d37c98b58d43d4dedcaf924cab8ab9023a41cb84c5ab"
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_ROUND_SMALL_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TREE_ROUND_SMALL_A_LOD0",
+      "triangles": 352,
+      "geometry_buffer_sha256": "65ff01404c9783e4e412a40d9269cdb062a4a0c8fbc0f745360bdf04cc3f5b9d",
+      "nodes_sha256": "f8c5ef6b1582384b5815352b5fffbc5af9645ecebc3bbf95b89493708f71c260",
+      "sha256": "0f3f64512d7df1b514a3346b45966aaf89ac5b9344dcbbc5b85c50ac5391bc88"
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_TIERED_SLIM_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TREE_TIERED_SLIM_A_LOD0",
+      "triangles": 248,
+      "geometry_buffer_sha256": "4421796fed21e674d41975ea5497ccbf1a8ccda274e887583dc2beafaa90112f",
+      "nodes_sha256": "7568392703bd2197d5a63ec0f767c4e75f9f207a334a4fe1e382c8c6d8fb750e",
+      "sha256": "240fd8f6324df7b8f9d56243787e8fe49af90f41bf5cc04364ec68787adbda29"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_RAIL_1M_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_RAIL_1M_A_LOD0",
+      "triangles": 56,
+      "geometry_buffer_sha256": "d2a1203da8fb083351edd3734dc5bb1e0b45bb207c00a937a695880ab3f56c4c",
+      "nodes_sha256": "8fd79be1102f9fb15a4871aa66f852851a8ad0a5585320765b9d8cf1ab3ab5c1",
+      "sha256": "2874c535d53a4b30dca33d72724ff95a601d6fb2c90f589081a1745c9c751be9"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_RAIL_2M_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_RAIL_2M_A_LOD0",
+      "triangles": 44,
+      "geometry_buffer_sha256": "36d933b8631373d43bd7bf3a02f8d086dfcbb230a64081e9f0ce2025e8423245",
+      "nodes_sha256": "e7eb6d8436b296c3a50e436f4738942a15550272f45e5c1038521fee09b898bd",
+      "sha256": "c5979a61c94cebd53df9f2c439cf28098824ff3c04f519ea27ca26448d6d8130"
+    },
+    {
+      "file": "DUSK_01/models/TW_LOG_BROKEN_15M_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_LOG_BROKEN_15M_A_LOD0",
+      "triangles": 118,
+      "geometry_buffer_sha256": "d4bd4e075f27aa43432d4b57051a3e18557265b30f6801f4deb54cf99c3cc10a",
+      "nodes_sha256": "e76e89d6f50dbd413bc96f5d7960b0cbdb69d233bdcc71a1a4a4d27dc6e04cb0",
+      "sha256": "c4caa2e2d215e14e9e9400d93cc0915db94ffe8f06c0a8c2b8bb0ecb0eaf111c"
+    },
+    {
+      "file": "DUSK_01/models/TW_LOG_CUT_2M_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_LOG_CUT_2M_A_LOD0",
+      "triangles": 118,
+      "geometry_buffer_sha256": "6dc6bded3ac82d8d2055ac40b2a32358d2b9b1ed8e41d774c7613b7b79bdda85",
+      "nodes_sha256": "0d0b8847d64f6d6ab14529f3b3cbbc085fa333fd82d7f53e8d06615ab7126cd3",
+      "sha256": "7ff6b9da25ab8779cba6db0baf2651d199c240557872690d4d01c47418cdbc15"
+    },
+    {
+      "file": "DUSK_01/models/TW_STUMP_BROKEN_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STUMP_BROKEN_A_LOD0",
+      "triangles": 118,
+      "geometry_buffer_sha256": "3918938887c540c629f5de0f1f0f754cb45db9fae160a899f00c8da982f01fc0",
+      "nodes_sha256": "fe600dcd6560f64a3d57666c97016bf929d1bbed78c0e37430e7f84d75b6db7a",
+      "sha256": "81b3a489c067cbf156530ab858e6765508133c416df13a39824a46a2fc5c5de7"
+    },
+    {
+      "file": "DUSK_01/models/TW_STUMP_CUT_SMALL_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STUMP_CUT_SMALL_A_LOD0",
+      "triangles": 118,
+      "geometry_buffer_sha256": "c3c3b7911ae9b8b022aef06568ebf131720a05ba32b7881cc8bc8fc3c18e5628",
+      "nodes_sha256": "84a963e50e47748151fb06d61f41d31aab1ec54cecd6385c55ac4a542e1e5d4e",
+      "sha256": "94dc5f8f53ca5b38d12182426f4694dea4265db9ae0dc7e424e3a7f8f075bba1"
+    },
+    {
+      "file": "DUSK_01/models/TW_GRASS_TALL_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_GRASS_TALL_A_LOD0",
+      "triangles": 90,
+      "geometry_buffer_sha256": "1431f696994b4a0ba3ba918ba395a1856d6d3dc632c339716a6a71cd71e4e44a",
+      "nodes_sha256": "3a836d4a5a710d2ec567c03218749ea479a8f47b0420be83dad7650841742b07",
+      "sha256": "df396394834b2e55d7ccb4a210956f785c4f91907b7c09b6d44ff0549e23f075"
+    },
+    {
+      "file": "DUSK_01/models/TW_GRASS_TUFT_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_GRASS_TUFT_A_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "bda3197ba3babd1800300196b29de584e9417d56144e771ef228bb84535def95",
+      "nodes_sha256": "5cf32f03b8be3e7aeb6bfe69f7993cc82dbf6549bb5bc2eee1df3a3dcf336f26",
+      "sha256": "a802548d16e86bd8c88124fb073faedfff95147364434c5f44d7951ff7b941cf"
+    },
+    {
+      "file": "DUSK_01/models/TW_SHRUB_ROUND_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_SHRUB_ROUND_A_LOD0",
+      "triangles": 126,
+      "geometry_buffer_sha256": "f345586f27913ac227b9ead7184b55022f041d87924d4aa3dd0b0176fcae5faa",
+      "nodes_sha256": "00fb5f5bb86a717afd657f3ef005c098f40f570972cfcebd47199efbe261be8f",
+      "sha256": "ea95a9b057b2fcc2dbbd6f99ca79eefef960e60929f5210fe086e4703e6e9653"
+    },
+    {
+      "file": "DUSK_01/models/TW_SHRUB_SPREAD_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_SHRUB_SPREAD_A_LOD0",
+      "triangles": 210,
+      "geometry_buffer_sha256": "5f08d96d4df5f3b9631f9313a68cd27ba7057b04596763ba878a468f8ddd8c66",
+      "nodes_sha256": "f3c0eb341e124d2825e88aae848d2898d5fcb2de8ad386d239fa82360df34d62",
+      "sha256": "60b91add5d008ac21b0affa4fda8894559737926b8cc22163f21ab4122e9a4f3"
+    },
+    {
+      "file": "DUSK_01/models/TW_CRATE_LONG_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_CRATE_LONG_A_LOD0",
+      "triangles": 156,
+      "geometry_buffer_sha256": "08f78dbecfa573b4015df7befe365c99e31538b5e227e6b33c4d366e3cb9c039",
+      "nodes_sha256": "afc204352b126fe8150d1fe9c5a038430230b2ef5dcc8221f2cb65d764a08e46",
+      "sha256": "60ed49138e720736a1300b6774d1ada352796f2f5ec9b16f5d2e5172eee34bab"
+    },
+    {
+      "file": "DUSK_01/models/TW_CRATE_SMALL_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_CRATE_SMALL_A_LOD0",
+      "triangles": 108,
+      "geometry_buffer_sha256": "f4f5e70490e238d957703f00a276c84c47b0b642c240c7f31c6bf7c7ff763d58",
+      "nodes_sha256": "6befcbec1dcb41278dd89b30a09db39a626157db95100b29686082c5fded950b",
+      "sha256": "547e8625082d02eac482d6da2677231e95687b13b5bc6322883796c07d257ab4"
+    },
+    {
+      "file": "DUSK_01/models/TW_SIGN_ARROW_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_SIGN_ARROW_A_LOD0",
+      "triangles": 28,
+      "geometry_buffer_sha256": "ddf50cf90a9bfe9a19be068c54bde88bc05724b7577177ad0df900d273814ea3",
+      "nodes_sha256": "796daac818d95bd2bb8a555db6a757d7f83f970526c0b2eda77d23443db524d9",
+      "sha256": "345b6469b98c02698ccc85a6b65cb5b7c5981252c804ec821639daa65259e466"
+    },
+    {
+      "file": "DUSK_01/models/TW_SIGN_FORK_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_SIGN_FORK_A_LOD0",
+      "triangles": 44,
+      "geometry_buffer_sha256": "13f8f74044c266eed3a9476eda9e9bdbe1f8a98b00d0ddd3e337325611abf383",
+      "nodes_sha256": "0dd7cb31f8680df822a14a3a8d919dcca1fbfa7c4fea0c3f5ff7a4ae0ed55e00",
+      "sha256": "bc005a41297ccbd840ab8d00a2375a8f8007d3fad75c7c0527f40ae6fcbf2311"
+    },
+    {
+      "file": "DUSK_01/models/TW_PAVER_LONG_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_PAVER_LONG_A_LOD0",
+      "triangles": 44,
+      "geometry_buffer_sha256": "d7159e2852c5667bbb857730f62bb321b47b44bc89036928844f81d89b787c73",
+      "nodes_sha256": "55a8b1f68b6d8c650017dd4a5535ecd315564dddda1c769e17a4285ae20cd17e",
+      "sha256": "121570f97db4e75a01e32d7559a47d2a8fabc6622d6583a384d0288da073247d"
+    },
+    {
+      "file": "DUSK_01/models/TW_PAVER_ROUND_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_PAVER_ROUND_A_LOD0",
+      "triangles": 50,
+      "geometry_buffer_sha256": "c2a3073a6e4a5ab822bb66780768b2fc587074381069fe6d0599f3b586616d4f",
+      "nodes_sha256": "280931e3946ebd7e5d0cc9bc185db36203311b1bd75cef225ff400e18d25e14a",
+      "sha256": "e0bd52d3e23f277ec4ffbad280c567217d214729f3a399cadf1c0de331605791"
+    },
+    {
+      "file": "DUSK_01/models/TW_STEPS_LOW3_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STEPS_LOW3_A_LOD0",
+      "triangles": 36,
+      "geometry_buffer_sha256": "3bb55c32210adf68ced36e975ae6de86dc4e1ffc798281e9900333aa9268e59e",
+      "nodes_sha256": "6808032c674f39a6072438d43401076431f1a66f2eb0c526137003ca716a6397",
+      "sha256": "113b2bed7ca16a9088e4b178539235b7a7d6ea643b8ce656b9c9e8e585d4d6f6"
+    },
+    {
+      "file": "DUSK_01/models/TW_STEPS_WIDE4_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STEPS_WIDE4_A_LOD0",
+      "triangles": 48,
+      "geometry_buffer_sha256": "87054c3db5ee7d03a7570f22b1118f8681b9188e93ced66fafe40176ce09cb81",
+      "nodes_sha256": "e0f9671da45520f71b159a37f5d6a3dcbd9c6e99701f5277006b1463721821a8",
+      "sha256": "298189b1157fb2ac8ad581b0363b1468f94d45f7d247e13f28cfb9c4b1ec7aac"
+    },
+    {
+      "file": "DUSK_01/models/TW_BENCH_BACKREST_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_BENCH_BACKREST_A_LOD0",
+      "triangles": 192,
+      "geometry_buffer_sha256": "4bd8d39c12f6e5c68bd6a87c1ea4e192c67361d1164f9d219300a8f33b43c8d7",
+      "nodes_sha256": "fb1e628604cbef94b7bbb63e4fe247d002ef23bea451c39f317a372a9c934bcc",
+      "sha256": "4ac173df5c6931c6c20a9b1b21bd05ee68695de8c70436702702e6c4f2037647"
+    },
+    {
+      "file": "DUSK_01/models/TW_BENCH_SIMPLE_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_BENCH_SIMPLE_A_LOD0",
+      "triangles": 144,
+      "geometry_buffer_sha256": "0360d33f119d30ac13107df51c16deb70cdc61c484c2cd7a198dbacc576acd68",
+      "nodes_sha256": "ecccbb7ece18facd6c606185eed0376fb5f31061a0ce1e7e91309d32ed489fe9",
+      "sha256": "91acde109cccf3ecabb37adc5eba0da8d18d610843eb82b8aaf30b6fc4a29f92"
+    },
+    {
+      "file": "DUSK_01/models/TW_TABLE_LONG_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TABLE_LONG_A_LOD0",
+      "triangles": 144,
+      "geometry_buffer_sha256": "e3e5e93f870e749957e7f580c751953c10bbee7f049be7dd9515aa72c8bc70d2",
+      "nodes_sha256": "0e933ca73f7019e3e83410e87b55f31765f1e71128e42d998bf3cd35bd1063b0",
+      "sha256": "f0f924c148208d6dc2910e1c2db1b13708e7a45102169e1913c8171cded7c84c"
+    },
+    {
+      "file": "DUSK_01/models/TW_TABLE_SQUARE_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TABLE_SQUARE_A_LOD0",
+      "triangles": 144,
+      "geometry_buffer_sha256": "cd84acbbe01148c0ec868bebc807e6231cf341e02afe0b8df2b19e497b82cc68",
+      "nodes_sha256": "c123a928055e07804855bf557be8d083d24433fb59b55a1e2446198d34b2a491",
+      "sha256": "e9d7b2041c9c19591f77ad6c6a7c0a8333efbcb0895ca1245c9fdc76bd0125cb"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_CORNER_L90_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_CORNER_L90_A_LOD0",
+      "triangles": 88,
+      "geometry_buffer_sha256": "4f1fffa0501a51c86c5aa5066fd9a2b372fc20a3072aa8a9df929abddf6d7e9a",
+      "nodes_sha256": "eb236d160ad866d0fa13ad01ddc820e0734c19d63e8823ee09f1501714c44a4b",
+      "sha256": "02eb32659b5f56e8b21a59cd53a4cda63707a752a48808954d371ad3bd38d1af"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_CORNER_L90_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_CORNER_L90_B_LOD0",
+      "triangles": 124,
+      "geometry_buffer_sha256": "10e7333e40b485178f2f00aeb82a43f240b18d5dfe0cbb4b65b52b688e83f171",
+      "nodes_sha256": "02c256ec240ff2c886b4e411c5188605e00ea686cd518fac15f1191f5be4ea60",
+      "sha256": "8e52d188eb24f2ed822ec80979033e57f4fd2ad4639edbac5e47f1ba13acb065"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_CORNER_R90_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_CORNER_R90_A_LOD0",
+      "triangles": 100,
+      "geometry_buffer_sha256": "6f0abea525bd9737456352e95c136eb50db5709dc87baa159d3df89d3d1891c3",
+      "nodes_sha256": "47b60af443578255608eb51f43738db0bd8d83a0a10e1e55c10995f4cb5f8af6",
+      "sha256": "de59a6bd825169fc6c80c6c635d9c1771f7b17465c5da8c231aec98ddc8121d8"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_CORNER_R90_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_CORNER_R90_B_LOD0",
+      "triangles": 136,
+      "geometry_buffer_sha256": "6ed5ee92f40a31185e4f070a214269c37dfe1f4ca644fc2433f9f7046dddbb61",
+      "nodes_sha256": "2ac1bdd4608ff065523def45d29c345741b122706c37b6feb19b3f6f1335c6f7",
+      "sha256": "db0124cefbac72c797e7fbdeaafe46e96fd60eb57f33e41ceabb1212a6c634ee"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_END_BROKEN_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_END_BROKEN_A_LOD0",
+      "triangles": 36,
+      "geometry_buffer_sha256": "d01eb2d5173d1a49fef0d4be599fe5b937928c40455535897555afcc6b85c148",
+      "nodes_sha256": "b1a30b5bdfddce2b7fa52929ac991f499d32e43a11ad7548f1f68dc0b3dc0ce9",
+      "sha256": "283de915aaa3f5e6d0a9116e48e06dab135c74cbf89b989bb0af5ff4833eeca3"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_END_BROKEN_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_END_BROKEN_B_LOD0",
+      "triangles": 48,
+      "geometry_buffer_sha256": "855aca44d4cd0a3f408bd7f72727ce488b361f4a7c86041690c81ed2b1d3096f",
+      "nodes_sha256": "b4c6d3a2920c8a8b9791bbbc8556a88124094fd72722b389a40ba44ea359fd5a",
+      "sha256": "10048419230bc728aaa99ef0dac015fce10807fc80fea6eba56f4e31b462967c"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_END_CAP_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_END_CAP_A_LOD0",
+      "triangles": 32,
+      "geometry_buffer_sha256": "f39cbd706f40c64ea55a09724a8c096ab923201bdfa206011585cf14b0da176f",
+      "nodes_sha256": "092f75ffc17717c1cefaecbbc33319368ea8e881413ffe2466829c731dd47058",
+      "sha256": "072156642e2b6b36ff67f790ba0222d9e7d1ad7a0cf1f3c8007e3fc56bfd0c2a"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_END_CAP_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_END_CAP_B_LOD0",
+      "triangles": 44,
+      "geometry_buffer_sha256": "23adf7c81672bf64a692e7fae830be1fc094df8ba7d198452053f96fbaad05d6",
+      "nodes_sha256": "0b1d87680b3e75dcd2f2c7a9b1a95f6cbf869a929131b49473fd27862118b404",
+      "sha256": "1dc35ce6f914982f5bb1c4ac0d1366ee9249d7d2ecc1657896b3417b4eb6355e"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_GATE_FRAME_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_GATE_FRAME_A_LOD0",
+      "triangles": 76,
+      "geometry_buffer_sha256": "d700ea6460c03f83f51c7571ea31f31f3b6dda75b164449329ca133aafa7258b",
+      "nodes_sha256": "f13ff888c7e9a842e458042438c80274f0ec9b566120c19527c13cd93adae659",
+      "sha256": "03ce0ea6257e1f4694bf784d1868870d95e5ff9f7aab4c2f551f6c8546615df1"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_GATE_FRAME_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_GATE_FRAME_B_LOD0",
+      "triangles": 88,
+      "geometry_buffer_sha256": "208dca2985df93a0bcf5fdb2ab6a2b74236c4b5b41458cdd1e542a76c616ca11",
+      "nodes_sha256": "60ef951f0036b521b57df8fb974e8a4c02bb98e2b07ca770e384753d0c4ad007",
+      "sha256": "e531c6e864d4f245f360e7a085dd5910be2a41e3cd37f7d977bae4144edf1dee"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_GATE_LEAF_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_GATE_LEAF_A_LOD0",
+      "triangles": 108,
+      "geometry_buffer_sha256": "ad41db2c77d276954ab8e1f3a6a53a1d3a3cae09fe1bc813cb45183fc3e1e9b9",
+      "nodes_sha256": "04d1ebdc2aa1ed089f92b39bd159add75cf41d2d8954952fd7fbdb02d43e0893",
+      "sha256": "f4b2a9547474f78877cb818dcbfc1b39137c1419e3bd757aad2baf948d75d807"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_GATE_LEAF_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_GATE_LEAF_B_LOD0",
+      "triangles": 132,
+      "geometry_buffer_sha256": "0af8184638e6c26db5d8e2d527fa1d22647cc0cf37cfde14c735bc3e191d0953",
+      "nodes_sha256": "1395053990fa94cd049e0e53e1a76b788ed92208345ef71ebdb11b1bc00211b5",
+      "sha256": "4926883cb713f84c6e4cf64524b0a8f7c1041755563de319c7c3aabc82934534"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_POST_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_POST_A_LOD0",
+      "triangles": 20,
+      "geometry_buffer_sha256": "dd92a7cfcd0306c1cfdb6eb73b3a761a1cc58a6135f2f78132d55ff05cc1076d",
+      "nodes_sha256": "658f09600af731ba3f10e686ad7f4e9fa5c255954811278d5a383853474e43dc",
+      "sha256": "4e4593019dc27365ebfdd0455a78d0702da03de4704f5491349c91d292d73285"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_POST_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_POST_B_LOD0",
+      "triangles": 32,
+      "geometry_buffer_sha256": "49110d84ff87397fe63f295c91a3516d70d6669480b62ae2ae6864bf718e6db1",
+      "nodes_sha256": "d15bd9f0468d13527a779bde8e882b4ed30be01259e90c4dff0bcde960ac4b7a",
+      "sha256": "84f11a85bf4fb08ab089c203a73aa4295708a71314f17cc1b850cf23b34473a2"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_RAIL_1M_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_RAIL_1M_B_LOD0",
+      "triangles": 68,
+      "geometry_buffer_sha256": "b8fe0a1672a651c405468dfc39749b7c0c9a87842b15e41e6fe2e0e6b18b874f",
+      "nodes_sha256": "7c73bc878278b997b98ef9fd9072a78c7fc64af1d2d2c02626a430cfdaa8b1e8",
+      "sha256": "054e70ad24e3214ca1b51c642e647f865425ddb318d62f276c8edd7286a9b597"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_RAIL_2M_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_RAIL_2M_B_LOD0",
+      "triangles": 68,
+      "geometry_buffer_sha256": "cba8035c22599f675d9080b5f659953d1a94553da69e6577cf039712614a514d",
+      "nodes_sha256": "4be9f85d0809d61cb760fe7085c3e241e5c7888b140bce4e4a7bc725105c65f0",
+      "sha256": "f331bfa892c6cf6f64489165b8ff84f4afea0dbe3a1cd2b05a02434a054dfd44"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_RAIL_4M_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_RAIL_4M_A_LOD0",
+      "triangles": 44,
+      "geometry_buffer_sha256": "46f85348ac131c9ba7b643060411f986c113631e4f7860651ccd29fbecd0d8c1",
+      "nodes_sha256": "2b6ac7881cdf7a7cee60ad33e72516a6cc5923ccead67cec7ae79eca065120d3",
+      "sha256": "245f0bc2dcc43f2cc1011127473e4968431ffdf15f8171e7c04c2d3aa4915fae"
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_RAIL_4M_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_WOOD_RAIL_4M_B_LOD0",
+      "triangles": 68,
+      "geometry_buffer_sha256": "0205a6dfd1bc81f1e1d182d42f7b66c8ea1fae9715fcc9b71eeefbf37b2c1afe",
+      "nodes_sha256": "20c0b132f5497a3dc01b71a006439620839dad07702c94c13c4a1de6c2c1b498",
+      "sha256": "e92e42218a146fbbe70e7a8d163d9aa08b1568e5e29ab2655f4fc59cea7a83c1"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_CORNER_L90_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_CORNER_L90_A_LOD0",
+      "triangles": 240,
+      "geometry_buffer_sha256": "450523f557fef9a18577b4fd17662eb7b23f4f71bbff1e81aab26bee2713bd35",
+      "nodes_sha256": "9b673d1bf1dfa47d9ba6be52009bd76f25314bd4768585caca751a2d9fff8c37",
+      "sha256": "3ca68f0795870238b934f1224b29219a1f8a16de50761b823c3159d3f026e48d"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_CORNER_L90_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_CORNER_L90_B_LOD0",
+      "triangles": 312,
+      "geometry_buffer_sha256": "b962808cc0e2677da2b3ec53c4a56441685f94038a79b556c31317a30736794c",
+      "nodes_sha256": "50dc72fcdc859dbbb96fe974db4a7e57520177db73c50379ff8923c395517e22",
+      "sha256": "ef897b948611f519b54ff2763d9c955d990092908b571844bbe0302394a6a493"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_CORNER_R90_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_CORNER_R90_A_LOD0",
+      "triangles": 252,
+      "geometry_buffer_sha256": "993f9726bd84187ff214ef85fe32fecdd8868d008a00b02685124606bf9ac0b3",
+      "nodes_sha256": "eb6e011f29ec6ce35e223ff48d9238c04c86a115486ab6948b9949c55670fd71",
+      "sha256": "ec1b924a8419d7faa1da6a36c4a9e133ad4db7161a653896a8922829d546d92b"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_CORNER_R90_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_CORNER_R90_B_LOD0",
+      "triangles": 324,
+      "geometry_buffer_sha256": "e77ac837e83c42b13a8cb87ecd76fe223fb248aee45d2b9a9ef53de9759b1b3e",
+      "nodes_sha256": "4d8aa746b5a2165fae4adb83a97b19a26bb66fc264db87788312610a9fd87ac8",
+      "sha256": "af417c80c2440f4f621e61c6ad6298f391a1c5f20640aad32eb2582e7a3c0270"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_END_CAP_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_END_CAP_A_LOD0",
+      "triangles": 48,
+      "geometry_buffer_sha256": "62430b7a5f447244dfbca93dd55e771934b9c83b5ba8d93d216841b3f49237a4",
+      "nodes_sha256": "2e8e446885c7cc2ab4d5f4a8dcdbfa7c5ee3a69c3f6408d980e9e4d7640bac33",
+      "sha256": "a1ce808458548356567e92344059bfa6860b690f0db27d25ddb1ae618d72402a"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_END_CAP_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_END_CAP_B_LOD0",
+      "triangles": 72,
+      "geometry_buffer_sha256": "cbee6a2f0f2801991f56413321b5e33902eb6035fbc3cc410ca1e7dac054811a",
+      "nodes_sha256": "6e402598b8895cfb2759e923f0c9b1e1427ce850490cc94a0b3d05a4e3bc0103",
+      "sha256": "ab2099f15624762f12900abde565b3699c35bb8a706010ec735e01c904ee8e50"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_END_RUIN_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_END_RUIN_A_LOD0",
+      "triangles": 60,
+      "geometry_buffer_sha256": "0b33d59a9859dd5060d441dc12e642d6aea23ddef7f6234512f0b98be255285f",
+      "nodes_sha256": "e5046d4221fd01d18a5710f521c7722d5815ee7aa7bab92b0fa84f54da66f2b9",
+      "sha256": "afeac20f93c97c1e20b41ad2a70b2f4b890e1c6cb923efa46d476dbf8726a3ab"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_END_RUIN_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_END_RUIN_B_LOD0",
+      "triangles": 96,
+      "geometry_buffer_sha256": "96cea02b4dea3f8884611779ab74e281a093fd41232b7f1c571f8fd5925332fa",
+      "nodes_sha256": "c8da09075d39d5b04f9a83b9d0e9cef5667613eceeb2a88743aa039022d03d4a",
+      "sha256": "026647716ac30b7cfe39c4e095b0cd4f9070df0dd07076834bf0bfaa4b06e7c1"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_POST_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_POST_A_LOD0",
+      "triangles": 36,
+      "geometry_buffer_sha256": "23b502eae7b9f1d223927b7b42e25ef2c809a2ab724f2c2660175c4548aedf4d",
+      "nodes_sha256": "5902bbd389191167d27d5435da106e32e9fe24e207184a334ed5541c3356ff7b",
+      "sha256": "0bb284c5f538212a2697d2954556e32a735d564c654ef2af7cdb7eea000f4864"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_POST_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_POST_B_LOD0",
+      "triangles": 60,
+      "geometry_buffer_sha256": "88337ccd0318f7baaf0bb5f476288913b187a9dc36acb8917cf7a6deb145982b",
+      "nodes_sha256": "4c95f377dba8fa59e9f4ef54ffe24075fcc135c7ae36a52c985a75f20ff4ac23",
+      "sha256": "27222b78900a55729d9a49a426950bad36b736fbbee1e0a460411dc4cad9e6b4"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_WALL_1M_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_WALL_1M_A_LOD0",
+      "triangles": 120,
+      "geometry_buffer_sha256": "bdf80ab46c6834484695748d31e052e726665265bcf3f1da52f73a65003db97f",
+      "nodes_sha256": "ae8a529706afad4e9883451714117bfd74de9bbd6f2d72191b9832a413d25d95",
+      "sha256": "085fc7687d280bb39db4be6a6559bef6e5e03b89352e4c678c585ed0156f5e83"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_WALL_1M_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_WALL_1M_B_LOD0",
+      "triangles": 156,
+      "geometry_buffer_sha256": "919d9214158fa402d62cc0ff77ed4fac6b72ed40bcc59d5819f3031ade43f364",
+      "nodes_sha256": "c22c2accfdcb12d6718424317f1ecd692d3b64593ea5c0dd381c856a1ea62c32",
+      "sha256": "6162d3ffd8b0bedf593200606d98011f87f3175dccebb68cbac6e979377194d5"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_WALL_2M_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_WALL_2M_A_LOD0",
+      "triangles": 192,
+      "geometry_buffer_sha256": "f4f0748a604629e9cb3605e8b4dfc87de38a67563506673a6fbc4a13b0990fa5",
+      "nodes_sha256": "862bc3710335d0c37681be64a4c023b646b29d5328595b1e2a665dd3099a700b",
+      "sha256": "68de2e11fe2ba41b137cf36bd37ae4b49cacb69e5a8e87d9aee144be6829bd80"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_WALL_2M_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_WALL_2M_B_LOD0",
+      "triangles": 252,
+      "geometry_buffer_sha256": "b76ffbdd05d9442a7f81e74d22c3a017b69bd105cd186f9897e6a60dccbe1ac4",
+      "nodes_sha256": "8012d501f0f9f867ee58db61e8f21a24795b7086efa7c19d6cc6d22692f8626e",
+      "sha256": "a0f2342a6d372d97a599ae1627c94779c960725db664981415a1cc596d2e9f83"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_WALL_4M_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_WALL_4M_A_LOD0",
+      "triangles": 372,
+      "geometry_buffer_sha256": "3e9072eaac509936e9839cd9666e0dd85dc06e5641115bcefda75c869e931c88",
+      "nodes_sha256": "0a79e099b4e1d0ec87f5f17db15369e735b6a167a25fcec6a66908cb70fe1639",
+      "sha256": "3703299970bd67a04fc2137eefd5197f48112debf646d2e314a97dd9bc53a916"
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_WALL_4M_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_STONE_WALL_4M_B_LOD0",
+      "triangles": 420,
+      "geometry_buffer_sha256": "c896458d4318f6d1bd1eec61e9a1613f89e480fe97666be600ea62f27470361b",
+      "nodes_sha256": "5ba9109e1604126afad2979f80ab17baee55dc31551d85eb4d7d7aaab8a57d88",
+      "sha256": "76ab2957211917265e9eaf691b1886b6abb7ea974dbf7e368441f7f27446b7fb"
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_BRANCH_FORK_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_PROP_BRANCH_FORK_A_LOD0",
+      "triangles": 48,
+      "geometry_buffer_sha256": "4db2a248abb3df325139d16024897fb4000f7e1640afdafd01e04ac4d22321f9",
+      "nodes_sha256": "e03e6327e0af20c6126043431ff6d135dc94b5e95a11d389ff461a1d40b4b176",
+      "sha256": "7716c022b02c9c2fee9d6e0bbb609baf090441e6c6e1cf4cc51025a7f0a6de58"
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_BRANCH_FORK_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_PROP_BRANCH_FORK_B_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "6c3bd4555a19cff3a76b5b58ffffd0da5c771fa43956bba0becb721f152a0f99",
+      "nodes_sha256": "e39f54075dbdade27bed637039c275b5791c220fe11ffe6849d93e2685770c53",
+      "sha256": "1ae58b658c945ab566387b8538923f6d51dde0893d82baee48af698a1a82fb9c"
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_BRANCH_PILE_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_PROP_BRANCH_PILE_A_LOD0",
+      "triangles": 144,
+      "geometry_buffer_sha256": "c94e771c7893fca57eef25b589d740c73c789f7a11324f071bf17f24df3ec341",
+      "nodes_sha256": "911af8e48dfdce700a1d3047eaeb1f73df2a2c4650ae1e9f980a3804a34bf5bd",
+      "sha256": "d7b1d99cdeb5e187da94c0035eabc974ab74271af77655495b10ad7e6c97dee4"
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_BRANCH_PILE_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_PROP_BRANCH_PILE_B_LOD0",
+      "triangles": 216,
+      "geometry_buffer_sha256": "9051946b6c4b6f2d91c186037d1ae6764a35aa84e6832c67eed822171e0ebdfc",
+      "nodes_sha256": "c071f6bd572cbe79da2a7819435cb035663486a7a9a0256c354dae50024136ea",
+      "sha256": "db43edea4ce1dcec0f4f6838b2a729d91b71d0078c860250a1ee1b6be3db880a"
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_LOG_BROKEN_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_PROP_LOG_BROKEN_A_LOD0",
+      "triangles": 124,
+      "geometry_buffer_sha256": "375838aa872b7f37a18e2afda91b343008bc55c69dcb92a2876746a782d9cdf8",
+      "nodes_sha256": "4a757970aa6a5ac2af3b3e78adb7bf15faad2f8f1ed8aeb53067a1bc4359698c",
+      "sha256": "45146ced62dd70ee3d6a91462fbcbe65f497c0702e1391b9cee5c63b3297377e"
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_LOG_BROKEN_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_PROP_LOG_BROKEN_B_LOD0",
+      "triangles": 166,
+      "geometry_buffer_sha256": "bed5ef893bfc445df6fb45398d935fd9252912da04be97b0e9c61ecca90d7f51",
+      "nodes_sha256": "d85d2cb612871523161672eea1900c25a7692ac0296bc398355dbbb0d2a23125",
+      "sha256": "961bab59257f21f84af7dd95c73d92b22ecf58726627d7596e37024511c18999"
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_LOG_STRAIGHT_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_PROP_LOG_STRAIGHT_A_LOD0",
+      "triangles": 76,
+      "geometry_buffer_sha256": "549c5bfcf1bf44dbb74f23cdc6ef54710325ad7e6050d83a51a93fb8979a9066",
+      "nodes_sha256": "459c240442bd91120f649cd25c08964d36f4c66e97396cc2710ac14008ad1d77",
+      "sha256": "3b7797641a3681f99680affc059705eb21f75424921147cff754f14dae6f1dff"
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_LOG_STRAIGHT_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_PROP_LOG_STRAIGHT_B_LOD0",
+      "triangles": 102,
+      "geometry_buffer_sha256": "0b963d6bb0e973b96da5aac1ce61f4533bd65fa0fb27f7bda6e97db6e0dbed49",
+      "nodes_sha256": "89adf5436a111e6afc5144224aacee0f0202719affe8adb2dbfb4be1da89f5d0",
+      "sha256": "a424f1b5a1f84e00c55fdf70a7b4e57ac21c163b3dbb3c79b2c00a523399c8cc"
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_STUMP_ROUND_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_PROP_STUMP_ROUND_A_LOD0",
+      "triangles": 110,
+      "geometry_buffer_sha256": "8f032680a3e1552dea5ad042983a277c1e8652097f92fec3c24fee9aee898658",
+      "nodes_sha256": "0e47f4bad9cf1eef40df4136333a8baa101f119f3cbd254ca47ac86d2c14e75c",
+      "sha256": "cb9368ff94efa3f4300754480926c078be3a95f895b5f238686e0adc0250e36c"
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_STUMP_ROUND_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_PROP_STUMP_ROUND_B_LOD0",
+      "triangles": 136,
+      "geometry_buffer_sha256": "0dd2312321d8a66bcd2f93b5907addb2f67b5c08e192cc89d12220463f1685bb",
+      "nodes_sha256": "39648fec51f24dea9bac602b3c4e33750703d78de09ccd626f2b4a51cfccfd1c",
+      "sha256": "d4253c762e4bd3555613345bfa5a7c315811704635780dd7d6b28e1ed88a21e0"
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_STUMP_SPLIT_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_PROP_STUMP_SPLIT_A_LOD0",
+      "triangles": 76,
+      "geometry_buffer_sha256": "90d205eefbb7eb2d31ce752c853334917795da07355a28b9e65fe05266284ee4",
+      "nodes_sha256": "d35da8845bb13b3f445c85975e8caf20b642f3643a21a5d16b890fe3974a8020",
+      "sha256": "1c89236aa7a8f395c185513cfa64b2305280a86a3609966cfb3706988a7c1dc7"
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_STUMP_SPLIT_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_PROP_STUMP_SPLIT_B_LOD0",
+      "triangles": 122,
+      "geometry_buffer_sha256": "4d179a1cfa7e778df336d72d043ac73103c9359f6317b4eda3adc69b2cd27b5b",
+      "nodes_sha256": "da6eb6c7f76660123ec6652d0881a92088c3b74dc5fa5931eb942e53bc869ecc",
+      "sha256": "9e7e6dacae130d9b56ed797a8f32ca74c3268baf35bd7e43da8c8770cca60bfb"
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_CLUSTER_LARGE_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_ROCK_CLUSTER_LARGE_A_LOD0",
+      "triangles": 260,
+      "geometry_buffer_sha256": "08689472e0844a2ffd5295b26d78828425e712edc20bef082289a3e78b1ef609",
+      "nodes_sha256": "7268aeb9c040d6744304600f9fd68d8cd0a2a728a630d4cb5934f488fa686d0b",
+      "sha256": "3cc13c928269d23b5aa5c41e5a30ac56c24c07aabe747aeea95ffa364858054d"
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_CLUSTER_LARGE_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_ROCK_CLUSTER_LARGE_B_LOD0",
+      "triangles": 360,
+      "geometry_buffer_sha256": "b75fdb4644cd531e2d39229344a28c61bf5dc3117998f5b379fd6d41c1c4126f",
+      "nodes_sha256": "ce4fa6b0908e6ae625b94ee12ced1f8f9d7162b71249ac90bcc1cce8482bc266",
+      "sha256": "10f7b89b791b1fe665a98d0645cc5507c7fde4e2f51c23aea203967ba4c88f85"
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_CLUSTER_SMALL_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_ROCK_CLUSTER_SMALL_A_LOD0",
+      "triangles": 156,
+      "geometry_buffer_sha256": "f885a8f8c2b1ccf34172575e06a5b09fa272e95ad3005e38da6c2af89a252401",
+      "nodes_sha256": "dcc57ff8e55c982419d3945b451917cdeeed1dd2044455241fdb6c548b5d96cd",
+      "sha256": "5a8f0a7d87271351360482b8e0d248f850d5148e23b412fa04f409452a587301"
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_CLUSTER_SMALL_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_ROCK_CLUSTER_SMALL_B_LOD0",
+      "triangles": 240,
+      "geometry_buffer_sha256": "2a24d414826c3a24c9a890e39873b731c88fe1b2be375c464002b08a7177409c",
+      "nodes_sha256": "47706697b32a0b4fc64fd94a6cdebc9303d23395e1bdc42c690e36f1f74a3c5c",
+      "sha256": "5561db925cf886851c59a1546e1fc1f3d83ff62158b6380491860cbd13aad9d7"
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_FLAT_SLAB_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_ROCK_FLAT_SLAB_A_LOD0",
+      "triangles": 52,
+      "geometry_buffer_sha256": "7deceece187cdca9e31732c9a62f0cb83188e12f566e50f8b9fe1c293684a9ea",
+      "nodes_sha256": "12716616843c0ba0a64e6ab6a6093dd379545854d02b30ebdfdf5ca7aa258646",
+      "sha256": "15a1ac3105e186194c4712c0370950362e6fe2963d0c84d6b269b3f316f67388"
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_FLAT_SLAB_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_ROCK_FLAT_SLAB_B_LOD0",
+      "triangles": 60,
+      "geometry_buffer_sha256": "786b4c28c45e36c3a706c0f110eff170bdf39fcafe181f52b91b8e4af285412b",
+      "nodes_sha256": "93262e89dd17785fa34ec23ed90f41e2958452497b6015eb854fb566a84eff78",
+      "sha256": "de518a89e1c3188ba36dc343799801a3c5152dc99e25cca61401a14b09b567b8"
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_LOW_WEDGE_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_ROCK_LOW_WEDGE_B_LOD0",
+      "triangles": 60,
+      "geometry_buffer_sha256": "1b3d52591b14e561f6c667e9039eefcfd35c78f61e4b9a48a454e1fe2e7f1b43",
+      "nodes_sha256": "fd6e3bc6a018a8a3616f7974e69c34f7f0e2b2cd28e1e490e04e33b303d29729",
+      "sha256": "9d9d2983d387a316949d1a6cf136732b6b72b68a66e72c365f5bb3dc95f3a3d1"
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_SPLIT_MASS_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_ROCK_SPLIT_MASS_A_LOD0",
+      "triangles": 104,
+      "geometry_buffer_sha256": "f3f7ceec73862de820a6cdf48aec4ab82c2a57cdb784f68df193ac658d4a2ade",
+      "nodes_sha256": "f434c73fd13a6c1097ea2f0ef457af0f2a185a27a04c059490efd62c89075b3b",
+      "sha256": "a0206816074ee3b9ca2877f575fa3396add8c60c4432aeb461ea61f58e8ac421"
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_SPLIT_MASS_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_ROCK_SPLIT_MASS_B_LOD0",
+      "triangles": 180,
+      "geometry_buffer_sha256": "f77bded03eb19c9aa328e6713513032b613669577a5190b3da71318389575d12",
+      "nodes_sha256": "90691f1b2286cd6659618e68e1a9b81eb439a5c7ff572119de0de653f987d848",
+      "sha256": "0efe3c66b096760405d91528aa8d52262104057ed2344f0ddfd916494bc6d805"
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_UPRIGHT_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_ROCK_UPRIGHT_B_LOD0",
+      "triangles": 60,
+      "geometry_buffer_sha256": "98d265e62787a442fa7f59306b906334d55cb957019e9f5951d1d8fc755ba52b",
+      "nodes_sha256": "62b020742c79905601a3d035febbacf603c93bbdd4ba8abd9a6a0564bfee76a3",
+      "sha256": "82b0bc95c25fe10460912d7895ec0adafca40228e1bdc109d322a50694914cb0"
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_DEAD_FORK_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TREE_DEAD_FORK_A_LOD0",
+      "triangles": 156,
+      "geometry_buffer_sha256": "f084dffb0949e0be845d60b4e543af27fc9b1f7bf913af340a97a7ee4cd65114",
+      "nodes_sha256": "6e32fa602e9c51338dc3e617c98812a87c859453ff6d4ade3e58af4d8fc925fd",
+      "sha256": "285950e11db13e2e74ce4f33ae6beb2922fa049d356a091e8e86ae52a4c7a1ce"
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_DEAD_FORK_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TREE_DEAD_FORK_B_LOD0",
+      "triangles": 212,
+      "geometry_buffer_sha256": "21e137d4a83d3c8945f2c8a9987e8d7fc70b94d0918c3b20d1267dbf8b7b29f5",
+      "nodes_sha256": "260fbcb8db6eb7f04ded00d9305df0ab1fea47614bbb46ef1afb108b0506975d",
+      "sha256": "6a55c74f27e2a11017dbac283d0886fc450b22196f1eb6e00f49922b7438a321"
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_DEAD_LEAN_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TREE_DEAD_LEAN_A_LOD0",
+      "triangles": 124,
+      "geometry_buffer_sha256": "0bb56b50c0d5c1a4f2e8da2e31206bdfb64e18db098aa42cc19835d0f11f0695",
+      "nodes_sha256": "4c22ff960cb781a2c028bb88beeba3c896302def61ebe62a26258863a3fc8030",
+      "sha256": "df1fc525b4faac6d6ed88f579c52526e967270d1f26e722ce857195e493c3b04"
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_DEAD_LEAN_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TREE_DEAD_LEAN_B_LOD0",
+      "triangles": 174,
+      "geometry_buffer_sha256": "70b2ebee3f4ce048965d999817167383acf7b436778786c32aa9a2f649f6d9c7",
+      "nodes_sha256": "2ad0ab2f430126ac3b4530325f1b26763e25f7249361b5817b0e3ae83a2d6494",
+      "sha256": "9318ed8cd1f208c654693233040a7bcd94ab0f601ebe1ca31ac6cde89f0f3506"
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_ROUND_BROAD_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TREE_ROUND_BROAD_A_LOD0",
+      "triangles": 380,
+      "geometry_buffer_sha256": "3f84d2c188ddffb4f9a83200f8313a2fd4c8a6753ca0075f4db955143e0d10bb",
+      "nodes_sha256": "7b567cbf8856adc4c1179065b839b0855b63eda257f92c698b09ad870bddd03d",
+      "sha256": "85e8da61503748166ef0310a40b4ab93af2aafaaaf540290f9371ac6dbb488e6"
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_ROUND_BROAD_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TREE_ROUND_BROAD_B_LOD0",
+      "triangles": 478,
+      "geometry_buffer_sha256": "988646d81afd231a61988fa522ada7e9d037759e88d28a24e98a8c33571ae45f",
+      "nodes_sha256": "ae4ec3a563bfbc7136c97a8e94e4397a887a566495a145851d86858bb396f7c4",
+      "sha256": "04e0bba98a7dded93bf76ea4b38ed02651818fa073a045fa35d7c3d872e74a5b"
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_ROUND_SMALL_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TREE_ROUND_SMALL_B_LOD0",
+      "triangles": 404,
+      "geometry_buffer_sha256": "847f65303063a8947994dc354300468b38bcfedfa518ae64bd6c3708ba4c449b",
+      "nodes_sha256": "83b5747c4abb9571668633d12ae92bd1c96023a05b79a7f222a1ee5eb8f35ab2",
+      "sha256": "51fa12c7c086afeec99bb4e38f68d6b5ff5857e9424b2446c098dc516a35afe0"
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_TIERED_SLIM_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TREE_TIERED_SLIM_B_LOD0",
+      "triangles": 268,
+      "geometry_buffer_sha256": "652f36712380e43c730958b241b399fa4515d1a50a78aef7d1f34e723741e57b",
+      "nodes_sha256": "a9307ff9d470f5a0899bed457c3230e2ff2a388e8620d7dba82538fda951d78d",
+      "sha256": "572689225dfd2bcfef20ba193da3616eed95d387d4579e3e4acb23aaf030302f"
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_TIERED_WIDE_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TREE_TIERED_WIDE_A_LOD0",
+      "triangles": 198,
+      "geometry_buffer_sha256": "9e5c1f79c18df981ed12b2376d81ea027d635f400a72bc73605434193c63048f",
+      "nodes_sha256": "8adcd6f9761ce57690ae95577d3ace1acebda7b2d2a26bd9dda6eb671e3afdee",
+      "sha256": "3793033bdcda6e201cae1f8d6b5211a6b39b9e7a80794ceafe391f99979b3ed3"
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_TIERED_WIDE_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TREE_TIERED_WIDE_B_LOD0",
+      "triangles": 268,
+      "geometry_buffer_sha256": "c35a8b794a74094cf0dcc713a10d5b85133ba2aa369853aee7692725ae151a5e",
+      "nodes_sha256": "9c6e025d2f820366c8b82120873604ddbb427475214f1650f231eff6e72e4355",
+      "sha256": "4301f18d0afda0ccc94830ff23c47a4dcf275ccc35b2c47a60fe6d08710652e4"
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_BUSH_LONG_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_VEG_BUSH_LONG_A_LOD0",
+      "triangles": 112,
+      "geometry_buffer_sha256": "7012467f195e27d54358dfe5b25c5c1084109c9ef88777e0645e528fea459a4c",
+      "nodes_sha256": "c0eef3a7b7faf4113defeefa95abebabc94b6f3444b6f7455db371cd9fd0b44a",
+      "sha256": "9756c421105836f8c8ba7c3787c73dbcfddda44e323ff2eb2c0e1189f7539bea"
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_BUSH_LONG_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_VEG_BUSH_LONG_B_LOD0",
+      "triangles": 160,
+      "geometry_buffer_sha256": "a446d5bf14074c154e4eded8da318768633f1999e930665d64c08bdc05f2f63c",
+      "nodes_sha256": "327cedc95792f3709da7ae51029724b98dbf17436b8184070a551ea3323236b8",
+      "sha256": "ef36478a0d864f969139d4370deb3b3bbc2f49810c22f6aac9d8fde931a83adb"
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_BUSH_ROUND_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_VEG_BUSH_ROUND_A_LOD0",
+      "triangles": 84,
+      "geometry_buffer_sha256": "4dabf155087f1d861512a04fbc1570bcebfa778ed5d1d55c3ca639ae1c9e9185",
+      "nodes_sha256": "fc0cf5f3f081711ade0c13600da84431e7f4ceef1fe4dddfb630bf90f12caa3c",
+      "sha256": "de83615ee59b708eef19dba939ff65571bf2ea0662032d64b56666c204ced8e5"
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_BUSH_ROUND_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_VEG_BUSH_ROUND_B_LOD0",
+      "triangles": 128,
+      "geometry_buffer_sha256": "1e8d0b6b064c4780b23feb457e1ef1bea5f007eac4fa33524702a053ea09c26f",
+      "nodes_sha256": "3638fbf83da9d037cfbb0b906c4be5a72481dd35d61a6ceb5535db2567898f53",
+      "sha256": "29ad44d3f65c7d00b7b84fca9313056920722cd181242b41343ca5d938b5617f"
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_BUSH_SPARSE_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_VEG_BUSH_SPARSE_A_LOD0",
+      "triangles": 56,
+      "geometry_buffer_sha256": "2354a270b5787176ad1f2b6e7f3d8297104c0de3987c185b363adeb209661688",
+      "nodes_sha256": "4bb8f7011212f4599f1cd62e9ea6513af0d40c262f1e346e8356257cf4d3a484",
+      "sha256": "0d4addb8638037f654c0bf6fd722d0df277cfcb30b3ff3d975a52b32656dc280"
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_BUSH_SPARSE_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_VEG_BUSH_SPARSE_B_LOD0",
+      "triangles": 96,
+      "geometry_buffer_sha256": "11d7be48f4394fd55f5ea78f29c2f7c1c33de3180fe94bcff1cdbf86cd178c33",
+      "nodes_sha256": "7a17c5140b198d014e4829335afcda14e0a7099d9391a54b9a81862cd2637e35",
+      "sha256": "d6046711a48b7b5ac1478277aa7d0c247ae89addec8fc84c3466bcded7e1c59a"
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_GRASS_FAN_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_VEG_GRASS_FAN_A_LOD0",
+      "triangles": 50,
+      "geometry_buffer_sha256": "688eb056118e4f18c93bfccf170a167ef576815cbccd1379ac68c6b1346556aa",
+      "nodes_sha256": "c9d11c6dbe9ce3b3860c74c904c01dd0512543746a7350f3f4913e86e5c03a54",
+      "sha256": "5e1d78c7b61abb0c30d3b5fcd42f784e50af62f5a66deee6b975ace16539ad93"
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_GRASS_FAN_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_VEG_GRASS_FAN_B_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "2fdb9ada5d7c4de97a6223f747d1a75d91a99076f7485ae0c0568c90475a01ed",
+      "nodes_sha256": "1037debcaa229de5fd832b2819602b92eb2fd5a6fdf5621dcb314f40a2316748",
+      "sha256": "ee2010a53c19a4ebf9b5b157718f0d3f91a39deffbde6af01d5a21edfb4a8638"
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_GRASS_LOW_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_VEG_GRASS_LOW_A_LOD0",
+      "triangles": 50,
+      "geometry_buffer_sha256": "267901a8aab809080b6add12c7de3c780b7eb3c73b447ac0902184951ff12997",
+      "nodes_sha256": "910511ba7b6dd891dad2cf08c9a465a36d7bca1c3676e4387aef73a4d344deef",
+      "sha256": "f57c101fcf430f4b3705a066a4bf5abe7f1e042c0ca3dee2e1e1b266095f9f4e"
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_GRASS_LOW_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_VEG_GRASS_LOW_B_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "4df698882826c32c510fc2dae3c4952ce7d80ab877c227540ba98a6e97782e48",
+      "nodes_sha256": "4dc796f614f2005887a372773dc6c664a7cce1d39f6051fa3e26240506d65657",
+      "sha256": "774f8cdb0f8325f18cabc2d910d8031bd4da0cd99dd91d1b540af0ca74b408cf"
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_GRASS_TUFT_A_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_VEG_GRASS_TUFT_A_LOD0",
+      "triangles": 50,
+      "geometry_buffer_sha256": "3d35c383cfaa9a86736287ed148aa554fafbc43ccda0501fdbf96ecb3f567d0e",
+      "nodes_sha256": "34d2d1cddb518b106f480916e43df8fd959a98138b24e8e191daff648132d65f",
+      "sha256": "8ff52aae8a517305fd058a372808efa960dddc42d788bd15319deb5da2015f74"
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_GRASS_TUFT_B_LOD0.glb",
+      "theme": "DUSK_01",
+      "model": "TW_VEG_GRASS_TUFT_B_LOD0",
+      "triangles": 70,
+      "geometry_buffer_sha256": "20e1536db75a0a4eba747b90a5c8a0926e0fef3aa32da39a9437b7ff5eeba7d8",
+      "nodes_sha256": "2c19bb526d45d5be795cf131af364040dcb452dad5d4742a9bb84eb46d0ac878",
+      "sha256": "3faff0e16a7893d9a6b50d9f25941faac4c0cfab8258fda791ae330f4a5a4615"
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_LOW_WEDGE_A_LOD1.glb",
+      "theme": "DUSK_01",
+      "model": "TW_ROCK_LOW_WEDGE_A_LOD1",
+      "triangles": 52,
+      "geometry_buffer_sha256": "e0a947fdb406fd932697faaaf42d92fcf3d3d67576690ba1e19126808901e75f",
+      "nodes_sha256": "4e4fa44a4f31078ad41a07c8321cdeb68527235f2137a8aaccd063caba610d0a",
+      "sha256": "98534b14574079de04e38e69497dddbc665914900a2185adc21c9b495fda29e0"
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_UPRIGHT_A_LOD1.glb",
+      "theme": "DUSK_01",
+      "model": "TW_ROCK_UPRIGHT_A_LOD1",
+      "triangles": 48,
+      "geometry_buffer_sha256": "c2082bd2309786c00d3442a093274c6f2a8eaa30fbb33221abcf40d7b7191a9e",
+      "nodes_sha256": "5c79cb8756d8e610ecdb7467d5731ff6b87668916aa29ceaa733ff3a8f742af1",
+      "sha256": "533fb9d54b6af017de283a7cf4709ac38bbaac03d1526277c3d09aad23835383"
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_ROUND_SMALL_A_LOD1.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TREE_ROUND_SMALL_A_LOD1",
+      "triangles": 244,
+      "geometry_buffer_sha256": "7363bdb767f1d014354aef16cf32e940a1cd33aad1214e2d786ac4a19171536c",
+      "nodes_sha256": "9be40d309dc7aff202ffb90a32616263783400cba7ca07d903d05cf7ea6938ce",
+      "sha256": "c1b21e082ad83c0a604566cf9e1450896660ae5d066d464f087b373f79ee4413"
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_TIERED_SLIM_A_LOD1.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TREE_TIERED_SLIM_A_LOD1",
+      "triangles": 184,
+      "geometry_buffer_sha256": "c5266c8ff27b546e4f17f2670958671613a8482076bd2f14f4a1b68147312519",
+      "nodes_sha256": "4beef12e1eceab9c672bd51a2f522c5af3e69ca9cc1e4d374a60bd6a49393389",
+      "sha256": "0f6ae372d43f054df932480edfbfcef2dc5da69182123290d102e667ad1bad96"
+    },
+    {
+      "file": "DUSK_01/models/TW_TERMINAL_POST.glb",
+      "theme": "DUSK_01",
+      "model": "TW_TERMINAL_POST",
+      "triangles": 20,
+      "geometry_buffer_sha256": "589cd8d46f6ead6b5914857326eeb57affbccb135da318b6c227a1eb5b946863",
+      "nodes_sha256": "1f1661cf6884c922e70fa3b055eb2c24dd8c3be052a45531143ebc65a67bc245",
+      "sha256": "646e5949ea723fc658571ff9cb49a1c0a1063ddd060678e36e378e43d340e0ef"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "asset_id": "TW_WOOD_RAIL_2M_A",
+  "seed": 31002,
+  "length_m": 2,
+  "height_m": 1.1,
+  "post_width_m": 0.14,
+  "rail_depth_m": 0.08,
+  "rail_height_m": 0.12,
+  "rail_centers_m": [
+    0.4,
+    0.8
+  ],
+  "damage_ratio": 0,
+  "include_start_post": true,
+  "include_end_post": false,
+  "generator_version": "0.3.0"
+}

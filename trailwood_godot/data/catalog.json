@@ -1,0 +1,45 @@
+{
+  "TW_ROCK_LOW_WEDGE_A": {
+    "lod0": "assets/TW_ROCK_LOW_WEDGE_A_LOD0.glb",
+    "height_m": 0.6499999761581421,
+    "tri0": 66,
+    "lod1": "assets/TW_ROCK_LOW_WEDGE_A_LOD1.glb",
+    "tri1": 52
+  },
+  "TW_ROCK_UPRIGHT_A": {
+    "lod0": "assets/TW_ROCK_UPRIGHT_A_LOD0.glb",
+    "height_m": 1.5499999523162842,
+    "tri0": 70,
+    "lod1": "assets/TW_ROCK_UPRIGHT_A_LOD1.glb",
+    "tri1": 48
+  },
+  "TW_TERMINAL_POST": {
+    "lod0": "assets/TW_TERMINAL_POST.glb",
+    "height_m": 1.100000023841858,
+    "tri0": 20
+  },
+  "TW_TREE_ROUND_SMALL_A": {
+    "lod0": "assets/TW_TREE_ROUND_SMALL_A_LOD0.glb",
+    "height_m": 2.799999952316284,
+    "tri0": 352,
+    "lod1": "assets/TW_TREE_ROUND_SMALL_A_LOD1.glb",
+    "tri1": 244
+  },
+  "TW_TREE_TIERED_SLIM_A": {
+    "lod0": "assets/TW_TREE_TIERED_SLIM_A_LOD0.glb",
+    "height_m": 3.799999952316284,
+    "tri0": 248,
+    "lod1": "assets/TW_TREE_TIERED_SLIM_A_LOD1.glb",
+    "tri1": 184
+  },
+  "TW_WOOD_RAIL_1M_A": {
+    "lod0": "assets/TW_WOOD_RAIL_1M_A_LOD0.glb",
+    "height_m": 1.100000023841858,
+    "tri0": 56
+  },
+  "TW_WOOD_RAIL_2M_A": {
+    "lod0": "assets/TW_WOOD_RAIL_2M_A_LOD0.glb",
+    "height_m": 1.100000023841858,
+    "tri0": 44
+  }
+}

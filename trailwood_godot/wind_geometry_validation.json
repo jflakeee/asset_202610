@@ -1,0 +1,49 @@
+{
+  "scope": "CPU sampling of actual exported vertices, not GPU rendering",
+  "assets": [
+    {
+      "asset_id": "TW_GRASS_TALL_A_LOD0",
+      "phase_samples": 129,
+      "strength_samples": 3,
+      "anchored_split_vertices": 126,
+      "max_sampled_displacement_m": 0.08256383382906761,
+      "min_deformed_triangle_area_m2": 0.0005774557909876753,
+      "cull_margin_m": 0.1,
+      "cull_margin_covers_bound": true,
+      "status": "PASS"
+    },
+    {
+      "asset_id": "TW_GRASS_TUFT_A_LOD0",
+      "phase_samples": 129,
+      "strength_samples": 3,
+      "anchored_split_vertices": 98,
+      "max_sampled_displacement_m": 0.08256383382906761,
+      "min_deformed_triangle_area_m2": 0.00014170316764924412,
+      "cull_margin_m": 0.1,
+      "cull_margin_covers_bound": true,
+      "status": "PASS"
+    },
+    {
+      "asset_id": "TW_SHRUB_ROUND_A_LOD0",
+      "phase_samples": 129,
+      "strength_samples": 3,
+      "anchored_split_vertices": 7,
+      "max_sampled_displacement_m": 0.030961437685900366,
+      "min_deformed_triangle_area_m2": 0.014826733884313967,
+      "cull_margin_m": 0.1,
+      "cull_margin_covers_bound": true,
+      "status": "PASS"
+    },
+    {
+      "asset_id": "TW_SHRUB_SPREAD_A_LOD0",
+      "phase_samples": 129,
+      "strength_samples": 3,
+      "anchored_split_vertices": 7,
+      "max_sampled_displacement_m": 0.030961437685900362,
+      "min_deformed_triangle_area_m2": 0.015308444753085687,
+      "cull_margin_m": 0.1,
+      "cull_margin_covers_bound": true,
+      "status": "PASS"
+    }
+  ]
+}

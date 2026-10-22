@@ -1,0 +1,15 @@
+{
+  "asset_id": "TW_TREE_ROUND_SMALL_A",
+  "family_id": "TREE_ROUND_SMALL",
+  "seed": 11001,
+  "height_m": 2.8,
+  "trunk_height_m": 1.85,
+  "trunk_radius_m": 0.14,
+  "trunk_sides": 8,
+  "trunk_rings": 5,
+  "bend_deg": 7,
+  "branch_count": 3,
+  "canopy_lobes": 3,
+  "canopy_width_m": 1.8,
+  "canopy_height_m": 1.65
+}

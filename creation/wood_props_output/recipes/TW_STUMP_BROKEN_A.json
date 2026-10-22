@@ -1,0 +1,9 @@
+{
+  "asset_id": "TW_STUMP_BROKEN_A",
+  "seed": 41002,
+  "radius": 0.44,
+  "height": 0.82,
+  "sides": 12,
+  "kind": "stump",
+  "broken": true
+}

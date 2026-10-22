@@ -1,0 +1,170 @@
+{
+  "status": "PASS",
+  "assets": [
+    {
+      "asset_id": "TW_STONE_WALL_1M_A",
+      "triangles": 120,
+      "closed_components": 10,
+      "collider_parts": 10,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 2,
+      "engine_import": "NOT_RUN"
+    },
+    {
+      "asset_id": "TW_STONE_WALL_1M_B",
+      "triangles": 156,
+      "closed_components": 13,
+      "collider_parts": 13,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 2,
+      "engine_import": "NOT_RUN"
+    },
+    {
+      "asset_id": "TW_STONE_WALL_2M_A",
+      "triangles": 192,
+      "closed_components": 16,
+      "collider_parts": 16,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 2,
+      "engine_import": "NOT_RUN"
+    },
+    {
+      "asset_id": "TW_STONE_WALL_2M_B",
+      "triangles": 252,
+      "closed_components": 21,
+      "collider_parts": 21,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 2,
+      "engine_import": "NOT_RUN"
+    },
+    {
+      "asset_id": "TW_STONE_WALL_4M_A",
+      "triangles": 372,
+      "closed_components": 31,
+      "collider_parts": 31,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 2,
+      "engine_import": "NOT_RUN"
+    },
+    {
+      "asset_id": "TW_STONE_WALL_4M_B",
+      "triangles": 420,
+      "closed_components": 35,
+      "collider_parts": 35,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 2,
+      "engine_import": "NOT_RUN"
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_L90_A",
+      "triangles": 240,
+      "closed_components": 20,
+      "collider_parts": 20,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 2,
+      "engine_import": "NOT_RUN"
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_L90_B",
+      "triangles": 312,
+      "closed_components": 26,
+      "collider_parts": 26,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 2,
+      "engine_import": "NOT_RUN"
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_R90_A",
+      "triangles": 252,
+      "closed_components": 21,
+      "collider_parts": 21,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 2,
+      "engine_import": "NOT_RUN"
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_R90_B",
+      "triangles": 324,
+      "closed_components": 27,
+      "collider_parts": 27,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 2,
+      "engine_import": "NOT_RUN"
+    },
+    {
+      "asset_id": "TW_STONE_END_CAP_A",
+      "triangles": 48,
+      "closed_components": 4,
+      "collider_parts": 4,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 1,
+      "engine_import": "NOT_RUN"
+    },
+    {
+      "asset_id": "TW_STONE_END_CAP_B",
+      "triangles": 72,
+      "closed_components": 6,
+      "collider_parts": 6,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 1,
+      "engine_import": "NOT_RUN"
+    },
+    {
+      "asset_id": "TW_STONE_END_RUIN_A",
+      "triangles": 60,
+      "closed_components": 5,
+      "collider_parts": 5,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 1,
+      "engine_import": "NOT_RUN"
+    },
+    {
+      "asset_id": "TW_STONE_END_RUIN_B",
+      "triangles": 96,
+      "closed_components": 8,
+      "collider_parts": 8,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 1,
+      "engine_import": "NOT_RUN"
+    },
+    {
+      "asset_id": "TW_STONE_POST_A",
+      "triangles": 36,
+      "closed_components": 3,
+      "collider_parts": 3,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 1,
+      "engine_import": "NOT_RUN"
+    },
+    {
+      "asset_id": "TW_STONE_POST_B",
+      "triangles": 60,
+      "closed_components": 5,
+      "collider_parts": 5,
+      "status": "PASS",
+      "art_approval": "PENDING",
+      "socket_nodes": 1,
+      "engine_import": "NOT_RUN"
+    }
+  ],
+  "deterministic_rebuild": "PASS",
+  "variant_geometry": "PASS",
+  "engine_import": "NOT_RUN",
+  "slope_assembly": "NOT_RUN",
+  "art_approval": "PENDING"
+}

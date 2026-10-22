@@ -1,0 +1,40 @@
+{
+  "status": "NEEDS_MANUAL_RESIDUAL",
+  "length_m": 7.73,
+  "gate_span_m": 1.6,
+  "reservations": [
+    [
+      2.0,
+      3.6
+    ]
+  ],
+  "pieces": [
+    {
+      "asset_id": "TW_WOOD_RAIL_2M_A",
+      "start_m": 0.0,
+      "end_m": 2.0,
+      "scale": 1.0
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_FRAME_A",
+      "start_m": 2.0,
+      "end_m": 3.6,
+      "scale": 1.0,
+      "protected": true
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_4M_A",
+      "start_m": 3.6,
+      "end_m": 7.6,
+      "scale": 1.0
+    }
+  ],
+  "residuals": [
+    {
+      "start_m": 7.6,
+      "end_m": 7.73,
+      "status": "NEEDS_CUSTOM_END"
+    }
+  ],
+  "scope": "Straight interval planning only; no leaf animation, navigation or engine collision test"
+}

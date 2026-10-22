@@ -1,0 +1,184 @@
+{
+  "status": "PASS",
+  "criterion": "Each of four 256px orthographic view IoUs >= 0.95 for LOD1",
+  "method": "Exported GLB triangles; source Z-up; front +X/up +Z, side +Y/up +Z, 45-degree XY diagonal/up +Z, top X/Y; per-pair union bounds shared by both meshes; uniform scale; approximately8px padding; nearest integer triangle rasterization; no antialiasing or culling",
+  "resolution": 256,
+  "views": [
+    "front",
+    "side",
+    "diagonal45",
+    "top"
+  ],
+  "lod1_minimum": 0.95,
+  "lod2_minimum": 0.88,
+  "lod2_status": "NOT_RUN",
+  "identical_mask_control": "PASS",
+  "translation_negative_controls": "PASS",
+  "art_approval": "PENDING",
+  "assets": [
+    {
+      "asset_id": "TW_ROCK_LOW_WEDGE_A",
+      "lod1_status": "PASS",
+      "lod2_status": "NOT_RUN",
+      "lod2_reason": "LOD2 not supplied",
+      "views": [
+        {
+          "view": "front",
+          "iou": 0.9997402260033771,
+          "status": "PASS",
+          "lod0_pixels": 23097,
+          "lod1_pixels": 23091
+        },
+        {
+          "view": "side",
+          "iou": 0.9985486211901307,
+          "status": "PASS",
+          "lod0_pixels": 34450,
+          "lod1_pixels": 34400
+        },
+        {
+          "view": "diagonal45",
+          "iou": 0.9999194684920475,
+          "status": "PASS",
+          "lod0_pixels": 24835,
+          "lod1_pixels": 24833
+        },
+        {
+          "view": "top",
+          "iou": 0.9907036755218844,
+          "status": "PASS",
+          "lod0_pixels": 30227,
+          "lod1_pixels": 29946
+        }
+      ],
+      "translation_negative_control_iou": 0.5518301830183018,
+      "source_sha256": {
+        "output/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb": "2cd6780d0595b36548476c0f7696a9c6141b64eefc2357bd11db102f3562d951",
+        "lod_output/models/TW_ROCK_LOW_WEDGE_A_LOD1.glb": "c6ec6b05e7c5b671a503bef4977bc61ef0fa96c2dc4462330cc6cf064e489801"
+      }
+    },
+    {
+      "asset_id": "TW_ROCK_UPRIGHT_A",
+      "lod1_status": "PASS",
+      "lod2_status": "NOT_RUN",
+      "lod2_reason": "LOD2 not supplied",
+      "views": [
+        {
+          "view": "front",
+          "iou": 0.9894702868439101,
+          "status": "PASS",
+          "lod0_pixels": 24787,
+          "lod1_pixels": 24526
+        },
+        {
+          "view": "side",
+          "iou": 0.9948578342407743,
+          "status": "PASS",
+          "lod0_pixels": 19836,
+          "lod1_pixels": 19734
+        },
+        {
+          "view": "diagonal45",
+          "iou": 0.9686913535039136,
+          "status": "PASS",
+          "lod0_pixels": 21847,
+          "lod1_pixels": 21163
+        },
+        {
+          "view": "top",
+          "iou": 0.9995810390232224,
+          "status": "PASS",
+          "lod0_pixels": 33416,
+          "lod1_pixels": 33402
+        }
+      ],
+      "translation_negative_control_iou": 0.4842959370041019,
+      "source_sha256": {
+        "output/models/TW_ROCK_UPRIGHT_A_LOD0.glb": "1ca01b466bb82bea44d2fd7193932f519285697b36a98ee7abcca3a80c9645fb",
+        "lod_output/models/TW_ROCK_UPRIGHT_A_LOD1.glb": "efaf482289f736942675454463ede517febb907920ce9d235e49d06e94103c30"
+      }
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_SMALL_A",
+      "lod1_status": "PASS",
+      "lod2_status": "NOT_RUN",
+      "lod2_reason": "LOD2 not supplied",
+      "views": [
+        {
+          "view": "front",
+          "iou": 0.9681067631757521,
+          "status": "PASS",
+          "lod0_pixels": 17360,
+          "lod1_pixels": 17444
+        },
+        {
+          "view": "side",
+          "iou": 0.9960367263359535,
+          "status": "PASS",
+          "lod0_pixels": 15135,
+          "lod1_pixels": 15083
+        },
+        {
+          "view": "diagonal45",
+          "iou": 0.9778877283000428,
+          "status": "PASS",
+          "lod0_pixels": 16115,
+          "lod1_pixels": 16265
+        },
+        {
+          "view": "top",
+          "iou": 1.0,
+          "status": "PASS",
+          "lod0_pixels": 34255,
+          "lod1_pixels": 34255
+        }
+      ],
+      "translation_negative_control_iou": 0.35841313269493846,
+      "source_sha256": {
+        "trees_output_v2/models/TW_TREE_ROUND_SMALL_A_LOD0.glb": "2d509a2050e0e3bc94bb22ac2d0a74b4827842551e8220c69ead4fa65a23b26e",
+        "lod_output/models/TW_TREE_ROUND_SMALL_A_LOD1.glb": "161c792d391e0b5ad66c171d41227390f4c52f70907a41eb2ae70c4c5144a01b"
+      }
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_SLIM_A",
+      "lod1_status": "PASS",
+      "lod2_status": "NOT_RUN",
+      "lod2_reason": "LOD2 not supplied",
+      "views": [
+        {
+          "view": "front",
+          "iou": 0.9859792350696601,
+          "status": "PASS",
+          "lod0_pixels": 11251,
+          "lod1_pixels": 11129
+        },
+        {
+          "view": "side",
+          "iou": 0.9863699102829537,
+          "status": "PASS",
+          "lod0_pixels": 11592,
+          "lod1_pixels": 11434
+        },
+        {
+          "view": "diagonal45",
+          "iou": 0.9864285088871377,
+          "status": "PASS",
+          "lod0_pixels": 11406,
+          "lod1_pixels": 11281
+        },
+        {
+          "view": "top",
+          "iou": 1.0,
+          "status": "PASS",
+          "lod0_pixels": 42244,
+          "lod1_pixels": 42244
+        }
+      ],
+      "translation_negative_control_iou": 0.27518984472401675,
+      "source_sha256": {
+        "trees_output_v2/models/TW_TREE_TIERED_SLIM_A_LOD0.glb": "21420a077931fc9acb66446bea8b2f7847a0dc2c05d43d65103f6b6fe694de00",
+        "lod_output/models/TW_TREE_TIERED_SLIM_A_LOD1.glb": "ded938faa16e338219a7fe869c40c26d706074baa5d31359d43021642cdfbcb1"
+      }
+    }
+  ]
+}

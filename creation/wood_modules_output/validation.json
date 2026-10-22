@@ -1,0 +1,188 @@
+{
+  "status": "PASS",
+  "assets": [
+    {
+      "asset_id": "TW_WOOD_RAIL_1M_B",
+      "triangles": 68,
+      "closed_components": 5,
+      "status": "PASS",
+      "sha256": "592b0fe551e3baaa482795c74e463defd82dec865ffc6f5a2043d41fa16540aa",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_2M_B",
+      "triangles": 68,
+      "closed_components": 5,
+      "status": "PASS",
+      "sha256": "2223a57f7f4f0b5da48d2f81c7e8bee5bdfac49a310cfbf5c60260c7b508aa90",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_4M_A",
+      "triangles": 44,
+      "closed_components": 3,
+      "status": "PASS",
+      "sha256": "43c4270472f9f2a227ca9f4308536c8a1fa0121c1fb2ae25e46d96aaa9fb8c91",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_4M_B",
+      "triangles": 68,
+      "closed_components": 5,
+      "status": "PASS",
+      "sha256": "de6cf18bf6c9caecc6d809ae75f82fd4f49545103dc10a9de53bffaca93bad8b",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_L90_A",
+      "triangles": 88,
+      "closed_components": 6,
+      "status": "PASS",
+      "sha256": "9c58b896331e53cade2a9d4fe942421c0777631117cc75036aecb2b117a34948",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_L90_B",
+      "triangles": 124,
+      "closed_components": 9,
+      "status": "PASS",
+      "sha256": "001c46473c3d4d6ccdac85c596901b614668a4bf028411c324e649f4e2bd2884",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_R90_A",
+      "triangles": 100,
+      "closed_components": 7,
+      "status": "PASS",
+      "sha256": "f821411ee17824279a83c5d37746784d3ae9e7d6daf1bed481351c8990a2bd2d",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_R90_B",
+      "triangles": 136,
+      "closed_components": 10,
+      "status": "PASS",
+      "sha256": "da1361729afb0b9298503cfa00110753b5bd2c4b02dd5700f293f9ea81bb3d56",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_END_CAP_A",
+      "triangles": 32,
+      "closed_components": 2,
+      "status": "PASS",
+      "sha256": "ecf82be18ca63b9a999235c35cc4cfaba5b3b2061d2f38f372d1fb5f22ada70f",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_END_CAP_B",
+      "triangles": 44,
+      "closed_components": 3,
+      "status": "PASS",
+      "sha256": "68c9e4b97108fe75667a2d0c823a4db2d8ca5e03eee8b1d160690efa9c906531",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_END_BROKEN_A",
+      "triangles": 36,
+      "closed_components": 2,
+      "status": "PASS",
+      "sha256": "51a5c649c1e9b0032ae8e996165601e8dc0684d7d180f0f453f21634debee475",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_END_BROKEN_B",
+      "triangles": 48,
+      "closed_components": 3,
+      "status": "PASS",
+      "sha256": "f6686bfca34be630a1a44a8fc83d33609ff0266e993985432630f19b026f759e",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_POST_A",
+      "triangles": 20,
+      "closed_components": 1,
+      "status": "PASS",
+      "sha256": "dc675d9a771ea03a28010c080114a8dff6c83eb417bbee059797bf8214e5f59b",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_POST_B",
+      "triangles": 32,
+      "closed_components": 2,
+      "status": "PASS",
+      "sha256": "82b1a75f1263c182b1b78aaf2c3b57de4b812b580b4af64b3c1e6411ecb62b33",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_FRAME_A",
+      "triangles": 76,
+      "closed_components": 5,
+      "status": "PASS",
+      "sha256": "11f80a5ee847a45a5428d2b7a56d85bc60243c91632cc89e52aaf0f8ceddda7f",
+      "aperture_check": "PASS",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_FRAME_B",
+      "triangles": 88,
+      "closed_components": 6,
+      "status": "PASS",
+      "sha256": "a52a2c15b73db59dcf9669bbe05af4e1536098d0e6db8118b3f1d3ab408e64d8",
+      "aperture_check": "PASS",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_LEAF_A",
+      "triangles": 108,
+      "closed_components": 9,
+      "status": "PASS",
+      "sha256": "6250965542593e605f0ea6f8548119c3ab4df64df46518a60b9c7e180def0770",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_LEAF_B",
+      "triangles": 132,
+      "closed_components": 11,
+      "status": "PASS",
+      "sha256": "30aae675c0f532365afad81a8917c5f6d64e639e94f561ee7d056c9ab5df0d72",
+      "aperture_check": "NOT_APPLICABLE",
+      "engine_test": "NOT_RUN",
+      "art_approval": "PENDING"
+    }
+  ],
+  "models": 18,
+  "existing_1m_2m_A": "Not rewritten",
+  "art_approval": "PENDING"
+}

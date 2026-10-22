@@ -1,0 +1,113 @@
+{
+  "validator": "2.0.0-dev.3.10",
+  "results": [
+    {
+      "file": "TW_WOOD_CORNER_L90_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_CORNER_L90_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_CORNER_R90_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_CORNER_R90_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_END_BROKEN_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_END_BROKEN_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_END_CAP_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_END_CAP_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_GATE_FRAME_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_GATE_FRAME_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_GATE_LEAF_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_GATE_LEAF_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_POST_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_POST_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_1M_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_2M_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_4M_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_4M_B_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    }
+  ]
+}

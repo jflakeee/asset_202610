@@ -1,0 +1,29 @@
+{
+  "validator": "2.0.0-dev.3.10",
+  "results": [
+    {
+      "file": "TW_GRASS_TALL_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_GRASS_TUFT_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_SHRUB_ROUND_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_SHRUB_SPREAD_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    }
+  ]
+}

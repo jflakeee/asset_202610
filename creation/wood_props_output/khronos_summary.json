@@ -1,0 +1,29 @@
+{
+  "validator": "2.0.0-dev.3.10",
+  "results": [
+    {
+      "file": "TW_LOG_BROKEN_15M_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_LOG_CUT_2M_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STUMP_BROKEN_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    },
+    {
+      "file": "TW_STUMP_CUT_SMALL_A_LOD0.glb",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0
+    }
+  ]
+}

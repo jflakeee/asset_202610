@@ -1,0 +1,15 @@
+{
+  "asset_id": "TW_ROCK_UPRIGHT_A",
+  "family_id": "ROCK_UPRIGHT",
+  "seed": 21002,
+  "size_m": [
+    0.8,
+    0.65,
+    1.55
+  ],
+  "radial_segments": 8,
+  "height_rings": 5,
+  "radial_jitter_ratio": 0.1,
+  "lean_deg": 6,
+  "base_inset_ratio": 0.06
+}

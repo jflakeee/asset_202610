@@ -1,0 +1,620 @@
+{
+  "status": "PASS_EXECUTED_CHECKS",
+  "tests": {
+    "7m": {
+      "status": "EXACT_WITHIN_1MM",
+      "input_length_m": 7,
+      "quantized_length_mm": 7000,
+      "modules_mm": [
+        1000,
+        2000,
+        4000
+      ],
+      "occupied_mm": 7000,
+      "residual_mm": 0,
+      "scale_applied": false
+    },
+    "2.13m": {
+      "status": "NEEDS_CUSTOM_END",
+      "input_length_m": 2.13,
+      "quantized_length_mm": 2130,
+      "modules_mm": [
+        2000
+      ],
+      "occupied_mm": 2000,
+      "residual_mm": 130.0,
+      "scale_applied": false
+    },
+    "2.251m": {
+      "status": "UNSUPPORTED_LENGTH",
+      "input_length_m": 2.251,
+      "quantized_length_mm": 2251,
+      "modules_mm": [
+        2000
+      ],
+      "occupied_mm": 2000,
+      "residual_mm": 251.0,
+      "scale_applied": false
+    },
+    "2.001m": {
+      "status": "EXACT_WITHIN_1MM",
+      "input_length_m": 2.001,
+      "quantized_length_mm": 2001,
+      "modules_mm": [
+        2000
+      ],
+      "occupied_mm": 2000,
+      "residual_mm": 1.0,
+      "scale_applied": false
+    },
+    "zero_length": "REJECTED_AS_REQUIRED",
+    "sub1mm_merge": {
+      "points_m": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          2.0,
+          0.0,
+          0.0
+        ]
+      ],
+      "merged_points": 1,
+      "segments": [
+        {
+          "horizontal_length_m": 2.0,
+          "slope_degrees": 0.0,
+          "slope_policy": "WITHIN_15_DEG_POLICY",
+          "split": {
+            "status": "EXACT_WITHIN_1MM",
+            "input_length_m": 2.0,
+            "quantized_length_mm": 2000,
+            "modules_mm": [
+              2000
+            ],
+            "occupied_mm": 2000,
+            "residual_mm": 0.0,
+            "scale_applied": false
+          },
+          "physical_slope_generation": "NOT_IMPLEMENTED"
+        }
+      ],
+      "turns": [],
+      "closed_endpoint": false,
+      "physical_closed_assembly": "NOT_IMPLEMENTED",
+      "note": "Polyline endpoint coincidence does not prove outgoing socket direction or physical corner fit."
+    },
+    "15deg_slope_policy": {
+      "points_m": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          2.0,
+          0.0,
+          0.5358983848622454
+        ]
+      ],
+      "merged_points": 0,
+      "segments": [
+        {
+          "horizontal_length_m": 2.0,
+          "slope_degrees": 14.999999999999998,
+          "slope_policy": "WITHIN_15_DEG_POLICY",
+          "split": {
+            "status": "EXACT_WITHIN_1MM",
+            "input_length_m": 2.0,
+            "quantized_length_mm": 2000,
+            "modules_mm": [
+              2000
+            ],
+            "occupied_mm": 2000,
+            "residual_mm": 0.0,
+            "scale_applied": false
+          },
+          "physical_slope_generation": "NOT_IMPLEMENTED"
+        }
+      ],
+      "turns": [],
+      "closed_endpoint": false,
+      "physical_closed_assembly": "NOT_IMPLEMENTED",
+      "note": "Polyline endpoint coincidence does not prove outgoing socket direction or physical corner fit."
+    },
+    "16deg_slope_policy": {
+      "points_m": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          2.0,
+          0.0,
+          0.5734907715176158
+        ]
+      ],
+      "merged_points": 0,
+      "segments": [
+        {
+          "horizontal_length_m": 2.0,
+          "slope_degrees": 16.0,
+          "slope_policy": "MANUAL_SLOPE_OVER_15_DEG",
+          "split": {
+            "status": "EXACT_WITHIN_1MM",
+            "input_length_m": 2.0,
+            "quantized_length_mm": 2000,
+            "modules_mm": [
+              2000
+            ],
+            "occupied_mm": 2000,
+            "residual_mm": 0.0,
+            "scale_applied": false
+          },
+          "physical_slope_generation": "NOT_IMPLEMENTED"
+        }
+      ],
+      "turns": [],
+      "closed_endpoint": false,
+      "physical_closed_assembly": "NOT_IMPLEMENTED",
+      "note": "Polyline endpoint coincidence does not prove outgoing socket direction or physical corner fit."
+    },
+    "45deg_turn": {
+      "points_m": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          2.0,
+          0.0,
+          0.0
+        ],
+        [
+          3.0,
+          1.0,
+          0.0
+        ]
+      ],
+      "merged_points": 0,
+      "segments": [
+        {
+          "horizontal_length_m": 2.0,
+          "slope_degrees": 0.0,
+          "slope_policy": "WITHIN_15_DEG_POLICY",
+          "split": {
+            "status": "EXACT_WITHIN_1MM",
+            "input_length_m": 2.0,
+            "quantized_length_mm": 2000,
+            "modules_mm": [
+              2000
+            ],
+            "occupied_mm": 2000,
+            "residual_mm": 0.0,
+            "scale_applied": false
+          },
+          "physical_slope_generation": "NOT_IMPLEMENTED"
+        },
+        {
+          "horizontal_length_m": 1.4142135623730951,
+          "slope_degrees": 0.0,
+          "slope_policy": "WITHIN_15_DEG_POLICY",
+          "split": {
+            "status": "UNSUPPORTED_LENGTH",
+            "input_length_m": 1.4142135623730951,
+            "quantized_length_mm": 1414,
+            "modules_mm": [
+              1000
+            ],
+            "occupied_mm": 1000,
+            "residual_mm": 414.2135623730951,
+            "scale_applied": false
+          },
+          "physical_slope_generation": "NOT_IMPLEMENTED"
+        }
+      ],
+      "turns": [
+        {
+          "turn_degrees": 45.00000000000001,
+          "policy": "MANUAL_UNSUPPORTED_TURN"
+        }
+      ],
+      "closed_endpoint": false,
+      "physical_closed_assembly": "NOT_IMPLEMENTED",
+      "note": "Polyline endpoint coincidence does not prove outgoing socket direction or physical corner fit."
+    },
+    "closed_ownership": {
+      "start_post_owners": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "terminal_posts": 0,
+      "unique_post_count": 4,
+      "scope": "TOPOLOGY_ONLY_NOT_PHYSICAL_CORNER_CLOSURE"
+    },
+    "open_ownership": {
+      "start_post_owners": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "terminal_posts": 1,
+      "unique_post_count": 5,
+      "scope": "TOPOLOGY_ONLY_NOT_PHYSICAL_CORNER_CLOSURE"
+    },
+    "actual_1_2_4m_yaw_0": {
+      "status": "PASS",
+      "yaw_degrees": 0,
+      "span_m": 7.0,
+      "instances": [
+        {
+          "asset_id": "TW_WOOD_RAIL_1M_A",
+          "source": "fences_output/models/TW_WOOD_RAIL_1M_A_LOD0.glb",
+          "sha256": "055cb7e0008e0b20047c351ae409b789811fd344dcfa966fa323e66f3b34248d",
+          "transform_y_up": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              -0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_start": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "socket_end": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "minimum_transformed_normal_dot": 0.9999999999995546,
+          "collider_points_checked": 24,
+          "collider_transform": "SAME_RIGID_TRANSFORM_AS_MESH",
+          "bounds_min": [
+            -0.07000000029802322,
+            0.0,
+            -0.07000000029802322
+          ],
+          "bounds_max": [
+            0.9300000071525574,
+            1.100000023841858,
+            0.07000000029802322
+          ]
+        },
+        {
+          "asset_id": "TW_WOOD_RAIL_2M_A",
+          "source": "fences_output/models/TW_WOOD_RAIL_2M_A_LOD0.glb",
+          "sha256": "df031a7101cf320955722e30398c5b0442b0c2aefaf36df95728be27a918e11d",
+          "transform_y_up": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              1.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_start": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "socket_end": [
+            3.0,
+            0.0,
+            0.0
+          ],
+          "minimum_transformed_normal_dot": 0.9999999999995546,
+          "collider_points_checked": 24,
+          "collider_transform": "SAME_RIGID_TRANSFORM_AS_MESH",
+          "bounds_min": [
+            0.9299999997019768,
+            0.0,
+            -0.07000000029802322
+          ],
+          "bounds_max": [
+            2.9299999475479126,
+            1.100000023841858,
+            0.07000000029802322
+          ]
+        },
+        {
+          "asset_id": "TW_WOOD_RAIL_4M_A",
+          "source": "wood_modules_output/models/TW_WOOD_RAIL_4M_A_LOD0.glb",
+          "sha256": "43c4270472f9f2a227ca9f4308536c8a1fa0121c1fb2ae25e46d96aaa9fb8c91",
+          "transform_y_up": [
+            [
+              1.0,
+              0.0,
+              0.0,
+              3.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_start": [
+            3.0,
+            0.0,
+            0.0
+          ],
+          "socket_end": [
+            7.0,
+            0.0,
+            0.0
+          ],
+          "minimum_transformed_normal_dot": 0.9999999999995546,
+          "collider_points_checked": 28,
+          "collider_transform": "SAME_RIGID_TRANSFORM_AS_MESH",
+          "bounds_min": [
+            2.9299999997019768,
+            0.0,
+            -0.07000000029802322
+          ],
+          "bounds_max": [
+            6.930000066757202,
+            1.100000023841858,
+            0.07000000029802322
+          ]
+        }
+      ],
+      "joints": [
+        {
+          "gap_m": 0.0,
+          "outward_opposition_error_degrees": 0.0
+        },
+        {
+          "gap_m": 0.0,
+          "outward_opposition_error_degrees": 0.0
+        }
+      ],
+      "scope": "Actual GLB sockets/triangles/normals and collision descriptor transforms; no engine physics or render test."
+    },
+    "actual_1_2_4m_yaw_90": {
+      "status": "PASS",
+      "yaw_degrees": 90,
+      "span_m": 7.0,
+      "instances": [
+        {
+          "asset_id": "TW_WOOD_RAIL_1M_A",
+          "source": "fences_output/models/TW_WOOD_RAIL_1M_A_LOD0.glb",
+          "sha256": "055cb7e0008e0b20047c351ae409b789811fd344dcfa966fa323e66f3b34248d",
+          "transform_y_up": [
+            [
+              6.123233995736766e-17,
+              0.0,
+              1.0,
+              0.0
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              -1.0,
+              0.0,
+              6.123233995736766e-17,
+              0.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_start": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "socket_end": [
+            6.123233995736766e-17,
+            0.0,
+            -1.0
+          ],
+          "minimum_transformed_normal_dot": 0.9999999999995546,
+          "collider_points_checked": 24,
+          "collider_transform": "SAME_RIGID_TRANSFORM_AS_MESH",
+          "bounds_min": [
+            -0.07000000029802322,
+            0.0,
+            -0.9300000071525574
+          ],
+          "bounds_max": [
+            0.07000000029802322,
+            1.100000023841858,
+            0.07000000029802322
+          ]
+        },
+        {
+          "asset_id": "TW_WOOD_RAIL_2M_A",
+          "source": "fences_output/models/TW_WOOD_RAIL_2M_A_LOD0.glb",
+          "sha256": "df031a7101cf320955722e30398c5b0442b0c2aefaf36df95728be27a918e11d",
+          "transform_y_up": [
+            [
+              6.123233995736766e-17,
+              0.0,
+              1.0,
+              6.123233995736766e-17
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              -1.0,
+              0.0,
+              6.123233995736766e-17,
+              -1.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_start": [
+            6.123233995736766e-17,
+            0.0,
+            -1.0
+          ],
+          "socket_end": [
+            1.8369701987210297e-16,
+            0.0,
+            -3.0
+          ],
+          "minimum_transformed_normal_dot": 0.9999999999995546,
+          "collider_points_checked": 24,
+          "collider_transform": "SAME_RIGID_TRANSFORM_AS_MESH",
+          "bounds_min": [
+            -0.07000000029802317,
+            0.0,
+            -2.9299999475479126
+          ],
+          "bounds_max": [
+            0.07000000029802328,
+            1.100000023841858,
+            -0.9299999997019768
+          ]
+        },
+        {
+          "asset_id": "TW_WOOD_RAIL_4M_A",
+          "source": "wood_modules_output/models/TW_WOOD_RAIL_4M_A_LOD0.glb",
+          "sha256": "43c4270472f9f2a227ca9f4308536c8a1fa0121c1fb2ae25e46d96aaa9fb8c91",
+          "transform_y_up": [
+            [
+              6.123233995736766e-17,
+              0.0,
+              1.0,
+              1.8369701987210297e-16
+            ],
+            [
+              0.0,
+              1.0,
+              0.0,
+              0.0
+            ],
+            [
+              -1.0,
+              0.0,
+              6.123233995736766e-17,
+              -3.0
+            ],
+            [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          ],
+          "socket_start": [
+            1.8369701987210297e-16,
+            0.0,
+            -3.0
+          ],
+          "socket_end": [
+            4.286263797015736e-16,
+            0.0,
+            -7.0
+          ],
+          "minimum_transformed_normal_dot": 0.9999999999995546,
+          "collider_points_checked": 28,
+          "collider_transform": "SAME_RIGID_TRANSFORM_AS_MESH",
+          "bounds_min": [
+            -0.07000000029802304,
+            0.0,
+            -6.930000066757202
+          ],
+          "bounds_max": [
+            0.0700000002980234,
+            1.100000023841858,
+            -2.9299999997019768
+          ]
+        }
+      ],
+      "joints": [
+        {
+          "gap_m": 0.0,
+          "outward_opposition_error_degrees": 0.0
+        },
+        {
+          "gap_m": 0.0,
+          "outward_opposition_error_degrees": 0.0
+        }
+      ],
+      "scope": "Actual GLB sockets/triangles/normals and collision descriptor transforms; no engine physics or render test."
+    }
+  },
+  "not_implemented": [
+    "physical corner fitting and closed-loop socket closure",
+    "slope geometry generation",
+    "gate reservation/path clipping",
+    "engine collision traversal"
+  ],
+  "automatic_art_approval": false
+}

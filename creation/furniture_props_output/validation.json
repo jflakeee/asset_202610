@@ -1,0 +1,54 @@
+[
+  {
+    "asset_id": "TW_BENCH_SIMPLE_A",
+    "triangles": 144,
+    "dimensions_xyz_m": [
+      1.6,
+      0.44199999999999995,
+      0.45000000000000007
+    ],
+    "closed_components": 12,
+    "collider_parts": 12,
+    "status": "PASS",
+    "art_approval": "PENDING"
+  },
+  {
+    "asset_id": "TW_BENCH_BACKREST_A",
+    "triangles": 192,
+    "dimensions_xyz_m": [
+      1.6,
+      0.44599999999999995,
+      1.05
+    ],
+    "closed_components": 16,
+    "collider_parts": 16,
+    "status": "PASS",
+    "art_approval": "PENDING"
+  },
+  {
+    "asset_id": "TW_TABLE_SQUARE_A",
+    "triangles": 144,
+    "dimensions_xyz_m": [
+      0.9,
+      0.8919999999999999,
+      0.75
+    ],
+    "closed_components": 12,
+    "collider_parts": 12,
+    "status": "PASS",
+    "art_approval": "PENDING"
+  },
+  {
+    "asset_id": "TW_TABLE_LONG_A",
+    "triangles": 144,
+    "dimensions_xyz_m": [
+      1.8,
+      0.792,
+      0.75
+    ],
+    "closed_components": 12,
+    "collider_parts": 12,
+    "status": "PASS",
+    "art_approval": "PENDING"
+  }
+]

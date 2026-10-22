@@ -1,0 +1,53 @@
+{
+  "channel": "INTERNAL_REVIEW",
+  "asset_ids": [
+    "TW_TREE_ROUND_SMALL_A",
+    "TW_TREE_TIERED_SLIM_A",
+    "TW_ROCK_LOW_WEDGE_A",
+    "TW_ROCK_UPRIGHT_A",
+    "TW_VEG_GRASS_LOW_A",
+    "TW_WOOD_RAIL_2M_A",
+    "TW_WOOD_POST_A",
+    "TW_STONE_WALL_1M_A"
+  ],
+  "theme": "MOSS_01",
+  "files": {
+    "README.md": {
+      "bytes": 198,
+      "sha256": "49b14f5dd998f1f64152ace44dbed73f8fccbcaab5783c7c6cd32d72744c252e"
+    },
+    "models/TW_ROCK_LOW_WEDGE_A_LOD0.glb": {
+      "bytes": 9456,
+      "sha256": "9ebe53370cd60d7570b9db91d8f2f2593c53622873b6115a93cbdc34661ebe61"
+    },
+    "models/TW_ROCK_UPRIGHT_A_LOD0.glb": {
+      "bytes": 9856,
+      "sha256": "15e8218a1698156291c34a3623b10742f1f468aeebafb632c21680ff6f382386"
+    },
+    "models/TW_STONE_WALL_1M_A_LOD0.glb": {
+      "bytes": 15396,
+      "sha256": "54c1c1124aca9d2c0f84f8f767acfa7c9317788a183a728545ebe6032cb0a4f9"
+    },
+    "models/TW_TREE_ROUND_SMALL_A_LOD0.glb": {
+      "bytes": 38732,
+      "sha256": "b975c9c0da24d917b40d583ba22d25b623e821cbf1a61f7598527214885cd827"
+    },
+    "models/TW_TREE_TIERED_SLIM_A_LOD0.glb": {
+      "bytes": 28132,
+      "sha256": "7a32145cbe0efd5381519a061ddb98dbc23cb1677d00ac76f6c6546760c41ac0"
+    },
+    "models/TW_VEG_GRASS_LOW_A_LOD0.glb": {
+      "bytes": 7772,
+      "sha256": "b21dad48f98e8d377e889d9522206d241fa7def0497f8dfbddc39e7aa888b896"
+    },
+    "models/TW_WOOD_POST_A_LOD0.glb": {
+      "bytes": 4756,
+      "sha256": "eb3155543122749f06d5dc9c28cacbfd8789d5f9cdb27e71421de0a6da0e4ced"
+    },
+    "models/TW_WOOD_RAIL_2M_A_LOD0.glb": {
+      "bytes": 7444,
+      "sha256": "2909c2ab8572e0398c606631f7a23d501daad4a750f368cfd8ad3ee49f37828b"
+    }
+  },
+  "public_distribution_permitted": false
+}

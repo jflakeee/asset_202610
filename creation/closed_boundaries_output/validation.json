@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "closed_scenes": 4,
+  "socket_pairs": 32,
+  "terminal_posts": 0,
+  "logical_duplicate_posts": 0,
+  "max_closure_position_error_m": 0.0,
+  "wrong_position_and_direction_controls": "PASS",
+  "normals_and_collider_transforms": "PASS",
+  "surface_contact": "NOT_RUN",
+  "engine_traversal": "NOT_RUN",
+  "gpu_render": "NOT_RUN",
+  "art_approval": "PENDING"
+}

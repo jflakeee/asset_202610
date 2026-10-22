@@ -1,0 +1,115 @@
+{
+  "status": "PASS",
+  "assets": [
+    {
+      "asset_id": "TW_ROCK_LOW_WEDGE_A",
+      "theme_sha256": {
+        "theme_output/MOSS_01/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb": "9ebe53370cd60d7570b9db91d8f2f2593c53622873b6115a93cbdc34661ebe61",
+        "theme_output/DRY_01/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb": "26cfa5403896914887d8ae5f7001bb9056b700aa54905f78cc2cdc0742c19f92",
+        "theme_output/DUSK_01/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb": "8bdede40269e10cc784c29e9237fa4e501f6812f431667046b7699a50d81f7fe"
+      },
+      "evidence_sha256": {
+        "initial_evidence_output/recipes/TW_ROCK_LOW_WEDGE_A.json": "97c7dea024fd094586a8dc3c5373dc37142f512662bc251eb263ffb21e1258e6",
+        "initial_evidence_output/source_meshes/TW_ROCK_LOW_WEDGE_A.json": "962d22b1cf3a65446ba59c96c361d11db97e1dd3aaef6bb0ea1df03536ebf36a",
+        "initial_evidence_output/provenance/TW_ROCK_LOW_WEDGE_A.json": "c7b1de38f82683d398bdaac2ec4f398c2db4a8f80a150b0f6a328f3da91b04fd"
+      },
+      "status": "PASS"
+    },
+    {
+      "asset_id": "TW_ROCK_UPRIGHT_A",
+      "theme_sha256": {
+        "theme_output/MOSS_01/models/TW_ROCK_UPRIGHT_A_LOD0.glb": "15e8218a1698156291c34a3623b10742f1f468aeebafb632c21680ff6f382386",
+        "theme_output/DRY_01/models/TW_ROCK_UPRIGHT_A_LOD0.glb": "451d14a4b1b1daa9c544d5fc042fd0faec35a8db3ef9d7b5daee498da7c6ca16",
+        "theme_output/DUSK_01/models/TW_ROCK_UPRIGHT_A_LOD0.glb": "d20361ac69e2be54e690d37c98b58d43d4dedcaf924cab8ab9023a41cb84c5ab"
+      },
+      "evidence_sha256": {
+        "initial_evidence_output/recipes/TW_ROCK_UPRIGHT_A.json": "88a8f7e6c0182004b14cbf99863bd7575b304228927c397b1ff9f3da1564f28c",
+        "initial_evidence_output/source_meshes/TW_ROCK_UPRIGHT_A.json": "a0e77a3b40a2287793dee048c9f7a12ca2396a4dcf4ab4c2c6f3f63269e1a86b",
+        "initial_evidence_output/provenance/TW_ROCK_UPRIGHT_A.json": "23d9df68ba58df1e8aa1f3856439c7ca1a02470b2519c434a06176d85e5b2526"
+      },
+      "status": "PASS"
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_SMALL_A",
+      "theme_sha256": {
+        "theme_output/MOSS_01/models/TW_TREE_ROUND_SMALL_A_LOD0.glb": "b975c9c0da24d917b40d583ba22d25b623e821cbf1a61f7598527214885cd827",
+        "theme_output/DRY_01/models/TW_TREE_ROUND_SMALL_A_LOD0.glb": "08a02d505176aa002d1cd8c0660afa55fafba1f80b2b5150b4ae2915da2828a2",
+        "theme_output/DUSK_01/models/TW_TREE_ROUND_SMALL_A_LOD0.glb": "0f3f64512d7df1b514a3346b45966aaf89ac5b9344dcbbc5b85c50ac5391bc88"
+      },
+      "evidence_sha256": {
+        "initial_evidence_output/recipes/TW_TREE_ROUND_SMALL_A.json": "0c23c06aa61b5980860da4b098578dd5af822148df4ab7799bcaa1a03e438552",
+        "initial_evidence_output/source_meshes/TW_TREE_ROUND_SMALL_A.json": "7b34d8aa0eb43b7772f762837600f38bb2d03ffbbcdfb2ed96b3079e17f88d3a",
+        "initial_evidence_output/provenance/TW_TREE_ROUND_SMALL_A.json": "d6642c274158d1200c837dea49745b5047d36c933c5a35c480a5c6d94c20a8e8"
+      },
+      "status": "PASS"
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_SLIM_A",
+      "theme_sha256": {
+        "theme_output/MOSS_01/models/TW_TREE_TIERED_SLIM_A_LOD0.glb": "7a32145cbe0efd5381519a061ddb98dbc23cb1677d00ac76f6c6546760c41ac0",
+        "theme_output/DRY_01/models/TW_TREE_TIERED_SLIM_A_LOD0.glb": "625f6c3ceb618737b17f6d6ae2e5e12253f48f2917ece726384f6c1f7df4a720",
+        "theme_output/DUSK_01/models/TW_TREE_TIERED_SLIM_A_LOD0.glb": "240fd8f6324df7b8f9d56243787e8fe49af90f41bf5cc04364ec68787adbda29"
+      },
+      "evidence_sha256": {
+        "initial_evidence_output/recipes/TW_TREE_TIERED_SLIM_A.json": "6ee3b47bdec86d559ab8ad5a61c3d4cf18811892fb9b18a83338414adb1116d7",
+        "initial_evidence_output/source_meshes/TW_TREE_TIERED_SLIM_A.json": "b45bad0afc7294dd2bc02b559261e2b69cf6a9d2485b978bc148bd2876ef124b",
+        "initial_evidence_output/provenance/TW_TREE_TIERED_SLIM_A.json": "12b836d2812060eabda827a8072965e8178430f480ca482aab95ce03aa7e38e2"
+      },
+      "status": "PASS"
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_1M_A",
+      "theme_sha256": {
+        "theme_output/MOSS_01/models/TW_WOOD_RAIL_1M_A_LOD0.glb": "20ce213fde2e82f2992cb3df5372f567aee66456d711d720c1e22068ee41d09f",
+        "theme_output/DRY_01/models/TW_WOOD_RAIL_1M_A_LOD0.glb": "6726d3402e27734e389bde888f4d573c824a6ba1f8e2ece9dd3101cbade3870e",
+        "theme_output/DUSK_01/models/TW_WOOD_RAIL_1M_A_LOD0.glb": "2874c535d53a4b30dca33d72724ff95a601d6fb2c90f589081a1745c9c751be9"
+      },
+      "evidence_sha256": {
+        "initial_evidence_output/recipes/TW_WOOD_RAIL_1M_A.json": "ae58637e90fcdc99caf5d8998cb8fa7c473f7833d3117f0efc90a2a5c6e392ce",
+        "initial_evidence_output/source_meshes/TW_WOOD_RAIL_1M_A.json": "5695f54e44a1a269fb1626bb421562517626c42b2b965eda7410a5403749b83c",
+        "initial_evidence_output/provenance/TW_WOOD_RAIL_1M_A.json": "5438a650a18472c3e8d06cca31d9d35d15841499179cde93920487c13049559b"
+      },
+      "status": "PASS"
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_2M_A",
+      "theme_sha256": {
+        "theme_output/MOSS_01/models/TW_WOOD_RAIL_2M_A_LOD0.glb": "2909c2ab8572e0398c606631f7a23d501daad4a750f368cfd8ad3ee49f37828b",
+        "theme_output/DRY_01/models/TW_WOOD_RAIL_2M_A_LOD0.glb": "352428530005883c6bbbf0972e731dedc7c7e92f074502edcc27d962d4c1135f",
+        "theme_output/DUSK_01/models/TW_WOOD_RAIL_2M_A_LOD0.glb": "c5979a61c94cebd53df9f2c439cf28098824ff3c04f519ea27ca26448d6d8130"
+      },
+      "evidence_sha256": {
+        "initial_evidence_output/recipes/TW_WOOD_RAIL_2M_A.json": "93447c664f3567eae4d43495216dd082570de8c7e9f2ff9968b660b9c55b6f2b",
+        "initial_evidence_output/source_meshes/TW_WOOD_RAIL_2M_A.json": "3a0941d1088c1eb5e0ae9dcae4dec406509222dc802bbc4a8ed06babffee940f",
+        "initial_evidence_output/provenance/TW_WOOD_RAIL_2M_A.json": "490efe2d9d3e05abaa7da88e894ea9c2e6294c40857989387a43fae5821adcd7"
+      },
+      "status": "PASS"
+    }
+  ],
+  "source_sha256": {
+    "build_initial_evidence.py": "70d34fde1ae951e5ee45d3c1c84e678919562249d0ea26c7bcc5310cebedc8b0",
+    "build_rocks.py": "61e5ab5a127efe031c52f01ab435bfaec396a9af8dd46b60ffc2569d03aa3499",
+    "build_trees.py": "f309b0094df065063e954bc6d5942751c367eb0b87120356060d19fee0bf03df",
+    "build_fences.py": "6cc04f5b1973ae52267f114f8c547be8dda521de91de8a97bd75a0d6a0e16b5b",
+    "build_themes.py": "b492ef58469af9be29eff09ebfdddc8530af189d8fd36078d5e7ab582db50029",
+    "verify_glb.py": "f0d44432826b930926f7624908d47199ae69ebc2986d077f99b95109e791063f"
+  },
+  "comparisons": 18,
+  "model_inputs_copied": 0,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "scope": "Current reproducibility, not proof of historical authorship or legal approval",
+  "art_approval": "PENDING",
+  "negative_controls": {
+    "source": [
+      "STALE_SOURCE:build_rocks.py"
+    ],
+    "evidence": [
+      "STALE_EVIDENCE:initial_evidence_output/recipes/TW_ROCK_LOW_WEDGE_A.json"
+    ],
+    "export": [
+      "REGENERATION_MISMATCH"
+    ]
+  }
+}

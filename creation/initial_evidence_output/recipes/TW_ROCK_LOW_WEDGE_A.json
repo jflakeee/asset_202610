@@ -1,0 +1,15 @@
+{
+  "asset_id": "TW_ROCK_LOW_WEDGE_A",
+  "family_id": "ROCK_LOW_WEDGE",
+  "seed": 21001,
+  "size_m": [
+    1.3,
+    0.9,
+    0.65
+  ],
+  "radial_segments": 9,
+  "height_rings": 4,
+  "radial_jitter_ratio": 0.12,
+  "lean_deg": 11,
+  "base_inset_ratio": 0.08
+}

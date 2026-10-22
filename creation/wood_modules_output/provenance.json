@@ -1,0 +1,6 @@
+{
+  "origin": "Original dimensioned wood profiles and component assemblies",
+  "external_geometry_inputs": [],
+  "generator": "build_wood_modules.py",
+  "generator_version": "0.17.0"
+}

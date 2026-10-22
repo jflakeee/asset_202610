@@ -1,0 +1,54 @@
+[
+  {
+    "asset_id": "TW_SIGN_ARROW_A",
+    "triangles": 28,
+    "dimensions_xyz_m": [
+      1.0,
+      0.21000000000000002,
+      1.44
+    ],
+    "closed_components": 2,
+    "collider_parts": 2,
+    "status": "PASS",
+    "art_approval": "PENDING"
+  },
+  {
+    "asset_id": "TW_SIGN_FORK_A",
+    "triangles": 44,
+    "dimensions_xyz_m": [
+      1.04,
+      0.21000000000000002,
+      1.44
+    ],
+    "closed_components": 3,
+    "collider_parts": 3,
+    "status": "PASS",
+    "art_approval": "PENDING"
+  },
+  {
+    "asset_id": "TW_CRATE_SMALL_A",
+    "triangles": 108,
+    "dimensions_xyz_m": [
+      0.65,
+      0.7500000000000001,
+      0.65
+    ],
+    "closed_components": 9,
+    "collider_parts": 1,
+    "status": "PASS",
+    "art_approval": "PENDING"
+  },
+  {
+    "asset_id": "TW_CRATE_LONG_A",
+    "triangles": 156,
+    "dimensions_xyz_m": [
+      1.2,
+      0.76,
+      0.6000000000000001
+    ],
+    "closed_components": 13,
+    "collider_parts": 1,
+    "status": "PASS",
+    "art_approval": "PENDING"
+  }
+]

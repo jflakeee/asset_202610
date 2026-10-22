@@ -1,0 +1,1584 @@
+{
+  "schema_version": "1.0.0",
+  "design_reference": "original_asset_pack_design_v1.md sections 18, 24, 26 (v1.1)",
+  "input_manifest_sha256": "cc955fb7c17d1aac33ef9caf25155e8dd03b26950448ecd845ff5db9919d93a5",
+  "scope": "Export inventory only; no automatic art approval, alias acceptance, or release certification",
+  "summary": {
+    "designed_models": 84,
+    "current_lod0_exports": 104,
+    "exact_design_id_exports": 84,
+    "legacy_mapping_candidates": 8,
+    "expansion_models": 12,
+    "other_unmapped_exports": 0,
+    "verified_art_approvals": 0,
+    "approval_note": "This scanner does not validate approval records; zero means none verified by this report."
+  },
+  "categories": [
+    {
+      "category": "나무",
+      "target": 12,
+      "exact_id_exports": 12,
+      "mapping_review_slots": 0,
+      "not_exported": 0
+    },
+    {
+      "category": "바위",
+      "target": 12,
+      "exact_id_exports": 12,
+      "mapping_review_slots": 0,
+      "not_exported": 0
+    },
+    {
+      "category": "덤불/풀",
+      "target": 12,
+      "exact_id_exports": 12,
+      "mapping_review_slots": 0,
+      "not_exported": 0
+    },
+    {
+      "category": "숲 소품",
+      "target": 12,
+      "exact_id_exports": 12,
+      "mapping_review_slots": 0,
+      "not_exported": 0
+    },
+    {
+      "category": "목재 경계",
+      "target": 20,
+      "exact_id_exports": 20,
+      "mapping_review_slots": 0,
+      "not_exported": 0
+    },
+    {
+      "category": "석재 경계",
+      "target": 16,
+      "exact_id_exports": 16,
+      "mapping_review_slots": 0,
+      "not_exported": 0
+    }
+  ],
+  "design_models": [
+    {
+      "design_id": "TW_TREE_ROUND_SMALL_A",
+      "category": "나무",
+      "family": "TREE_ROUND_SMALL",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0,
+        1
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_TREE_ROUND_SMALL_B",
+      "category": "나무",
+      "family": "TREE_ROUND_SMALL",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_TREE_ROUND_BROAD_A",
+      "category": "나무",
+      "family": "TREE_ROUND_BROAD",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_TREE_ROUND_BROAD_B",
+      "category": "나무",
+      "family": "TREE_ROUND_BROAD",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_TREE_TIERED_SLIM_A",
+      "category": "나무",
+      "family": "TREE_TIERED_SLIM",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0,
+        1
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_TREE_TIERED_SLIM_B",
+      "category": "나무",
+      "family": "TREE_TIERED_SLIM",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_TREE_TIERED_WIDE_A",
+      "category": "나무",
+      "family": "TREE_TIERED_WIDE",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_TREE_TIERED_WIDE_B",
+      "category": "나무",
+      "family": "TREE_TIERED_WIDE",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_TREE_DEAD_FORK_A",
+      "category": "나무",
+      "family": "TREE_DEAD_FORK",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_TREE_DEAD_FORK_B",
+      "category": "나무",
+      "family": "TREE_DEAD_FORK",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_TREE_DEAD_LEAN_A",
+      "category": "나무",
+      "family": "TREE_DEAD_LEAN",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_TREE_DEAD_LEAN_B",
+      "category": "나무",
+      "family": "TREE_DEAD_LEAN",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_ROCK_LOW_WEDGE_A",
+      "category": "바위",
+      "family": "ROCK_LOW_WEDGE",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0,
+        1
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_ROCK_LOW_WEDGE_B",
+      "category": "바위",
+      "family": "ROCK_LOW_WEDGE",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_ROCK_UPRIGHT_A",
+      "category": "바위",
+      "family": "ROCK_UPRIGHT",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0,
+        1
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_ROCK_UPRIGHT_B",
+      "category": "바위",
+      "family": "ROCK_UPRIGHT",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_ROCK_FLAT_SLAB_A",
+      "category": "바위",
+      "family": "ROCK_FLAT_SLAB",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_ROCK_FLAT_SLAB_B",
+      "category": "바위",
+      "family": "ROCK_FLAT_SLAB",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_ROCK_SPLIT_MASS_A",
+      "category": "바위",
+      "family": "ROCK_SPLIT_MASS",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_ROCK_SPLIT_MASS_B",
+      "category": "바위",
+      "family": "ROCK_SPLIT_MASS",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_ROCK_CLUSTER_SMALL_A",
+      "category": "바위",
+      "family": "ROCK_CLUSTER_SMALL",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_ROCK_CLUSTER_SMALL_B",
+      "category": "바위",
+      "family": "ROCK_CLUSTER_SMALL",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_ROCK_CLUSTER_LARGE_A",
+      "category": "바위",
+      "family": "ROCK_CLUSTER_LARGE",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_ROCK_CLUSTER_LARGE_B",
+      "category": "바위",
+      "family": "ROCK_CLUSTER_LARGE",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_VEG_BUSH_ROUND_A",
+      "category": "덤불/풀",
+      "family": "VEG_BUSH_ROUND",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [
+        "TW_SHRUB_ROUND_A"
+      ],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_VEG_BUSH_ROUND_B",
+      "category": "덤불/풀",
+      "family": "VEG_BUSH_ROUND",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_VEG_BUSH_LONG_A",
+      "category": "덤불/풀",
+      "family": "VEG_BUSH_LONG",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [
+        "TW_SHRUB_SPREAD_A"
+      ],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_VEG_BUSH_LONG_B",
+      "category": "덤불/풀",
+      "family": "VEG_BUSH_LONG",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_VEG_BUSH_SPARSE_A",
+      "category": "덤불/풀",
+      "family": "VEG_BUSH_SPARSE",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_VEG_BUSH_SPARSE_B",
+      "category": "덤불/풀",
+      "family": "VEG_BUSH_SPARSE",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_VEG_GRASS_LOW_A",
+      "category": "덤불/풀",
+      "family": "VEG_GRASS_LOW",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_VEG_GRASS_LOW_B",
+      "category": "덤불/풀",
+      "family": "VEG_GRASS_LOW",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_VEG_GRASS_FAN_A",
+      "category": "덤불/풀",
+      "family": "VEG_GRASS_FAN",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_VEG_GRASS_FAN_B",
+      "category": "덤불/풀",
+      "family": "VEG_GRASS_FAN",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_VEG_GRASS_TUFT_A",
+      "category": "덤불/풀",
+      "family": "VEG_GRASS_TUFT",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [
+        "TW_GRASS_TUFT_A"
+      ],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_VEG_GRASS_TUFT_B",
+      "category": "덤불/풀",
+      "family": "VEG_GRASS_TUFT",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_PROP_STUMP_ROUND_A",
+      "category": "숲 소품",
+      "family": "PROP_STUMP_ROUND",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [
+        "TW_STUMP_CUT_SMALL_A"
+      ],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_PROP_STUMP_ROUND_B",
+      "category": "숲 소품",
+      "family": "PROP_STUMP_ROUND",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_PROP_STUMP_SPLIT_A",
+      "category": "숲 소품",
+      "family": "PROP_STUMP_SPLIT",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [
+        "TW_STUMP_BROKEN_A"
+      ],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_PROP_STUMP_SPLIT_B",
+      "category": "숲 소품",
+      "family": "PROP_STUMP_SPLIT",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_PROP_LOG_STRAIGHT_A",
+      "category": "숲 소품",
+      "family": "PROP_LOG_STRAIGHT",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [
+        "TW_LOG_CUT_2M_A"
+      ],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_PROP_LOG_STRAIGHT_B",
+      "category": "숲 소품",
+      "family": "PROP_LOG_STRAIGHT",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_PROP_LOG_BROKEN_A",
+      "category": "숲 소품",
+      "family": "PROP_LOG_BROKEN",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [
+        "TW_LOG_BROKEN_15M_A"
+      ],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_PROP_LOG_BROKEN_B",
+      "category": "숲 소품",
+      "family": "PROP_LOG_BROKEN",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_PROP_BRANCH_FORK_A",
+      "category": "숲 소품",
+      "family": "PROP_BRANCH_FORK",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_PROP_BRANCH_FORK_B",
+      "category": "숲 소품",
+      "family": "PROP_BRANCH_FORK",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_PROP_BRANCH_PILE_A",
+      "category": "숲 소품",
+      "family": "PROP_BRANCH_PILE",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_PROP_BRANCH_PILE_B",
+      "category": "숲 소품",
+      "family": "PROP_BRANCH_PILE",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_RAIL_1M_A",
+      "category": "목재 경계",
+      "family": "WOOD_RAIL_1M",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_RAIL_1M_B",
+      "category": "목재 경계",
+      "family": "WOOD_RAIL_1M",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_RAIL_2M_A",
+      "category": "목재 경계",
+      "family": "WOOD_RAIL_2M",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_RAIL_2M_B",
+      "category": "목재 경계",
+      "family": "WOOD_RAIL_2M",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_RAIL_4M_A",
+      "category": "목재 경계",
+      "family": "WOOD_RAIL_4M",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_RAIL_4M_B",
+      "category": "목재 경계",
+      "family": "WOOD_RAIL_4M",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_CORNER_L90_A",
+      "category": "목재 경계",
+      "family": "WOOD_CORNER_L90",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_CORNER_L90_B",
+      "category": "목재 경계",
+      "family": "WOOD_CORNER_L90",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_CORNER_R90_A",
+      "category": "목재 경계",
+      "family": "WOOD_CORNER_R90",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_CORNER_R90_B",
+      "category": "목재 경계",
+      "family": "WOOD_CORNER_R90",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_END_CAP_A",
+      "category": "목재 경계",
+      "family": "WOOD_END_CAP",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_END_CAP_B",
+      "category": "목재 경계",
+      "family": "WOOD_END_CAP",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_END_BROKEN_A",
+      "category": "목재 경계",
+      "family": "WOOD_END_BROKEN",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_END_BROKEN_B",
+      "category": "목재 경계",
+      "family": "WOOD_END_BROKEN",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_POST_A",
+      "category": "목재 경계",
+      "family": "WOOD_POST",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_POST_B",
+      "category": "목재 경계",
+      "family": "WOOD_POST",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_GATE_FRAME_A",
+      "category": "목재 경계",
+      "family": "WOOD_GATE_FRAME",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_GATE_FRAME_B",
+      "category": "목재 경계",
+      "family": "WOOD_GATE_FRAME",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_GATE_LEAF_A",
+      "category": "목재 경계",
+      "family": "WOOD_GATE_LEAF",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_WOOD_GATE_LEAF_B",
+      "category": "목재 경계",
+      "family": "WOOD_GATE_LEAF",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_WALL_1M_A",
+      "category": "석재 경계",
+      "family": "STONE_WALL_1M",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_WALL_1M_B",
+      "category": "석재 경계",
+      "family": "STONE_WALL_1M",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_WALL_2M_A",
+      "category": "석재 경계",
+      "family": "STONE_WALL_2M",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_WALL_2M_B",
+      "category": "석재 경계",
+      "family": "STONE_WALL_2M",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_WALL_4M_A",
+      "category": "석재 경계",
+      "family": "STONE_WALL_4M",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_WALL_4M_B",
+      "category": "석재 경계",
+      "family": "STONE_WALL_4M",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_CORNER_L90_A",
+      "category": "석재 경계",
+      "family": "STONE_CORNER_L90",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_CORNER_L90_B",
+      "category": "석재 경계",
+      "family": "STONE_CORNER_L90",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_CORNER_R90_A",
+      "category": "석재 경계",
+      "family": "STONE_CORNER_R90",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_CORNER_R90_B",
+      "category": "석재 경계",
+      "family": "STONE_CORNER_R90",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_END_CAP_A",
+      "category": "석재 경계",
+      "family": "STONE_END_CAP",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_END_CAP_B",
+      "category": "석재 경계",
+      "family": "STONE_END_CAP",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_END_RUIN_A",
+      "category": "석재 경계",
+      "family": "STONE_END_RUIN",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_END_RUIN_B",
+      "category": "석재 경계",
+      "family": "STONE_END_RUIN",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_POST_A",
+      "category": "석재 경계",
+      "family": "STONE_POST",
+      "variant": "A",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    },
+    {
+      "design_id": "TW_STONE_POST_B",
+      "category": "석재 경계",
+      "family": "STONE_POST",
+      "variant": "B",
+      "implementation_status": "EXACT_ID_EXPORTED",
+      "candidate_source_ids": [],
+      "approval_status": "NOT_VERIFIED",
+      "lods": [
+        0
+      ],
+      "themes": [
+        "DRY_01",
+        "DUSK_01",
+        "MOSS_01"
+      ]
+    }
+  ],
+  "mapping_proposals": [
+    {
+      "source_id": "TW_SHRUB_ROUND_A",
+      "proposed_design_id": "TW_VEG_BUSH_ROUND_A",
+      "status": "PROPOSED_NOT_APPROVED",
+      "note": "round shrub; silhouette and source-ID migration review needed",
+      "present": true
+    },
+    {
+      "source_id": "TW_SHRUB_SPREAD_A",
+      "proposed_design_id": "TW_VEG_BUSH_LONG_A",
+      "status": "PROPOSED_NOT_APPROVED",
+      "note": "wide shrub; elongated family suitability needs review",
+      "present": true
+    },
+    {
+      "source_id": "TW_GRASS_TUFT_A",
+      "proposed_design_id": "TW_VEG_GRASS_TUFT_A",
+      "status": "PROPOSED_NOT_APPROVED",
+      "note": "radial solid-blade tuft; variant distinction needs review",
+      "present": true
+    },
+    {
+      "source_id": "TW_STUMP_CUT_SMALL_A",
+      "proposed_design_id": "TW_PROP_STUMP_ROUND_A",
+      "status": "PROPOSED_NOT_APPROVED",
+      "note": "cut round stump; final shape approval needed",
+      "present": true
+    },
+    {
+      "source_id": "TW_STUMP_BROKEN_A",
+      "proposed_design_id": "TW_PROP_STUMP_SPLIT_A",
+      "status": "PROPOSED_NOT_APPROVED",
+      "note": "broken rim does not establish split-stump structure; redesign may be needed",
+      "present": true
+    },
+    {
+      "source_id": "TW_LOG_CUT_2M_A",
+      "proposed_design_id": "TW_PROP_LOG_STRAIGHT_A",
+      "status": "PROPOSED_NOT_APPROVED",
+      "note": "straight log; final shape approval needed",
+      "present": true
+    },
+    {
+      "source_id": "TW_LOG_BROKEN_15M_A",
+      "proposed_design_id": "TW_PROP_LOG_BROKEN_A",
+      "status": "PROPOSED_NOT_APPROVED",
+      "note": "1.5 m broken log; legacy ID must not imply 15 m",
+      "present": true
+    },
+    {
+      "source_id": "TW_GRASS_TALL_A",
+      "proposed_design_id": null,
+      "status": "UNRESOLVED",
+      "note": "9-blade radial tall grass; neither LOW nor FAN is demonstrated; select or redesign family",
+      "present": true
+    }
+  ],
+  "expansion_ids": [
+    "TW_BENCH_BACKREST_A",
+    "TW_BENCH_SIMPLE_A",
+    "TW_CRATE_LONG_A",
+    "TW_CRATE_SMALL_A",
+    "TW_PAVER_LONG_A",
+    "TW_PAVER_ROUND_A",
+    "TW_SIGN_ARROW_A",
+    "TW_SIGN_FORK_A",
+    "TW_STEPS_LOW3_A",
+    "TW_STEPS_WIDE4_A",
+    "TW_TABLE_LONG_A",
+    "TW_TABLE_SQUARE_A"
+  ],
+  "other_unmapped_ids": [],
+  "auxiliary_fixtures": [
+    "TW_TERMINAL_POST"
+  ]
+}

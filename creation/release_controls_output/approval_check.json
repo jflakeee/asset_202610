@@ -1,0 +1,32 @@
+{
+  "status": "FAIL",
+  "errors": {
+    "TW_TREE_ROUND_SMALL_A": [
+      "P001"
+    ],
+    "TW_TREE_TIERED_SLIM_A": [
+      "P001"
+    ],
+    "TW_ROCK_LOW_WEDGE_A": [
+      "P001"
+    ],
+    "TW_ROCK_UPRIGHT_A": [
+      "P001"
+    ],
+    "TW_VEG_GRASS_LOW_A": [
+      "P001"
+    ],
+    "TW_WOOD_RAIL_2M_A": [
+      "P001"
+    ],
+    "TW_WOOD_POST_A": [
+      "P001"
+    ],
+    "TW_STONE_WALL_1M_A": [
+      "P001"
+    ]
+  },
+  "invalid_id_set": false,
+  "public_distribution_permitted": false,
+  "reviewer_identity_verified": false
+}

@@ -1,0 +1,627 @@
+{
+  "status": "PASS",
+  "new_models": 44,
+  "assets": [
+    {
+      "asset_id": "TW_TREE_ROUND_SMALL_B",
+      "status": "PASS",
+      "triangles": 404,
+      "closed_components": 10,
+      "dimensions_xyz_m": [
+        2.103427467573829,
+        1.845527232531834,
+        3.3
+      ],
+      "geometry_sha256": "41aa3bd16c88b824137c0eb3e8b589e1c56acb70f6c8d234397e06b836710c00",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_BROAD_A",
+      "status": "PASS",
+      "triangles": 380,
+      "closed_components": 10,
+      "dimensions_xyz_m": [
+        2.9427860837423716,
+        2.5064213617497306,
+        3.45
+      ],
+      "geometry_sha256": "1878773907f8aeb2f9ec9cb4997e97f39b37c888a663b78a109d6b97ba55dcf7",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_BROAD_B",
+      "status": "PASS",
+      "triangles": 478,
+      "closed_components": 12,
+      "dimensions_xyz_m": [
+        2.9234671782580506,
+        2.4449474596322895,
+        3.7
+      ],
+      "geometry_sha256": "b8c17dae96a4fbe38af4ba2e06c207cbf5ae0f9a724876b8905efc949eb93c74",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_SLIM_B",
+      "status": "PASS",
+      "triangles": 268,
+      "closed_components": 5,
+      "dimensions_xyz_m": [
+        1.648738727668022,
+        1.6741731801207536,
+        4.1
+      ],
+      "geometry_sha256": "b60b1839c872081a61e374900d02ee7fe60752d5543dd29b1b1b40c2299efe81",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_WIDE_A",
+      "status": "PASS",
+      "triangles": 198,
+      "closed_components": 4,
+      "dimensions_xyz_m": [
+        2.6,
+        2.6,
+        3.5000000000000004
+      ],
+      "geometry_sha256": "dc896b1d556b0d9520ef90774f500ac45378da459ebdd8c14413793632dfd5a3",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_WIDE_B",
+      "status": "PASS",
+      "triangles": 268,
+      "closed_components": 5,
+      "dimensions_xyz_m": [
+        2.521600407021681,
+        2.560500157831741,
+        3.8
+      ],
+      "geometry_sha256": "0c29a7101a037ffaedebef4fa4f78ee9b30392716f42c9d8da66b65119bf84a7",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_FORK_A",
+      "status": "PASS",
+      "triangles": 156,
+      "closed_components": 4,
+      "dimensions_xyz_m": [
+        1.3052266207375736,
+        1.0658900832723117,
+        2.6725822556123795
+      ],
+      "geometry_sha256": "6bff748f0c1cdcfd92ac0c5910ed56c3e329c9cfa2c90d80843d5af22d5b246a",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_FORK_B",
+      "status": "PASS",
+      "triangles": 212,
+      "closed_components": 5,
+      "dimensions_xyz_m": [
+        1.3157833549717384,
+        1.2936947491119404,
+        3.1716296098419647
+      ],
+      "geometry_sha256": "9ae651361d89891071f0f05ab9acca9ae70412452a7be2d09e91ec737fd1c9e1",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_LEAN_A",
+      "status": "PASS",
+      "triangles": 124,
+      "closed_components": 3,
+      "dimensions_xyz_m": [
+        1.2642534638623966,
+        0.5937609406045923,
+        2.687408398495228
+      ],
+      "geometry_sha256": "11f335318b3228e505fa92ced4c31dbb516a59e37f4010d007efec38ba8efed1",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_LEAN_B",
+      "status": "PASS",
+      "triangles": 174,
+      "closed_components": 4,
+      "dimensions_xyz_m": [
+        1.271080538395094,
+        1.0708211538924048,
+        3.0101406853954957
+      ],
+      "geometry_sha256": "9843148b1d8d07f6df3c905a8af30e932dbc79789ab4b0b4f0266a3d9ce3f2da",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_ROCK_LOW_WEDGE_B",
+      "status": "PASS",
+      "triangles": 60,
+      "closed_components": 1,
+      "dimensions_xyz_m": [
+        1.6145664824931774,
+        0.7690177700039522,
+        0.5905558683628179
+      ],
+      "geometry_sha256": "778c1945b67578b20c24bacf6b0442281e9f9645f3687439a1205c98ef3e2915",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_ROCK_UPRIGHT_B",
+      "status": "PASS",
+      "triangles": 60,
+      "closed_components": 1,
+      "dimensions_xyz_m": [
+        1.077973046660071,
+        0.5214927302168475,
+        1.8454870886338055
+      ],
+      "geometry_sha256": "90d1027346523d7b1ae79dc4df2687b2875fa94188e7babdd2f9e8a7893c9f35",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_ROCK_FLAT_SLAB_A",
+      "status": "PASS",
+      "triangles": 52,
+      "closed_components": 1,
+      "dimensions_xyz_m": [
+        1.4230646190537608,
+        0.8535268462375856,
+        0.2399243512940303
+      ],
+      "geometry_sha256": "306c178d6347c81b4da11bb261a7443836ad593e0625d5ea27628e39ce2675b4",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_ROCK_FLAT_SLAB_B",
+      "status": "PASS",
+      "triangles": 60,
+      "closed_components": 1,
+      "dimensions_xyz_m": [
+        1.7478458827164913,
+        0.7715409120571104,
+        0.32691485570084555
+      ],
+      "geometry_sha256": "4578abf4d5fb9f3daefe1738428978db48372c826a239f1785ba99942d774286",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_ROCK_SPLIT_MASS_A",
+      "status": "PASS",
+      "triangles": 104,
+      "closed_components": 2,
+      "dimensions_xyz_m": [
+        1.2578188190425845,
+        0.841843245066068,
+        1.0996532767643057
+      ],
+      "geometry_sha256": "a6e5386036f352eee0c1f18bbbc9e5e78e5a5c0d0654ddeeaa916f97675cd032",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_ROCK_SPLIT_MASS_B",
+      "status": "PASS",
+      "triangles": 180,
+      "closed_components": 3,
+      "dimensions_xyz_m": [
+        1.9628601919120652,
+        0.796250773060374,
+        1.1600204557126779
+      ],
+      "geometry_sha256": "9958b6828c0ceabb07678181ce4bc7e7eeb270eedf913fc8db7fedec80f665b7",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_A",
+      "status": "PASS",
+      "triangles": 156,
+      "closed_components": 3,
+      "dimensions_xyz_m": [
+        1.337173529086653,
+        1.2543794403153323,
+        0.8293385076396981
+      ],
+      "geometry_sha256": "618630350dee6a4637a531f178dc7ebb961e710407b29182f192826f7d935341",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_B",
+      "status": "PASS",
+      "triangles": 240,
+      "closed_components": 4,
+      "dimensions_xyz_m": [
+        1.4003177892016172,
+        1.2222213109751734,
+        0.8748663364174886
+      ],
+      "geometry_sha256": "d1b9d01210ace4660307488f7bce273ce5507aaf580434f45a2131d81a10afd7",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_A",
+      "status": "PASS",
+      "triangles": 260,
+      "closed_components": 5,
+      "dimensions_xyz_m": [
+        1.611168781421985,
+        1.5078522947868347,
+        1.0781400599316076
+      ],
+      "geometry_sha256": "70da06f636ba8ace02a88c5977fd718f9e8039e15a763ed855d98d190df03028",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_B",
+      "status": "PASS",
+      "triangles": 360,
+      "closed_components": 6,
+      "dimensions_xyz_m": [
+        1.8525952589193548,
+        1.4246830940149515,
+        1.137326237342735
+      ],
+      "geometry_sha256": "fb079e841e9e0c83685fd6b03919a1506e2adb7f55277d237b2ec0d23b82fd88",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_ROUND_A",
+      "status": "PASS",
+      "triangles": 84,
+      "closed_components": 3,
+      "dimensions_xyz_m": [
+        0.973847594878751,
+        0.9618071940049765,
+        0.75
+      ],
+      "geometry_sha256": "50b1328317117f1408f23e6146b90324aff3a70034e016c5b02bbc42860308e1",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_ROUND_B",
+      "status": "PASS",
+      "triangles": 128,
+      "closed_components": 4,
+      "dimensions_xyz_m": [
+        1.1501408311032397,
+        1.0288972745734184,
+        0.75
+      ],
+      "geometry_sha256": "56fe802efd253bdd24c97395016233ed5e262ae99d97f6d27f6340eaadcaa12f",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_LONG_A",
+      "status": "PASS",
+      "triangles": 112,
+      "closed_components": 4,
+      "dimensions_xyz_m": [
+        1.633847594878751,
+        0.7207560163398236,
+        0.7
+      ],
+      "geometry_sha256": "617e1b4b6130b2fed65b7e7ab8b23cfefae46659ec1d8885ac03fdc60338c359",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_LONG_B",
+      "status": "PASS",
+      "triangles": 160,
+      "closed_components": 5,
+      "dimensions_xyz_m": [
+        2.03014083110324,
+        0.7288972745734184,
+        0.7
+      ],
+      "geometry_sha256": "b061e715abfd8cfd2e9b0204617ee13fd2c86e960591554acddaaf27ea3ec76f",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_SPARSE_A",
+      "status": "PASS",
+      "triangles": 56,
+      "closed_components": 2,
+      "dimensions_xyz_m": [
+        1.0191308060789153,
+        0.6182696605151488,
+        0.7
+      ],
+      "geometry_sha256": "5b85037f4cc4eba10ac3544bcf40bd2d7e5dbf1f94a94f535b062d54ee75c11e",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_SPARSE_B",
+      "status": "PASS",
+      "triangles": 96,
+      "closed_components": 3,
+      "dimensions_xyz_m": [
+        1.4915767664977295,
+        0.6249742261192858,
+        0.7
+      ],
+      "geometry_sha256": "0ebeda1f9e90aea1f8bc3380716e763fe9fbf932be2e0041bdc35d1796cf54ec",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_LOW_A",
+      "status": "PASS",
+      "triangles": 50,
+      "closed_components": 5,
+      "dimensions_xyz_m": [
+        0.3527583139031148,
+        0.3709120413551099,
+        0.22580455618125175
+      ],
+      "geometry_sha256": "cda8bd5a74b0a67464fec71480e6f2e0b5a157c280c7efe88af9f1c3ff7654b7",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_LOW_B",
+      "status": "PASS",
+      "triangles": 70,
+      "closed_components": 7,
+      "dimensions_xyz_m": [
+        0.4580797295846838,
+        0.4490823033909549,
+        0.25171529383175617
+      ],
+      "geometry_sha256": "8eff01ca931927ac14b9b21b0fbad3f2d45bc4a42672fb3d1238944459a4cc89",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_FAN_A",
+      "status": "PASS",
+      "triangles": 50,
+      "closed_components": 5,
+      "dimensions_xyz_m": [
+        0.18,
+        0.185,
+        0.6944232493937529
+      ],
+      "geometry_sha256": "9822ce2f54b782933b25549ec8571ed00398841b507bdddba4d71a9be086ae97",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_FAN_B",
+      "status": "PASS",
+      "triangles": 70,
+      "closed_components": 7,
+      "dimensions_xyz_m": [
+        0.27,
+        0.22500000000000003,
+        0.7002710117782551
+      ],
+      "geometry_sha256": "1daa315279741af778a147f13b559e33b4c551ad9ec80760ca5de85c15d61c53",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_TUFT_A",
+      "status": "PASS",
+      "triangles": 50,
+      "closed_components": 5,
+      "dimensions_xyz_m": [
+        0.3527583139031148,
+        0.3709120413551099,
+        0.4531594414043548
+      ],
+      "geometry_sha256": "0f85c43a28b29d4f70e5183f47acc4d85f79b3092a136f5badd2f38ed836031d",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_TUFT_B",
+      "status": "PASS",
+      "triangles": 70,
+      "closed_components": 7,
+      "dimensions_xyz_m": [
+        0.4580797295846838,
+        0.4490823033909549,
+        0.4781074728549182
+      ],
+      "geometry_sha256": "736e0c86f1652009ef2dd0620f49db6eaa1a5530175a050dd26fbcf973c00aeb",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_ROUND_A",
+      "status": "PASS",
+      "triangles": 110,
+      "closed_components": 4,
+      "dimensions_xyz_m": [
+        0.8622257918951357,
+        0.8577738232408989,
+        0.5
+      ],
+      "geometry_sha256": "e950ef424cd4deb3e0ec8cdb0da9efc3a009ffd7fb78c4930146008dd27f814a",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_ROUND_B",
+      "status": "PASS",
+      "triangles": 136,
+      "closed_components": 5,
+      "dimensions_xyz_m": [
+        1.2187756869431143,
+        1.216796120251103,
+        0.6880831808450072
+      ],
+      "geometry_sha256": "da8ac8954948292051208568bfeb73b8990e27c602b202721cfa8b7b82472878",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_SPLIT_A",
+      "status": "PASS",
+      "triangles": 76,
+      "closed_components": 2,
+      "dimensions_xyz_m": [
+        0.782,
+        0.7813744834088847,
+        0.5
+      ],
+      "geometry_sha256": "81fcd0d3adda254a58bd9d01040e25707ec277900a2120688b924f1c973338bf",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_SPLIT_B",
+      "status": "PASS",
+      "triangles": 122,
+      "closed_components": 3,
+      "dimensions_xyz_m": [
+        0.9886044527438536,
+        0.9782077245895997,
+        0.66
+      ],
+      "geometry_sha256": "2f0245cf1a591193a877e4e7fd7a5251799a7a830348a996556ed9cd2d9320f3",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_PROP_LOG_STRAIGHT_A",
+      "status": "PASS",
+      "triangles": 76,
+      "closed_components": 2,
+      "dimensions_xyz_m": [
+        2.2,
+        0.4893521679047698,
+        0.4472791173355451
+      ],
+      "geometry_sha256": "97a32bd8d206b143c8ac56ff818ca2590aa850fb177150ea8ffc2eed6fe02671",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_PROP_LOG_STRAIGHT_B",
+      "status": "PASS",
+      "triangles": 102,
+      "closed_components": 3,
+      "dimensions_xyz_m": [
+        2.5667219811581665,
+        0.5982817292914782,
+        0.48727911733554513
+      ],
+      "geometry_sha256": "c1bc0a5f1131531bc7d39c48cb675384020c62da57e3843e019329d39016220d",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_PROP_LOG_BROKEN_A",
+      "status": "PASS",
+      "triangles": 124,
+      "closed_components": 5,
+      "dimensions_xyz_m": [
+        1.7206656402354703,
+        0.4893521679047698,
+        0.4472791173355451
+      ],
+      "geometry_sha256": "191ed6573f8bc8fb057bcec9e748d560ea33a180156a6fb2c6934adda2ee1705",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_PROP_LOG_BROKEN_B",
+      "status": "PASS",
+      "triangles": 166,
+      "closed_components": 7,
+      "dimensions_xyz_m": [
+        2.0854840478700742,
+        0.5982817292914782,
+        0.48727911733554513
+      ],
+      "geometry_sha256": "7e98402d547abad457aab2f83e4b513ed214e4f5835d0899bd6577adae5b3d2d",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_PROP_BRANCH_FORK_A",
+      "status": "PASS",
+      "triangles": 48,
+      "closed_components": 2,
+      "dimensions_xyz_m": [
+        1.2079958298205238,
+        0.4800662294561326,
+        0.16747249143770188
+      ],
+      "geometry_sha256": "b93ce47feb1a91c3a5ee83f17a2ddfd08c3eda2328d9812be7a7ce0eaec98dd2",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_PROP_BRANCH_FORK_B",
+      "status": "PASS",
+      "triangles": 70,
+      "closed_components": 3,
+      "dimensions_xyz_m": [
+        1.3924885554826172,
+        0.7390776414916768,
+        0.2464579022433288
+      ],
+      "geometry_sha256": "813b9cea3c03d29c0916dbfb99669a48d66366b478442af6f142c7bfbcc324d2",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_PROP_BRANCH_PILE_A",
+      "status": "PASS",
+      "triangles": 144,
+      "closed_components": 6,
+      "dimensions_xyz_m": [
+        1.2079958298205238,
+        1.0205871688228616,
+        0.32747249143770185
+      ],
+      "geometry_sha256": "a52102c5cca36f2c937529ad4ffcc83e72fc77a46253bef69e4aa8a516a421c2",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    },
+    {
+      "asset_id": "TW_PROP_BRANCH_PILE_B",
+      "status": "PASS",
+      "triangles": 216,
+      "closed_components": 8,
+      "dimensions_xyz_m": [
+        1.3971876725075876,
+        1.2094968299008575,
+        0.40753523736244185
+      ],
+      "geometry_sha256": "d07b7f3a00024b3ab54911cd73e5ee4c60e45bf1c6d3f77297993c367c1ec0a9",
+      "engine_import": "NOT_RUN",
+      "art_approval": "PENDING"
+    }
+  ],
+  "deterministic_repeat": "PASS",
+  "reversed_recipe_order": "PASS",
+  "duplicate_geometry": "NONE",
+  "gpu_render": "NOT_RUN",
+  "art_approval": "PENDING"
+}

@@ -1,0 +1,125 @@
+{
+  "assets": [
+    {
+      "asset_id": "TW_BENCH_BACKREST_A",
+      "classification": "EXPANSION",
+      "file": "MOSS_01/models/TW_BENCH_BACKREST_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_BENCH_SIMPLE_A",
+      "classification": "EXPANSION",
+      "file": "MOSS_01/models/TW_BENCH_SIMPLE_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_CRATE_LONG_A",
+      "classification": "EXPANSION",
+      "file": "MOSS_01/models/TW_CRATE_LONG_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_CRATE_SMALL_A",
+      "classification": "EXPANSION",
+      "file": "MOSS_01/models/TW_CRATE_SMALL_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_GRASS_TALL_A",
+      "classification": "LEGACY_REVIEW_CANDIDATE",
+      "file": "MOSS_01/models/TW_GRASS_TALL_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_GRASS_TUFT_A",
+      "classification": "LEGACY_REVIEW_CANDIDATE",
+      "file": "MOSS_01/models/TW_GRASS_TUFT_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_LOG_BROKEN_15M_A",
+      "classification": "LEGACY_REVIEW_CANDIDATE",
+      "file": "MOSS_01/models/TW_LOG_BROKEN_15M_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_LOG_CUT_2M_A",
+      "classification": "LEGACY_REVIEW_CANDIDATE",
+      "file": "MOSS_01/models/TW_LOG_CUT_2M_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_PAVER_LONG_A",
+      "classification": "EXPANSION",
+      "file": "MOSS_01/models/TW_PAVER_LONG_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_PAVER_ROUND_A",
+      "classification": "EXPANSION",
+      "file": "MOSS_01/models/TW_PAVER_ROUND_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_SHRUB_ROUND_A",
+      "classification": "LEGACY_REVIEW_CANDIDATE",
+      "file": "MOSS_01/models/TW_SHRUB_ROUND_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_SHRUB_SPREAD_A",
+      "classification": "LEGACY_REVIEW_CANDIDATE",
+      "file": "MOSS_01/models/TW_SHRUB_SPREAD_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_SIGN_ARROW_A",
+      "classification": "EXPANSION",
+      "file": "MOSS_01/models/TW_SIGN_ARROW_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_SIGN_FORK_A",
+      "classification": "EXPANSION",
+      "file": "MOSS_01/models/TW_SIGN_FORK_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_STEPS_LOW3_A",
+      "classification": "EXPANSION",
+      "file": "MOSS_01/models/TW_STEPS_LOW3_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_STEPS_WIDE4_A",
+      "classification": "EXPANSION",
+      "file": "MOSS_01/models/TW_STEPS_WIDE4_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_STUMP_BROKEN_A",
+      "classification": "LEGACY_REVIEW_CANDIDATE",
+      "file": "MOSS_01/models/TW_STUMP_BROKEN_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_STUMP_CUT_SMALL_A",
+      "classification": "LEGACY_REVIEW_CANDIDATE",
+      "file": "MOSS_01/models/TW_STUMP_CUT_SMALL_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_TABLE_LONG_A",
+      "classification": "EXPANSION",
+      "file": "MOSS_01/models/TW_TABLE_LONG_A_LOD0.glb",
+      "included_in_84": false
+    },
+    {
+      "asset_id": "TW_TABLE_SQUARE_A",
+      "classification": "EXPANSION",
+      "file": "MOSS_01/models/TW_TABLE_SQUARE_A_LOD0.glb",
+      "included_in_84": false
+    }
+  ],
+  "note": "Legacy and expansion assets are not included in the 84 canonical thumbnail count."
+}
