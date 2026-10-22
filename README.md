@@ -19,7 +19,9 @@ GitHub의 Code → Download ZIP으로 전체 파일을 다운로드할 수 있�
 
 ## 브라우저 예제
 
-https://jflakeee.github.io/asset_202610/
+게시 예정 주소: https://jflakeee.github.io/asset_202610/
+
+GitHub Pages 최초 활성화가 필요합니다: 저장소 Settings → Pages → Deploy from a branch → main → / (root) → Save. 현재 업로드 인증에는 Pages 설정 쓰기 권한이 없어 자동 활성화하지 못했습니다.
 
 - 설치 없이 숲길 조합 예제와 104종 에셋 탐색
 - LOD·연결 부품 포함 109개 모델 파일 × 3테마 = 327개 미리보기 이미지
