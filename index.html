@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#162820"><meta name="description" content="Trailwood 저폴리 3D 에셋을 브라우저에서 탐색하세요. 104종, 3개 테마, 실시간 3D 미리보기.">
+  <title>Trailwood — 숲을 만드는 작은 조각들</title>
+  <link rel="stylesheet" href="web/style.css">
+  <script type="importmap">{"imports":{"three":"./web/vendor/three.module.js"}}</script>
+</head>
+<body>
+  <header><a class="brand" href="./"><span class="mark">T<span>W</span></span> TRAILWOOD<span class="edition">FIELD NOTES / 023</span></a><a class="repo" href="https://github.com/jflakeee/asset_202610">소스 보기 ↗</a></header>
+  <main>
+    <section class="intro"><div><p class="eyebrow">A SMALL WORLD, BUILT BY YOU</p><h1>숲을 만드는<br><em>작은 조각들.</em></h1></div><div class="intro-side"><p>나무 한 그루에서 숲길까지.<br>104가지 조각을 돌려 보고, 다른 계절을 입혀 보세요.</p><div class="stats"><span><b>104</b> 에셋</span><span><b>3</b> 테마</span><span class="review">개발 검토판</span></div></div></section>
+    <section class="workbench" aria-label="3D 에셋 미리보기">
+      <div class="viewer-wrap"><div class="viewer-top"><div class="segmented" aria-label="보기 방식"><button id="sceneMode" class="active" aria-pressed="true">숲길 예제</button><button id="assetMode" aria-pressed="false">에셋 탐색</button></div><span class="live"><i></i> LIVE 3D</span></div>
+        <div id="viewport" aria-label="드래그로 회전, 두 손가락으로 확대하는 3D 뷰어"></div>
+        <div id="loading" role="status" aria-live="polite">숲을 불러오고 있습니다…</div>
+        <div id="error" role="alert" hidden><strong>미리보기를 불러오지 못했습니다.</strong><p id="errorDetail"></p><button id="retry">다시 시도</button></div>
+        <div class="viewer-bottom"><span>드래그 회전 · 스크롤 / 핀치 확대</span><div><button id="rotate" aria-pressed="false" title="자동 회전">↻ <span>자동 회전</span></button><button id="reset" title="시점 초기화">시점 초기화</button></div></div>
+      </div>
+      <aside><p class="eyebrow">01 / PALETTE</p><h2>어떤 숲을 만들까요?</h2><div class="themes" role="group" aria-label="테마 선택">
+        <button data-theme="MOSS_01" class="selected" aria-pressed="true"><span class="swatch moss"></span><span><b>Moss</b><small>촉촉한 초록빛</small></span><span class="check">✓</span></button>
+        <button data-theme="DRY_01" aria-pressed="false"><span class="swatch dry"></span><span><b>Dry</b><small>햇볕에 물든 흙빛</small></span><span class="check">✓</span></button>
+        <button data-theme="DUSK_01" aria-pressed="false"><span class="swatch dusk"></span><span><b>Dusk</b><small>저녁이 내려앉은 보랏빛</small></span><span class="check">✓</span></button>
+      </div><div class="detail"><p class="eyebrow">02 / SELECTION</p><h3 id="modelName">작은 숲길</h3><p id="modelId">나무, 바위, 풀, 목재 경계를 조합한 예제</p><dl><div><dt>표시 모델</dt><dd id="count">—</dd></div><div><dt>삼각형</dt><dd id="triangles">—</dd></div><div><dt>표시 수준</dt><dd id="lodLabel">LOD 0</dd></div></dl><a id="download" class="download" hidden download>선택 모델 GLB 다운로드 ↓</a></div><p class="note">실제 팩의 3D 모델을 표시합니다.<br>게임 엔진의 바람·충돌 효과는 이 예제에 포함되지 않습니다.</p></aside>
+    </section>
+    <section class="catalog"><div class="catalog-heading"><div><p class="eyebrow">THE COLLECTION</p><h2>한 조각씩, 살펴보기</h2></div><label class="search">검색 <input id="search" type="search" placeholder="나무, 바위 또는 모델 ID" aria-label="에셋 검색"></label></div><div class="filters" id="filters" aria-label="분류"></div><p id="resultCount" class="result-count" aria-live="polite"></p><div id="cards" class="cards"></div><dialog id="imageDialog"><button id="closeImage" aria-label="이미지 닫기">×</button><p class="eyebrow">ASSET PREVIEW</p><h3 id="imageTitle"></h3><img id="largeImage" alt=""><div class="image-actions"><button id="previousImage">← 이전</button><button id="imageTo3d">3D로 보기 ↗</button><button id="nextImage">다음 →</button></div><p id="imageMeta"></p></dialog><p id="empty" hidden>검색 결과가 없습니다. 다른 이름으로 찾아보세요.</p></section>
+  </main><footer><span class="brand">TRAILWOOD</span><p>v0.23 · 절차적 생성 에셋 · 아트 승인 및 모바일 성능 검토 대기</p><a href="START_HERE.md">검토 안내 ↗</a></footer>
+  <noscript>3D 예제를 보려면 JavaScript를 켜 주세요. 파일은 GitHub 저장소에서 다운로드할 수 있습니다.</noscript>
+  <script type="module" src="web/app.js"></script>
+</body></html>

@@ -1,0 +1,3172 @@
+{
+  "version": "1.0",
+  "unique_models": 104,
+  "model_files_per_theme": 109,
+  "thumbnail_count": 327,
+  "source_manifest_sha256": "cc955fb7c17d1aac33ef9caf25155e8dd03b26950448ecd845ff5db9919d93a5",
+  "renderer": "Actual GLB triangles and embedded palette; orthographic CPU projection, 320px",
+  "art_approval": "PENDING",
+  "assets": [
+    {
+      "model": "TW_BENCH_BACKREST_A_LOD0",
+      "asset_id": "TW_BENCH_BACKREST_A",
+      "lod": 0,
+      "category": "가구",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_BENCH_BACKREST_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_BENCH_BACKREST_A_LOD0.png",
+          "triangles": 192,
+          "glb_sha256": "ec8183cd2754573359a9fa7923cf10bdd31d1d20fd49a6712f44c3ca9057c9a5",
+          "thumbnail_sha256": "64a12e9857ba8bc35acc1c2a4c6435b21049237d20d10135f8c6cb08b2fda22d"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_BENCH_BACKREST_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_BENCH_BACKREST_A_LOD0.png",
+          "triangles": 192,
+          "glb_sha256": "19f659ce617f5bcc365c99fa8b5842a1220ba89e11360df0d4a28847bbf96dc6",
+          "thumbnail_sha256": "1f9fdf66c846b55ddd0ecd035a1eadcf484988235fea6cba830b68b445c0a65a"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_BENCH_BACKREST_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_BENCH_BACKREST_A_LOD0.png",
+          "triangles": 192,
+          "glb_sha256": "4ac173df5c6931c6c20a9b1b21bd05ee68695de8c70436702702e6c4f2037647",
+          "thumbnail_sha256": "feb057d5537a11e907de88bca0493f6b549aa63e842d5032da48818e9d4735f6"
+        }
+      }
+    },
+    {
+      "model": "TW_BENCH_SIMPLE_A_LOD0",
+      "asset_id": "TW_BENCH_SIMPLE_A",
+      "lod": 0,
+      "category": "가구",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_BENCH_SIMPLE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_BENCH_SIMPLE_A_LOD0.png",
+          "triangles": 144,
+          "glb_sha256": "d640250f62e60f25b823de797ac3ef6c711823e2505ce38010cba5511e1579a1",
+          "thumbnail_sha256": "4c54c69ff26c95e80098432cd29c141b60c066221a9fadd463af04adf90811c9"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_BENCH_SIMPLE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_BENCH_SIMPLE_A_LOD0.png",
+          "triangles": 144,
+          "glb_sha256": "8f0b70408fd41fa5a0806b0bd17fa2b5b9ccc88f149a23b4b9d8ddfe12061766",
+          "thumbnail_sha256": "4fd536e6c691a3ceedb5ba684c872d95b34c67edc49c645dccf29dcfa06af88b"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_BENCH_SIMPLE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_BENCH_SIMPLE_A_LOD0.png",
+          "triangles": 144,
+          "glb_sha256": "91acde109cccf3ecabb37adc5eba0da8d18d610843eb82b8aaf30b6fc4a29f92",
+          "thumbnail_sha256": "bbd374e9b9ddf834972823f95a80b8874a0adc96dfcc6189dcdcfc6d519c2057"
+        }
+      }
+    },
+    {
+      "model": "TW_CRATE_LONG_A_LOD0",
+      "asset_id": "TW_CRATE_LONG_A",
+      "lod": 0,
+      "category": "표지판·상자",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_CRATE_LONG_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_CRATE_LONG_A_LOD0.png",
+          "triangles": 156,
+          "glb_sha256": "18fe8c1fa0688bc500252c168de8f09a10bd6ed632f469b8a55160cfe59b3e1f",
+          "thumbnail_sha256": "2b3052805f86c2d6e4a6894b449208c183b60606e8364a8b122cfc5812765176"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_CRATE_LONG_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_CRATE_LONG_A_LOD0.png",
+          "triangles": 156,
+          "glb_sha256": "03c7cf2fdd751ed59be6a9f55a4c657b67f428d020157fc16d50ab7a69d4af75",
+          "thumbnail_sha256": "78e41c6fb17cee61c7610748ce1cce948a3a98fc4fe3522e719d5d61bcb0d125"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_CRATE_LONG_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_CRATE_LONG_A_LOD0.png",
+          "triangles": 156,
+          "glb_sha256": "60ed49138e720736a1300b6774d1ada352796f2f5ec9b16f5d2e5172eee34bab",
+          "thumbnail_sha256": "d8bbdf90deba3a49aeaada6081a799274d450a21db0b1a55ef8bbaa290a11fd0"
+        }
+      }
+    },
+    {
+      "model": "TW_CRATE_SMALL_A_LOD0",
+      "asset_id": "TW_CRATE_SMALL_A",
+      "lod": 0,
+      "category": "표지판·상자",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_CRATE_SMALL_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_CRATE_SMALL_A_LOD0.png",
+          "triangles": 108,
+          "glb_sha256": "d85aa66ebb4b2c20a6d5aa8fd1181e43d9560c655a7b129bc4ed1cb1facaa976",
+          "thumbnail_sha256": "6fe9c481976a31bcbfea53dda032825d8a7be548bd8fc7d6942453d90bb98eec"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_CRATE_SMALL_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_CRATE_SMALL_A_LOD0.png",
+          "triangles": 108,
+          "glb_sha256": "33ef591975189bc440dd9559a7a98bc2b643e9eaf2548d3222c327e85585066c",
+          "thumbnail_sha256": "514117085caa14602ac6305a77cb155e6afc9c3bd176416a425966cfcd708136"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_CRATE_SMALL_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_CRATE_SMALL_A_LOD0.png",
+          "triangles": 108,
+          "glb_sha256": "547e8625082d02eac482d6da2677231e95687b13b5bc6322883796c07d257ab4",
+          "thumbnail_sha256": "7826b31b772d709cddbcd9cd67dd842530198fbdfe946a920edb4b6dc8ba5604"
+        }
+      }
+    },
+    {
+      "model": "TW_GRASS_TALL_A_LOD0",
+      "asset_id": "TW_GRASS_TALL_A",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_GRASS_TALL_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_GRASS_TALL_A_LOD0.png",
+          "triangles": 90,
+          "glb_sha256": "840c6c163be88c16603b2a7e8e2c303e5a03fc601ccb134d8e07ac880736e372",
+          "thumbnail_sha256": "901b811402af174ce8c216d2151ef271b6a82e3b10b9eec89e0c3bd635812435"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_GRASS_TALL_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_GRASS_TALL_A_LOD0.png",
+          "triangles": 90,
+          "glb_sha256": "425eb1a364fd14a267ac22437406895e7e8ac222efa406418f58b1f9f1b25c5e",
+          "thumbnail_sha256": "fd1909fdd824e792feaf928b2be0a13442381d4170bc0b9504f69838079237fe"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_GRASS_TALL_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_GRASS_TALL_A_LOD0.png",
+          "triangles": 90,
+          "glb_sha256": "df396394834b2e55d7ccb4a210956f785c4f91907b7c09b6d44ff0549e23f075",
+          "thumbnail_sha256": "57e47cad67c4201911217cf1e5bc5ebb47f8d3e9e118f5beec101fe00def9f2c"
+        }
+      }
+    },
+    {
+      "model": "TW_GRASS_TUFT_A_LOD0",
+      "asset_id": "TW_GRASS_TUFT_A",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_GRASS_TUFT_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_GRASS_TUFT_A_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "d4e92cbf27adda9b6d9326c6346c270d109c289a78693fe8e036dc940722253f",
+          "thumbnail_sha256": "21c19b500c4b36ee6b70e60d12dafbb3a61a9bf796f1a5ac18659df03cc0770f"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_GRASS_TUFT_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_GRASS_TUFT_A_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "6463cb40d19154b2047483272315cf154ce757b3a77b8e81b7d7f1291f063baa",
+          "thumbnail_sha256": "6c5f2d12aa3dd4c4072886809145143b2e0a07834efb09d0d16be1fb5a922d50"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_GRASS_TUFT_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_GRASS_TUFT_A_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "a802548d16e86bd8c88124fb073faedfff95147364434c5f44d7951ff7b941cf",
+          "thumbnail_sha256": "ba655088fc4e19ecdc58ee111decb42e61f4adc5bba0d0c4b987a2d40b625667"
+        }
+      }
+    },
+    {
+      "model": "TW_LOG_BROKEN_15M_A_LOD0",
+      "asset_id": "TW_LOG_BROKEN_15M_A",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_LOG_BROKEN_15M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_LOG_BROKEN_15M_A_LOD0.png",
+          "triangles": 118,
+          "glb_sha256": "e53136bd9f917e2d96539a5f4604cab9e5e08f12bf9cf37ad26ef5cd4362186b",
+          "thumbnail_sha256": "f0a84820dab1e56fac4c1f24a50debcffd57cdf7d75adc525bbf50396c97dd57"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_LOG_BROKEN_15M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_LOG_BROKEN_15M_A_LOD0.png",
+          "triangles": 118,
+          "glb_sha256": "59fca1f443fbd79b38a02647875fbd4a8c929ce119518f6e44b4af1612a68e58",
+          "thumbnail_sha256": "af535eea12015d5c85fab775ff03c80827d9457248cab7a55f5cce00ad82a7a6"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_LOG_BROKEN_15M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_LOG_BROKEN_15M_A_LOD0.png",
+          "triangles": 118,
+          "glb_sha256": "c4caa2e2d215e14e9e9400d93cc0915db94ffe8f06c0a8c2b8bb0ecb0eaf111c",
+          "thumbnail_sha256": "f0b27fc9efb8f8c6ae53655f9d45d225452b2bf5e3c8435183665e53a523cc14"
+        }
+      }
+    },
+    {
+      "model": "TW_LOG_CUT_2M_A_LOD0",
+      "asset_id": "TW_LOG_CUT_2M_A",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_LOG_CUT_2M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_LOG_CUT_2M_A_LOD0.png",
+          "triangles": 118,
+          "glb_sha256": "35cf86366634f909d32505183d346b03eb8863549d7aca45339db098808cf5f9",
+          "thumbnail_sha256": "80165efb2bfec40f133009b8d1e2974b95e5fb5b181aef297befe44afdf78e8f"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_LOG_CUT_2M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_LOG_CUT_2M_A_LOD0.png",
+          "triangles": 118,
+          "glb_sha256": "e58bff98d693a65ff074d432a6f13d8cb9cb65061e55c620ee8fb9cbfea4159d",
+          "thumbnail_sha256": "ab801991241f06214d67fec0b9ecb7a2b57be3292ea4921584752ff6eea6f3bf"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_LOG_CUT_2M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_LOG_CUT_2M_A_LOD0.png",
+          "triangles": 118,
+          "glb_sha256": "7ff6b9da25ab8779cba6db0baf2651d199c240557872690d4d01c47418cdbc15",
+          "thumbnail_sha256": "c9c6e5f9c82699be5ed697377d2e3e9c992b38149110c0d1f2a11834274f243c"
+        }
+      }
+    },
+    {
+      "model": "TW_PAVER_LONG_A_LOD0",
+      "asset_id": "TW_PAVER_LONG_A",
+      "lod": 0,
+      "category": "길·계단",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_PAVER_LONG_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_PAVER_LONG_A_LOD0.png",
+          "triangles": 44,
+          "glb_sha256": "a36bbfc49ef0f9e2fff29aae0909ba8114866a2a5e4b853afaf66e320c2fb183",
+          "thumbnail_sha256": "3290368ea65bf4f65ca6cbed43182dbae8ad45a0ff5be897d8cfbd0e6c329c57"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_PAVER_LONG_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_PAVER_LONG_A_LOD0.png",
+          "triangles": 44,
+          "glb_sha256": "2b9e78f203d363edb3622f72cb0324081250fdb58a10c69779df80a574c576f2",
+          "thumbnail_sha256": "33096bc467356c40b7f18539be984a3c1f10a64973298bdbaaeb4576694bf7f6"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_PAVER_LONG_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_PAVER_LONG_A_LOD0.png",
+          "triangles": 44,
+          "glb_sha256": "121570f97db4e75a01e32d7559a47d2a8fabc6622d6583a384d0288da073247d",
+          "thumbnail_sha256": "25907558675ec1c955a35773c36ee61f981935af9870662e3108a2c26a573ac7"
+        }
+      }
+    },
+    {
+      "model": "TW_PAVER_ROUND_A_LOD0",
+      "asset_id": "TW_PAVER_ROUND_A",
+      "lod": 0,
+      "category": "길·계단",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_PAVER_ROUND_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_PAVER_ROUND_A_LOD0.png",
+          "triangles": 50,
+          "glb_sha256": "e93da46f84fd3de8a0364a3b9376ba279b7c801cd364422aaadd2baef06ddc62",
+          "thumbnail_sha256": "b84367984ace4973260628448c04d3cc8ba96620c8baedb9b3511f674d0b7979"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_PAVER_ROUND_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_PAVER_ROUND_A_LOD0.png",
+          "triangles": 50,
+          "glb_sha256": "fc92ab53a803acb530fc7118f944dbb9f5603cd2654b2eb584eaa55520a6e333",
+          "thumbnail_sha256": "2634a33cc3da41cfe5451bb4d83ff97f7c2bb1766da52a8bb4120a446495be65"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_PAVER_ROUND_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_PAVER_ROUND_A_LOD0.png",
+          "triangles": 50,
+          "glb_sha256": "e0bd52d3e23f277ec4ffbad280c567217d214729f3a399cadf1c0de331605791",
+          "thumbnail_sha256": "37df15fc75ea3ae47e282dff94a37525ec0c22bf9ca746899f0909252946f619"
+        }
+      }
+    },
+    {
+      "model": "TW_PROP_BRANCH_FORK_A_LOD0",
+      "asset_id": "TW_PROP_BRANCH_FORK_A",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_PROP_BRANCH_FORK_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_PROP_BRANCH_FORK_A_LOD0.png",
+          "triangles": 48,
+          "glb_sha256": "b3e2ef9a4d0a2fbd21638aebfa8846275992b66207a8e8ad5b212fcea8730cd7",
+          "thumbnail_sha256": "60456d65bb6305ced3d63b0ba5520ca6f07de8ae9a1d7e6b70653d0a94904b1f"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_PROP_BRANCH_FORK_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_PROP_BRANCH_FORK_A_LOD0.png",
+          "triangles": 48,
+          "glb_sha256": "66233b31413474df4324935b137cc038cbe76ab615929ed82ea904b345510581",
+          "thumbnail_sha256": "5e81def6dd095673ce7a49c309566bb3e8af18f66894e5924564e46e23565e6b"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_PROP_BRANCH_FORK_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_PROP_BRANCH_FORK_A_LOD0.png",
+          "triangles": 48,
+          "glb_sha256": "7716c022b02c9c2fee9d6e0bbb609baf090441e6c6e1cf4cc51025a7f0a6de58",
+          "thumbnail_sha256": "b55349e33545691cb3d10743f1c5372e7c671ce2e3e71f04cb9774a79ebb20af"
+        }
+      }
+    },
+    {
+      "model": "TW_PROP_BRANCH_FORK_B_LOD0",
+      "asset_id": "TW_PROP_BRANCH_FORK_B",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_PROP_BRANCH_FORK_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_PROP_BRANCH_FORK_B_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "1a4771141bc78122ba1c7e54c884a8005878194af562468337ee56197eddb4ae",
+          "thumbnail_sha256": "94cc6e8dc8701750f5d444722a8c7430d6a215ab78869cebec48f656f70452d6"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_PROP_BRANCH_FORK_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_PROP_BRANCH_FORK_B_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "4180e50bdc587828ff4262f35975c10174d5f73346a550a64d5546b8a4131f04",
+          "thumbnail_sha256": "eed5111301734d1364815df604bc20f72013d75a27d309133b7c93c53a513f62"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_PROP_BRANCH_FORK_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_PROP_BRANCH_FORK_B_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "1ae58b658c945ab566387b8538923f6d51dde0893d82baee48af698a1a82fb9c",
+          "thumbnail_sha256": "7793c5ba1bad9269e313dac740041f90edd21f6d89c77ab69e4dece0834c90fb"
+        }
+      }
+    },
+    {
+      "model": "TW_PROP_BRANCH_PILE_A_LOD0",
+      "asset_id": "TW_PROP_BRANCH_PILE_A",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_PROP_BRANCH_PILE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_PROP_BRANCH_PILE_A_LOD0.png",
+          "triangles": 144,
+          "glb_sha256": "8905ad16367bc801dc05ec3594f337813d9a49f9c1395143654ea90d12e8a84d",
+          "thumbnail_sha256": "26bc3fd27255333cf48ca9a2c5ead9a7c235d6c71927dca34b644081b5221010"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_PROP_BRANCH_PILE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_PROP_BRANCH_PILE_A_LOD0.png",
+          "triangles": 144,
+          "glb_sha256": "8990b8415b5a539d6355ac4fef2df5fbd99f8e1578f3c701948e769cc391b15e",
+          "thumbnail_sha256": "9023c68fe314eea1193da65e0d3cdb9c522c33ddb5cd3aba3b4d7c28d0b53929"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_PROP_BRANCH_PILE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_PROP_BRANCH_PILE_A_LOD0.png",
+          "triangles": 144,
+          "glb_sha256": "d7b1d99cdeb5e187da94c0035eabc974ab74271af77655495b10ad7e6c97dee4",
+          "thumbnail_sha256": "3d3846c9688c63e59073f8e0a312b117cf835cbe2d27daf4820ab2b0cf8f0eae"
+        }
+      }
+    },
+    {
+      "model": "TW_PROP_BRANCH_PILE_B_LOD0",
+      "asset_id": "TW_PROP_BRANCH_PILE_B",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_PROP_BRANCH_PILE_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_PROP_BRANCH_PILE_B_LOD0.png",
+          "triangles": 216,
+          "glb_sha256": "209cc8b504c936589c0ba29f508ba2197f503b24209ec0179cc28dc57e321821",
+          "thumbnail_sha256": "47df0d0012805eed357f898793fe06ad8da4f019addc6b9eba1a62efd796352c"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_PROP_BRANCH_PILE_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_PROP_BRANCH_PILE_B_LOD0.png",
+          "triangles": 216,
+          "glb_sha256": "f785a49411f2df2a3b177d9961838407b13cf1301292ba7521be4825f9884de9",
+          "thumbnail_sha256": "df095625d635c39c672beed14ee7f08bc383ab3a652fd66b935a4d28864b8a84"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_PROP_BRANCH_PILE_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_PROP_BRANCH_PILE_B_LOD0.png",
+          "triangles": 216,
+          "glb_sha256": "db43edea4ce1dcec0f4f6838b2a729d91b71d0078c860250a1ee1b6be3db880a",
+          "thumbnail_sha256": "9b46bd04ee8c0f6a8f8cc1e768cb03a988a4fe36dcc6d5ec8898fe886cfbfee7"
+        }
+      }
+    },
+    {
+      "model": "TW_PROP_LOG_BROKEN_A_LOD0",
+      "asset_id": "TW_PROP_LOG_BROKEN_A",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_PROP_LOG_BROKEN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_PROP_LOG_BROKEN_A_LOD0.png",
+          "triangles": 124,
+          "glb_sha256": "6c2c16ba1c98c155c6eeff6ab8fa268f2cc4857e0947e25684de80eb6323b7ca",
+          "thumbnail_sha256": "9d9bee2c9541fa5ccb412449e44698e844c1cc611e50c899fa9bbbe016519f03"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_PROP_LOG_BROKEN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_PROP_LOG_BROKEN_A_LOD0.png",
+          "triangles": 124,
+          "glb_sha256": "71144c02001a4c76f5c1e86e929473b8baa6d1d2af8210843ac660f7f2c7684a",
+          "thumbnail_sha256": "a0c296cb5dd4f40a5a8c4b77d494298a87f5254896ddd2a73f2f057117aacadb"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_PROP_LOG_BROKEN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_PROP_LOG_BROKEN_A_LOD0.png",
+          "triangles": 124,
+          "glb_sha256": "45146ced62dd70ee3d6a91462fbcbe65f497c0702e1391b9cee5c63b3297377e",
+          "thumbnail_sha256": "d3345aedd06784d7e700a3428289e7fafcc7f69a4bb39ced2ddaeff910e58454"
+        }
+      }
+    },
+    {
+      "model": "TW_PROP_LOG_BROKEN_B_LOD0",
+      "asset_id": "TW_PROP_LOG_BROKEN_B",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_PROP_LOG_BROKEN_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_PROP_LOG_BROKEN_B_LOD0.png",
+          "triangles": 166,
+          "glb_sha256": "40a43bd46e5fafe06881a568f9d636c55ae00129b2d0dcbf283eebb84e39a737",
+          "thumbnail_sha256": "8a65228c91db63e051aadfe03877f7220c54654fcdf3aacecdf483fc7bfdf9bb"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_PROP_LOG_BROKEN_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_PROP_LOG_BROKEN_B_LOD0.png",
+          "triangles": 166,
+          "glb_sha256": "0febe3af6e866366ed3130201e84c061f6b19a781697ce37e369c17feeb06f5b",
+          "thumbnail_sha256": "ca65487893844486d1d92b87430a9be8f7ef60ca7b1427762909bb54ad93f4fd"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_PROP_LOG_BROKEN_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_PROP_LOG_BROKEN_B_LOD0.png",
+          "triangles": 166,
+          "glb_sha256": "961bab59257f21f84af7dd95c73d92b22ecf58726627d7596e37024511c18999",
+          "thumbnail_sha256": "379a641ef1f7a49eb8282a96e4b658e21a9aaa080450fe45d83cba1c7c270d72"
+        }
+      }
+    },
+    {
+      "model": "TW_PROP_LOG_STRAIGHT_A_LOD0",
+      "asset_id": "TW_PROP_LOG_STRAIGHT_A",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_PROP_LOG_STRAIGHT_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_PROP_LOG_STRAIGHT_A_LOD0.png",
+          "triangles": 76,
+          "glb_sha256": "a575f7e4d07cf016389ee9daca168116438b986ef6338c178e2dc58ce005330d",
+          "thumbnail_sha256": "05521e6e2d4db11312830e822ff1a4569b0f39a7a838bdf1d5983537521ab1f3"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_PROP_LOG_STRAIGHT_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_PROP_LOG_STRAIGHT_A_LOD0.png",
+          "triangles": 76,
+          "glb_sha256": "1eb083662e6e5a9da5cdaae48c80b717b8e5b1b63c228faabd36c7e2cee0f7d1",
+          "thumbnail_sha256": "ef924b6239e9569fc604418aa6595fcd2cbb0364d5035ed9bc7c259041fb5bbe"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_PROP_LOG_STRAIGHT_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_PROP_LOG_STRAIGHT_A_LOD0.png",
+          "triangles": 76,
+          "glb_sha256": "3b7797641a3681f99680affc059705eb21f75424921147cff754f14dae6f1dff",
+          "thumbnail_sha256": "a8c5c5cd250c43c60c19ccb281851f072c0d26d85973964b343d02fb32594bb2"
+        }
+      }
+    },
+    {
+      "model": "TW_PROP_LOG_STRAIGHT_B_LOD0",
+      "asset_id": "TW_PROP_LOG_STRAIGHT_B",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_PROP_LOG_STRAIGHT_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_PROP_LOG_STRAIGHT_B_LOD0.png",
+          "triangles": 102,
+          "glb_sha256": "09bf8293ade8187011470c3c7919421eb1907baf61e790516d41ed14849d17e4",
+          "thumbnail_sha256": "db36d85134184d98684b02692ea666ff3f3246a29d68b9c0d06c15caf98c47c0"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_PROP_LOG_STRAIGHT_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_PROP_LOG_STRAIGHT_B_LOD0.png",
+          "triangles": 102,
+          "glb_sha256": "e83d166bbb9425d6495b458474275add511249d8019d21ffeb30d70804aca2ff",
+          "thumbnail_sha256": "8f7db28bc9807917610f48b5ff931e684a1e9dc95c45d99d1b45efb34560b86b"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_PROP_LOG_STRAIGHT_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_PROP_LOG_STRAIGHT_B_LOD0.png",
+          "triangles": 102,
+          "glb_sha256": "a424f1b5a1f84e00c55fdf70a7b4e57ac21c163b3dbb3c79b2c00a523399c8cc",
+          "thumbnail_sha256": "e7cd72725ddcd93ed74107006d43ca7d0e2edf3559af9932125e786f433b609b"
+        }
+      }
+    },
+    {
+      "model": "TW_PROP_STUMP_ROUND_A_LOD0",
+      "asset_id": "TW_PROP_STUMP_ROUND_A",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_PROP_STUMP_ROUND_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_PROP_STUMP_ROUND_A_LOD0.png",
+          "triangles": 110,
+          "glb_sha256": "aa353203d5e044748d22caa04a71c08be1b5fbc6bcf318e5243c951c301e0015",
+          "thumbnail_sha256": "84df74ec5b374278f25985a13418cb8e05be919e317dadb4548dca4e8e82b63c"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_PROP_STUMP_ROUND_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_PROP_STUMP_ROUND_A_LOD0.png",
+          "triangles": 110,
+          "glb_sha256": "eaa6b2f4b73635353d5ffbbaf3820d67bb1168b040f4076e2b09e3949a940a22",
+          "thumbnail_sha256": "d4b1230d80dd892974deb79c18366cfdf62e839e68ace8a13702807717d1c718"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_PROP_STUMP_ROUND_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_PROP_STUMP_ROUND_A_LOD0.png",
+          "triangles": 110,
+          "glb_sha256": "cb9368ff94efa3f4300754480926c078be3a95f895b5f238686e0adc0250e36c",
+          "thumbnail_sha256": "8cec96fb98531569efc564f79094f33381509713104962e9740c7e74adab3d5a"
+        }
+      }
+    },
+    {
+      "model": "TW_PROP_STUMP_ROUND_B_LOD0",
+      "asset_id": "TW_PROP_STUMP_ROUND_B",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_PROP_STUMP_ROUND_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_PROP_STUMP_ROUND_B_LOD0.png",
+          "triangles": 136,
+          "glb_sha256": "c4130c360335a807921e2dedb2fe6165e8764b54d4f5fc86d6c9a5875256e989",
+          "thumbnail_sha256": "32960ab53432a0beba41dadf6e07443bb178aef0b5c3bd7ee5e96fa92a2b7657"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_PROP_STUMP_ROUND_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_PROP_STUMP_ROUND_B_LOD0.png",
+          "triangles": 136,
+          "glb_sha256": "1b5505b1e0ec35fa2e7a3ac90baf83da086d4cc72bc50a48e9a010b1be225d82",
+          "thumbnail_sha256": "82ccb499fa8f6bac233661cd280465adf270175fc5390cbced65f5891764373f"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_PROP_STUMP_ROUND_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_PROP_STUMP_ROUND_B_LOD0.png",
+          "triangles": 136,
+          "glb_sha256": "d4253c762e4bd3555613345bfa5a7c315811704635780dd7d6b28e1ed88a21e0",
+          "thumbnail_sha256": "6f1183613334f474e5e510798c671f968208bb817ce0c0b2b9fe29dc98014480"
+        }
+      }
+    },
+    {
+      "model": "TW_PROP_STUMP_SPLIT_A_LOD0",
+      "asset_id": "TW_PROP_STUMP_SPLIT_A",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_PROP_STUMP_SPLIT_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_PROP_STUMP_SPLIT_A_LOD0.png",
+          "triangles": 76,
+          "glb_sha256": "cc343169174acf4b0dabfd7bb39b5cb169b975e7903e6d4f4cb1d538bd6f050e",
+          "thumbnail_sha256": "5cc934aebb5c5a2585207bbce4f6a271199dcf673b45a0f190bf90eebcb7703c"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_PROP_STUMP_SPLIT_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_PROP_STUMP_SPLIT_A_LOD0.png",
+          "triangles": 76,
+          "glb_sha256": "c00679a1401ef8602418e94eafe09b9d3bc40d452b6b79681f40ecb26dabb18d",
+          "thumbnail_sha256": "80a90c47c77d12840e7517b1c78762cc9454d3fbc128781b07c781fcb8faecec"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_PROP_STUMP_SPLIT_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_PROP_STUMP_SPLIT_A_LOD0.png",
+          "triangles": 76,
+          "glb_sha256": "1c89236aa7a8f395c185513cfa64b2305280a86a3609966cfb3706988a7c1dc7",
+          "thumbnail_sha256": "20a6c6e75c6f32eb4ef6c2aee5c9c7b2daf5facda78c0e31f82bff6591a44d14"
+        }
+      }
+    },
+    {
+      "model": "TW_PROP_STUMP_SPLIT_B_LOD0",
+      "asset_id": "TW_PROP_STUMP_SPLIT_B",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_PROP_STUMP_SPLIT_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_PROP_STUMP_SPLIT_B_LOD0.png",
+          "triangles": 122,
+          "glb_sha256": "7c6981313dec40f66b3b226e5cdbe66ee2a8d3b38cc61c62cd47a10b3395a9f9",
+          "thumbnail_sha256": "7c07685ac18a6e380f8e069805bb7bbb4fbfb024aa301737c80a23405652b8c8"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_PROP_STUMP_SPLIT_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_PROP_STUMP_SPLIT_B_LOD0.png",
+          "triangles": 122,
+          "glb_sha256": "ba68f0f14e65590b17cf58541d7fcecf7508aca3695fe19b9e344b25958efda0",
+          "thumbnail_sha256": "663221aab90f33beb98883cb97115fbb72d138677ce6913f3766671b5b0bf990"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_PROP_STUMP_SPLIT_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_PROP_STUMP_SPLIT_B_LOD0.png",
+          "triangles": 122,
+          "glb_sha256": "9e7e6dacae130d9b56ed797a8f32ca74c3268baf35bd7e43da8c8770cca60bfb",
+          "thumbnail_sha256": "d23e7284951773576e4bfee93857ad34f811eea4308c3a1ce4902ba12af5bb85"
+        }
+      }
+    },
+    {
+      "model": "TW_ROCK_CLUSTER_LARGE_A_LOD0",
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_A",
+      "lod": 0,
+      "category": "바위",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_ROCK_CLUSTER_LARGE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_ROCK_CLUSTER_LARGE_A_LOD0.png",
+          "triangles": 260,
+          "glb_sha256": "a68f09e3244afef905b1ae1b60088142fa602965bda84d659f6246fde3f3edee",
+          "thumbnail_sha256": "9352a694be893edba6ea39963631c430c32952f2233b76ed1884585e487ae7e6"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_ROCK_CLUSTER_LARGE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_ROCK_CLUSTER_LARGE_A_LOD0.png",
+          "triangles": 260,
+          "glb_sha256": "659d88756871ce108f645224e7d12fc361b6f388e5233865c47a2282d172c1b9",
+          "thumbnail_sha256": "43a7683b66dd91b832ab57feedcd1b654de091097040f4bdef8f8eb4ed7af3db"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_ROCK_CLUSTER_LARGE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_ROCK_CLUSTER_LARGE_A_LOD0.png",
+          "triangles": 260,
+          "glb_sha256": "3cc13c928269d23b5aa5c41e5a30ac56c24c07aabe747aeea95ffa364858054d",
+          "thumbnail_sha256": "5bb03f9602c47ade656d2a8f8b47df8dd1331316ea7045fa68085bf320f5ce48"
+        }
+      }
+    },
+    {
+      "model": "TW_ROCK_CLUSTER_LARGE_B_LOD0",
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_B",
+      "lod": 0,
+      "category": "바위",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_ROCK_CLUSTER_LARGE_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_ROCK_CLUSTER_LARGE_B_LOD0.png",
+          "triangles": 360,
+          "glb_sha256": "bc90f89d022ded23e536dbb53c6a5019d327218aa84741277e3714484e5a392d",
+          "thumbnail_sha256": "7c368a74f3519e0fc9264d26054d38be994abe524f2e65ef2c960aab6c5f82e5"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_ROCK_CLUSTER_LARGE_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_ROCK_CLUSTER_LARGE_B_LOD0.png",
+          "triangles": 360,
+          "glb_sha256": "670f5718995eecdc9d0012d02568a037edc510f8cafb5daa8eb38eb0eddf09fb",
+          "thumbnail_sha256": "97c8cf237df14b3d0f339a62cedc8b5c04652e7de020e01c0aa2e09b14bc6118"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_ROCK_CLUSTER_LARGE_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_ROCK_CLUSTER_LARGE_B_LOD0.png",
+          "triangles": 360,
+          "glb_sha256": "10f7b89b791b1fe665a98d0645cc5507c7fde4e2f51c23aea203967ba4c88f85",
+          "thumbnail_sha256": "f05e2018c6d38f8ab51eb8538a7f981f923692ebbf56029e56f5c9c1867245e9"
+        }
+      }
+    },
+    {
+      "model": "TW_ROCK_CLUSTER_SMALL_A_LOD0",
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_A",
+      "lod": 0,
+      "category": "바위",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_ROCK_CLUSTER_SMALL_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_ROCK_CLUSTER_SMALL_A_LOD0.png",
+          "triangles": 156,
+          "glb_sha256": "162b8f6f441a0267d1583082921952f6517497984619fef6041da0460ee7a248",
+          "thumbnail_sha256": "b5f588d09fc8e223cfafdbcd26f6cd64ce7232adefc50e174455772a4f47bc4e"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_ROCK_CLUSTER_SMALL_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_ROCK_CLUSTER_SMALL_A_LOD0.png",
+          "triangles": 156,
+          "glb_sha256": "8f4dcf4631736cd9ebb0be71db5988ecf7ba48c24ffa913ddb4c98746818509e",
+          "thumbnail_sha256": "c746a2941a598357391526118592ef2dde8b9afea9fbbf72962dfc7f18b8e428"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_ROCK_CLUSTER_SMALL_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_ROCK_CLUSTER_SMALL_A_LOD0.png",
+          "triangles": 156,
+          "glb_sha256": "5a8f0a7d87271351360482b8e0d248f850d5148e23b412fa04f409452a587301",
+          "thumbnail_sha256": "081837132bdb385ef643797e3110cc34ec672fe036f1d0e6caf8dd4aeac702e5"
+        }
+      }
+    },
+    {
+      "model": "TW_ROCK_CLUSTER_SMALL_B_LOD0",
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_B",
+      "lod": 0,
+      "category": "바위",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_ROCK_CLUSTER_SMALL_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_ROCK_CLUSTER_SMALL_B_LOD0.png",
+          "triangles": 240,
+          "glb_sha256": "674f8e5e114d0496e690d7db4d5027efcac795fd6f071aaadc9578359a6185f8",
+          "thumbnail_sha256": "ad8946041f1199cb8b663b4c0c7d90ae6d8bae148f325267feb206c3af2d68a8"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_ROCK_CLUSTER_SMALL_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_ROCK_CLUSTER_SMALL_B_LOD0.png",
+          "triangles": 240,
+          "glb_sha256": "dedf87362c67cc5f6aea5f69c334125f0ef62e5fff2971be940ed46489fcddc5",
+          "thumbnail_sha256": "413914eb31c24c8481c05ec8aef03399940db72ff6bbf9bda2e7fb977e3d98a7"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_ROCK_CLUSTER_SMALL_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_ROCK_CLUSTER_SMALL_B_LOD0.png",
+          "triangles": 240,
+          "glb_sha256": "5561db925cf886851c59a1546e1fc1f3d83ff62158b6380491860cbd13aad9d7",
+          "thumbnail_sha256": "efd5ee2d05178e9ba4404565d60a3d9249d3fdeddf4a006592cace58dbced9e4"
+        }
+      }
+    },
+    {
+      "model": "TW_ROCK_FLAT_SLAB_A_LOD0",
+      "asset_id": "TW_ROCK_FLAT_SLAB_A",
+      "lod": 0,
+      "category": "바위",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_ROCK_FLAT_SLAB_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_ROCK_FLAT_SLAB_A_LOD0.png",
+          "triangles": 52,
+          "glb_sha256": "f9574e90e020db4e2d5b022f24420f7256978a56f58e783ba1945153be07f9ab",
+          "thumbnail_sha256": "19599e9d24d710acbc5fbde9a553b6c3623b59430bbbb329d5fce2860420dc3b"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_ROCK_FLAT_SLAB_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_ROCK_FLAT_SLAB_A_LOD0.png",
+          "triangles": 52,
+          "glb_sha256": "5e52c83b64a4de94f9f4fe8446132862b275a3cab5d17f5fa22d12e35b0b34c4",
+          "thumbnail_sha256": "3e2d3f99003129395211ea13f6ec80bd91d96c14dbea453f52fe8cba3409219f"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_ROCK_FLAT_SLAB_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_ROCK_FLAT_SLAB_A_LOD0.png",
+          "triangles": 52,
+          "glb_sha256": "15a1ac3105e186194c4712c0370950362e6fe2963d0c84d6b269b3f316f67388",
+          "thumbnail_sha256": "b85b808df15b42b2d82331bb3e46af9693e85cc7f4c4402f67727f1ef3168fd7"
+        }
+      }
+    },
+    {
+      "model": "TW_ROCK_FLAT_SLAB_B_LOD0",
+      "asset_id": "TW_ROCK_FLAT_SLAB_B",
+      "lod": 0,
+      "category": "바위",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_ROCK_FLAT_SLAB_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_ROCK_FLAT_SLAB_B_LOD0.png",
+          "triangles": 60,
+          "glb_sha256": "830962164596514222c2b71b1b0a09197df21c12281db9e1f08154b64a566193",
+          "thumbnail_sha256": "59ac8aa3882694145db807c49243375ca6b5d0361cedfc2c41781136e90496b3"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_ROCK_FLAT_SLAB_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_ROCK_FLAT_SLAB_B_LOD0.png",
+          "triangles": 60,
+          "glb_sha256": "1cd41c3c7eaba32fea6700872a656b185bf6c969864c0698dda07af4d334ff52",
+          "thumbnail_sha256": "3fb7e97d90e39ed38238b777c73245e0804cf5f52259eb24317690e7d5f29e8a"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_ROCK_FLAT_SLAB_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_ROCK_FLAT_SLAB_B_LOD0.png",
+          "triangles": 60,
+          "glb_sha256": "de518a89e1c3188ba36dc343799801a3c5152dc99e25cca61401a14b09b567b8",
+          "thumbnail_sha256": "f709587a905ba74186d56bc663f230b5eb742f99ce998a00a167aaf1d81c0057"
+        }
+      }
+    },
+    {
+      "model": "TW_ROCK_LOW_WEDGE_A_LOD0",
+      "asset_id": "TW_ROCK_LOW_WEDGE_A",
+      "lod": 0,
+      "category": "바위",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_ROCK_LOW_WEDGE_A_LOD0.png",
+          "triangles": 66,
+          "glb_sha256": "9ebe53370cd60d7570b9db91d8f2f2593c53622873b6115a93cbdc34661ebe61",
+          "thumbnail_sha256": "35d46a41b7d1eb8f49608b5008beebcab7f2b428cc7c4eb907cdcf23f35ad267"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_ROCK_LOW_WEDGE_A_LOD0.png",
+          "triangles": 66,
+          "glb_sha256": "26cfa5403896914887d8ae5f7001bb9056b700aa54905f78cc2cdc0742c19f92",
+          "thumbnail_sha256": "ff36023453d710f389e25d8b54cb15d6d2bad445a559896f0b80c4202d6561e4"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_ROCK_LOW_WEDGE_A_LOD0.png",
+          "triangles": 66,
+          "glb_sha256": "8bdede40269e10cc784c29e9237fa4e501f6812f431667046b7699a50d81f7fe",
+          "thumbnail_sha256": "3e4ab32242d96d19da912896bdba02541ac564a06b06bcc5c3017952edbf7e65"
+        }
+      }
+    },
+    {
+      "model": "TW_ROCK_LOW_WEDGE_A_LOD1",
+      "asset_id": "TW_ROCK_LOW_WEDGE_A",
+      "lod": 1,
+      "category": "바위",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_ROCK_LOW_WEDGE_A_LOD1.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_ROCK_LOW_WEDGE_A_LOD1.png",
+          "triangles": 52,
+          "glb_sha256": "6e64d45d937ed56fdb24e1f701d2f93bf02d76f48d3d74e5888e0386cd1f3533",
+          "thumbnail_sha256": "4e643a3194cef3019efd90b39ac247f2228ce3434179f49f814f98d9b43bc4c7"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_ROCK_LOW_WEDGE_A_LOD1.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_ROCK_LOW_WEDGE_A_LOD1.png",
+          "triangles": 52,
+          "glb_sha256": "118ff5862b788b1898c9da8f300db91b71d56c830efcd5f297411987f5a1dbe6",
+          "thumbnail_sha256": "87f0ecde767eefd5c3ad9da5806cf049fafd068ef95186a97db10d959300f538"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_ROCK_LOW_WEDGE_A_LOD1.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_ROCK_LOW_WEDGE_A_LOD1.png",
+          "triangles": 52,
+          "glb_sha256": "98534b14574079de04e38e69497dddbc665914900a2185adc21c9b495fda29e0",
+          "thumbnail_sha256": "731054e85d484db4cde152c2bc887a5a47a9b90266ab6d865873a403e45aed6f"
+        }
+      }
+    },
+    {
+      "model": "TW_ROCK_LOW_WEDGE_B_LOD0",
+      "asset_id": "TW_ROCK_LOW_WEDGE_B",
+      "lod": 0,
+      "category": "바위",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_ROCK_LOW_WEDGE_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_ROCK_LOW_WEDGE_B_LOD0.png",
+          "triangles": 60,
+          "glb_sha256": "d552561d80713f5a3e5147a869dac64a7673f639c46aceca7b0e16a7144e295b",
+          "thumbnail_sha256": "9b7c5d19854717a7e1de77bb607771884b69a10054eb56ce53943f9925d0ac8b"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_ROCK_LOW_WEDGE_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_ROCK_LOW_WEDGE_B_LOD0.png",
+          "triangles": 60,
+          "glb_sha256": "e4b24369e9da8e6814a2303a96611e48d8c0a2dd73ece6db38af52159af7abcb",
+          "thumbnail_sha256": "402a294f3dd57282abb88a210a555b29d8c3cbb1303195c7eadb147c386ef0d2"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_ROCK_LOW_WEDGE_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_ROCK_LOW_WEDGE_B_LOD0.png",
+          "triangles": 60,
+          "glb_sha256": "9d9d2983d387a316949d1a6cf136732b6b72b68a66e72c365f5bb3dc95f3a3d1",
+          "thumbnail_sha256": "e55983cdee875b1f46b74c01313fd73d547f9431809ca4ad75d1b1d767ae27c4"
+        }
+      }
+    },
+    {
+      "model": "TW_ROCK_SPLIT_MASS_A_LOD0",
+      "asset_id": "TW_ROCK_SPLIT_MASS_A",
+      "lod": 0,
+      "category": "바위",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_ROCK_SPLIT_MASS_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_ROCK_SPLIT_MASS_A_LOD0.png",
+          "triangles": 104,
+          "glb_sha256": "d23f57c3371fa09a2d55750cdfe6ca78a52c50fd91a4c8b5cbf3f1c44ff907c9",
+          "thumbnail_sha256": "f10f83589ef71c22b014a7c8431f56b9b6ef2fd2199fdbea25d60fe29bd3f058"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_ROCK_SPLIT_MASS_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_ROCK_SPLIT_MASS_A_LOD0.png",
+          "triangles": 104,
+          "glb_sha256": "6c673900efcc4135763fc96524490c58f28a2c4e011e24a70c28884f533e0232",
+          "thumbnail_sha256": "c6234353a8a9b8f810d69cdb05e164d65cf9ed9b6c2f43d1232b08469f0cc848"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_ROCK_SPLIT_MASS_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_ROCK_SPLIT_MASS_A_LOD0.png",
+          "triangles": 104,
+          "glb_sha256": "a0206816074ee3b9ca2877f575fa3396add8c60c4432aeb461ea61f58e8ac421",
+          "thumbnail_sha256": "7f0e5bd48ca17a52cef60161aacec1f82117d3b46912ed0d4ba4ca65ceb56d10"
+        }
+      }
+    },
+    {
+      "model": "TW_ROCK_SPLIT_MASS_B_LOD0",
+      "asset_id": "TW_ROCK_SPLIT_MASS_B",
+      "lod": 0,
+      "category": "바위",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_ROCK_SPLIT_MASS_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_ROCK_SPLIT_MASS_B_LOD0.png",
+          "triangles": 180,
+          "glb_sha256": "4128347565273d376770ba848c8aa7aa7f2fcbc83ac573a9fed1e51c03ec8a5f",
+          "thumbnail_sha256": "5159e873d8f9e13d66386866489f383923b2b9205f600b6cd7206793cee8ef13"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_ROCK_SPLIT_MASS_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_ROCK_SPLIT_MASS_B_LOD0.png",
+          "triangles": 180,
+          "glb_sha256": "d4b9359e9e499e980066b4288a0525f7c8b05df4f4da0a4d23dda1f4d1a35c7d",
+          "thumbnail_sha256": "0312a94e6f8ec6de565b868ca885542e87360ca981ea668c566db3ee2262b0c6"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_ROCK_SPLIT_MASS_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_ROCK_SPLIT_MASS_B_LOD0.png",
+          "triangles": 180,
+          "glb_sha256": "0efe3c66b096760405d91528aa8d52262104057ed2344f0ddfd916494bc6d805",
+          "thumbnail_sha256": "9bf598a8f0f4f47e88775be41bd051c420ebf35e27ffe8f7d63f47aed2bacb86"
+        }
+      }
+    },
+    {
+      "model": "TW_ROCK_UPRIGHT_A_LOD0",
+      "asset_id": "TW_ROCK_UPRIGHT_A",
+      "lod": 0,
+      "category": "바위",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_ROCK_UPRIGHT_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_ROCK_UPRIGHT_A_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "15e8218a1698156291c34a3623b10742f1f468aeebafb632c21680ff6f382386",
+          "thumbnail_sha256": "67579efd8c83398ffd7f275a39fde7fd5bb755b291862d031ef5618f4cc8141e"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_ROCK_UPRIGHT_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_ROCK_UPRIGHT_A_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "451d14a4b1b1daa9c544d5fc042fd0faec35a8db3ef9d7b5daee498da7c6ca16",
+          "thumbnail_sha256": "b74f01e37da6c736d7c9f12c925f8fe1c39f78f07ed0b949e687c906ff2bf849"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_ROCK_UPRIGHT_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_ROCK_UPRIGHT_A_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "d20361ac69e2be54e690d37c98b58d43d4dedcaf924cab8ab9023a41cb84c5ab",
+          "thumbnail_sha256": "94455986d7defac74cb20c2a14eca895c1b3d43464cd674fe9c602571914ce84"
+        }
+      }
+    },
+    {
+      "model": "TW_ROCK_UPRIGHT_A_LOD1",
+      "asset_id": "TW_ROCK_UPRIGHT_A",
+      "lod": 1,
+      "category": "바위",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_ROCK_UPRIGHT_A_LOD1.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_ROCK_UPRIGHT_A_LOD1.png",
+          "triangles": 48,
+          "glb_sha256": "d108cd7032d3476a54a3552fc269772588b4149486166585811d98d2042d63a4",
+          "thumbnail_sha256": "4be491c27ad9529fe6a0adec3245e08a8e9056f2557bac313d774fb7a88233cf"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_ROCK_UPRIGHT_A_LOD1.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_ROCK_UPRIGHT_A_LOD1.png",
+          "triangles": 48,
+          "glb_sha256": "6fa1ffd6c38127c597cdd08859966b10011e7567261b11211a75d877aef805fd",
+          "thumbnail_sha256": "ff5a28f79c5d08ce14173952c94593da3732c20878af1930d076859c77bf5c73"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_ROCK_UPRIGHT_A_LOD1.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_ROCK_UPRIGHT_A_LOD1.png",
+          "triangles": 48,
+          "glb_sha256": "533fb9d54b6af017de283a7cf4709ac38bbaac03d1526277c3d09aad23835383",
+          "thumbnail_sha256": "ee41bd11323c1540eae5107f4dd07c70044c4c440739ed32b6573af474fa933b"
+        }
+      }
+    },
+    {
+      "model": "TW_ROCK_UPRIGHT_B_LOD0",
+      "asset_id": "TW_ROCK_UPRIGHT_B",
+      "lod": 0,
+      "category": "바위",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_ROCK_UPRIGHT_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_ROCK_UPRIGHT_B_LOD0.png",
+          "triangles": 60,
+          "glb_sha256": "97ec12b495274caf24bfaa5aec19c8fabf60ca3c5fe64c3762e624898b3e617f",
+          "thumbnail_sha256": "595244c04c863f53d1b6d62862f4c2e88fa6ed52ae03d740a22b681b3be0e38a"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_ROCK_UPRIGHT_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_ROCK_UPRIGHT_B_LOD0.png",
+          "triangles": 60,
+          "glb_sha256": "425934d2f53fa1e47d5a3ffa5e597420d790a0801407205c01c6c180626381ff",
+          "thumbnail_sha256": "0f8a0eec318149ab0a708c2879c148eab8c34c6e3735174d594f8a4e3a6407af"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_ROCK_UPRIGHT_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_ROCK_UPRIGHT_B_LOD0.png",
+          "triangles": 60,
+          "glb_sha256": "82b0bc95c25fe10460912d7895ec0adafca40228e1bdc109d322a50694914cb0",
+          "thumbnail_sha256": "7a99c3b4ac1eceee351e25c36b0e11dd349944c424a9b076895745dc34b05fc4"
+        }
+      }
+    },
+    {
+      "model": "TW_SHRUB_ROUND_A_LOD0",
+      "asset_id": "TW_SHRUB_ROUND_A",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_SHRUB_ROUND_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_SHRUB_ROUND_A_LOD0.png",
+          "triangles": 126,
+          "glb_sha256": "fcc69438a68c47e117e289eabdb4ae85db0c16dfbdc4233ee7d1545989cb5dc2",
+          "thumbnail_sha256": "1393686fa95edba4ba7cabb88449bf2be147df2e63bb1463497d3dbb2c79baf2"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_SHRUB_ROUND_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_SHRUB_ROUND_A_LOD0.png",
+          "triangles": 126,
+          "glb_sha256": "487db49f83cc528f007f87633b3dde17428ec83f3a3f79ae42d39d158e247dad",
+          "thumbnail_sha256": "9b2161e4aa60c2a2b779d91acc46f4eddb3c003f2c257ae5e1a7708e46e8ba4e"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_SHRUB_ROUND_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_SHRUB_ROUND_A_LOD0.png",
+          "triangles": 126,
+          "glb_sha256": "ea95a9b057b2fcc2dbbd6f99ca79eefef960e60929f5210fe086e4703e6e9653",
+          "thumbnail_sha256": "38fd698338f6ee0ead89b9679250da675fa1ea9d48578b2a8406233141662e05"
+        }
+      }
+    },
+    {
+      "model": "TW_SHRUB_SPREAD_A_LOD0",
+      "asset_id": "TW_SHRUB_SPREAD_A",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_SHRUB_SPREAD_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_SHRUB_SPREAD_A_LOD0.png",
+          "triangles": 210,
+          "glb_sha256": "b778fb40029fdc2ee02174024f0b1a997e49b32769e0110e2f75dbcf3f575494",
+          "thumbnail_sha256": "45551572600ae6603f0aa540b34cfb1d1118b504f2bd5edfe73ba2a7b71e64c2"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_SHRUB_SPREAD_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_SHRUB_SPREAD_A_LOD0.png",
+          "triangles": 210,
+          "glb_sha256": "5c3575338da0e56afc34da6df595f9ed2c1befc206570c863d00ce89096efc6e",
+          "thumbnail_sha256": "1384fba2dd50e5cc3ba65675d8cff3403365a60959b7f69fe027083997033e00"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_SHRUB_SPREAD_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_SHRUB_SPREAD_A_LOD0.png",
+          "triangles": 210,
+          "glb_sha256": "60b91add5d008ac21b0affa4fda8894559737926b8cc22163f21ab4122e9a4f3",
+          "thumbnail_sha256": "2ec8eb1c54d6be884d658a76e18a171e9304846caf03a427a25f7dcd9588e6a1"
+        }
+      }
+    },
+    {
+      "model": "TW_SIGN_ARROW_A_LOD0",
+      "asset_id": "TW_SIGN_ARROW_A",
+      "lod": 0,
+      "category": "표지판·상자",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_SIGN_ARROW_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_SIGN_ARROW_A_LOD0.png",
+          "triangles": 28,
+          "glb_sha256": "d2a1c00521cfd27bd822b250ee212db250b032dad7e0b5a0365a9dfc8189887a",
+          "thumbnail_sha256": "68884f256ddeff8f35d8a30f2ced968bb12ca2553693335554eff8a3ffa354ee"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_SIGN_ARROW_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_SIGN_ARROW_A_LOD0.png",
+          "triangles": 28,
+          "glb_sha256": "02a1af1160f9498ea5dd769e9bd4612fcd39ea1c722c1f4c50fe5309972b1436",
+          "thumbnail_sha256": "719d41ef3725087a747d25a9e0375cad8ba682fa37ff02a838dff0c93fdd8654"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_SIGN_ARROW_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_SIGN_ARROW_A_LOD0.png",
+          "triangles": 28,
+          "glb_sha256": "345b6469b98c02698ccc85a6b65cb5b7c5981252c804ec821639daa65259e466",
+          "thumbnail_sha256": "7892d40fe150c22be836a854a2a493654e72d8b43ff5f18093e774fb61fe5a83"
+        }
+      }
+    },
+    {
+      "model": "TW_SIGN_FORK_A_LOD0",
+      "asset_id": "TW_SIGN_FORK_A",
+      "lod": 0,
+      "category": "표지판·상자",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_SIGN_FORK_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_SIGN_FORK_A_LOD0.png",
+          "triangles": 44,
+          "glb_sha256": "4bc24034138c7fca8ca9ed9c833ec23ce4a9d5c1cae200dc3c7513cdc2c90623",
+          "thumbnail_sha256": "95fe86b14786a473589ac744aa35ce6078a7d61a380c55da753b23cccfbc65bc"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_SIGN_FORK_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_SIGN_FORK_A_LOD0.png",
+          "triangles": 44,
+          "glb_sha256": "2bc999a2be9b8c41c5d5de606ed15750e456df4910e91588f860ff4c54d873e0",
+          "thumbnail_sha256": "1481805f206a061ef121af7f0b04652470eb64aed46fb9bf294f1451cf7000fe"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_SIGN_FORK_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_SIGN_FORK_A_LOD0.png",
+          "triangles": 44,
+          "glb_sha256": "bc005a41297ccbd840ab8d00a2375a8f8007d3fad75c7c0527f40ae6fcbf2311",
+          "thumbnail_sha256": "cecafffd7ef23cee176fc4f1ef10cb3fc65030ce0e59cc02e063ddc84a8c3ff3"
+        }
+      }
+    },
+    {
+      "model": "TW_STEPS_LOW3_A_LOD0",
+      "asset_id": "TW_STEPS_LOW3_A",
+      "lod": 0,
+      "category": "길·계단",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STEPS_LOW3_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STEPS_LOW3_A_LOD0.png",
+          "triangles": 36,
+          "glb_sha256": "b22e5a20e8d924b35375d073a4cba386d73d5adab5d597ba5e8da01b0c16982f",
+          "thumbnail_sha256": "8642041f709dd2a392af58803fcffeae5d66e513682edc220fd027ef5eb9e8d1"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STEPS_LOW3_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STEPS_LOW3_A_LOD0.png",
+          "triangles": 36,
+          "glb_sha256": "0e8ae2e4611f97a51eb747c088fd4010eb8306b12890957dbd12d65ed377d58e",
+          "thumbnail_sha256": "17b75102561a5eb99c1fbf3f4166857fda0158008410082b82f41e860d0ef978"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STEPS_LOW3_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STEPS_LOW3_A_LOD0.png",
+          "triangles": 36,
+          "glb_sha256": "113b2bed7ca16a9088e4b178539235b7a7d6ea643b8ce656b9c9e8e585d4d6f6",
+          "thumbnail_sha256": "f2c0fba5a8e6e68ef15227d543725ebaec53ae02ce7736820c7b42b6ec3d8c31"
+        }
+      }
+    },
+    {
+      "model": "TW_STEPS_WIDE4_A_LOD0",
+      "asset_id": "TW_STEPS_WIDE4_A",
+      "lod": 0,
+      "category": "길·계단",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STEPS_WIDE4_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STEPS_WIDE4_A_LOD0.png",
+          "triangles": 48,
+          "glb_sha256": "a5c2a7e5759f06e4163ea77afeaeecb11483f0fb1cb712f019daa7ec6a840ea3",
+          "thumbnail_sha256": "a989a60cfd47d39e2fd41ccebea1ac84c00d67d6fb26e20bd39eb61677e90957"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STEPS_WIDE4_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STEPS_WIDE4_A_LOD0.png",
+          "triangles": 48,
+          "glb_sha256": "d620b14e5edf4d51b17ca66e23e3e0aaead5b660504e11fb19955ee2d183cea4",
+          "thumbnail_sha256": "ccffad7a48f9136af758ebbee71539c28d6802291e3dd3dea6cdacb687edc389"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STEPS_WIDE4_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STEPS_WIDE4_A_LOD0.png",
+          "triangles": 48,
+          "glb_sha256": "298189b1157fb2ac8ad581b0363b1468f94d45f7d247e13f28cfb9c4b1ec7aac",
+          "thumbnail_sha256": "fede21b1f38412d8b07baee512eb0548b20b5415931890199cdf582d24d4de1d"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_CORNER_L90_A_LOD0",
+      "asset_id": "TW_STONE_CORNER_L90_A",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_CORNER_L90_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_CORNER_L90_A_LOD0.png",
+          "triangles": 240,
+          "glb_sha256": "0b466eb3aa7163ee9a441c895cffcc36c482a260e6b6288c7e6763b1e55391ca",
+          "thumbnail_sha256": "e3ab4374b3dccbadca9ca57870c13c149ef3d0f25fc574f06b5d3b812f4b6741"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_CORNER_L90_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_CORNER_L90_A_LOD0.png",
+          "triangles": 240,
+          "glb_sha256": "0bc252a425666c848b6d1a0f8c47651a0a4fced337d8263589f14d45afb52056",
+          "thumbnail_sha256": "287fbfcd5024e0ae497f132b3997755f10599b33c539520ba18dbbb64d5822b5"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_CORNER_L90_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_CORNER_L90_A_LOD0.png",
+          "triangles": 240,
+          "glb_sha256": "3ca68f0795870238b934f1224b29219a1f8a16de50761b823c3159d3f026e48d",
+          "thumbnail_sha256": "03e766c87ca153d02f20e7409bcd9a562ddb57899593f344af10bf10c2aa06ba"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_CORNER_L90_B_LOD0",
+      "asset_id": "TW_STONE_CORNER_L90_B",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_CORNER_L90_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_CORNER_L90_B_LOD0.png",
+          "triangles": 312,
+          "glb_sha256": "bf6b9c115ad155019f43d36fd9c6bfa3255ed1d0e755a22926337937a6024788",
+          "thumbnail_sha256": "c8dc84b2a75e301e971670d08ceffc1fe7213b6673a1c605ccefb0edf8f990ce"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_CORNER_L90_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_CORNER_L90_B_LOD0.png",
+          "triangles": 312,
+          "glb_sha256": "aaf6b07cf8a0fe231a954d9de26c2cde0eb1173320d2de4d11b30c1712844dbc",
+          "thumbnail_sha256": "b1988e2a7bdd7af1129eedcea0a6ff51baff4d40a99390116b9a5f3e916c3119"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_CORNER_L90_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_CORNER_L90_B_LOD0.png",
+          "triangles": 312,
+          "glb_sha256": "ef897b948611f519b54ff2763d9c955d990092908b571844bbe0302394a6a493",
+          "thumbnail_sha256": "d1358c307a0a2c031bcb51d07a7a5e72fca95fbe3d99566eef40de15885093c6"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_CORNER_R90_A_LOD0",
+      "asset_id": "TW_STONE_CORNER_R90_A",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_CORNER_R90_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_CORNER_R90_A_LOD0.png",
+          "triangles": 252,
+          "glb_sha256": "5f47c5e2d4bc36b3dad214eaeb1554bc3f6b3c1441832ea337233eadddd16f84",
+          "thumbnail_sha256": "d7fbae6e8cf8e8e9667f4083c340b18d28bb30aefe4a26ada407a6abd8386e68"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_CORNER_R90_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_CORNER_R90_A_LOD0.png",
+          "triangles": 252,
+          "glb_sha256": "6a132cb588e9a3cc789cf91e133ae09b2d0833950d05c0422a840da71249a1f8",
+          "thumbnail_sha256": "e0084b682da0e700ff06a8367bfbc806b1011f33b8cd2ef047c93583dcbc9b2c"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_CORNER_R90_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_CORNER_R90_A_LOD0.png",
+          "triangles": 252,
+          "glb_sha256": "ec1b924a8419d7faa1da6a36c4a9e133ad4db7161a653896a8922829d546d92b",
+          "thumbnail_sha256": "7612e31f8f916a495904da870c093d6042bdf37d8fe6cf6fe0b391094d17bc00"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_CORNER_R90_B_LOD0",
+      "asset_id": "TW_STONE_CORNER_R90_B",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_CORNER_R90_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_CORNER_R90_B_LOD0.png",
+          "triangles": 324,
+          "glb_sha256": "6ecbce1e94895d8243fbf60ad1e122108a6bb2adaf720bab4d4315f8e9370fcb",
+          "thumbnail_sha256": "fd9ab0c9172ffaa0991e2fb604a9222d5faa6d3cc40ecf3bb56293c86b85f71b"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_CORNER_R90_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_CORNER_R90_B_LOD0.png",
+          "triangles": 324,
+          "glb_sha256": "dd20b8478dd6122b159e5996e2767b6e55064008ade1e024390dbf81b60463e1",
+          "thumbnail_sha256": "2f9263b66d5a1edc0a6b72b419f79d1182a367c8ede05dfd48f62b46a3f4faa8"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_CORNER_R90_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_CORNER_R90_B_LOD0.png",
+          "triangles": 324,
+          "glb_sha256": "af417c80c2440f4f621e61c6ad6298f391a1c5f20640aad32eb2582e7a3c0270",
+          "thumbnail_sha256": "eb27d0b9491affa5a8eb1766d465ca2609df3a6b6d9c995b742da77dade7a1a3"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_END_CAP_A_LOD0",
+      "asset_id": "TW_STONE_END_CAP_A",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_END_CAP_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_END_CAP_A_LOD0.png",
+          "triangles": 48,
+          "glb_sha256": "b19bc0fe8ce6194bd59faf584fbeb99cbe6e769d852a487d4c8658cdea847d71",
+          "thumbnail_sha256": "f42e74653152eb7ab89e209abb858e236cde64ee891a55e5d65684c5c62efc98"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_END_CAP_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_END_CAP_A_LOD0.png",
+          "triangles": 48,
+          "glb_sha256": "e8731d01d8f74addaa1905837331710a4939b69a2094cf70ac1f347a5a1b2430",
+          "thumbnail_sha256": "7ed79aeb2e71a211b1a66f166daa67d20e4ffb2b87b4c5cf9f03353b5fccd659"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_END_CAP_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_END_CAP_A_LOD0.png",
+          "triangles": 48,
+          "glb_sha256": "a1ce808458548356567e92344059bfa6860b690f0db27d25ddb1ae618d72402a",
+          "thumbnail_sha256": "ecd7c5b8d9b8cd4e8ebc3b1febf7e32b5cfcba8b54d1202ad095ddc2354ae2e8"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_END_CAP_B_LOD0",
+      "asset_id": "TW_STONE_END_CAP_B",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_END_CAP_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_END_CAP_B_LOD0.png",
+          "triangles": 72,
+          "glb_sha256": "6313d43b790e834832baceaf6e39924af56868f2eafa76d6fb738883ff31afc7",
+          "thumbnail_sha256": "8215e2a2c7f0dd4dd181b862fae1146b7422e3eb9c18af1c5b4f8b86dd5a76b3"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_END_CAP_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_END_CAP_B_LOD0.png",
+          "triangles": 72,
+          "glb_sha256": "093a0e72c88a7e2252040b116735387ce62b9047e1bd0d077ca75ed2e02f0a58",
+          "thumbnail_sha256": "702e043aae94dbb8211b8f4c7a2be138273dd786a0ea3de965a6b16b3e17945d"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_END_CAP_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_END_CAP_B_LOD0.png",
+          "triangles": 72,
+          "glb_sha256": "ab2099f15624762f12900abde565b3699c35bb8a706010ec735e01c904ee8e50",
+          "thumbnail_sha256": "be882b25c3540535dc98f07dcdf32bf34711b0ddbfbb67a4334fa84ace93c4ee"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_END_RUIN_A_LOD0",
+      "asset_id": "TW_STONE_END_RUIN_A",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_END_RUIN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_END_RUIN_A_LOD0.png",
+          "triangles": 60,
+          "glb_sha256": "480073c99238911ed9604f5f39198846770055e9dcbaebcc7c25bd7909b33d29",
+          "thumbnail_sha256": "ac53788780917b6831111fe48e84fd7cc6f986f9fb10d8a100baf6d6e3c607c5"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_END_RUIN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_END_RUIN_A_LOD0.png",
+          "triangles": 60,
+          "glb_sha256": "f3ba4b6995ed4b4cfc43f5446bb7a613ab980cd64b1e1c0751c44d82d2605b0d",
+          "thumbnail_sha256": "2dda83be1af9a32eaaafbb8036cf04da8ba40be37f7fd10baeb479914d5b873b"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_END_RUIN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_END_RUIN_A_LOD0.png",
+          "triangles": 60,
+          "glb_sha256": "afeac20f93c97c1e20b41ad2a70b2f4b890e1c6cb923efa46d476dbf8726a3ab",
+          "thumbnail_sha256": "7179d32bcbb2ffc54583d9d00b0fc33f9208cec57a39a9a3abfe4afa800bb7a6"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_END_RUIN_B_LOD0",
+      "asset_id": "TW_STONE_END_RUIN_B",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_END_RUIN_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_END_RUIN_B_LOD0.png",
+          "triangles": 96,
+          "glb_sha256": "7118b9a56cabf6f3836b93e11f7997b7e344032803af93ce6bb4b04b7a20629d",
+          "thumbnail_sha256": "3946f7f4aff69da103d887f87c4ebf49a3b6e3119b859a28e265dcc982c420b2"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_END_RUIN_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_END_RUIN_B_LOD0.png",
+          "triangles": 96,
+          "glb_sha256": "f909e8d5c4bbe20ac4b744b2f783016e81d3c5148cab9a2fffcebb7945e92655",
+          "thumbnail_sha256": "561997b063a2809982c9a76d82b7a13e87c64c2ed41178369f25973a5baf66b9"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_END_RUIN_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_END_RUIN_B_LOD0.png",
+          "triangles": 96,
+          "glb_sha256": "026647716ac30b7cfe39c4e095b0cd4f9070df0dd07076834bf0bfaa4b06e7c1",
+          "thumbnail_sha256": "9255d8c397f06ba92af24c2f22dec871ad260a461378411223603410987ad861"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_POST_A_LOD0",
+      "asset_id": "TW_STONE_POST_A",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_POST_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_POST_A_LOD0.png",
+          "triangles": 36,
+          "glb_sha256": "a14589de61b3fbdb8ee476d721733c499d9c8f447df30e520328252b1e80f364",
+          "thumbnail_sha256": "70a21afdd6d715633dd26c0ad4076f4097aa07ac87c92d0a66adbfc71e307343"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_POST_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_POST_A_LOD0.png",
+          "triangles": 36,
+          "glb_sha256": "416bca20cd765437e6f7fec7e3c79de5436172fb1783e08238bd9be23ea03277",
+          "thumbnail_sha256": "8172caab6c226e7e11d688b71c32d46331c2c1d6daa8c12fccda031df8aa3895"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_POST_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_POST_A_LOD0.png",
+          "triangles": 36,
+          "glb_sha256": "0bb284c5f538212a2697d2954556e32a735d564c654ef2af7cdb7eea000f4864",
+          "thumbnail_sha256": "6cde10d6185fc570915c0deda737d1a5400e2f62f7cf4be17c197a72806ba6fb"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_POST_B_LOD0",
+      "asset_id": "TW_STONE_POST_B",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_POST_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_POST_B_LOD0.png",
+          "triangles": 60,
+          "glb_sha256": "5b1e7a9b0d6eb21f30e13f507b9264738e7ebeb9369cdba97ca5fb353addd06a",
+          "thumbnail_sha256": "980c09b73ed122df1bcd91fceda4ff3897445919a9687bfdc7a3cc756fa0e140"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_POST_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_POST_B_LOD0.png",
+          "triangles": 60,
+          "glb_sha256": "e51495cd670fa83afb5ea6559d78e52d31579fcd0793ecc0509c006d79e61e20",
+          "thumbnail_sha256": "01f4248e4b611968ad020dcf5b89381df5ed816a52fb70236a2f9afc3ed395e7"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_POST_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_POST_B_LOD0.png",
+          "triangles": 60,
+          "glb_sha256": "27222b78900a55729d9a49a426950bad36b736fbbee1e0a460411dc4cad9e6b4",
+          "thumbnail_sha256": "54631aebccf5b7c84cc9eaa0da6d81895b6a4c0fc457fb07d0358084ee080798"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_WALL_1M_A_LOD0",
+      "asset_id": "TW_STONE_WALL_1M_A",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_WALL_1M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_WALL_1M_A_LOD0.png",
+          "triangles": 120,
+          "glb_sha256": "54c1c1124aca9d2c0f84f8f767acfa7c9317788a183a728545ebe6032cb0a4f9",
+          "thumbnail_sha256": "63a3f08098f818158ed766747f22e887db20b306acf07034b22d60851f17a7ae"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_WALL_1M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_WALL_1M_A_LOD0.png",
+          "triangles": 120,
+          "glb_sha256": "70898b880d633e108efa61c51d7117187a90e419357026c559a63806ce591059",
+          "thumbnail_sha256": "4acf6ba606ebc49e5d62d5902cbc3901e29dae111372fa7b5ab414488be0dc33"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_WALL_1M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_WALL_1M_A_LOD0.png",
+          "triangles": 120,
+          "glb_sha256": "085fc7687d280bb39db4be6a6559bef6e5e03b89352e4c678c585ed0156f5e83",
+          "thumbnail_sha256": "e69adc33b12ccf8b7bc575f57ae1478e61b0489506ca41bb56a4ac3e84914b6a"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_WALL_1M_B_LOD0",
+      "asset_id": "TW_STONE_WALL_1M_B",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_WALL_1M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_WALL_1M_B_LOD0.png",
+          "triangles": 156,
+          "glb_sha256": "736a9f3da569dda81e0cf2d576286487e88752c82f785b9eff64125734afa1ea",
+          "thumbnail_sha256": "d4dd9b36e4dac50590ebd0fb554051153dd384b7b62aca3ef9593f58b0ef8aec"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_WALL_1M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_WALL_1M_B_LOD0.png",
+          "triangles": 156,
+          "glb_sha256": "96dc3a5004f9875b36504416e09f1b1da8a27ccb8dd51d553886c4de3c324f50",
+          "thumbnail_sha256": "715009426a8964b249c0ec0d230081d3ce3cbe62b10ddd747ff25899a5fd5c30"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_WALL_1M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_WALL_1M_B_LOD0.png",
+          "triangles": 156,
+          "glb_sha256": "6162d3ffd8b0bedf593200606d98011f87f3175dccebb68cbac6e979377194d5",
+          "thumbnail_sha256": "fcdcac7c9b43834ce1a97547eb636b1df6a11788713c651077f461e3f2b908ec"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_WALL_2M_A_LOD0",
+      "asset_id": "TW_STONE_WALL_2M_A",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_WALL_2M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_WALL_2M_A_LOD0.png",
+          "triangles": 192,
+          "glb_sha256": "6e9404cf3b2b4d0f753e2b48894b71adbc05ccb898486ef9d81ba3b59f1a839c",
+          "thumbnail_sha256": "26169050e01f787452b0f0fcfcaf07ff604960efce8609b5bf77a04d248b2e80"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_WALL_2M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_WALL_2M_A_LOD0.png",
+          "triangles": 192,
+          "glb_sha256": "7472cbc6b40fbd4f25e2732db1eadcdd0f02ec450c977ce56cddd5f29d40ed4f",
+          "thumbnail_sha256": "664024001aed49f2c04c75f55e2d1a0ed4f761b7ac91a70c7eabd39c73176648"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_WALL_2M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_WALL_2M_A_LOD0.png",
+          "triangles": 192,
+          "glb_sha256": "68de2e11fe2ba41b137cf36bd37ae4b49cacb69e5a8e87d9aee144be6829bd80",
+          "thumbnail_sha256": "f0b1272336d917201705c2fcf321adc81b604cb2220efe914a3a8fbbd14f1645"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_WALL_2M_B_LOD0",
+      "asset_id": "TW_STONE_WALL_2M_B",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_WALL_2M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_WALL_2M_B_LOD0.png",
+          "triangles": 252,
+          "glb_sha256": "f85f412e3c2384b99703a7538f47104062214ca5914f39a2d0d141a32d8e5854",
+          "thumbnail_sha256": "8e356c64b8ab452a491704646147aa15ebb8f6a0e7972d574701272675419bcf"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_WALL_2M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_WALL_2M_B_LOD0.png",
+          "triangles": 252,
+          "glb_sha256": "8687ee298414464cfd7f9a3474d2b9ffdf46f347693a76bd86225891e6bdc021",
+          "thumbnail_sha256": "9bede41384b8749d7fa38c9332c9de99faf27e5474581645c08f0f8a0628e5ca"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_WALL_2M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_WALL_2M_B_LOD0.png",
+          "triangles": 252,
+          "glb_sha256": "a0f2342a6d372d97a599ae1627c94779c960725db664981415a1cc596d2e9f83",
+          "thumbnail_sha256": "5cfb5605b526f8cc1b315a05fc944b49833ba894e6a1c460a27d13c506df4880"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_WALL_4M_A_LOD0",
+      "asset_id": "TW_STONE_WALL_4M_A",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_WALL_4M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_WALL_4M_A_LOD0.png",
+          "triangles": 372,
+          "glb_sha256": "b32b7139eaa796fb27e9bb190e0a8b7b270e5a499e02452cfa22d4f2ed1a547a",
+          "thumbnail_sha256": "38904d8c518d43bdd8903a6beda82d7d0ad5f56bc744071cd9b5b76c51683790"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_WALL_4M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_WALL_4M_A_LOD0.png",
+          "triangles": 372,
+          "glb_sha256": "6593843677e7080a5981dd73e5a201e2b4144abb00ef2d8639b01cb99f142d68",
+          "thumbnail_sha256": "519e4e9d64c95859d0ab85e53a1032358758dc729768fe0f1089458aed5cc644"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_WALL_4M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_WALL_4M_A_LOD0.png",
+          "triangles": 372,
+          "glb_sha256": "3703299970bd67a04fc2137eefd5197f48112debf646d2e314a97dd9bc53a916",
+          "thumbnail_sha256": "60bc0769fb2c6d4a539c24ac771f8d2bb02aadcaf9007e61441fd2931ff2751e"
+        }
+      }
+    },
+    {
+      "model": "TW_STONE_WALL_4M_B_LOD0",
+      "asset_id": "TW_STONE_WALL_4M_B",
+      "lod": 0,
+      "category": "석재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STONE_WALL_4M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STONE_WALL_4M_B_LOD0.png",
+          "triangles": 420,
+          "glb_sha256": "de6fba5390e793c77542d9c9ea5f2309dcdb0850e149656875c04668077ecd5a",
+          "thumbnail_sha256": "e9ff2df0f4ed5aa2167e896f379f8623922120ccc61e207dc8410fb5f8323355"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STONE_WALL_4M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STONE_WALL_4M_B_LOD0.png",
+          "triangles": 420,
+          "glb_sha256": "1857c064203e90f401eee4de55ab10147d0ce1e4964829055927f8407f935db0",
+          "thumbnail_sha256": "cc71092ffe84c6b1bb918acc064a07d12e8d0c293abca87bf27316992c153a09"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STONE_WALL_4M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STONE_WALL_4M_B_LOD0.png",
+          "triangles": 420,
+          "glb_sha256": "76ab2957211917265e9eaf691b1886b6abb7ea974dbf7e368441f7f27446b7fb",
+          "thumbnail_sha256": "ca09d86e619acc4e8fe1455dc9550adc6c549cc8040cd115e09218dc85a3a9df"
+        }
+      }
+    },
+    {
+      "model": "TW_STUMP_BROKEN_A_LOD0",
+      "asset_id": "TW_STUMP_BROKEN_A",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STUMP_BROKEN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STUMP_BROKEN_A_LOD0.png",
+          "triangles": 118,
+          "glb_sha256": "a539b4f8379b0ecd75d0893c82fc82938e17292f70c625f31b6f34fb950e5eda",
+          "thumbnail_sha256": "7569d920714f31a1a51ee542b2509660d3a64cedd3bbaed4735c5b7f3204f837"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STUMP_BROKEN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STUMP_BROKEN_A_LOD0.png",
+          "triangles": 118,
+          "glb_sha256": "81d60f3d2d1c223f4c62f6c027b9c3a803f6d9e8820717db46810a8e62f0ad0c",
+          "thumbnail_sha256": "82c00f08d533d2c62cacbb41c7476009475b0404c4e7926fb3cffe255b8a5486"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STUMP_BROKEN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STUMP_BROKEN_A_LOD0.png",
+          "triangles": 118,
+          "glb_sha256": "81b3a489c067cbf156530ab858e6765508133c416df13a39824a46a2fc5c5de7",
+          "thumbnail_sha256": "b26eafb4776af83de02a78a078fa2deec207b9aa49c9af81e44a038202538d98"
+        }
+      }
+    },
+    {
+      "model": "TW_STUMP_CUT_SMALL_A_LOD0",
+      "asset_id": "TW_STUMP_CUT_SMALL_A",
+      "lod": 0,
+      "category": "숲 소품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_STUMP_CUT_SMALL_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_STUMP_CUT_SMALL_A_LOD0.png",
+          "triangles": 118,
+          "glb_sha256": "6529e30e350b146c428d8c90c25bdffeaa7b0255bc674f50a50fcb8a8fede425",
+          "thumbnail_sha256": "863fc4839c8b652e758661e605e8b6fb9b51f3fa19a8399c55fa310b01f0316d"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_STUMP_CUT_SMALL_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_STUMP_CUT_SMALL_A_LOD0.png",
+          "triangles": 118,
+          "glb_sha256": "38128936d3994dd803219c03cd97c50e909acf963ea08b8545f8ad04e90a3cee",
+          "thumbnail_sha256": "0230b62fe8073c4eb475730d5ef0d5d398c1148f7ed722b538a2b1e191025e26"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_STUMP_CUT_SMALL_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_STUMP_CUT_SMALL_A_LOD0.png",
+          "triangles": 118,
+          "glb_sha256": "94dc5f8f53ca5b38d12182426f4694dea4265db9ae0dc7e424e3a7f8f075bba1",
+          "thumbnail_sha256": "c2f3e16c5ebb577ed93ba450c9e56e2a1b427063f9d7853d16655901c2b5e656"
+        }
+      }
+    },
+    {
+      "model": "TW_TABLE_LONG_A_LOD0",
+      "asset_id": "TW_TABLE_LONG_A",
+      "lod": 0,
+      "category": "가구",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TABLE_LONG_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TABLE_LONG_A_LOD0.png",
+          "triangles": 144,
+          "glb_sha256": "849ddcff2f04e4ada847add70fcc592626afa041ef70a5e859e6ba30d4de57da",
+          "thumbnail_sha256": "d07da69172111d99dce7f09b1f2af85060fe494c8fc77c95259906ac0d2b4f36"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TABLE_LONG_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TABLE_LONG_A_LOD0.png",
+          "triangles": 144,
+          "glb_sha256": "2ca934afa3af1ec09357b61798d35b582ba21c8940cc1b7ed88a99b7e0b68487",
+          "thumbnail_sha256": "2d00050f070301822e61d265a5ec1821d0e4ef29df8dfc2d80a7946ea3e52d7f"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TABLE_LONG_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TABLE_LONG_A_LOD0.png",
+          "triangles": 144,
+          "glb_sha256": "f0f924c148208d6dc2910e1c2db1b13708e7a45102169e1913c8171cded7c84c",
+          "thumbnail_sha256": "c8189755ac4d116a3a44d85d9501ce0b4c1cc2ddbb4a85a2a4b31736cd478b79"
+        }
+      }
+    },
+    {
+      "model": "TW_TABLE_SQUARE_A_LOD0",
+      "asset_id": "TW_TABLE_SQUARE_A",
+      "lod": 0,
+      "category": "가구",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TABLE_SQUARE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TABLE_SQUARE_A_LOD0.png",
+          "triangles": 144,
+          "glb_sha256": "7820f711ae96999eb8fb2aa23db3058b425542e4cd89870bb8733a2402423d5b",
+          "thumbnail_sha256": "0cf8234c4756bf64967885356bf069b97adba5c20526812c8c897f33d59cc15a"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TABLE_SQUARE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TABLE_SQUARE_A_LOD0.png",
+          "triangles": 144,
+          "glb_sha256": "5a6cafd58e90f51d73aafd9cd3d4b01efca95ba475e820129703d6a308fafa46",
+          "thumbnail_sha256": "11214153be91d9d486b6a4081eca1b6737107f452d86668f1313b4e9b9837f57"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TABLE_SQUARE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TABLE_SQUARE_A_LOD0.png",
+          "triangles": 144,
+          "glb_sha256": "e9d7b2041c9c19591f77ad6c6a7c0a8333efbcb0895ca1245c9fdc76bd0125cb",
+          "thumbnail_sha256": "3864c5343889074709fe41c9286226bca11053cfd0e16480f33536ceb7d90e1f"
+        }
+      }
+    },
+    {
+      "model": "TW_TERMINAL_POST",
+      "asset_id": "TW_TERMINAL_POST",
+      "lod": null,
+      "category": "연결 부품",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TERMINAL_POST.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TERMINAL_POST.png",
+          "triangles": 20,
+          "glb_sha256": "2d5a3bbd48d9e76bbc6576718f00782d3f3f8b53be130d17e4cf7560af9045b8",
+          "thumbnail_sha256": "851e1e384c0feb202bbaec07c8a4bc3f1ff5e96b37e3678b9e747ccb376d7cce"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TERMINAL_POST.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TERMINAL_POST.png",
+          "triangles": 20,
+          "glb_sha256": "62523a8ee07d0b7b9a2999f65cf8b3c6457e05b9b540ffae01c9ac893a599fdd",
+          "thumbnail_sha256": "57f93c8c28e713a5846681f11ad9dfda553f98cbba17ec2e0f6c952a611cccbf"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TERMINAL_POST.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TERMINAL_POST.png",
+          "triangles": 20,
+          "glb_sha256": "646e5949ea723fc658571ff9cb49a1c0a1063ddd060678e36e378e43d340e0ef",
+          "thumbnail_sha256": "76b020216d47e8a8c62daebe63f9f38679d3d8717a0fa2af6f165b2166c4e834"
+        }
+      }
+    },
+    {
+      "model": "TW_TREE_DEAD_FORK_A_LOD0",
+      "asset_id": "TW_TREE_DEAD_FORK_A",
+      "lod": 0,
+      "category": "나무",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TREE_DEAD_FORK_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TREE_DEAD_FORK_A_LOD0.png",
+          "triangles": 156,
+          "glb_sha256": "f1ea7b494866b35226f15b5e630e52c4dc9b299083eb57ec73f4015c0ffeb071",
+          "thumbnail_sha256": "0f557f8906f408c1a294b66807cc94046377e14db2c06365f27b0df8dc248469"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TREE_DEAD_FORK_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TREE_DEAD_FORK_A_LOD0.png",
+          "triangles": 156,
+          "glb_sha256": "959a67f322c0d4bf1dd7ddca38fcb7fcb0bbc541c24ddbb69457a639265dbb32",
+          "thumbnail_sha256": "b06ef4d683936e5af005cbaab9bb20a220f49d4ec084504db0ddac3cb5deba33"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TREE_DEAD_FORK_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TREE_DEAD_FORK_A_LOD0.png",
+          "triangles": 156,
+          "glb_sha256": "285950e11db13e2e74ce4f33ae6beb2922fa049d356a091e8e86ae52a4c7a1ce",
+          "thumbnail_sha256": "c37c14eef2e47465cfa46c947c18b3a62db6aac5caf0364152e866c69b09b931"
+        }
+      }
+    },
+    {
+      "model": "TW_TREE_DEAD_FORK_B_LOD0",
+      "asset_id": "TW_TREE_DEAD_FORK_B",
+      "lod": 0,
+      "category": "나무",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TREE_DEAD_FORK_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TREE_DEAD_FORK_B_LOD0.png",
+          "triangles": 212,
+          "glb_sha256": "9b544316f07b4e7bfde2b99c9fb9efe48b5794efaef129c88791d8162ca6b701",
+          "thumbnail_sha256": "fb64121282ce99f2ba20ef02b0d35a232e15cd60f27b5b5fa377fe2ae20ce580"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TREE_DEAD_FORK_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TREE_DEAD_FORK_B_LOD0.png",
+          "triangles": 212,
+          "glb_sha256": "040f46ddb7315f945db7dc22ee4cbd2b86fafa618184dbdaf4076f261e522ed3",
+          "thumbnail_sha256": "5a8dfec16cdbb5477be2c499c5158aadc962523bb9a7e41d4449b037c3467689"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TREE_DEAD_FORK_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TREE_DEAD_FORK_B_LOD0.png",
+          "triangles": 212,
+          "glb_sha256": "6a55c74f27e2a11017dbac283d0886fc450b22196f1eb6e00f49922b7438a321",
+          "thumbnail_sha256": "9efbc57e58345364391fe82a05517d72cd77e9a18e3f11a2f7df673b97df0f7c"
+        }
+      }
+    },
+    {
+      "model": "TW_TREE_DEAD_LEAN_A_LOD0",
+      "asset_id": "TW_TREE_DEAD_LEAN_A",
+      "lod": 0,
+      "category": "나무",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TREE_DEAD_LEAN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TREE_DEAD_LEAN_A_LOD0.png",
+          "triangles": 124,
+          "glb_sha256": "9c16b152d6270dbda086b82a7e93c5395b6b45dcc66e663a20644a3f5f1f21e4",
+          "thumbnail_sha256": "6c620d34d1bdbd5f13b3c07c7cbef89b39bf5e13e5be972828612aad73184878"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TREE_DEAD_LEAN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TREE_DEAD_LEAN_A_LOD0.png",
+          "triangles": 124,
+          "glb_sha256": "5f9518b9b6356bd35ac690ceb050f81b7711136f2cfb6abaa7c8930f0c1af0fe",
+          "thumbnail_sha256": "ae7eeec30453249c6851d73bceba2e9bff42f9315d5c84c7880e50128c684d90"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TREE_DEAD_LEAN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TREE_DEAD_LEAN_A_LOD0.png",
+          "triangles": 124,
+          "glb_sha256": "df1fc525b4faac6d6ed88f579c52526e967270d1f26e722ce857195e493c3b04",
+          "thumbnail_sha256": "e138ad941cec43ce4bbb18e1f34719e75f398a42eaf2ec8f756645dcffc2e6ca"
+        }
+      }
+    },
+    {
+      "model": "TW_TREE_DEAD_LEAN_B_LOD0",
+      "asset_id": "TW_TREE_DEAD_LEAN_B",
+      "lod": 0,
+      "category": "나무",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TREE_DEAD_LEAN_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TREE_DEAD_LEAN_B_LOD0.png",
+          "triangles": 174,
+          "glb_sha256": "61e55c97bc1390a11f1ce1e9f2b040cc57eb5de1d9f4e537d53b31a75ed3f64f",
+          "thumbnail_sha256": "8a444513a208b8c2326fc162c08f6b7c8b69d04579a2ee13c12b0563600c52f6"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TREE_DEAD_LEAN_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TREE_DEAD_LEAN_B_LOD0.png",
+          "triangles": 174,
+          "glb_sha256": "ea8955b55fdb229b17b82a1dd78ebe0345183f33990458e930a26c318a0cd8bd",
+          "thumbnail_sha256": "03c39f1e01299029f2908ed7e8e159a98a7bed5888276064d70712812ab76f86"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TREE_DEAD_LEAN_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TREE_DEAD_LEAN_B_LOD0.png",
+          "triangles": 174,
+          "glb_sha256": "9318ed8cd1f208c654693233040a7bcd94ab0f601ebe1ca31ac6cde89f0f3506",
+          "thumbnail_sha256": "4cecf22c6465077cda7b375e9fe9c4178d3d4e0cf9e7a543d03474e397c56e85"
+        }
+      }
+    },
+    {
+      "model": "TW_TREE_ROUND_BROAD_A_LOD0",
+      "asset_id": "TW_TREE_ROUND_BROAD_A",
+      "lod": 0,
+      "category": "나무",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TREE_ROUND_BROAD_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TREE_ROUND_BROAD_A_LOD0.png",
+          "triangles": 380,
+          "glb_sha256": "37e6aca16ea8a6b37021b2eace30683a5fb9d783947de90a38a8580b90d440d3",
+          "thumbnail_sha256": "366b875f3eb87a0369bf4c36acdb4361092100c4765fd2caedc440c1df18b606"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TREE_ROUND_BROAD_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TREE_ROUND_BROAD_A_LOD0.png",
+          "triangles": 380,
+          "glb_sha256": "782fe5846dc9652088a872a61704485654fbc48f533120d62e9d6b8ae2ef5d73",
+          "thumbnail_sha256": "6aa2f25b4ffc01ee39e1e056d7860414555c6fa67f684555e852bd96144aa8c7"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TREE_ROUND_BROAD_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TREE_ROUND_BROAD_A_LOD0.png",
+          "triangles": 380,
+          "glb_sha256": "85e8da61503748166ef0310a40b4ab93af2aafaaaf540290f9371ac6dbb488e6",
+          "thumbnail_sha256": "d259c7fe271ba6a6fcf43fbeeb7681bae2b1d075514d260c0995502711699fc1"
+        }
+      }
+    },
+    {
+      "model": "TW_TREE_ROUND_BROAD_B_LOD0",
+      "asset_id": "TW_TREE_ROUND_BROAD_B",
+      "lod": 0,
+      "category": "나무",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TREE_ROUND_BROAD_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TREE_ROUND_BROAD_B_LOD0.png",
+          "triangles": 478,
+          "glb_sha256": "828196bd6b4b6c3ba06e16ec4f11d0a60e97a179f536a93c2a2e7793e6e9cb7f",
+          "thumbnail_sha256": "0824c92ba7323c1e22d94e04c8642dba227ddf4d948dc7fe3f2925e9d6e11536"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TREE_ROUND_BROAD_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TREE_ROUND_BROAD_B_LOD0.png",
+          "triangles": 478,
+          "glb_sha256": "61617400baf766cf38434e1c305e4e90d0a29488ff6cd5743949ef949d9a762d",
+          "thumbnail_sha256": "6f9a92b50bdb5b2dd4a6f1599b5f459b35117daa65239a511ccb6b86ad810707"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TREE_ROUND_BROAD_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TREE_ROUND_BROAD_B_LOD0.png",
+          "triangles": 478,
+          "glb_sha256": "04e0bba98a7dded93bf76ea4b38ed02651818fa073a045fa35d7c3d872e74a5b",
+          "thumbnail_sha256": "15311d724c694fa530cf3f4a57fdd3332403393bdba448f6eea9ae868db8ec4b"
+        }
+      }
+    },
+    {
+      "model": "TW_TREE_ROUND_SMALL_A_LOD0",
+      "asset_id": "TW_TREE_ROUND_SMALL_A",
+      "lod": 0,
+      "category": "나무",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TREE_ROUND_SMALL_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TREE_ROUND_SMALL_A_LOD0.png",
+          "triangles": 352,
+          "glb_sha256": "b975c9c0da24d917b40d583ba22d25b623e821cbf1a61f7598527214885cd827",
+          "thumbnail_sha256": "03c1cb5262c9c638c841ed0d7d851c247b586589f9097a3e5e3a9aabb762aad2"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TREE_ROUND_SMALL_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TREE_ROUND_SMALL_A_LOD0.png",
+          "triangles": 352,
+          "glb_sha256": "08a02d505176aa002d1cd8c0660afa55fafba1f80b2b5150b4ae2915da2828a2",
+          "thumbnail_sha256": "491d37b6ab3cb63c84d1abb8ee8268d4053b22d6ad062604df54a86278602ab6"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TREE_ROUND_SMALL_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TREE_ROUND_SMALL_A_LOD0.png",
+          "triangles": 352,
+          "glb_sha256": "0f3f64512d7df1b514a3346b45966aaf89ac5b9344dcbbc5b85c50ac5391bc88",
+          "thumbnail_sha256": "7c2004ae34b375103b1990eea790b1c05180a0046cd1a2d091aedc66fe1bf6a0"
+        }
+      }
+    },
+    {
+      "model": "TW_TREE_ROUND_SMALL_A_LOD1",
+      "asset_id": "TW_TREE_ROUND_SMALL_A",
+      "lod": 1,
+      "category": "나무",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TREE_ROUND_SMALL_A_LOD1.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TREE_ROUND_SMALL_A_LOD1.png",
+          "triangles": 244,
+          "glb_sha256": "95e3a762a4c512a2a5db99b3dce8a839a4c7f5c295554851e4b8a50961a663a7",
+          "thumbnail_sha256": "87894ee273f053158d91e7b247273afdef77442f60b24e3f4acdf5d520cea5de"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TREE_ROUND_SMALL_A_LOD1.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TREE_ROUND_SMALL_A_LOD1.png",
+          "triangles": 244,
+          "glb_sha256": "15d20d7b815231431889b9c91cd7d3ae7e493ef82855d90db1998b6207fe2f6e",
+          "thumbnail_sha256": "e99f4a979a14ea4e6e47945d2be40b96f87e37a29e979c68d953f21ad39b135a"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TREE_ROUND_SMALL_A_LOD1.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TREE_ROUND_SMALL_A_LOD1.png",
+          "triangles": 244,
+          "glb_sha256": "c1b21e082ad83c0a604566cf9e1450896660ae5d066d464f087b373f79ee4413",
+          "thumbnail_sha256": "39ad5376c898d0f9369a1db73f282f2cf05df40db591aadfaef046dea39e9130"
+        }
+      }
+    },
+    {
+      "model": "TW_TREE_ROUND_SMALL_B_LOD0",
+      "asset_id": "TW_TREE_ROUND_SMALL_B",
+      "lod": 0,
+      "category": "나무",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TREE_ROUND_SMALL_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TREE_ROUND_SMALL_B_LOD0.png",
+          "triangles": 404,
+          "glb_sha256": "ae8d357dbd9d385cdf89bfa853b6972a4c5083e2116dd4e3735a64e26e631dee",
+          "thumbnail_sha256": "32a51a5efea0823305f65c21db4882bcf19a062cb8bb6965bebef2853107dccf"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TREE_ROUND_SMALL_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TREE_ROUND_SMALL_B_LOD0.png",
+          "triangles": 404,
+          "glb_sha256": "98b007fb27b21f785a164caa9eec3686dea355030544a7e9fd5e1a6930b30528",
+          "thumbnail_sha256": "831cba98af87a916d6bd38cec99ae076136b0353cd7a725de39f133290966a5d"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TREE_ROUND_SMALL_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TREE_ROUND_SMALL_B_LOD0.png",
+          "triangles": 404,
+          "glb_sha256": "51fa12c7c086afeec99bb4e38f68d6b5ff5857e9424b2446c098dc516a35afe0",
+          "thumbnail_sha256": "f845bd4eb261b7b85b8d9219495a2f1203ed9a092264bc0c8a8600ebc8ae444d"
+        }
+      }
+    },
+    {
+      "model": "TW_TREE_TIERED_SLIM_A_LOD0",
+      "asset_id": "TW_TREE_TIERED_SLIM_A",
+      "lod": 0,
+      "category": "나무",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TREE_TIERED_SLIM_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TREE_TIERED_SLIM_A_LOD0.png",
+          "triangles": 248,
+          "glb_sha256": "7a32145cbe0efd5381519a061ddb98dbc23cb1677d00ac76f6c6546760c41ac0",
+          "thumbnail_sha256": "999bf8204d1543216fabfbf103fe92a3f8eb5acfc863374eaf21eaca1af7792c"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TREE_TIERED_SLIM_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TREE_TIERED_SLIM_A_LOD0.png",
+          "triangles": 248,
+          "glb_sha256": "625f6c3ceb618737b17f6d6ae2e5e12253f48f2917ece726384f6c1f7df4a720",
+          "thumbnail_sha256": "4c08eb1079fd25e7c05cc49ff368ffaeaecef25f79470595aa898fdc0a6075ce"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TREE_TIERED_SLIM_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TREE_TIERED_SLIM_A_LOD0.png",
+          "triangles": 248,
+          "glb_sha256": "240fd8f6324df7b8f9d56243787e8fe49af90f41bf5cc04364ec68787adbda29",
+          "thumbnail_sha256": "ecd51375780e64dafd830b5f38984482d5179c19da03af1670952901f19a680f"
+        }
+      }
+    },
+    {
+      "model": "TW_TREE_TIERED_SLIM_A_LOD1",
+      "asset_id": "TW_TREE_TIERED_SLIM_A",
+      "lod": 1,
+      "category": "나무",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TREE_TIERED_SLIM_A_LOD1.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TREE_TIERED_SLIM_A_LOD1.png",
+          "triangles": 184,
+          "glb_sha256": "e39f56de128bff7344ef6c028ce5088b82963d8538843ad9c88e907019677684",
+          "thumbnail_sha256": "d588177139acb1f112cfb3401b3404d01d7fa557e53644259d42e6927ab7554f"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TREE_TIERED_SLIM_A_LOD1.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TREE_TIERED_SLIM_A_LOD1.png",
+          "triangles": 184,
+          "glb_sha256": "9f207345e5483cd9bc796d2e28d979bb1408795eaeb599d03c8f887cac48dc85",
+          "thumbnail_sha256": "3bd5078b5a26121ef2d37902371c77c43459f11c7bfdcad3e46e9c24a8814e2f"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TREE_TIERED_SLIM_A_LOD1.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TREE_TIERED_SLIM_A_LOD1.png",
+          "triangles": 184,
+          "glb_sha256": "0f6ae372d43f054df932480edfbfcef2dc5da69182123290d102e667ad1bad96",
+          "thumbnail_sha256": "1f9f24536c1b33c040be62321ac33b9edfb35299007c0317f11aaa3a6d5af94f"
+        }
+      }
+    },
+    {
+      "model": "TW_TREE_TIERED_SLIM_B_LOD0",
+      "asset_id": "TW_TREE_TIERED_SLIM_B",
+      "lod": 0,
+      "category": "나무",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TREE_TIERED_SLIM_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TREE_TIERED_SLIM_B_LOD0.png",
+          "triangles": 268,
+          "glb_sha256": "1769950de1cf6e65681bc66792fc4e4bce50b242f9ee79e8596c02b40a9a3a5f",
+          "thumbnail_sha256": "c97e87ed3105717484a5b7f965ac098430205020fff724f51e22433ac70353d6"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TREE_TIERED_SLIM_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TREE_TIERED_SLIM_B_LOD0.png",
+          "triangles": 268,
+          "glb_sha256": "f3dff2f524328711d456562c57d7ace36960b694123e953dc5855794eb302011",
+          "thumbnail_sha256": "3e428ca22238d66fc99d5967c73d2438b50762c01f005668822623ca7a62ed3e"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TREE_TIERED_SLIM_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TREE_TIERED_SLIM_B_LOD0.png",
+          "triangles": 268,
+          "glb_sha256": "572689225dfd2bcfef20ba193da3616eed95d387d4579e3e4acb23aaf030302f",
+          "thumbnail_sha256": "d6388e72afc06038831b0e1859605d8ac1aebaa8724d15db5a5ed8d120e2acb7"
+        }
+      }
+    },
+    {
+      "model": "TW_TREE_TIERED_WIDE_A_LOD0",
+      "asset_id": "TW_TREE_TIERED_WIDE_A",
+      "lod": 0,
+      "category": "나무",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TREE_TIERED_WIDE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TREE_TIERED_WIDE_A_LOD0.png",
+          "triangles": 198,
+          "glb_sha256": "c2008f00049f323b226474789a16cc060fef8bcadf8f6d1d6a605873d1865298",
+          "thumbnail_sha256": "d319e10eb38b01553fb4f6922f9b9143dee6cf7cc197c845dc5cdc21c1256423"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TREE_TIERED_WIDE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TREE_TIERED_WIDE_A_LOD0.png",
+          "triangles": 198,
+          "glb_sha256": "46019cf6cd469f34be0b8de1ab5d9119a4c5f1e9a226b815348fb837f57f7024",
+          "thumbnail_sha256": "db72c656af467d7c506f36de097112f7aa303671df67514801a81c6af5966127"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TREE_TIERED_WIDE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TREE_TIERED_WIDE_A_LOD0.png",
+          "triangles": 198,
+          "glb_sha256": "3793033bdcda6e201cae1f8d6b5211a6b39b9e7a80794ceafe391f99979b3ed3",
+          "thumbnail_sha256": "05dbb369b49865c398a850f65d71228259a96406f78230369203b1f77d7856d3"
+        }
+      }
+    },
+    {
+      "model": "TW_TREE_TIERED_WIDE_B_LOD0",
+      "asset_id": "TW_TREE_TIERED_WIDE_B",
+      "lod": 0,
+      "category": "나무",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_TREE_TIERED_WIDE_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_TREE_TIERED_WIDE_B_LOD0.png",
+          "triangles": 268,
+          "glb_sha256": "263ba8d3c9480c08e51444d1eec1e2e96f33905b25424af4dbeb79ebea8efa99",
+          "thumbnail_sha256": "786f8a13629391730f0d546c832ca5c245d523dc420f9f8e84bb2778d9c81f81"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_TREE_TIERED_WIDE_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_TREE_TIERED_WIDE_B_LOD0.png",
+          "triangles": 268,
+          "glb_sha256": "017ed0af0fe1ba52d8d049d432b1436f64007cd13f4296107e36ed594a5b143b",
+          "thumbnail_sha256": "38405830c03c9b9a166549017eb7c0a43d2289dfe3b5ffbe9d6fbb52b0ca8693"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_TREE_TIERED_WIDE_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_TREE_TIERED_WIDE_B_LOD0.png",
+          "triangles": 268,
+          "glb_sha256": "4301f18d0afda0ccc94830ff23c47a4dcf275ccc35b2c47a60fe6d08710652e4",
+          "thumbnail_sha256": "5af8f471179e49e9ffce1427926aa8c4f474ce8e4d7c3796087201f8e2899a08"
+        }
+      }
+    },
+    {
+      "model": "TW_VEG_BUSH_LONG_A_LOD0",
+      "asset_id": "TW_VEG_BUSH_LONG_A",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_VEG_BUSH_LONG_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_VEG_BUSH_LONG_A_LOD0.png",
+          "triangles": 112,
+          "glb_sha256": "a25804a3e7ae148fec08253007d925b500162dd29f18d2c6d6c09eea40ca7f3a",
+          "thumbnail_sha256": "2234a3419d397ebc0e30df75c92354f90c3f426326a7c54924748e94752ed5f9"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_VEG_BUSH_LONG_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_VEG_BUSH_LONG_A_LOD0.png",
+          "triangles": 112,
+          "glb_sha256": "1adbcf8082693b4ac373947ce009eba604bce1cf1916be947f5d42b94b583974",
+          "thumbnail_sha256": "f82ec015a7487d200d44b5d998d891577e233e4466e003350a55f78f673ae7b9"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_VEG_BUSH_LONG_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_VEG_BUSH_LONG_A_LOD0.png",
+          "triangles": 112,
+          "glb_sha256": "9756c421105836f8c8ba7c3787c73dbcfddda44e323ff2eb2c0e1189f7539bea",
+          "thumbnail_sha256": "b7896b0597f6a2028e835451735fb265222286020665f5f2db804d2dee49ca9b"
+        }
+      }
+    },
+    {
+      "model": "TW_VEG_BUSH_LONG_B_LOD0",
+      "asset_id": "TW_VEG_BUSH_LONG_B",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_VEG_BUSH_LONG_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_VEG_BUSH_LONG_B_LOD0.png",
+          "triangles": 160,
+          "glb_sha256": "8da8f35101376ef39a8a8623e9e9a4ee4e1ee1b779d0de4e7e7896489ef3169f",
+          "thumbnail_sha256": "4ce17717aecea6852eb57c1a7a733228917b6ef26f8e5ed18e9e6151442bc0fc"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_VEG_BUSH_LONG_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_VEG_BUSH_LONG_B_LOD0.png",
+          "triangles": 160,
+          "glb_sha256": "592d46528b2490e78ddf714f65e72ca6e228a1642c41f38a256b94d02c1490aa",
+          "thumbnail_sha256": "58bd577f5b332eca6656692bd1585aff17a45775cece7d4aa130b74b059b4f07"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_VEG_BUSH_LONG_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_VEG_BUSH_LONG_B_LOD0.png",
+          "triangles": 160,
+          "glb_sha256": "ef36478a0d864f969139d4370deb3b3bbc2f49810c22f6aac9d8fde931a83adb",
+          "thumbnail_sha256": "685ba7b78277e202f801249b6030feb76c348cbfd3b04707928ca41cb5abc96d"
+        }
+      }
+    },
+    {
+      "model": "TW_VEG_BUSH_ROUND_A_LOD0",
+      "asset_id": "TW_VEG_BUSH_ROUND_A",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_VEG_BUSH_ROUND_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_VEG_BUSH_ROUND_A_LOD0.png",
+          "triangles": 84,
+          "glb_sha256": "564536ee78416551cfd18f17aeb5ae80eb16d19566152a4c98b95c4994185e2d",
+          "thumbnail_sha256": "5643a32555a3b31bc57ae90a068d1b367b490b5205ca6b82225bcb10a5f7ab91"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_VEG_BUSH_ROUND_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_VEG_BUSH_ROUND_A_LOD0.png",
+          "triangles": 84,
+          "glb_sha256": "bf12918ab371f8e06b9744a59e59044c981e85cb5d1e12e4c9fa8e6b63b6578e",
+          "thumbnail_sha256": "ae696fdcaedb21e11b38b9202e76c4c4442158d54e2e92bf50233175c6bcb5bf"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_VEG_BUSH_ROUND_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_VEG_BUSH_ROUND_A_LOD0.png",
+          "triangles": 84,
+          "glb_sha256": "de83615ee59b708eef19dba939ff65571bf2ea0662032d64b56666c204ced8e5",
+          "thumbnail_sha256": "7cc9b93b52d07f7cd50b2e4bf213d878acd800d7755946c90be80477a51c59b6"
+        }
+      }
+    },
+    {
+      "model": "TW_VEG_BUSH_ROUND_B_LOD0",
+      "asset_id": "TW_VEG_BUSH_ROUND_B",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_VEG_BUSH_ROUND_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_VEG_BUSH_ROUND_B_LOD0.png",
+          "triangles": 128,
+          "glb_sha256": "d726cc5c78b95cf60ef4c27424aa9c35134a836b47871498f3f2fd81f00d58dd",
+          "thumbnail_sha256": "bb61e4788164baf40f9d35433c7968f1fb688f0b0f1884239036a9b1e1a99eff"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_VEG_BUSH_ROUND_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_VEG_BUSH_ROUND_B_LOD0.png",
+          "triangles": 128,
+          "glb_sha256": "9a231021e1fd2c402c2cef03684fa012a09ad64c5e89a72a2d7453c3fa8ba71f",
+          "thumbnail_sha256": "7cd459078bb74520d030babe990d790f0359ae24b80c4c17fcfd89a94f6a1326"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_VEG_BUSH_ROUND_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_VEG_BUSH_ROUND_B_LOD0.png",
+          "triangles": 128,
+          "glb_sha256": "29ad44d3f65c7d00b7b84fca9313056920722cd181242b41343ca5d938b5617f",
+          "thumbnail_sha256": "54f88b950e2ca6ba3a815c649e702dd3cc6ad3d2d7681bdade91b00e39a38ba8"
+        }
+      }
+    },
+    {
+      "model": "TW_VEG_BUSH_SPARSE_A_LOD0",
+      "asset_id": "TW_VEG_BUSH_SPARSE_A",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_VEG_BUSH_SPARSE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_VEG_BUSH_SPARSE_A_LOD0.png",
+          "triangles": 56,
+          "glb_sha256": "48f94d2f1d7168f067e6a3676884d1a5bf59c5f7e5550ee22d0d9c8772cebeaf",
+          "thumbnail_sha256": "9e8dee25818046cc8f3086a6048b467e56209e78a2b6474accd9b5cd78c5df60"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_VEG_BUSH_SPARSE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_VEG_BUSH_SPARSE_A_LOD0.png",
+          "triangles": 56,
+          "glb_sha256": "d2f4d6cc6ad26f6bca43cd3d6136a073556dfc5982e266e54e5e640545af6ec2",
+          "thumbnail_sha256": "a6fb030e3f2e15e0b250474bca4e0680064be150b8ecacee26662d1ed7301a1f"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_VEG_BUSH_SPARSE_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_VEG_BUSH_SPARSE_A_LOD0.png",
+          "triangles": 56,
+          "glb_sha256": "0d4addb8638037f654c0bf6fd722d0df277cfcb30b3ff3d975a52b32656dc280",
+          "thumbnail_sha256": "ff18b41782198aa4d96d5f5827118b39fb23bff24da0150619982d7ee1219c5c"
+        }
+      }
+    },
+    {
+      "model": "TW_VEG_BUSH_SPARSE_B_LOD0",
+      "asset_id": "TW_VEG_BUSH_SPARSE_B",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_VEG_BUSH_SPARSE_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_VEG_BUSH_SPARSE_B_LOD0.png",
+          "triangles": 96,
+          "glb_sha256": "1340173082b68a37f9a91c170593942001f157b708905f7e927cfa7d7fd63588",
+          "thumbnail_sha256": "5b777d036e388afa8136bba1800ecda85fa7965a12d6f6d9c0b5431ae89c5c63"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_VEG_BUSH_SPARSE_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_VEG_BUSH_SPARSE_B_LOD0.png",
+          "triangles": 96,
+          "glb_sha256": "2a52b24d843ad32c813702b83aff8bb231dfe6344e87d983e62be2f88e8dae32",
+          "thumbnail_sha256": "a3f3c8cf66f92e05a9902d472580b60c9d1fca708c6ea46632dd5730c8fedd97"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_VEG_BUSH_SPARSE_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_VEG_BUSH_SPARSE_B_LOD0.png",
+          "triangles": 96,
+          "glb_sha256": "d6046711a48b7b5ac1478277aa7d0c247ae89addec8fc84c3466bcded7e1c59a",
+          "thumbnail_sha256": "2794f0cbe4be78562b19067fbb2cbeb4a13d31f5263ba5975ff5958835fc7ba7"
+        }
+      }
+    },
+    {
+      "model": "TW_VEG_GRASS_FAN_A_LOD0",
+      "asset_id": "TW_VEG_GRASS_FAN_A",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_VEG_GRASS_FAN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_VEG_GRASS_FAN_A_LOD0.png",
+          "triangles": 50,
+          "glb_sha256": "ca9b8945e136b92ee7a3987d536dade10d3b8a600fc8b4448a19adfbd95c32d5",
+          "thumbnail_sha256": "c77cb30e7f54539b174a26b9f433fc51d812fae252bf95b40939ecd372345cc3"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_VEG_GRASS_FAN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_VEG_GRASS_FAN_A_LOD0.png",
+          "triangles": 50,
+          "glb_sha256": "a5351e73c60eb16cfc86567b2f416b097ef8a16f8a356e180e3bd116036d13ab",
+          "thumbnail_sha256": "7abcbe1b5e0223553c22cd028e7c9bf238006b2b1d21c36d9cf34f2298181634"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_VEG_GRASS_FAN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_VEG_GRASS_FAN_A_LOD0.png",
+          "triangles": 50,
+          "glb_sha256": "5e1d78c7b61abb0c30d3b5fcd42f784e50af62f5a66deee6b975ace16539ad93",
+          "thumbnail_sha256": "3f169cdee2765673ae42bdd0d2d8aa00bc7d4dacb645b3bfbd09d62658dcd841"
+        }
+      }
+    },
+    {
+      "model": "TW_VEG_GRASS_FAN_B_LOD0",
+      "asset_id": "TW_VEG_GRASS_FAN_B",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_VEG_GRASS_FAN_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_VEG_GRASS_FAN_B_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "0dfe2c2e1e25f6797f78b2c735570ec9824284845fcd2073ae9504edb1381621",
+          "thumbnail_sha256": "348d9f79c3cbf0d194498348ee5dd61d98a0eff8a353f0873d5dd5fdae1acb31"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_VEG_GRASS_FAN_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_VEG_GRASS_FAN_B_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "ddb97f0612289da77d4ac3dabe9c216ebc8ac560e3d12b7e6f026db4bb2e5c38",
+          "thumbnail_sha256": "a5ee63036a1a413a47b7cb6209b6a6a9ffed9368b7f585e17282bdc90a1b03b1"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_VEG_GRASS_FAN_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_VEG_GRASS_FAN_B_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "ee2010a53c19a4ebf9b5b157718f0d3f91a39deffbde6af01d5a21edfb4a8638",
+          "thumbnail_sha256": "2ccf41789c0951ff76f676e9bc8f0935ba648b8a84b548bb34171756f1a1e5b7"
+        }
+      }
+    },
+    {
+      "model": "TW_VEG_GRASS_LOW_A_LOD0",
+      "asset_id": "TW_VEG_GRASS_LOW_A",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_VEG_GRASS_LOW_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_VEG_GRASS_LOW_A_LOD0.png",
+          "triangles": 50,
+          "glb_sha256": "b21dad48f98e8d377e889d9522206d241fa7def0497f8dfbddc39e7aa888b896",
+          "thumbnail_sha256": "03ffe300719b1e161c1b4b21e14d6eedd58a2677b0d2e96a4f91bfa89e16ab1e"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_VEG_GRASS_LOW_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_VEG_GRASS_LOW_A_LOD0.png",
+          "triangles": 50,
+          "glb_sha256": "035a2d9b5e975a5cb73d0f40077d865a9d5f54455ff4f3da21b66d90cd7d00d0",
+          "thumbnail_sha256": "09eb20d795a2e9e7496eb60c630eb3e4029abfab2e7ebb7746840bbad43efc1b"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_VEG_GRASS_LOW_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_VEG_GRASS_LOW_A_LOD0.png",
+          "triangles": 50,
+          "glb_sha256": "f57c101fcf430f4b3705a066a4bf5abe7f1e042c0ca3dee2e1e1b266095f9f4e",
+          "thumbnail_sha256": "1f99a7e65e88edab2b35efd6744a494db61b666ca973d8a42c49ee93d58dc280"
+        }
+      }
+    },
+    {
+      "model": "TW_VEG_GRASS_LOW_B_LOD0",
+      "asset_id": "TW_VEG_GRASS_LOW_B",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_VEG_GRASS_LOW_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_VEG_GRASS_LOW_B_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "261092133c3e9741494e956b0a0c8789becd387daabdf8edcda9ef5b0b059332",
+          "thumbnail_sha256": "0385a8754bea8002688b9c95cd9f9ac057f48d15caa756c8c23715e4b9fc7e33"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_VEG_GRASS_LOW_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_VEG_GRASS_LOW_B_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "c357327d18741fd8cece2c7627e564bd560b3b0673c171b29a99832431d9546d",
+          "thumbnail_sha256": "967010a54af41fcaf9e7e306fa7aea103d61708cb68e5aacffd5896936473d5f"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_VEG_GRASS_LOW_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_VEG_GRASS_LOW_B_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "774f8cdb0f8325f18cabc2d910d8031bd4da0cd99dd91d1b540af0ca74b408cf",
+          "thumbnail_sha256": "3471ef6201ae7a025a1956727d06113df89357f95ec9b9df7e8da565cba9cc61"
+        }
+      }
+    },
+    {
+      "model": "TW_VEG_GRASS_TUFT_A_LOD0",
+      "asset_id": "TW_VEG_GRASS_TUFT_A",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_VEG_GRASS_TUFT_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_VEG_GRASS_TUFT_A_LOD0.png",
+          "triangles": 50,
+          "glb_sha256": "018619a9bc25e9ee4fd97d6941f4d9ace55d36b7c180d3deffbc673e41aad946",
+          "thumbnail_sha256": "469f52931e583fcf60151b886869ee903ec3a536e625b48e4290f21d65b20009"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_VEG_GRASS_TUFT_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_VEG_GRASS_TUFT_A_LOD0.png",
+          "triangles": 50,
+          "glb_sha256": "0852e61bf42c160b22d42f792ebb1c13d43ec8eb1208d149c54dfafdc92eb870",
+          "thumbnail_sha256": "58b4f9068923739d0ba529385b9050d4a7c8a3f29ed71b427d76319ddda4add0"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_VEG_GRASS_TUFT_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_VEG_GRASS_TUFT_A_LOD0.png",
+          "triangles": 50,
+          "glb_sha256": "8ff52aae8a517305fd058a372808efa960dddc42d788bd15319deb5da2015f74",
+          "thumbnail_sha256": "91d62c0421321636dbf37369cccc611e0e33353bee606390c4ffe7911acb86e9"
+        }
+      }
+    },
+    {
+      "model": "TW_VEG_GRASS_TUFT_B_LOD0",
+      "asset_id": "TW_VEG_GRASS_TUFT_B",
+      "lod": 0,
+      "category": "덤불·풀",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_VEG_GRASS_TUFT_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_VEG_GRASS_TUFT_B_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "ac4aa8d1706f09219dc25522a4f9bdf63b99e9be7b78527c88e72048dfa801f1",
+          "thumbnail_sha256": "383efcd8ed27dfb66d7dcd42e16bea3561d1c961932a51f80bb9af5b1bb52b0e"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_VEG_GRASS_TUFT_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_VEG_GRASS_TUFT_B_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "b19b31bc736e8cf406168281960ac4dba84096b25479b0ac5cee284fc4aeb547",
+          "thumbnail_sha256": "89b4725ff1f26c639cf15d4ebc99419578d2efd0833cc009b23156b31d745923"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_VEG_GRASS_TUFT_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_VEG_GRASS_TUFT_B_LOD0.png",
+          "triangles": 70,
+          "glb_sha256": "3faff0e16a7893d9a6b50d9f25941faac4c0cfab8258fda791ae330f4a5a4615",
+          "thumbnail_sha256": "93da74eb1a5d6da9b7448b648f36ed90733cbff23266bb404d110e208168502c"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_CORNER_L90_A_LOD0",
+      "asset_id": "TW_WOOD_CORNER_L90_A",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_CORNER_L90_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_CORNER_L90_A_LOD0.png",
+          "triangles": 88,
+          "glb_sha256": "32f2039555e826230bdb94a577d31f42bb2839593c90c0cc877d5fd153ce0c7f",
+          "thumbnail_sha256": "d5f6651e0c2524c9d43d7ced1240610bece33ecb43e7dd8a333d72a5b4120113"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_CORNER_L90_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_CORNER_L90_A_LOD0.png",
+          "triangles": 88,
+          "glb_sha256": "ba1bb096e2a4114b28cbcc99983782785b1d8bb1b09020c57a9ba5c6a6657152",
+          "thumbnail_sha256": "aee23def4ad9bc9d147d6877016c0e5c15b091896ab1f0e150740cdf261066d3"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_CORNER_L90_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_CORNER_L90_A_LOD0.png",
+          "triangles": 88,
+          "glb_sha256": "02eb32659b5f56e8b21a59cd53a4cda63707a752a48808954d371ad3bd38d1af",
+          "thumbnail_sha256": "743a1d256411621a639033c746c729d75b62852ba68ffeb1362fe2c00ddbd53a"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_CORNER_L90_B_LOD0",
+      "asset_id": "TW_WOOD_CORNER_L90_B",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_CORNER_L90_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_CORNER_L90_B_LOD0.png",
+          "triangles": 124,
+          "glb_sha256": "a1694c7c69b9e2d5ca68b90232f07c670f2544126d8ee55fe8be77ca5e1c826f",
+          "thumbnail_sha256": "e135b6e7d593387fb083165b0414770b98ab542da5dc6de9c1c1b28e4f941a3d"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_CORNER_L90_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_CORNER_L90_B_LOD0.png",
+          "triangles": 124,
+          "glb_sha256": "2edf6add36c5e3d024eeca8f81e8e9ed8c8846ee4ac50981c33412d0089482dc",
+          "thumbnail_sha256": "7e811a425d3b57df267182cb882c73543016ee6ef451f0976433622cb6738896"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_CORNER_L90_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_CORNER_L90_B_LOD0.png",
+          "triangles": 124,
+          "glb_sha256": "8e52d188eb24f2ed822ec80979033e57f4fd2ad4639edbac5e47f1ba13acb065",
+          "thumbnail_sha256": "0e6eb688b3c574b2a18d689817cc3cb308877c8aecce19ed06ff476ba5507460"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_CORNER_R90_A_LOD0",
+      "asset_id": "TW_WOOD_CORNER_R90_A",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_CORNER_R90_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_CORNER_R90_A_LOD0.png",
+          "triangles": 100,
+          "glb_sha256": "6bba074d91e7386592871b773cf1d725b503f10a732ae88e6549e0caacc313d9",
+          "thumbnail_sha256": "13ea9214f956306f782a5f25b2d78428cf3877d4d827227d89c87b0d735ba0b3"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_CORNER_R90_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_CORNER_R90_A_LOD0.png",
+          "triangles": 100,
+          "glb_sha256": "093a1de8714965e128192dbc1a4d0c77a050b0c745e32951a502a0e80ff7ad25",
+          "thumbnail_sha256": "b135442b292c5f5739a186b9a6f9be580b676dd08c042888a2f3aa4e2b984c77"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_CORNER_R90_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_CORNER_R90_A_LOD0.png",
+          "triangles": 100,
+          "glb_sha256": "de59a6bd825169fc6c80c6c635d9c1771f7b17465c5da8c231aec98ddc8121d8",
+          "thumbnail_sha256": "ec38cfb85e84dd34bb4aa0c53d4a80429bf9f4cea4aedb5472e820e0229dfd5c"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_CORNER_R90_B_LOD0",
+      "asset_id": "TW_WOOD_CORNER_R90_B",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_CORNER_R90_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_CORNER_R90_B_LOD0.png",
+          "triangles": 136,
+          "glb_sha256": "f608ad90000801350a7354374bba9c7db00d73a8324c6bec541d961a62fa1ea8",
+          "thumbnail_sha256": "5cb2c19bc7ab79ec2bea1f05865d28e76ed4628bf846486f9e0e3e03270451c0"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_CORNER_R90_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_CORNER_R90_B_LOD0.png",
+          "triangles": 136,
+          "glb_sha256": "db4173b54fb193bb16ab4da8ee6809ada3bbe8ab508c51404fec351c86e9a09b",
+          "thumbnail_sha256": "898ed5ab8400400a52c963927a06ce4a6be8dcf319bae368567d1a8735cf1a5f"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_CORNER_R90_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_CORNER_R90_B_LOD0.png",
+          "triangles": 136,
+          "glb_sha256": "db0124cefbac72c797e7fbdeaafe46e96fd60eb57f33e41ceabb1212a6c634ee",
+          "thumbnail_sha256": "5a33160c5f70c71d0d5f57ef415298a80214aee05420d23eaf8d5eef1530a4be"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_END_BROKEN_A_LOD0",
+      "asset_id": "TW_WOOD_END_BROKEN_A",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_END_BROKEN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_END_BROKEN_A_LOD0.png",
+          "triangles": 36,
+          "glb_sha256": "7155b32721e15e798b814269b5be46f7912ee90a625f9c41db5716371e50f88d",
+          "thumbnail_sha256": "070ef0c0de1df6cb999ddd3e7245e436f56af825ee6a8cd1779718af3e9000c0"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_END_BROKEN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_END_BROKEN_A_LOD0.png",
+          "triangles": 36,
+          "glb_sha256": "422ca9b9e3691d2a59a63ac2c1e300bd330c83a73b98169de4604237182e7c7c",
+          "thumbnail_sha256": "a8ce9b6c08025561e038a477c0bb919c4d8f12242188fc76b9328629f1843aee"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_END_BROKEN_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_END_BROKEN_A_LOD0.png",
+          "triangles": 36,
+          "glb_sha256": "283de915aaa3f5e6d0a9116e48e06dab135c74cbf89b989bb0af5ff4833eeca3",
+          "thumbnail_sha256": "48e79572710899aa7142a5993ba350217d08203474becc879f0642e8a8c22e8a"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_END_BROKEN_B_LOD0",
+      "asset_id": "TW_WOOD_END_BROKEN_B",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_END_BROKEN_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_END_BROKEN_B_LOD0.png",
+          "triangles": 48,
+          "glb_sha256": "60b90dbf8156c43fb36704559b78039a61c41a04c1dc5934df65e8e73f40d88a",
+          "thumbnail_sha256": "6202a76c5a1f57143c55a8208997364c415522486f8566b9664ccd86b2c9366c"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_END_BROKEN_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_END_BROKEN_B_LOD0.png",
+          "triangles": 48,
+          "glb_sha256": "5a0d989355cc12aca494450e3f61e8327d4dc5c07fea4344850b1c19304b0efa",
+          "thumbnail_sha256": "d7f8ee005a012b691828614d2ae36d97db18a79072371daf0466c53372689bf9"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_END_BROKEN_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_END_BROKEN_B_LOD0.png",
+          "triangles": 48,
+          "glb_sha256": "10048419230bc728aaa99ef0dac015fce10807fc80fea6eba56f4e31b462967c",
+          "thumbnail_sha256": "e0a870cd126405688a59282899e617c264e056f297705d4172a28b6ddb1bb43e"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_END_CAP_A_LOD0",
+      "asset_id": "TW_WOOD_END_CAP_A",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_END_CAP_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_END_CAP_A_LOD0.png",
+          "triangles": 32,
+          "glb_sha256": "c6a21f1c03cdde0d618034e7f77a9a1900cdd34d3dbd7a465ef1bb88d7870483",
+          "thumbnail_sha256": "ee4e5c1ae613fb167026821aa5b100cf84d0530df6e207387d4a1475cb90b538"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_END_CAP_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_END_CAP_A_LOD0.png",
+          "triangles": 32,
+          "glb_sha256": "27934289cb4b358d33a68e76cb956a3d6f7ec811d2de1ca4a2e45b263599f62c",
+          "thumbnail_sha256": "37f2e9a426991427c0677bb76c8f2ae09cc0cb327098dc479423ca161e7b0664"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_END_CAP_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_END_CAP_A_LOD0.png",
+          "triangles": 32,
+          "glb_sha256": "072156642e2b6b36ff67f790ba0222d9e7d1ad7a0cf1f3c8007e3fc56bfd0c2a",
+          "thumbnail_sha256": "689537c0589204248f4a87dda414c86991d64dc38e4f618b6d48aebb2f89d52a"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_END_CAP_B_LOD0",
+      "asset_id": "TW_WOOD_END_CAP_B",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_END_CAP_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_END_CAP_B_LOD0.png",
+          "triangles": 44,
+          "glb_sha256": "756a0823e90202e27c8c39fd7e96226861ff53b2ca7d20165c9a623442c567ad",
+          "thumbnail_sha256": "15e103030bb599ce3bc607afded795304226cb30d2743e321da52b55cf12b195"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_END_CAP_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_END_CAP_B_LOD0.png",
+          "triangles": 44,
+          "glb_sha256": "458963b7ce9faf13c5343dfb472c768738ecece3d12549c10dd6e605572d8253",
+          "thumbnail_sha256": "e2f65d5ecb06060e7cbcb0389961596d23e23d164345f17984218643c3e3d5e1"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_END_CAP_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_END_CAP_B_LOD0.png",
+          "triangles": 44,
+          "glb_sha256": "1dc35ce6f914982f5bb1c4ac0d1366ee9249d7d2ecc1657896b3417b4eb6355e",
+          "thumbnail_sha256": "0375aace11ca8b0dac00719d16952df8ea76dcf08c4dea0eca9772080d2b56d0"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_GATE_FRAME_A_LOD0",
+      "asset_id": "TW_WOOD_GATE_FRAME_A",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_GATE_FRAME_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_GATE_FRAME_A_LOD0.png",
+          "triangles": 76,
+          "glb_sha256": "df498fd2f7ab6e36d438b03e1127e12b67cc7a948b272f19df14ea174cc7f238",
+          "thumbnail_sha256": "2332b8c25abfeac7ec02658a8fd0a2610c6259bc74958174a9f2d3cdcda3822c"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_GATE_FRAME_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_GATE_FRAME_A_LOD0.png",
+          "triangles": 76,
+          "glb_sha256": "cbdf0ccedf92546a1f493676346b424a3630303234277265c461153ad7f38248",
+          "thumbnail_sha256": "98a49b4962658ce1a3bb7994885291e883caec4260503697a029ff026b5114ed"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_GATE_FRAME_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_GATE_FRAME_A_LOD0.png",
+          "triangles": 76,
+          "glb_sha256": "03ce0ea6257e1f4694bf784d1868870d95e5ff9f7aab4c2f551f6c8546615df1",
+          "thumbnail_sha256": "cea93eabbc190f02d3a4f490b318632c1a60358e65aa9e8e37d7e841c1d5d41d"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_GATE_FRAME_B_LOD0",
+      "asset_id": "TW_WOOD_GATE_FRAME_B",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_GATE_FRAME_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_GATE_FRAME_B_LOD0.png",
+          "triangles": 88,
+          "glb_sha256": "c55b523cff3f19d69963934ebda3baee0b9631fbf4b4d99d49edbcaa0475bdbb",
+          "thumbnail_sha256": "50219f239519955de65971d0027dc8137135636bdce24fedd4f2c324c7a4df09"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_GATE_FRAME_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_GATE_FRAME_B_LOD0.png",
+          "triangles": 88,
+          "glb_sha256": "6e795347748e162d9458270a32efe2c02d187e97777b6dcd2a971de2e1f1caa2",
+          "thumbnail_sha256": "3ffd3070b3c72df671aae9868ee0974dbbb6e3423b23d0a9eb1d040a84f124ac"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_GATE_FRAME_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_GATE_FRAME_B_LOD0.png",
+          "triangles": 88,
+          "glb_sha256": "e531c6e864d4f245f360e7a085dd5910be2a41e3cd37f7d977bae4144edf1dee",
+          "thumbnail_sha256": "63be40777eeb44fb941f00ca6a3a3e4f4c99b8ecacaa3ea70c33e81b0714ef6e"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_GATE_LEAF_A_LOD0",
+      "asset_id": "TW_WOOD_GATE_LEAF_A",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_GATE_LEAF_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_GATE_LEAF_A_LOD0.png",
+          "triangles": 108,
+          "glb_sha256": "0d291233150378fa73edb484e9746436a8cbb23c5a79576648278b89fdd3f6d8",
+          "thumbnail_sha256": "f981d8df8ea0274097525eb50727d09704c5995e6ac22ab5a09e42ef39d7be2b"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_GATE_LEAF_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_GATE_LEAF_A_LOD0.png",
+          "triangles": 108,
+          "glb_sha256": "c667c7dcf459c72584299447972c45fc0253f168d6e6eb206c32b8b5a039fc70",
+          "thumbnail_sha256": "e5a31b571c93c2f45f20884638bbe97fcf24cf8ceb433b950eae4b57f1ae26df"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_GATE_LEAF_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_GATE_LEAF_A_LOD0.png",
+          "triangles": 108,
+          "glb_sha256": "f4b2a9547474f78877cb818dcbfc1b39137c1419e3bd757aad2baf948d75d807",
+          "thumbnail_sha256": "defdfd80c4d85c5576219c973bf8f66af3ad46c340ed286c6de4e61db4c9cc44"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_GATE_LEAF_B_LOD0",
+      "asset_id": "TW_WOOD_GATE_LEAF_B",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_GATE_LEAF_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_GATE_LEAF_B_LOD0.png",
+          "triangles": 132,
+          "glb_sha256": "67d7aa1fb224066e72c771a96ca49a3b8f18d9cd076dc291e39a8f969237cc14",
+          "thumbnail_sha256": "723104b00ec27b18de41b337546d9ed8e32f0a50403f7b42e604a5f68f6576b5"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_GATE_LEAF_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_GATE_LEAF_B_LOD0.png",
+          "triangles": 132,
+          "glb_sha256": "60de6af7ad36e41df0bb09af53a1d731dd719935c84c76a8306d2c5141a01e3a",
+          "thumbnail_sha256": "59fc8f8e374e3cdacecc152c718f56685c85b5eba97fe858ecbcad85b4f8c2fd"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_GATE_LEAF_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_GATE_LEAF_B_LOD0.png",
+          "triangles": 132,
+          "glb_sha256": "4926883cb713f84c6e4cf64524b0a8f7c1041755563de319c7c3aabc82934534",
+          "thumbnail_sha256": "dcb96a0e03588e98812038fa5cb163572c2a45f467b81987f2f3261a6abb310e"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_POST_A_LOD0",
+      "asset_id": "TW_WOOD_POST_A",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_POST_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_POST_A_LOD0.png",
+          "triangles": 20,
+          "glb_sha256": "eb3155543122749f06d5dc9c28cacbfd8789d5f9cdb27e71421de0a6da0e4ced",
+          "thumbnail_sha256": "c36c0204c44fff8df0aa8977174147185fd296fb2ebe108567326f31105252aa"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_POST_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_POST_A_LOD0.png",
+          "triangles": 20,
+          "glb_sha256": "7342800448bd574817c28d87f5fb0fbbfa6d4ab6744c4e324a058f435a1516c9",
+          "thumbnail_sha256": "4649048c93e98c7595c366e266ad0ad3dd2e79845d37d64994969622ec7e9d6c"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_POST_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_POST_A_LOD0.png",
+          "triangles": 20,
+          "glb_sha256": "4e4593019dc27365ebfdd0455a78d0702da03de4704f5491349c91d292d73285",
+          "thumbnail_sha256": "35048a598d2e5507a9f9e24d66aa830f9366bfd58db72da3e444ad1235c62661"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_POST_B_LOD0",
+      "asset_id": "TW_WOOD_POST_B",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_POST_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_POST_B_LOD0.png",
+          "triangles": 32,
+          "glb_sha256": "86f17a8ffdefa510745548f35de75d91afee9d1c38d6c896f7fb9f9c655c96f6",
+          "thumbnail_sha256": "42154f5d02214a162cac1ad3c627145e5017676c17133bc46c7d2d3fa470afc2"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_POST_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_POST_B_LOD0.png",
+          "triangles": 32,
+          "glb_sha256": "97890dc418bf8039eab6c1a5c61482db37913ff67a14e8c94db1107043ea74b4",
+          "thumbnail_sha256": "cfd19cdbd0cf89bccde98376227617072b01eaabd122d9f687df98004400402b"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_POST_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_POST_B_LOD0.png",
+          "triangles": 32,
+          "glb_sha256": "84f11a85bf4fb08ab089c203a73aa4295708a71314f17cc1b850cf23b34473a2",
+          "thumbnail_sha256": "52e4359561b33890fea3aa3a818550be4dc4d5f09551abe64133fc133c42fd37"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_RAIL_1M_A_LOD0",
+      "asset_id": "TW_WOOD_RAIL_1M_A",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_RAIL_1M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_RAIL_1M_A_LOD0.png",
+          "triangles": 56,
+          "glb_sha256": "20ce213fde2e82f2992cb3df5372f567aee66456d711d720c1e22068ee41d09f",
+          "thumbnail_sha256": "9624c219ee9714ac7afe56db59e1eaa28839d0284e0b5f4a8bd24558331a6869"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_RAIL_1M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_RAIL_1M_A_LOD0.png",
+          "triangles": 56,
+          "glb_sha256": "6726d3402e27734e389bde888f4d573c824a6ba1f8e2ece9dd3101cbade3870e",
+          "thumbnail_sha256": "d9ca8c32d8ffc5d7882d7cf69631216878ce352a8ed860b37991de13b9ddc218"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_RAIL_1M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_RAIL_1M_A_LOD0.png",
+          "triangles": 56,
+          "glb_sha256": "2874c535d53a4b30dca33d72724ff95a601d6fb2c90f589081a1745c9c751be9",
+          "thumbnail_sha256": "8d53bbeb15ea0f8c47c0c4d51dd5211e574c9f5b05467a68347ea91d45737509"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_RAIL_1M_B_LOD0",
+      "asset_id": "TW_WOOD_RAIL_1M_B",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_RAIL_1M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_RAIL_1M_B_LOD0.png",
+          "triangles": 68,
+          "glb_sha256": "0c124730e42f152d21b8b61c2ee4a839216441985d8203863600d378fbd04610",
+          "thumbnail_sha256": "c5bdc59c162a324440d8b6ef55fe2593beb6f0cf98aea255242b7627f2209865"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_RAIL_1M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_RAIL_1M_B_LOD0.png",
+          "triangles": 68,
+          "glb_sha256": "717ef59712097c786521b74982ec5359243fd3a595b73a22ca06be1a098ccc01",
+          "thumbnail_sha256": "3346b86acf71ecd4f45aebdbcbe10cd31c34a4191e0fe8e5d86fe90c20cd7bd3"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_RAIL_1M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_RAIL_1M_B_LOD0.png",
+          "triangles": 68,
+          "glb_sha256": "054e70ad24e3214ca1b51c642e647f865425ddb318d62f276c8edd7286a9b597",
+          "thumbnail_sha256": "df83050e798305f3bac90e6448aca25ab09d24bc11730dcfe8910b666d859831"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_RAIL_2M_A_LOD0",
+      "asset_id": "TW_WOOD_RAIL_2M_A",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_RAIL_2M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_RAIL_2M_A_LOD0.png",
+          "triangles": 44,
+          "glb_sha256": "2909c2ab8572e0398c606631f7a23d501daad4a750f368cfd8ad3ee49f37828b",
+          "thumbnail_sha256": "8cbc749ab220961e1272682cb923d46d8011e7269dee021e718d8b8e8e7a457e"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_RAIL_2M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_RAIL_2M_A_LOD0.png",
+          "triangles": 44,
+          "glb_sha256": "352428530005883c6bbbf0972e731dedc7c7e92f074502edcc27d962d4c1135f",
+          "thumbnail_sha256": "28008396f86c511ac8541fed281c57b5aa08984fbf49803c16b1dbd68a9d827a"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_RAIL_2M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_RAIL_2M_A_LOD0.png",
+          "triangles": 44,
+          "glb_sha256": "c5979a61c94cebd53df9f2c439cf28098824ff3c04f519ea27ca26448d6d8130",
+          "thumbnail_sha256": "bdd7adc491c497c1ee17e57cd529181b37c489008de7c4eeab1f8026b7ecfff2"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_RAIL_2M_B_LOD0",
+      "asset_id": "TW_WOOD_RAIL_2M_B",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_RAIL_2M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_RAIL_2M_B_LOD0.png",
+          "triangles": 68,
+          "glb_sha256": "0a6ee5a1d685f59bb13956bd593abcdf7631edca9a6594d782bd8ec69c0a4799",
+          "thumbnail_sha256": "1e5f3a0e04d442043493ef24b425f7d912c53488c9bc49d4bc4590af67c57a62"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_RAIL_2M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_RAIL_2M_B_LOD0.png",
+          "triangles": 68,
+          "glb_sha256": "af76ff5ea6bd542601fcc8a233162dab99ed9423edb23a141f44ab5eba5206d8",
+          "thumbnail_sha256": "6d02031999aedf28f492a4b0b9327ab1c6a52f1503b63627a8af75e60c8b5784"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_RAIL_2M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_RAIL_2M_B_LOD0.png",
+          "triangles": 68,
+          "glb_sha256": "f331bfa892c6cf6f64489165b8ff84f4afea0dbe3a1cd2b05a02434a054dfd44",
+          "thumbnail_sha256": "2c5ab22fd0cf877bf21edd04737e54c20db5875e10456973b95f0db352f24f3e"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_RAIL_4M_A_LOD0",
+      "asset_id": "TW_WOOD_RAIL_4M_A",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_RAIL_4M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_RAIL_4M_A_LOD0.png",
+          "triangles": 44,
+          "glb_sha256": "27693237968e3a43277426a3f6053c81ef648a9ae5eb0341b3c5fb57b3d0ed68",
+          "thumbnail_sha256": "92e718563849abd8e77c95f0184e30ec902a37d3f6d154280e9464cb4803fd08"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_RAIL_4M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_RAIL_4M_A_LOD0.png",
+          "triangles": 44,
+          "glb_sha256": "68617f6c9ad382d3dd0fb36d07ff875ba6f7ba165618a1d363d35bcfb7a443d6",
+          "thumbnail_sha256": "998708f8f07c9a5b177950a6556084088e90110c16353040e2b047f8815c9e57"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_RAIL_4M_A_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_RAIL_4M_A_LOD0.png",
+          "triangles": 44,
+          "glb_sha256": "245f0bc2dcc43f2cc1011127473e4968431ffdf15f8171e7c04c2d3aa4915fae",
+          "thumbnail_sha256": "1c6ce1b9305105343cd7a94bb610afe1156160075dfe612e36b572424f408378"
+        }
+      }
+    },
+    {
+      "model": "TW_WOOD_RAIL_4M_B_LOD0",
+      "asset_id": "TW_WOOD_RAIL_4M_B",
+      "lod": 0,
+      "category": "목재 경계",
+      "themes": {
+        "MOSS_01": {
+          "file": "standalone_assets/MOSS_01/models/TW_WOOD_RAIL_4M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/MOSS_01/TW_WOOD_RAIL_4M_B_LOD0.png",
+          "triangles": 68,
+          "glb_sha256": "d0414ea4ce808a012d938ffe8f1949211ba7ea4a68d37fbd9cbe3614c47748b8",
+          "thumbnail_sha256": "1fab68d121530e39a63e4b75e56b14e2e5d21f144158c3ca49cb7af9a4f32362"
+        },
+        "DRY_01": {
+          "file": "standalone_assets/DRY_01/models/TW_WOOD_RAIL_4M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DRY_01/TW_WOOD_RAIL_4M_B_LOD0.png",
+          "triangles": 68,
+          "glb_sha256": "4d543fd170f1341afb1b3558fd69905605917b0828e4edf61a584d312c243b4b",
+          "thumbnail_sha256": "7ca4cfaa8478a33948aca472d938a63db34a36b4250626cc1db02f91c914369d"
+        },
+        "DUSK_01": {
+          "file": "standalone_assets/DUSK_01/models/TW_WOOD_RAIL_4M_B_LOD0.glb",
+          "thumbnail": "web/thumbnails/DUSK_01/TW_WOOD_RAIL_4M_B_LOD0.png",
+          "triangles": 68,
+          "glb_sha256": "e92e42218a146fbbe70e7a8d163d9aa08b1568e5e29ab2655f4fc59cea7a83c1",
+          "thumbnail_sha256": "00d05373c47ea9c61a7f65fb8fcc67c1211138d6d0a71663e4021fb373bae8fe"
+        }
+      }
+    }
+  ]
+}
