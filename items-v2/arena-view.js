@@ -1,5 +1,5 @@
 'use strict';
-function mountArena(state,render,items){
+function mountArena(state,render,items,sound){
  const arena=new TrailArena(),canvas=document.querySelector('#arena'),ctx=canvas.getContext('2d'),status=document.querySelector('#arena-status'),keys=new Set();let pointer=null,origin=null,stick={x:0,y:0},last=0;
  const coin=new Image();coin.src=items.find(item=>item.id==='currency.coin').icon;
  const point=e=>{const r=canvas.getBoundingClientRect();return {x:(e.clientX-r.left)*800/r.width,y:(e.clientY-r.top)*400/r.height};};
@@ -12,7 +12,7 @@ function mountArena(state,render,items){
  const pause=document.querySelector('#pause-arena');pause.onclick=()=>{arena.paused=!arena.paused;clear();pause.textContent=arena.paused?'전투 재개':'전투 일시정지';};
  function circle(x,y,r,color){ctx.beginPath();ctx.arc(x,y,r,0,Math.PI*2);ctx.fillStyle=color;ctx.fill();}
  function frame(time){const dt=last?(time-last)/1000:0;last=time;
-  if(!document.hidden&&state.hp>0){const oldKills=arena.kills,oldPicked=arena.picked,oldHp=state.hp;arena.step(dt,{x:stick.x+(keys.has('ArrowRight')||keys.has('d')?1:0)-(keys.has('ArrowLeft')||keys.has('a')?1:0),y:stick.y+(keys.has('ArrowDown')||keys.has('s')?1:0)-(keys.has('ArrowUp')||keys.has('w')?1:0)},drop=>state.claim(drop),amount=>{state.hp=Math.max(0,state.hp-amount);});if(arena.kills!==oldKills||arena.picked!==oldPicked||state.hp!==oldHp)render();}
+  if(!document.hidden&&state.hp>0){const oldKills=arena.kills,oldPicked=arena.picked,oldHp=state.hp,oldEnemyHp=arena.enemies.reduce((sum,e)=>sum+e.hp,0);arena.step(dt,{x:stick.x+(keys.has('ArrowRight')||keys.has('d')?1:0)-(keys.has('ArrowLeft')||keys.has('a')?1:0),y:stick.y+(keys.has('ArrowDown')||keys.has('s')?1:0)-(keys.has('ArrowUp')||keys.has('w')?1:0)},drop=>state.claim(drop),amount=>{state.hp=Math.max(0,state.hp-amount);});if(arena.kills>oldKills)sound.play('kill');else if(arena.enemies.reduce((sum,e)=>sum+e.hp,0)<oldEnemyHp)sound.play('attack');if(state.hp<oldHp)sound.play('hurt');if(arena.picked>oldPicked)sound.play('pickup');if(arena.kills!==oldKills||arena.picked!==oldPicked||state.hp!==oldHp)render();}
   ctx.fillStyle='#172b23';ctx.fillRect(0,0,800,400);ctx.strokeStyle='#294337';for(let x=0;x<800;x+=40){ctx.beginPath();ctx.moveTo(x,0);ctx.lineTo(x,400);ctx.stroke();}for(let y=0;y<400;y+=40){ctx.beginPath();ctx.moveTo(0,y);ctx.lineTo(800,y);ctx.stroke();}
   ctx.beginPath();ctx.arc(arena.player.x,arena.player.y,115,0,Math.PI*2);ctx.strokeStyle='#70986a';ctx.stroke();
   for(const e of arena.enemies)if(e.hp>0){circle(e.x,e.y,18,'#c26e60');ctx.fillStyle='#fff';ctx.font='16px sans-serif';ctx.fillText(e.hp+'/5',e.x-22,e.y-26);}
