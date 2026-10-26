@@ -5,14 +5,28 @@ if(!itemsResponse.ok||!configResponse.ok)throw new Error('데이터 파일을 �
 const ITEMS=await itemsResponse.json(),config=await configResponse.json();
 const state=new RewardState(ITEMS.map(x=>x.id),config);let wave=0;const cards=new Map();
 const notice=document.querySelector('#notice');
-let arenaController=null;
+let arenaController=null,previewRequest=0;
+const dialog=document.querySelector('#item-dialog');
+document.querySelector('#item-close').onclick=()=>dialog.close();
+dialog.addEventListener('close',()=>previewRequest++);
 for(const item of ITEMS){
  const card=document.createElement('article');card.className='card';
  const image=document.createElement('img');image.src=item.icon;image.alt=item.label;
  const heading=document.createElement('h2');heading.textContent=item.label;heading.style.fontSize='18px';
  const qty=document.createElement('p');const button=document.createElement('button');button.textContent='획득 +1';
  button.addEventListener('click',()=>{const r=state.claim({id:wave+':'+item.id,item:item.id,quantity:1});notice.textContent=r.ok?item.label+' 획득!':'이미 획득한 드롭입니다.';render();if(r.ok){card.classList.remove('pulse');void card.offsetWidth;card.classList.add('pulse');}});
- card.append(image,heading,qty,button);document.querySelector('#cards').append(card);cards.set(item.id,{qty,button});
+ const preview=document.createElement('button');preview.textContent='3D 보기';preview.setAttribute('aria-label',item.label+' 3D 보기');
+ preview.onclick=async()=>{
+  const request=++previewRequest;arenaController?.pause();
+  document.querySelector('#item-title').textContent=item.label+' 3D 미리보기';
+  document.querySelector('#item-status').textContent='모델을 불러오는 중입니다.';
+  document.querySelector('#item-viewport').hidden=true;
+  document.querySelector('#item-download').href=item.model;
+  dialog.showModal();
+  try{const viewer=await import('./item-viewer.js?v=7');if(request===previewRequest&&dialog.open)await viewer.showItem(item);}
+  catch{if(request===previewRequest&&dialog.open)document.querySelector('#item-status').textContent='3D 뷰어를 불러오지 못했습니다. 닫은 후 다시 시도해 주세요.';}
+ };
+ card.append(image,heading,qty,button,preview);document.querySelector('#cards').append(card);cards.set(item.id,{qty,button});
 }
 function render(){document.querySelector('#health').textContent='체력 '+state.hp+' / 100';document.querySelector('#bar').value=state.hp;
  for(const [id,c] of cards){c.qty.textContent='보유 '+state.inventory[id];c.button.disabled=state.claimed.has(wave+':'+id);c.button.textContent=c.button.disabled?'획득 완료':'획득 +1';}

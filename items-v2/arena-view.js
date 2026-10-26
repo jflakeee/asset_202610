@@ -22,5 +22,5 @@ function mountArena(state,render,items){
   const text=`처치 ${arena.kills}/3 · 획득 ${arena.picked}/3 · ${state.hp===0?'체력 0: 회복약을 사용하세요':arena.paused?'일시정지':arena.picked===3?'완료! 처음부터 버튼으로 다시 체험':'범위 안 자동 공격 / 동전에 접근하면 획득'}`;
   if(status.textContent!==text)status.textContent=text;requestAnimationFrame(frame);
  }
- requestAnimationFrame(frame);return {reset(){arena.reset();clear();last=0;pause.textContent='전투 시작';}};
+ requestAnimationFrame(frame);return {pause(){arena.paused=true;clear();pause.textContent='전투 재개';},reset(){arena.reset();clear();last=0;pause.textContent='전투 시작';}};
 }
