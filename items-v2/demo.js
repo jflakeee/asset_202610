@@ -18,7 +18,10 @@ function render(){document.querySelector('#health').textContent='체력 '+state.
  for(const [id,c] of cards){c.qty.textContent='보유 '+state.inventory[id];c.button.disabled=state.claimed.has(wave+':'+id);c.button.textContent=c.button.disabled?'획득 완료':'획득 +1';}
  document.querySelector('#damage').disabled=state.hp===0;
  document.querySelector('#ingredients').textContent=Object.entries(config.recipes[0].costs).map(([id,q])=>ITEMS.find(x=>x.id===id).label+' '+state.inventory[id]+'/'+q).join(' · ');
- document.querySelector('#heal').disabled=state.hp>=100||state.inventory['consumable.health_potion']<1;
+ for(const button of document.querySelectorAll('[data-heal]'))button.disabled=state.hp>=state.maxHp||state.inventory['consumable.health_potion']<1;
+ document.querySelector('#arena-health').textContent='체력 '+state.hp+'/'+state.maxHp;
+ document.querySelector('#arena-coins').textContent='동전 '+state.inventory['currency.coin'];
+ document.querySelector('#arena-heal-label').textContent='회복약 '+state.inventory['consumable.health_potion']+'개 · +'+config.healAmount;
  document.querySelector('#chest').disabled=state.inventory['reward.chest']<1;
 }
 document.querySelector('#wave').onclick=()=>{wave++;notice.textContent='새 드롭이 준비되었습니다. 보유 아이템은 유지됩니다.';render();};
@@ -30,8 +33,13 @@ document.querySelector('#craft').onclick=()=>{const r=state.craft('chest');notic
 document.querySelector('#heal').textContent='회복약 사용 +'+config.healAmount;
 document.querySelector('#chest').textContent='상자 열기 · 동전 '+config.chestCoins;
 document.querySelector('#damage').textContent='피해 받기 −'+config.damageAmount;
-document.querySelector('#heal').onclick=()=>{const r=state.heal();notice.textContent=r.ok?'회복약 1개 사용 · 체력 회복':'사용할 수 없습니다.';render();};
+for(const button of document.querySelectorAll('[data-heal]'))button.onclick=()=>{const r=state.heal();notice.textContent=r.ok?'회복약 1개 사용 · 체력 회복':'사용할 수 없습니다.';render();};
 document.querySelector('#chest').onclick=()=>{const r=state.openChest();notice.textContent=r.ok?'상자 1개 사용 · 동전 '+r.coins+'개 획득':'상자를 열 수 없습니다.';render();};
-arenaController=mountArena(state,render);
+for(const image of document.querySelectorAll('[data-item-icon]'))image.src=ITEMS.find(item=>item.id===image.dataset.itemIcon).icon;
+const recipe=config.recipes.find(recipe=>recipe.id==='chest');
+document.querySelector('#recipe').textContent=Object.entries(recipe.costs).map(([id,q])=>ITEMS.find(item=>item.id===id).label+' '+q).join(' + ')+' → '+ITEMS.find(item=>item.id===recipe.output.item).label+' '+recipe.output.quantity;
+arenaController=mountArena(state,render,ITEMS);
+document.querySelectorAll('button').forEach(button=>button.disabled=false);render();
+notice.textContent='아래 아이템을 누르면 인벤토리에 추가됩니다. 회복약을 준비하고 전투를 시작하세요.';
 }
 start().catch(error=>{document.querySelector('#notice').textContent='초기화 실패: '+error.message+' 새로고침해 주세요.';document.querySelectorAll('button').forEach(b=>b.disabled=true);});
