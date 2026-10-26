@@ -1,0 +1,20 @@
+{
+  "healAmount": 30,
+  "chestCoins": 10,
+  "damageAmount": 25,
+  "recipes": [
+    {
+      "id": "chest",
+      "label": "보물상자 제작",
+      "costs": {
+        "resource.wood": 2,
+        "resource.iron_ore": 1,
+        "material.rope": 1
+      },
+      "output": {
+        "item": "reward.chest",
+        "quantity": 1
+      }
+    }
+  ]
+}
