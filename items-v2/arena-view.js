@@ -8,8 +8,9 @@ function mountArena(state,render,items,sound){
  const clear=()=>{pointer=null;origin=null;stick={x:0,y:0};keys.clear();};
  for(const event of ['pointerup','pointercancel','lostpointercapture'])canvas.addEventListener(event,clear);
  canvas.addEventListener('keydown',e=>{if(['ArrowUp','ArrowDown','ArrowLeft','ArrowRight','w','a','s','d'].includes(e.key)){e.preventDefault();keys.add(e.key);}});
- canvas.addEventListener('keyup',e=>keys.delete(e.key));canvas.addEventListener('blur',clear);window.addEventListener('blur',clear);document.addEventListener('visibilitychange',()=>{clear();last=0;});
+ canvas.addEventListener('keyup',e=>keys.delete(e.key));canvas.addEventListener('blur',clear);window.addEventListener('blur',pauseBattle);document.addEventListener('visibilitychange',()=>{clear();last=0;if(document.hidden)pauseBattle();});
  const pause=document.querySelector('#pause-arena');pause.onclick=()=>{arena.paused=!arena.paused;clear();pause.textContent=arena.paused?'전투 재개':'전투 일시정지';};
+ function pauseBattle(){arena.paused=true;clear();last=0;pause.textContent='전투 재개';}
  function circle(x,y,r,color){ctx.beginPath();ctx.arc(x,y,r,0,Math.PI*2);ctx.fillStyle=color;ctx.fill();}
  function frame(time){const dt=last?(time-last)/1000:0;last=time;
   if(!document.hidden&&state.hp>0){const oldKills=arena.kills,oldPicked=arena.picked,oldHp=state.hp,oldGathered=arena.gathered,oldEnemyHp=arena.enemies.reduce((sum,e)=>sum+e.hp,0);arena.step(dt,{x:stick.x+(keys.has('ArrowRight')||keys.has('d')?1:0)-(keys.has('ArrowLeft')||keys.has('a')?1:0),y:stick.y+(keys.has('ArrowDown')||keys.has('s')?1:0)-(keys.has('ArrowUp')||keys.has('w')?1:0)},drop=>state.claim(drop),amount=>{state.hp=Math.max(0,state.hp-amount);});if(arena.kills>oldKills)sound.play('kill');else if(arena.enemies.reduce((sum,e)=>sum+e.hp,0)<oldEnemyHp)sound.play('attack');if(state.hp<oldHp)sound.play('hurt');if(arena.picked>oldPicked||arena.gathered>oldGathered)sound.play('pickup');if(arena.kills!==oldKills||arena.picked!==oldPicked||state.hp!==oldHp||arena.gathered!==oldGathered)render();}
@@ -23,5 +24,5 @@ function mountArena(state,render,items,sound){
   const text=`처치 ${arena.kills}/3 · 동전 ${arena.picked}/3 · 재료 ${arena.gathered}/3 · ${state.hp===0?'체력 0: 회복약을 사용하세요':arena.paused?'일시정지':arena.picked===3&&arena.gathered===3?'탐색 완료! 모은 재료로 아래에서 상자를 제작하세요':'재료·동전에 접근하면 자동 획득'}`;
   if(status.textContent!==text)status.textContent=text;requestAnimationFrame(frame);
  }
- requestAnimationFrame(frame);return {pause(){arena.paused=true;clear();pause.textContent='전투 재개';},reset(){arena.reset();clear();last=0;pause.textContent='전투 시작';}};
+ requestAnimationFrame(frame);return {pause:pauseBattle,reset(){arena.reset();clear();last=0;pause.textContent='전투 시작';}};
 }
