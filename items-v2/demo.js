@@ -51,7 +51,19 @@ document.querySelector('#heal').textContent='회복약 사용 +'+config.healAmou
 document.querySelector('#chest').textContent='상자 열기 · 동전 '+config.chestCoins;
 document.querySelector('#damage').textContent='피해 받기 −'+config.damageAmount;
 for(const button of document.querySelectorAll('[data-heal]'))button.onclick=()=>{const r=state.heal();if(r.ok)sound.play('heal');notice.textContent=r.ok?'회복약 1개 사용 · 체력 회복':'사용할 수 없습니다.';render();};
-document.querySelector('#chest').onclick=()=>{const r=state.openChest();if(r.ok)sound.play('chest');notice.textContent=r.ok?'상자 1개 사용 · 동전 '+r.coins+'개 획득':'상자를 열 수 없습니다.';render();};
+const rewardDialog=document.querySelector('#reward-dialog');
+document.querySelector('#reward-close').onclick=()=>rewardDialog.close();
+rewardDialog.addEventListener('close',()=>rewardDialog.classList.remove('revealing'));
+document.querySelector('#chest').onclick=()=>{
+ if(rewardDialog.open)return;
+ const r=state.openChest();
+ notice.textContent=r.ok?'상자 1개 사용 · 동전 '+r.coins+'개 획득':'상자를 열 수 없습니다.';render();
+ if(!r.ok)return;
+ arenaController?.pause();sound.play('chest');
+ document.querySelector('#reward-amount').textContent='동전 +'+r.coins;
+ document.querySelector('#reward-balance').textContent='보유 동전 '+state.inventory['currency.coin']+'개 · 남은 상자 '+state.inventory['reward.chest']+'개';
+ rewardDialog.showModal();rewardDialog.classList.remove('revealing');void rewardDialog.offsetWidth;rewardDialog.classList.add('revealing');
+};
 for(const image of document.querySelectorAll('[data-item-icon]'))image.src=ITEMS.find(item=>item.id===image.dataset.itemIcon).icon;
 const recipe=config.recipes.find(recipe=>recipe.id==='chest');
 document.querySelector('#recipe').textContent=Object.entries(recipe.costs).map(([id,q])=>ITEMS.find(item=>item.id===id).label+' '+q).join(' + ')+' → '+ITEMS.find(item=>item.id===recipe.output.item).label+' '+recipe.output.quantity;
