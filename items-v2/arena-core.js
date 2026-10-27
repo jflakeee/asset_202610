@@ -1,7 +1,7 @@
 (function(root){'use strict';
 class Arena {
  constructor(){this.reset();}
- reset(){this.player={x:200,y:200};this.enemies=[{x:290,y:200,hp:5},{x:460,y:130,hp:5},{x:600,y:300,hp:5}];this.drops=[];this.cooldown=0;this.invulnerable=0;this.effects=[];this.serial=0;this.kills=0;this.picked=0;this.paused=true;}
+ reset(){this.player={x:200,y:200};this.enemies=[{x:290,y:200,hp:5},{x:460,y:130,hp:5},{x:600,y:300,hp:5}];this.resources=[{id:'resource:wood',item:'resource.wood',label:'통나무',quantity:2,x:120,y:200},{id:'resource:iron',item:'resource.iron_ore',label:'철광석',quantity:1,x:120,y:300},{id:'resource:rope',item:'material.rope',label:'밧줄',quantity:1,x:220,y:320}];this.gathered=0;this.drops=[];this.cooldown=0;this.invulnerable=0;this.effects=[];this.serial=0;this.kills=0;this.picked=0;this.paused=true;}
  step(dt,input,claim,hurt=()=>{}){
   if(this.paused)return;dt=Number.isFinite(dt)?Math.min(Math.max(dt,0),.05):0;
   this.effects=this.effects.filter(e=>(e.life-=dt)>0);
@@ -13,6 +13,7 @@ class Arena {
   const target=this.enemies.filter(e=>e.hp>0).sort((a,b)=>distance(a)-distance(b))[0];
   if(target&&distance(target)<=115&&this.cooldown===0){target.hp--;this.cooldown=.45;this.effects.push({x:target.x,y:target.y,text:'−1',color:'#fff1b2',life:.4});if(target.hp===0){this.kills++;this.drops.push({id:'arena:'+this.serial++,item:'currency.coin',quantity:3,x:target.x,y:target.y});}}
   if(this.invulnerable===0&&this.enemies.some(e=>e.hp>0&&distance(e)<=33)){hurt(8);this.invulnerable=1;this.effects.push({x:this.player.x,y:this.player.y,text:'−8 HP',color:'#ffab9b',life:.6});}
+  this.resources=this.resources.filter(d=>{if(distance(d)>28)return true;const result=claim(d);if(result.ok){this.gathered++;this.effects.push({x:d.x,y:d.y,text:'+'+d.quantity+' '+d.label,color:'#c8eaa3',life:.7});}return !result.ok&&result.reason!=='duplicate';});
   this.drops=this.drops.filter(d=>{if(distance(d)>28)return true;const result=claim(d);if(result.ok){this.picked++;this.effects.push({x:d.x,y:d.y,text:'+3 동전',color:'#ffe296',life:.7});}return !result.ok&&result.reason!=='duplicate';});
  }
 }
