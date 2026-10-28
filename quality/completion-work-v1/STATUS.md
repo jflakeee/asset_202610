@@ -1,4 +1,4 @@
-# 전체 설계 작업 현황 — 2026-10-28
+# 전체 설계 작업 현황 — 2026-10-29
 
 범위: 원설계 숲·경계84종과 최근 자원/보상6종을 별도 관리한다. 파일 존재를 미술 승인으로 계산하지 않는다. 전체 완료가 아니다.
 
@@ -15,15 +15,15 @@
 
 |항목|상태|확인 범위/남은 조건|
 |---|---|---|
-|AT01|NOT_RUN|6 recipe/provenance schema acceptance not freshly executed|
+|AT01|PASS|P0 six unique recipes generate successfully; recorded recipe/provenance hashes verified; not human authorship approval|
 |AT02|NOT_RUN|10m five-module plus physical terminal-post case not freshly executed|
 |AT03|PASS|Actual 1/2/4m 7m socket chain|
 |AT04|PASS|2.13m residual preserved without scale|
 |AT05|NOT_RUN|Topology ownership and four real closed loops checked; complete open/closed acceptance still pending|
 |AT06|PASS|Actual exported sockets, normals and collider descriptors rotated90deg|
 |AT07|PASS|Two fresh source builds:327 byte-identical GLBs,84 normalized geometry hashes and bounds match|
-|AT08|NOT_RUN|Recipe list order permutation not executed|
-|AT09|NOT_RUN|Missing texture/absolute path negative case not freshly executed|
+|AT08|PASS|Six P0 recipes reversed per generator; GLB and source hashes identical|
+|AT09|PASS|327 original-v1 palette GLBs pass required preflight; missing/corrupt PNG M001 and external URI X001 blocked before existing gate|
 |AT10|PASS|84 canonical models positions/indices/UV/nodes identical across3 themes|
 |AT11|NOT_RUN|Original P0 model set fresh engine import not rerun; core-six items Godot report is a separate scope|
 |AT12|NOT_RUN|Only4 LOD1 pairs; full84 LOD1/2 policies pending|
@@ -38,7 +38,7 @@ NOT_RUN은 미실행 또는 일부 증거만 있는 상태이며 합격으로 �
 
 1. 원설계84종의 LOD1/2 또는 근거 있는 개별 생략 정책. 현재 LOD1은4종뿐이다.
 2. 원설계6예제의 실제 통행/접촉·엔진 물리 검사와 미술 검토.
-3. 원설계AT01/02/05/08/09/11/12/15의 미실행 부분.
+3. 원설계AT02/05/11/12/15의 미실행 부분.
 4. 모델별 제작자/도구/날짜/참고 목적/AI 보조 단계 및 입력 허용목록 검토.
 5. 구매자용 문서·체험8종/본편 허용목록·최종 판매 조건. 내부 생성 코드를 판매 ZIP에 넣지 않는다.
 6. 사람의 미술 승인, 실제 GPU 화면, Android/iOS 기기 측정. 테스트 성공으로 대체할 수 없다.

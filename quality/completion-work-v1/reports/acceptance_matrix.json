@@ -3,8 +3,8 @@
   "tests": [
     {
       "id": "AT01",
-      "status": "NOT_RUN",
-      "detail": "6 recipe/provenance schema acceptance not freshly executed"
+      "status": "PASS",
+      "detail": "P0 six unique recipes generate successfully; recorded recipe/provenance hashes verified; not human authorship approval"
     },
     {
       "id": "AT02",
@@ -38,13 +38,13 @@
     },
     {
       "id": "AT08",
-      "status": "NOT_RUN",
-      "detail": "Recipe list order permutation not executed"
+      "status": "PASS",
+      "detail": "Six P0 recipes reversed per generator; GLB and source hashes identical"
     },
     {
       "id": "AT09",
-      "status": "NOT_RUN",
-      "detail": "Missing texture/absolute path negative case not freshly executed"
+      "status": "PASS",
+      "detail": "327 original-v1 palette GLBs pass required preflight; missing/corrupt PNG M001 and external URI X001 blocked before existing gate"
     },
     {
       "id": "AT10",

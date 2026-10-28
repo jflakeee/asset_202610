@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "clean_review_exit": 0,
+  "incomplete_sales_exit": 2,
+  "missing_assets_review_exit": 2,
+  "legacy_gate_invoked_on_bad_input": false
+}

@@ -1,0 +1,231 @@
+{
+  "audit_version": "1.0",
+  "internal_review_package_permitted": true,
+  "sales_release_permitted": false,
+  "internal_blockers": [],
+  "sales_blockers": [
+    "human_art_approval",
+    "provenance_complete",
+    "lod_coverage",
+    "gpu_visual_review",
+    "mobile_performance",
+    "platform_and_terms_review",
+    "sales_required_files",
+    "sales_allowlist_packaging",
+    "examples_catalog_thumbnails",
+    "free_trial_subset"
+  ],
+  "checks": [
+    {
+      "id": "design_contract",
+      "status": "PASS",
+      "detail": {
+        "design_file": "original_asset_pack_design_v1.md",
+        "sha256": "8817e1d37ff421ca85ccff233239458732f537b6212d6a93ce76d3fdb9dd0893",
+        "family_count": 42,
+        "canonical_lod0_count": 84
+      },
+      "blocks_internal": true,
+      "blocks_sales": false
+    },
+    {
+      "id": "glb_manifest_integrity",
+      "status": "PASS",
+      "detail": {
+        "actual_files": 327,
+        "declared_files": 327,
+        "wrong_hash": [],
+        "missing": [],
+        "unlisted": [],
+        "duplicate_paths": []
+      },
+      "blocks_internal": true,
+      "blocks_sales": false
+    },
+    {
+      "id": "theme_model_sets",
+      "status": "PASS",
+      "detail": {
+        "MOSS_01": 104,
+        "DRY_01": 104,
+        "DUSK_01": 104
+      },
+      "blocks_internal": true,
+      "blocks_sales": false
+    },
+    {
+      "id": "canonical_84_candidates",
+      "status": "PASS",
+      "detail": {
+        "required": 84,
+        "exact_id_candidates": 84,
+        "missing": [],
+        "noncanonical_candidates": [
+          "TW_BENCH_BACKREST_A",
+          "TW_BENCH_SIMPLE_A",
+          "TW_CRATE_LONG_A",
+          "TW_CRATE_SMALL_A",
+          "TW_GRASS_TALL_A",
+          "TW_GRASS_TUFT_A",
+          "TW_LOG_BROKEN_15M_A",
+          "TW_LOG_CUT_2M_A",
+          "TW_PAVER_LONG_A",
+          "TW_PAVER_ROUND_A",
+          "TW_SHRUB_ROUND_A",
+          "TW_SHRUB_SPREAD_A",
+          "TW_SIGN_ARROW_A",
+          "TW_SIGN_FORK_A",
+          "TW_STEPS_LOW3_A",
+          "TW_STEPS_WIDE4_A",
+          "TW_STUMP_BROKEN_A",
+          "TW_STUMP_CUT_SMALL_A",
+          "TW_TABLE_LONG_A",
+          "TW_TABLE_SQUARE_A"
+        ],
+        "note": "Exact IDs only; legacy aliases need an explicit reviewed mapping. Candidate existence is not human approval."
+      },
+      "blocks_internal": false,
+      "blocks_sales": false
+    },
+    {
+      "id": "khronos_recorded_results",
+      "status": "PASS",
+      "detail": {
+        "issues": [],
+        "freshness": "Recorded report coverage checked; rerun validator after edits. Reports are not cryptographically tied to GLBs."
+      },
+      "blocks_internal": true,
+      "blocks_sales": false
+    },
+    {
+      "id": "recorded_rebuild",
+      "status": "PASS",
+      "detail": {
+        "changed_or_untracked": [],
+        "baseline_files": 327,
+        "recorded_status": "PASS",
+        "note": "Checks current output hashes against baseline plus recorded rebuild; does not execute the rebuild."
+      },
+      "blocks_internal": true,
+      "blocks_sales": false
+    },
+    {
+      "id": "human_art_approval",
+      "status": "NOT_VERIFIED",
+      "detail": "No verified human decisions bound to geometry/palette/recipe hashes. Never infer approval from generated candidates or PASS tests.",
+      "blocks_internal": false,
+      "blocks_sales": true
+    },
+    {
+      "id": "provenance_complete",
+      "status": "NOT_VERIFIED",
+      "detail": "Some original generators carry provenance; per-canonical-model author/tool/date/reference-purpose/AI-stage completeness and approved input allowlist are not verified.",
+      "blocks_internal": false,
+      "blocks_sales": true
+    },
+    {
+      "id": "canonical_evidence_inventory",
+      "status": "PASS",
+      "detail": {
+        "errors": [],
+        "scope": "84 fresh per-model file/LOD/evidence records; not provenance or human approval."
+      },
+      "blocks_internal": true,
+      "blocks_sales": false
+    },
+    {
+      "id": "existing_four_lod1_silhouette_iou",
+      "status": "PASS",
+      "detail": {
+        "models": 4,
+        "threshold": 0.95,
+        "scope": "Four existing LOD1 pairs only; full catalog coverage and LOD2 remain open."
+      },
+      "blocks_internal": false,
+      "blocks_sales": false
+    },
+    {
+      "id": "lod_coverage",
+      "status": "NOT_VERIFIED",
+      "detail": "Every canonical model needs LOD policy and documented omission/exception, with preserved sockets/collider. Existence of a few LOD1 files is insufficient.",
+      "blocks_internal": false,
+      "blocks_sales": true
+    },
+    {
+      "id": "gpu_visual_review",
+      "status": "NOT_RUN",
+      "detail": "Headless import/resource tests and matplotlib geometry previews do not establish GPU material, shadows, wind, mipmap, or LOD transition quality.",
+      "blocks_internal": false,
+      "blocks_sales": true
+    },
+    {
+      "id": "mobile_performance",
+      "status": "NOT_RUN",
+      "detail": "No verified Android/iOS device measurements for 100/500/1000 objects, warmup 60s, measurement 120s, p50/p95 CPU/GPU, draw calls, memory and load time. Do not claim mobile optimization complete.",
+      "blocks_internal": false,
+      "blocks_sales": true
+    },
+    {
+      "id": "platform_and_terms_review",
+      "status": "NOT_VERIFIED",
+      "detail": "Final license/support scope, product name, accurate AI-use disclosure, and current publication-platform requirements require review. This audit is not legal advice or permission to publish.",
+      "blocks_internal": false,
+      "blocks_sales": true
+    },
+    {
+      "id": "sales_required_files",
+      "status": "MISSING",
+      "detail": {
+        "staging": "release_staging",
+        "missing": [
+          "README.md",
+          "LICENSE.txt",
+          "CHANGELOG.md",
+          "manifest.csv",
+          "release_manifest.json",
+          "source/Trailwood.blend",
+          "docs/import-guide.md",
+          "docs/specifications.md"
+        ],
+        "note": "File presence does not establish valid Blender source, final license, or approved manifest. Internal generator sources are permitted only in review packages by the original design."
+      },
+      "blocks_internal": false,
+      "blocks_sales": true
+    },
+    {
+      "id": "sales_allowlist_packaging",
+      "status": "NOT_VERIFIED",
+      "detail": "Requires fresh staging built only from release_manifest paths, hashes/sizes, no unlisted files, research, credentials, cache, or internal generator/recipe code.",
+      "blocks_internal": false,
+      "blocks_sales": true
+    },
+    {
+      "id": "examples_catalog_thumbnails",
+      "status": "NOT_VERIFIED",
+      "detail": "Requires six named assembly examples, validation scene, neutral catalog scene, 84 approved-model PNG thumbnails, genuine engine images, and new-buyer import/reimport checks.",
+      "blocks_internal": false,
+      "blocks_sales": true
+    },
+    {
+      "id": "free_trial_subset",
+      "status": "NOT_VERIFIED",
+      "detail": "Requires the exact eight canonical IDs in design section 18, Moss only, own license and allowlist. No extra paid-only files.",
+      "blocks_internal": false,
+      "blocks_sales": true
+    },
+    {
+      "id": "editable_blender_review_source",
+      "status": "PASS",
+      "detail": {
+        "models": 84,
+        "version": "4.5.3 LTS",
+        "reopen": "PASS",
+        "scope": "Editable baked meshes, UV/materials and sockets; not parametric modifiers or art approval."
+      },
+      "blocks_internal": false,
+      "blocks_sales": false
+    }
+  ],
+  "approval_policy": "No automatic approvals; no publication performed.",
+  "scope": "Local recorded-evidence audit. PASS for internal review is not sales readiness."
+}

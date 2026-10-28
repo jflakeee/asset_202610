@@ -1,0 +1,1641 @@
+{
+  "profile": "TW_V1_EMBEDDED_PALETTE",
+  "passed": true,
+  "files": [
+    {
+      "file": "MOSS_01/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb",
+      "sha256": "9ebe53370cd60d7570b9db91d8f2f2593c53622873b6115a93cbdc34661ebe61",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_UPRIGHT_A_LOD0.glb",
+      "sha256": "15e8218a1698156291c34a3623b10742f1f468aeebafb632c21680ff6f382386",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_ROUND_SMALL_A_LOD0.glb",
+      "sha256": "b975c9c0da24d917b40d583ba22d25b623e821cbf1a61f7598527214885cd827",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_TIERED_SLIM_A_LOD0.glb",
+      "sha256": "7a32145cbe0efd5381519a061ddb98dbc23cb1677d00ac76f6c6546760c41ac0",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_RAIL_1M_A_LOD0.glb",
+      "sha256": "20ce213fde2e82f2992cb3df5372f567aee66456d711d720c1e22068ee41d09f",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_RAIL_2M_A_LOD0.glb",
+      "sha256": "2909c2ab8572e0398c606631f7a23d501daad4a750f368cfd8ad3ee49f37828b",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_LOG_BROKEN_15M_A_LOD0.glb",
+      "sha256": "e53136bd9f917e2d96539a5f4604cab9e5e08f12bf9cf37ad26ef5cd4362186b",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_LOG_CUT_2M_A_LOD0.glb",
+      "sha256": "35cf86366634f909d32505183d346b03eb8863549d7aca45339db098808cf5f9",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STUMP_BROKEN_A_LOD0.glb",
+      "sha256": "a539b4f8379b0ecd75d0893c82fc82938e17292f70c625f31b6f34fb950e5eda",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STUMP_CUT_SMALL_A_LOD0.glb",
+      "sha256": "6529e30e350b146c428d8c90c25bdffeaa7b0255bc674f50a50fcb8a8fede425",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_GRASS_TALL_A_LOD0.glb",
+      "sha256": "840c6c163be88c16603b2a7e8e2c303e5a03fc601ccb134d8e07ac880736e372",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_GRASS_TUFT_A_LOD0.glb",
+      "sha256": "d4e92cbf27adda9b6d9326c6346c270d109c289a78693fe8e036dc940722253f",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_SHRUB_ROUND_A_LOD0.glb",
+      "sha256": "fcc69438a68c47e117e289eabdb4ae85db0c16dfbdc4233ee7d1545989cb5dc2",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_SHRUB_SPREAD_A_LOD0.glb",
+      "sha256": "b778fb40029fdc2ee02174024f0b1a997e49b32769e0110e2f75dbcf3f575494",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_CRATE_LONG_A_LOD0.glb",
+      "sha256": "18fe8c1fa0688bc500252c168de8f09a10bd6ed632f469b8a55160cfe59b3e1f",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_CRATE_SMALL_A_LOD0.glb",
+      "sha256": "d85aa66ebb4b2c20a6d5aa8fd1181e43d9560c655a7b129bc4ed1cb1facaa976",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_SIGN_ARROW_A_LOD0.glb",
+      "sha256": "d2a1c00521cfd27bd822b250ee212db250b032dad7e0b5a0365a9dfc8189887a",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_SIGN_FORK_A_LOD0.glb",
+      "sha256": "4bc24034138c7fca8ca9ed9c833ec23ce4a9d5c1cae200dc3c7513cdc2c90623",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_PAVER_LONG_A_LOD0.glb",
+      "sha256": "a36bbfc49ef0f9e2fff29aae0909ba8114866a2a5e4b853afaf66e320c2fb183",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_PAVER_ROUND_A_LOD0.glb",
+      "sha256": "e93da46f84fd3de8a0364a3b9376ba279b7c801cd364422aaadd2baef06ddc62",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STEPS_LOW3_A_LOD0.glb",
+      "sha256": "b22e5a20e8d924b35375d073a4cba386d73d5adab5d597ba5e8da01b0c16982f",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STEPS_WIDE4_A_LOD0.glb",
+      "sha256": "a5c2a7e5759f06e4163ea77afeaeecb11483f0fb1cb712f019daa7ec6a840ea3",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_BENCH_BACKREST_A_LOD0.glb",
+      "sha256": "ec8183cd2754573359a9fa7923cf10bdd31d1d20fd49a6712f44c3ca9057c9a5",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_BENCH_SIMPLE_A_LOD0.glb",
+      "sha256": "d640250f62e60f25b823de797ac3ef6c711823e2505ce38010cba5511e1579a1",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TABLE_LONG_A_LOD0.glb",
+      "sha256": "849ddcff2f04e4ada847add70fcc592626afa041ef70a5e859e6ba30d4de57da",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TABLE_SQUARE_A_LOD0.glb",
+      "sha256": "7820f711ae96999eb8fb2aa23db3058b425542e4cd89870bb8733a2402423d5b",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_CORNER_L90_A_LOD0.glb",
+      "sha256": "32f2039555e826230bdb94a577d31f42bb2839593c90c0cc877d5fd153ce0c7f",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_CORNER_L90_B_LOD0.glb",
+      "sha256": "a1694c7c69b9e2d5ca68b90232f07c670f2544126d8ee55fe8be77ca5e1c826f",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_CORNER_R90_A_LOD0.glb",
+      "sha256": "6bba074d91e7386592871b773cf1d725b503f10a732ae88e6549e0caacc313d9",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_CORNER_R90_B_LOD0.glb",
+      "sha256": "f608ad90000801350a7354374bba9c7db00d73a8324c6bec541d961a62fa1ea8",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_END_BROKEN_A_LOD0.glb",
+      "sha256": "7155b32721e15e798b814269b5be46f7912ee90a625f9c41db5716371e50f88d",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_END_BROKEN_B_LOD0.glb",
+      "sha256": "60b90dbf8156c43fb36704559b78039a61c41a04c1dc5934df65e8e73f40d88a",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_END_CAP_A_LOD0.glb",
+      "sha256": "c6a21f1c03cdde0d618034e7f77a9a1900cdd34d3dbd7a465ef1bb88d7870483",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_END_CAP_B_LOD0.glb",
+      "sha256": "756a0823e90202e27c8c39fd7e96226861ff53b2ca7d20165c9a623442c567ad",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_GATE_FRAME_A_LOD0.glb",
+      "sha256": "df498fd2f7ab6e36d438b03e1127e12b67cc7a948b272f19df14ea174cc7f238",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_GATE_FRAME_B_LOD0.glb",
+      "sha256": "c55b523cff3f19d69963934ebda3baee0b9631fbf4b4d99d49edbcaa0475bdbb",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_GATE_LEAF_A_LOD0.glb",
+      "sha256": "0d291233150378fa73edb484e9746436a8cbb23c5a79576648278b89fdd3f6d8",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_GATE_LEAF_B_LOD0.glb",
+      "sha256": "67d7aa1fb224066e72c771a96ca49a3b8f18d9cd076dc291e39a8f969237cc14",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_POST_A_LOD0.glb",
+      "sha256": "eb3155543122749f06d5dc9c28cacbfd8789d5f9cdb27e71421de0a6da0e4ced",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_POST_B_LOD0.glb",
+      "sha256": "86f17a8ffdefa510745548f35de75d91afee9d1c38d6c896f7fb9f9c655c96f6",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_RAIL_1M_B_LOD0.glb",
+      "sha256": "0c124730e42f152d21b8b61c2ee4a839216441985d8203863600d378fbd04610",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_RAIL_2M_B_LOD0.glb",
+      "sha256": "0a6ee5a1d685f59bb13956bd593abcdf7631edca9a6594d782bd8ec69c0a4799",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_RAIL_4M_A_LOD0.glb",
+      "sha256": "27693237968e3a43277426a3f6053c81ef648a9ae5eb0341b3c5fb57b3d0ed68",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_WOOD_RAIL_4M_B_LOD0.glb",
+      "sha256": "d0414ea4ce808a012d938ffe8f1949211ba7ea4a68d37fbd9cbe3614c47748b8",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_CORNER_L90_A_LOD0.glb",
+      "sha256": "0b466eb3aa7163ee9a441c895cffcc36c482a260e6b6288c7e6763b1e55391ca",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_CORNER_L90_B_LOD0.glb",
+      "sha256": "bf6b9c115ad155019f43d36fd9c6bfa3255ed1d0e755a22926337937a6024788",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_CORNER_R90_A_LOD0.glb",
+      "sha256": "5f47c5e2d4bc36b3dad214eaeb1554bc3f6b3c1441832ea337233eadddd16f84",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_CORNER_R90_B_LOD0.glb",
+      "sha256": "6ecbce1e94895d8243fbf60ad1e122108a6bb2adaf720bab4d4315f8e9370fcb",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_END_CAP_A_LOD0.glb",
+      "sha256": "b19bc0fe8ce6194bd59faf584fbeb99cbe6e769d852a487d4c8658cdea847d71",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_END_CAP_B_LOD0.glb",
+      "sha256": "6313d43b790e834832baceaf6e39924af56868f2eafa76d6fb738883ff31afc7",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_END_RUIN_A_LOD0.glb",
+      "sha256": "480073c99238911ed9604f5f39198846770055e9dcbaebcc7c25bd7909b33d29",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_END_RUIN_B_LOD0.glb",
+      "sha256": "7118b9a56cabf6f3836b93e11f7997b7e344032803af93ce6bb4b04b7a20629d",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_POST_A_LOD0.glb",
+      "sha256": "a14589de61b3fbdb8ee476d721733c499d9c8f447df30e520328252b1e80f364",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_POST_B_LOD0.glb",
+      "sha256": "5b1e7a9b0d6eb21f30e13f507b9264738e7ebeb9369cdba97ca5fb353addd06a",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_WALL_1M_A_LOD0.glb",
+      "sha256": "54c1c1124aca9d2c0f84f8f767acfa7c9317788a183a728545ebe6032cb0a4f9",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_WALL_1M_B_LOD0.glb",
+      "sha256": "736a9f3da569dda81e0cf2d576286487e88752c82f785b9eff64125734afa1ea",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_WALL_2M_A_LOD0.glb",
+      "sha256": "6e9404cf3b2b4d0f753e2b48894b71adbc05ccb898486ef9d81ba3b59f1a839c",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_WALL_2M_B_LOD0.glb",
+      "sha256": "f85f412e3c2384b99703a7538f47104062214ca5914f39a2d0d141a32d8e5854",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_WALL_4M_A_LOD0.glb",
+      "sha256": "b32b7139eaa796fb27e9bb190e0a8b7b270e5a499e02452cfa22d4f2ed1a547a",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_STONE_WALL_4M_B_LOD0.glb",
+      "sha256": "de6fba5390e793c77542d9c9ea5f2309dcdb0850e149656875c04668077ecd5a",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_BRANCH_FORK_A_LOD0.glb",
+      "sha256": "b3e2ef9a4d0a2fbd21638aebfa8846275992b66207a8e8ad5b212fcea8730cd7",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_BRANCH_FORK_B_LOD0.glb",
+      "sha256": "1a4771141bc78122ba1c7e54c884a8005878194af562468337ee56197eddb4ae",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_BRANCH_PILE_A_LOD0.glb",
+      "sha256": "8905ad16367bc801dc05ec3594f337813d9a49f9c1395143654ea90d12e8a84d",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_BRANCH_PILE_B_LOD0.glb",
+      "sha256": "209cc8b504c936589c0ba29f508ba2197f503b24209ec0179cc28dc57e321821",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_LOG_BROKEN_A_LOD0.glb",
+      "sha256": "6c2c16ba1c98c155c6eeff6ab8fa268f2cc4857e0947e25684de80eb6323b7ca",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_LOG_BROKEN_B_LOD0.glb",
+      "sha256": "40a43bd46e5fafe06881a568f9d636c55ae00129b2d0dcbf283eebb84e39a737",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_LOG_STRAIGHT_A_LOD0.glb",
+      "sha256": "a575f7e4d07cf016389ee9daca168116438b986ef6338c178e2dc58ce005330d",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_LOG_STRAIGHT_B_LOD0.glb",
+      "sha256": "09bf8293ade8187011470c3c7919421eb1907baf61e790516d41ed14849d17e4",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_STUMP_ROUND_A_LOD0.glb",
+      "sha256": "aa353203d5e044748d22caa04a71c08be1b5fbc6bcf318e5243c951c301e0015",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_STUMP_ROUND_B_LOD0.glb",
+      "sha256": "c4130c360335a807921e2dedb2fe6165e8764b54d4f5fc86d6c9a5875256e989",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_STUMP_SPLIT_A_LOD0.glb",
+      "sha256": "cc343169174acf4b0dabfd7bb39b5cb169b975e7903e6d4f4cb1d538bd6f050e",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_PROP_STUMP_SPLIT_B_LOD0.glb",
+      "sha256": "7c6981313dec40f66b3b226e5cdbe66ee2a8d3b38cc61c62cd47a10b3395a9f9",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_CLUSTER_LARGE_A_LOD0.glb",
+      "sha256": "a68f09e3244afef905b1ae1b60088142fa602965bda84d659f6246fde3f3edee",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_CLUSTER_LARGE_B_LOD0.glb",
+      "sha256": "bc90f89d022ded23e536dbb53c6a5019d327218aa84741277e3714484e5a392d",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_CLUSTER_SMALL_A_LOD0.glb",
+      "sha256": "162b8f6f441a0267d1583082921952f6517497984619fef6041da0460ee7a248",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_CLUSTER_SMALL_B_LOD0.glb",
+      "sha256": "674f8e5e114d0496e690d7db4d5027efcac795fd6f071aaadc9578359a6185f8",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_FLAT_SLAB_A_LOD0.glb",
+      "sha256": "f9574e90e020db4e2d5b022f24420f7256978a56f58e783ba1945153be07f9ab",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_FLAT_SLAB_B_LOD0.glb",
+      "sha256": "830962164596514222c2b71b1b0a09197df21c12281db9e1f08154b64a566193",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_LOW_WEDGE_B_LOD0.glb",
+      "sha256": "d552561d80713f5a3e5147a869dac64a7673f639c46aceca7b0e16a7144e295b",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_SPLIT_MASS_A_LOD0.glb",
+      "sha256": "d23f57c3371fa09a2d55750cdfe6ca78a52c50fd91a4c8b5cbf3f1c44ff907c9",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_SPLIT_MASS_B_LOD0.glb",
+      "sha256": "4128347565273d376770ba848c8aa7aa7f2fcbc83ac573a9fed1e51c03ec8a5f",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_UPRIGHT_B_LOD0.glb",
+      "sha256": "97ec12b495274caf24bfaa5aec19c8fabf60ca3c5fe64c3762e624898b3e617f",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_DEAD_FORK_A_LOD0.glb",
+      "sha256": "f1ea7b494866b35226f15b5e630e52c4dc9b299083eb57ec73f4015c0ffeb071",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_DEAD_FORK_B_LOD0.glb",
+      "sha256": "9b544316f07b4e7bfde2b99c9fb9efe48b5794efaef129c88791d8162ca6b701",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_DEAD_LEAN_A_LOD0.glb",
+      "sha256": "9c16b152d6270dbda086b82a7e93c5395b6b45dcc66e663a20644a3f5f1f21e4",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_DEAD_LEAN_B_LOD0.glb",
+      "sha256": "61e55c97bc1390a11f1ce1e9f2b040cc57eb5de1d9f4e537d53b31a75ed3f64f",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_ROUND_BROAD_A_LOD0.glb",
+      "sha256": "37e6aca16ea8a6b37021b2eace30683a5fb9d783947de90a38a8580b90d440d3",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_ROUND_BROAD_B_LOD0.glb",
+      "sha256": "828196bd6b4b6c3ba06e16ec4f11d0a60e97a179f536a93c2a2e7793e6e9cb7f",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_ROUND_SMALL_B_LOD0.glb",
+      "sha256": "ae8d357dbd9d385cdf89bfa853b6972a4c5083e2116dd4e3735a64e26e631dee",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_TIERED_SLIM_B_LOD0.glb",
+      "sha256": "1769950de1cf6e65681bc66792fc4e4bce50b242f9ee79e8596c02b40a9a3a5f",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_TIERED_WIDE_A_LOD0.glb",
+      "sha256": "c2008f00049f323b226474789a16cc060fef8bcadf8f6d1d6a605873d1865298",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_TIERED_WIDE_B_LOD0.glb",
+      "sha256": "263ba8d3c9480c08e51444d1eec1e2e96f33905b25424af4dbeb79ebea8efa99",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_BUSH_LONG_A_LOD0.glb",
+      "sha256": "a25804a3e7ae148fec08253007d925b500162dd29f18d2c6d6c09eea40ca7f3a",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_BUSH_LONG_B_LOD0.glb",
+      "sha256": "8da8f35101376ef39a8a8623e9e9a4ee4e1ee1b779d0de4e7e7896489ef3169f",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_BUSH_ROUND_A_LOD0.glb",
+      "sha256": "564536ee78416551cfd18f17aeb5ae80eb16d19566152a4c98b95c4994185e2d",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_BUSH_ROUND_B_LOD0.glb",
+      "sha256": "d726cc5c78b95cf60ef4c27424aa9c35134a836b47871498f3f2fd81f00d58dd",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_BUSH_SPARSE_A_LOD0.glb",
+      "sha256": "48f94d2f1d7168f067e6a3676884d1a5bf59c5f7e5550ee22d0d9c8772cebeaf",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_BUSH_SPARSE_B_LOD0.glb",
+      "sha256": "1340173082b68a37f9a91c170593942001f157b708905f7e927cfa7d7fd63588",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_GRASS_FAN_A_LOD0.glb",
+      "sha256": "ca9b8945e136b92ee7a3987d536dade10d3b8a600fc8b4448a19adfbd95c32d5",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_GRASS_FAN_B_LOD0.glb",
+      "sha256": "0dfe2c2e1e25f6797f78b2c735570ec9824284845fcd2073ae9504edb1381621",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_GRASS_LOW_A_LOD0.glb",
+      "sha256": "b21dad48f98e8d377e889d9522206d241fa7def0497f8dfbddc39e7aa888b896",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_GRASS_LOW_B_LOD0.glb",
+      "sha256": "261092133c3e9741494e956b0a0c8789becd387daabdf8edcda9ef5b0b059332",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_GRASS_TUFT_A_LOD0.glb",
+      "sha256": "018619a9bc25e9ee4fd97d6941f4d9ace55d36b7c180d3deffbc673e41aad946",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_VEG_GRASS_TUFT_B_LOD0.glb",
+      "sha256": "ac4aa8d1706f09219dc25522a4f9bdf63b99e9be7b78527c88e72048dfa801f1",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_LOW_WEDGE_A_LOD1.glb",
+      "sha256": "6e64d45d937ed56fdb24e1f701d2f93bf02d76f48d3d74e5888e0386cd1f3533",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_ROCK_UPRIGHT_A_LOD1.glb",
+      "sha256": "d108cd7032d3476a54a3552fc269772588b4149486166585811d98d2042d63a4",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_ROUND_SMALL_A_LOD1.glb",
+      "sha256": "95e3a762a4c512a2a5db99b3dce8a839a4c7f5c295554851e4b8a50961a663a7",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TREE_TIERED_SLIM_A_LOD1.glb",
+      "sha256": "e39f56de128bff7344ef6c028ce5088b82963d8538843ad9c88e907019677684",
+      "errors": []
+    },
+    {
+      "file": "MOSS_01/models/TW_TERMINAL_POST.glb",
+      "sha256": "2d5a3bbd48d9e76bbc6576718f00782d3f3f8b53be130d17e4cf7560af9045b8",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb",
+      "sha256": "26cfa5403896914887d8ae5f7001bb9056b700aa54905f78cc2cdc0742c19f92",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_UPRIGHT_A_LOD0.glb",
+      "sha256": "451d14a4b1b1daa9c544d5fc042fd0faec35a8db3ef9d7b5daee498da7c6ca16",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_ROUND_SMALL_A_LOD0.glb",
+      "sha256": "08a02d505176aa002d1cd8c0660afa55fafba1f80b2b5150b4ae2915da2828a2",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_TIERED_SLIM_A_LOD0.glb",
+      "sha256": "625f6c3ceb618737b17f6d6ae2e5e12253f48f2917ece726384f6c1f7df4a720",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_RAIL_1M_A_LOD0.glb",
+      "sha256": "6726d3402e27734e389bde888f4d573c824a6ba1f8e2ece9dd3101cbade3870e",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_RAIL_2M_A_LOD0.glb",
+      "sha256": "352428530005883c6bbbf0972e731dedc7c7e92f074502edcc27d962d4c1135f",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_LOG_BROKEN_15M_A_LOD0.glb",
+      "sha256": "59fca1f443fbd79b38a02647875fbd4a8c929ce119518f6e44b4af1612a68e58",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_LOG_CUT_2M_A_LOD0.glb",
+      "sha256": "e58bff98d693a65ff074d432a6f13d8cb9cb65061e55c620ee8fb9cbfea4159d",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STUMP_BROKEN_A_LOD0.glb",
+      "sha256": "81d60f3d2d1c223f4c62f6c027b9c3a803f6d9e8820717db46810a8e62f0ad0c",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STUMP_CUT_SMALL_A_LOD0.glb",
+      "sha256": "38128936d3994dd803219c03cd97c50e909acf963ea08b8545f8ad04e90a3cee",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_GRASS_TALL_A_LOD0.glb",
+      "sha256": "425eb1a364fd14a267ac22437406895e7e8ac222efa406418f58b1f9f1b25c5e",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_GRASS_TUFT_A_LOD0.glb",
+      "sha256": "6463cb40d19154b2047483272315cf154ce757b3a77b8e81b7d7f1291f063baa",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_SHRUB_ROUND_A_LOD0.glb",
+      "sha256": "487db49f83cc528f007f87633b3dde17428ec83f3a3f79ae42d39d158e247dad",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_SHRUB_SPREAD_A_LOD0.glb",
+      "sha256": "5c3575338da0e56afc34da6df595f9ed2c1befc206570c863d00ce89096efc6e",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_CRATE_LONG_A_LOD0.glb",
+      "sha256": "03c7cf2fdd751ed59be6a9f55a4c657b67f428d020157fc16d50ab7a69d4af75",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_CRATE_SMALL_A_LOD0.glb",
+      "sha256": "33ef591975189bc440dd9559a7a98bc2b643e9eaf2548d3222c327e85585066c",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_SIGN_ARROW_A_LOD0.glb",
+      "sha256": "02a1af1160f9498ea5dd769e9bd4612fcd39ea1c722c1f4c50fe5309972b1436",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_SIGN_FORK_A_LOD0.glb",
+      "sha256": "2bc999a2be9b8c41c5d5de606ed15750e456df4910e91588f860ff4c54d873e0",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_PAVER_LONG_A_LOD0.glb",
+      "sha256": "2b9e78f203d363edb3622f72cb0324081250fdb58a10c69779df80a574c576f2",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_PAVER_ROUND_A_LOD0.glb",
+      "sha256": "fc92ab53a803acb530fc7118f944dbb9f5603cd2654b2eb584eaa55520a6e333",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STEPS_LOW3_A_LOD0.glb",
+      "sha256": "0e8ae2e4611f97a51eb747c088fd4010eb8306b12890957dbd12d65ed377d58e",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STEPS_WIDE4_A_LOD0.glb",
+      "sha256": "d620b14e5edf4d51b17ca66e23e3e0aaead5b660504e11fb19955ee2d183cea4",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_BENCH_BACKREST_A_LOD0.glb",
+      "sha256": "19f659ce617f5bcc365c99fa8b5842a1220ba89e11360df0d4a28847bbf96dc6",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_BENCH_SIMPLE_A_LOD0.glb",
+      "sha256": "8f0b70408fd41fa5a0806b0bd17fa2b5b9ccc88f149a23b4b9d8ddfe12061766",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TABLE_LONG_A_LOD0.glb",
+      "sha256": "2ca934afa3af1ec09357b61798d35b582ba21c8940cc1b7ed88a99b7e0b68487",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TABLE_SQUARE_A_LOD0.glb",
+      "sha256": "5a6cafd58e90f51d73aafd9cd3d4b01efca95ba475e820129703d6a308fafa46",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_CORNER_L90_A_LOD0.glb",
+      "sha256": "ba1bb096e2a4114b28cbcc99983782785b1d8bb1b09020c57a9ba5c6a6657152",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_CORNER_L90_B_LOD0.glb",
+      "sha256": "2edf6add36c5e3d024eeca8f81e8e9ed8c8846ee4ac50981c33412d0089482dc",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_CORNER_R90_A_LOD0.glb",
+      "sha256": "093a1de8714965e128192dbc1a4d0c77a050b0c745e32951a502a0e80ff7ad25",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_CORNER_R90_B_LOD0.glb",
+      "sha256": "db4173b54fb193bb16ab4da8ee6809ada3bbe8ab508c51404fec351c86e9a09b",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_END_BROKEN_A_LOD0.glb",
+      "sha256": "422ca9b9e3691d2a59a63ac2c1e300bd330c83a73b98169de4604237182e7c7c",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_END_BROKEN_B_LOD0.glb",
+      "sha256": "5a0d989355cc12aca494450e3f61e8327d4dc5c07fea4344850b1c19304b0efa",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_END_CAP_A_LOD0.glb",
+      "sha256": "27934289cb4b358d33a68e76cb956a3d6f7ec811d2de1ca4a2e45b263599f62c",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_END_CAP_B_LOD0.glb",
+      "sha256": "458963b7ce9faf13c5343dfb472c768738ecece3d12549c10dd6e605572d8253",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_GATE_FRAME_A_LOD0.glb",
+      "sha256": "cbdf0ccedf92546a1f493676346b424a3630303234277265c461153ad7f38248",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_GATE_FRAME_B_LOD0.glb",
+      "sha256": "6e795347748e162d9458270a32efe2c02d187e97777b6dcd2a971de2e1f1caa2",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_GATE_LEAF_A_LOD0.glb",
+      "sha256": "c667c7dcf459c72584299447972c45fc0253f168d6e6eb206c32b8b5a039fc70",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_GATE_LEAF_B_LOD0.glb",
+      "sha256": "60de6af7ad36e41df0bb09af53a1d731dd719935c84c76a8306d2c5141a01e3a",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_POST_A_LOD0.glb",
+      "sha256": "7342800448bd574817c28d87f5fb0fbbfa6d4ab6744c4e324a058f435a1516c9",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_POST_B_LOD0.glb",
+      "sha256": "97890dc418bf8039eab6c1a5c61482db37913ff67a14e8c94db1107043ea74b4",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_RAIL_1M_B_LOD0.glb",
+      "sha256": "717ef59712097c786521b74982ec5359243fd3a595b73a22ca06be1a098ccc01",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_RAIL_2M_B_LOD0.glb",
+      "sha256": "af76ff5ea6bd542601fcc8a233162dab99ed9423edb23a141f44ab5eba5206d8",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_RAIL_4M_A_LOD0.glb",
+      "sha256": "68617f6c9ad382d3dd0fb36d07ff875ba6f7ba165618a1d363d35bcfb7a443d6",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_WOOD_RAIL_4M_B_LOD0.glb",
+      "sha256": "4d543fd170f1341afb1b3558fd69905605917b0828e4edf61a584d312c243b4b",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_CORNER_L90_A_LOD0.glb",
+      "sha256": "0bc252a425666c848b6d1a0f8c47651a0a4fced337d8263589f14d45afb52056",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_CORNER_L90_B_LOD0.glb",
+      "sha256": "aaf6b07cf8a0fe231a954d9de26c2cde0eb1173320d2de4d11b30c1712844dbc",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_CORNER_R90_A_LOD0.glb",
+      "sha256": "6a132cb588e9a3cc789cf91e133ae09b2d0833950d05c0422a840da71249a1f8",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_CORNER_R90_B_LOD0.glb",
+      "sha256": "dd20b8478dd6122b159e5996e2767b6e55064008ade1e024390dbf81b60463e1",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_END_CAP_A_LOD0.glb",
+      "sha256": "e8731d01d8f74addaa1905837331710a4939b69a2094cf70ac1f347a5a1b2430",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_END_CAP_B_LOD0.glb",
+      "sha256": "093a0e72c88a7e2252040b116735387ce62b9047e1bd0d077ca75ed2e02f0a58",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_END_RUIN_A_LOD0.glb",
+      "sha256": "f3ba4b6995ed4b4cfc43f5446bb7a613ab980cd64b1e1c0751c44d82d2605b0d",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_END_RUIN_B_LOD0.glb",
+      "sha256": "f909e8d5c4bbe20ac4b744b2f783016e81d3c5148cab9a2fffcebb7945e92655",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_POST_A_LOD0.glb",
+      "sha256": "416bca20cd765437e6f7fec7e3c79de5436172fb1783e08238bd9be23ea03277",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_POST_B_LOD0.glb",
+      "sha256": "e51495cd670fa83afb5ea6559d78e52d31579fcd0793ecc0509c006d79e61e20",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_WALL_1M_A_LOD0.glb",
+      "sha256": "70898b880d633e108efa61c51d7117187a90e419357026c559a63806ce591059",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_WALL_1M_B_LOD0.glb",
+      "sha256": "96dc3a5004f9875b36504416e09f1b1da8a27ccb8dd51d553886c4de3c324f50",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_WALL_2M_A_LOD0.glb",
+      "sha256": "7472cbc6b40fbd4f25e2732db1eadcdd0f02ec450c977ce56cddd5f29d40ed4f",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_WALL_2M_B_LOD0.glb",
+      "sha256": "8687ee298414464cfd7f9a3474d2b9ffdf46f347693a76bd86225891e6bdc021",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_WALL_4M_A_LOD0.glb",
+      "sha256": "6593843677e7080a5981dd73e5a201e2b4144abb00ef2d8639b01cb99f142d68",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_STONE_WALL_4M_B_LOD0.glb",
+      "sha256": "1857c064203e90f401eee4de55ab10147d0ce1e4964829055927f8407f935db0",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_BRANCH_FORK_A_LOD0.glb",
+      "sha256": "66233b31413474df4324935b137cc038cbe76ab615929ed82ea904b345510581",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_BRANCH_FORK_B_LOD0.glb",
+      "sha256": "4180e50bdc587828ff4262f35975c10174d5f73346a550a64d5546b8a4131f04",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_BRANCH_PILE_A_LOD0.glb",
+      "sha256": "8990b8415b5a539d6355ac4fef2df5fbd99f8e1578f3c701948e769cc391b15e",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_BRANCH_PILE_B_LOD0.glb",
+      "sha256": "f785a49411f2df2a3b177d9961838407b13cf1301292ba7521be4825f9884de9",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_LOG_BROKEN_A_LOD0.glb",
+      "sha256": "71144c02001a4c76f5c1e86e929473b8baa6d1d2af8210843ac660f7f2c7684a",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_LOG_BROKEN_B_LOD0.glb",
+      "sha256": "0febe3af6e866366ed3130201e84c061f6b19a781697ce37e369c17feeb06f5b",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_LOG_STRAIGHT_A_LOD0.glb",
+      "sha256": "1eb083662e6e5a9da5cdaae48c80b717b8e5b1b63c228faabd36c7e2cee0f7d1",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_LOG_STRAIGHT_B_LOD0.glb",
+      "sha256": "e83d166bbb9425d6495b458474275add511249d8019d21ffeb30d70804aca2ff",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_STUMP_ROUND_A_LOD0.glb",
+      "sha256": "eaa6b2f4b73635353d5ffbbaf3820d67bb1168b040f4076e2b09e3949a940a22",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_STUMP_ROUND_B_LOD0.glb",
+      "sha256": "1b5505b1e0ec35fa2e7a3ac90baf83da086d4cc72bc50a48e9a010b1be225d82",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_STUMP_SPLIT_A_LOD0.glb",
+      "sha256": "c00679a1401ef8602418e94eafe09b9d3bc40d452b6b79681f40ecb26dabb18d",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_PROP_STUMP_SPLIT_B_LOD0.glb",
+      "sha256": "ba68f0f14e65590b17cf58541d7fcecf7508aca3695fe19b9e344b25958efda0",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_CLUSTER_LARGE_A_LOD0.glb",
+      "sha256": "659d88756871ce108f645224e7d12fc361b6f388e5233865c47a2282d172c1b9",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_CLUSTER_LARGE_B_LOD0.glb",
+      "sha256": "670f5718995eecdc9d0012d02568a037edc510f8cafb5daa8eb38eb0eddf09fb",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_CLUSTER_SMALL_A_LOD0.glb",
+      "sha256": "8f4dcf4631736cd9ebb0be71db5988ecf7ba48c24ffa913ddb4c98746818509e",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_CLUSTER_SMALL_B_LOD0.glb",
+      "sha256": "dedf87362c67cc5f6aea5f69c334125f0ef62e5fff2971be940ed46489fcddc5",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_FLAT_SLAB_A_LOD0.glb",
+      "sha256": "5e52c83b64a4de94f9f4fe8446132862b275a3cab5d17f5fa22d12e35b0b34c4",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_FLAT_SLAB_B_LOD0.glb",
+      "sha256": "1cd41c3c7eaba32fea6700872a656b185bf6c969864c0698dda07af4d334ff52",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_LOW_WEDGE_B_LOD0.glb",
+      "sha256": "e4b24369e9da8e6814a2303a96611e48d8c0a2dd73ece6db38af52159af7abcb",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_SPLIT_MASS_A_LOD0.glb",
+      "sha256": "6c673900efcc4135763fc96524490c58f28a2c4e011e24a70c28884f533e0232",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_SPLIT_MASS_B_LOD0.glb",
+      "sha256": "d4b9359e9e499e980066b4288a0525f7c8b05df4f4da0a4d23dda1f4d1a35c7d",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_UPRIGHT_B_LOD0.glb",
+      "sha256": "425934d2f53fa1e47d5a3ffa5e597420d790a0801407205c01c6c180626381ff",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_DEAD_FORK_A_LOD0.glb",
+      "sha256": "959a67f322c0d4bf1dd7ddca38fcb7fcb0bbc541c24ddbb69457a639265dbb32",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_DEAD_FORK_B_LOD0.glb",
+      "sha256": "040f46ddb7315f945db7dc22ee4cbd2b86fafa618184dbdaf4076f261e522ed3",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_DEAD_LEAN_A_LOD0.glb",
+      "sha256": "5f9518b9b6356bd35ac690ceb050f81b7711136f2cfb6abaa7c8930f0c1af0fe",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_DEAD_LEAN_B_LOD0.glb",
+      "sha256": "ea8955b55fdb229b17b82a1dd78ebe0345183f33990458e930a26c318a0cd8bd",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_ROUND_BROAD_A_LOD0.glb",
+      "sha256": "782fe5846dc9652088a872a61704485654fbc48f533120d62e9d6b8ae2ef5d73",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_ROUND_BROAD_B_LOD0.glb",
+      "sha256": "61617400baf766cf38434e1c305e4e90d0a29488ff6cd5743949ef949d9a762d",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_ROUND_SMALL_B_LOD0.glb",
+      "sha256": "98b007fb27b21f785a164caa9eec3686dea355030544a7e9fd5e1a6930b30528",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_TIERED_SLIM_B_LOD0.glb",
+      "sha256": "f3dff2f524328711d456562c57d7ace36960b694123e953dc5855794eb302011",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_TIERED_WIDE_A_LOD0.glb",
+      "sha256": "46019cf6cd469f34be0b8de1ab5d9119a4c5f1e9a226b815348fb837f57f7024",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_TIERED_WIDE_B_LOD0.glb",
+      "sha256": "017ed0af0fe1ba52d8d049d432b1436f64007cd13f4296107e36ed594a5b143b",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_BUSH_LONG_A_LOD0.glb",
+      "sha256": "1adbcf8082693b4ac373947ce009eba604bce1cf1916be947f5d42b94b583974",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_BUSH_LONG_B_LOD0.glb",
+      "sha256": "592d46528b2490e78ddf714f65e72ca6e228a1642c41f38a256b94d02c1490aa",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_BUSH_ROUND_A_LOD0.glb",
+      "sha256": "bf12918ab371f8e06b9744a59e59044c981e85cb5d1e12e4c9fa8e6b63b6578e",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_BUSH_ROUND_B_LOD0.glb",
+      "sha256": "9a231021e1fd2c402c2cef03684fa012a09ad64c5e89a72a2d7453c3fa8ba71f",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_BUSH_SPARSE_A_LOD0.glb",
+      "sha256": "d2f4d6cc6ad26f6bca43cd3d6136a073556dfc5982e266e54e5e640545af6ec2",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_BUSH_SPARSE_B_LOD0.glb",
+      "sha256": "2a52b24d843ad32c813702b83aff8bb231dfe6344e87d983e62be2f88e8dae32",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_GRASS_FAN_A_LOD0.glb",
+      "sha256": "a5351e73c60eb16cfc86567b2f416b097ef8a16f8a356e180e3bd116036d13ab",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_GRASS_FAN_B_LOD0.glb",
+      "sha256": "ddb97f0612289da77d4ac3dabe9c216ebc8ac560e3d12b7e6f026db4bb2e5c38",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_GRASS_LOW_A_LOD0.glb",
+      "sha256": "035a2d9b5e975a5cb73d0f40077d865a9d5f54455ff4f3da21b66d90cd7d00d0",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_GRASS_LOW_B_LOD0.glb",
+      "sha256": "c357327d18741fd8cece2c7627e564bd560b3b0673c171b29a99832431d9546d",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_GRASS_TUFT_A_LOD0.glb",
+      "sha256": "0852e61bf42c160b22d42f792ebb1c13d43ec8eb1208d149c54dfafdc92eb870",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_VEG_GRASS_TUFT_B_LOD0.glb",
+      "sha256": "b19b31bc736e8cf406168281960ac4dba84096b25479b0ac5cee284fc4aeb547",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_LOW_WEDGE_A_LOD1.glb",
+      "sha256": "118ff5862b788b1898c9da8f300db91b71d56c830efcd5f297411987f5a1dbe6",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_ROCK_UPRIGHT_A_LOD1.glb",
+      "sha256": "6fa1ffd6c38127c597cdd08859966b10011e7567261b11211a75d877aef805fd",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_ROUND_SMALL_A_LOD1.glb",
+      "sha256": "15d20d7b815231431889b9c91cd7d3ae7e493ef82855d90db1998b6207fe2f6e",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TREE_TIERED_SLIM_A_LOD1.glb",
+      "sha256": "9f207345e5483cd9bc796d2e28d979bb1408795eaeb599d03c8f887cac48dc85",
+      "errors": []
+    },
+    {
+      "file": "DRY_01/models/TW_TERMINAL_POST.glb",
+      "sha256": "62523a8ee07d0b7b9a2999f65cf8b3c6457e05b9b540ffae01c9ac893a599fdd",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_LOW_WEDGE_A_LOD0.glb",
+      "sha256": "8bdede40269e10cc784c29e9237fa4e501f6812f431667046b7699a50d81f7fe",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_UPRIGHT_A_LOD0.glb",
+      "sha256": "d20361ac69e2be54e690d37c98b58d43d4dedcaf924cab8ab9023a41cb84c5ab",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_ROUND_SMALL_A_LOD0.glb",
+      "sha256": "0f3f64512d7df1b514a3346b45966aaf89ac5b9344dcbbc5b85c50ac5391bc88",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_TIERED_SLIM_A_LOD0.glb",
+      "sha256": "240fd8f6324df7b8f9d56243787e8fe49af90f41bf5cc04364ec68787adbda29",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_RAIL_1M_A_LOD0.glb",
+      "sha256": "2874c535d53a4b30dca33d72724ff95a601d6fb2c90f589081a1745c9c751be9",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_RAIL_2M_A_LOD0.glb",
+      "sha256": "c5979a61c94cebd53df9f2c439cf28098824ff3c04f519ea27ca26448d6d8130",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_LOG_BROKEN_15M_A_LOD0.glb",
+      "sha256": "c4caa2e2d215e14e9e9400d93cc0915db94ffe8f06c0a8c2b8bb0ecb0eaf111c",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_LOG_CUT_2M_A_LOD0.glb",
+      "sha256": "7ff6b9da25ab8779cba6db0baf2651d199c240557872690d4d01c47418cdbc15",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STUMP_BROKEN_A_LOD0.glb",
+      "sha256": "81b3a489c067cbf156530ab858e6765508133c416df13a39824a46a2fc5c5de7",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STUMP_CUT_SMALL_A_LOD0.glb",
+      "sha256": "94dc5f8f53ca5b38d12182426f4694dea4265db9ae0dc7e424e3a7f8f075bba1",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_GRASS_TALL_A_LOD0.glb",
+      "sha256": "df396394834b2e55d7ccb4a210956f785c4f91907b7c09b6d44ff0549e23f075",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_GRASS_TUFT_A_LOD0.glb",
+      "sha256": "a802548d16e86bd8c88124fb073faedfff95147364434c5f44d7951ff7b941cf",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_SHRUB_ROUND_A_LOD0.glb",
+      "sha256": "ea95a9b057b2fcc2dbbd6f99ca79eefef960e60929f5210fe086e4703e6e9653",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_SHRUB_SPREAD_A_LOD0.glb",
+      "sha256": "60b91add5d008ac21b0affa4fda8894559737926b8cc22163f21ab4122e9a4f3",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_CRATE_LONG_A_LOD0.glb",
+      "sha256": "60ed49138e720736a1300b6774d1ada352796f2f5ec9b16f5d2e5172eee34bab",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_CRATE_SMALL_A_LOD0.glb",
+      "sha256": "547e8625082d02eac482d6da2677231e95687b13b5bc6322883796c07d257ab4",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_SIGN_ARROW_A_LOD0.glb",
+      "sha256": "345b6469b98c02698ccc85a6b65cb5b7c5981252c804ec821639daa65259e466",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_SIGN_FORK_A_LOD0.glb",
+      "sha256": "bc005a41297ccbd840ab8d00a2375a8f8007d3fad75c7c0527f40ae6fcbf2311",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_PAVER_LONG_A_LOD0.glb",
+      "sha256": "121570f97db4e75a01e32d7559a47d2a8fabc6622d6583a384d0288da073247d",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_PAVER_ROUND_A_LOD0.glb",
+      "sha256": "e0bd52d3e23f277ec4ffbad280c567217d214729f3a399cadf1c0de331605791",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STEPS_LOW3_A_LOD0.glb",
+      "sha256": "113b2bed7ca16a9088e4b178539235b7a7d6ea643b8ce656b9c9e8e585d4d6f6",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STEPS_WIDE4_A_LOD0.glb",
+      "sha256": "298189b1157fb2ac8ad581b0363b1468f94d45f7d247e13f28cfb9c4b1ec7aac",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_BENCH_BACKREST_A_LOD0.glb",
+      "sha256": "4ac173df5c6931c6c20a9b1b21bd05ee68695de8c70436702702e6c4f2037647",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_BENCH_SIMPLE_A_LOD0.glb",
+      "sha256": "91acde109cccf3ecabb37adc5eba0da8d18d610843eb82b8aaf30b6fc4a29f92",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TABLE_LONG_A_LOD0.glb",
+      "sha256": "f0f924c148208d6dc2910e1c2db1b13708e7a45102169e1913c8171cded7c84c",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TABLE_SQUARE_A_LOD0.glb",
+      "sha256": "e9d7b2041c9c19591f77ad6c6a7c0a8333efbcb0895ca1245c9fdc76bd0125cb",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_CORNER_L90_A_LOD0.glb",
+      "sha256": "02eb32659b5f56e8b21a59cd53a4cda63707a752a48808954d371ad3bd38d1af",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_CORNER_L90_B_LOD0.glb",
+      "sha256": "8e52d188eb24f2ed822ec80979033e57f4fd2ad4639edbac5e47f1ba13acb065",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_CORNER_R90_A_LOD0.glb",
+      "sha256": "de59a6bd825169fc6c80c6c635d9c1771f7b17465c5da8c231aec98ddc8121d8",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_CORNER_R90_B_LOD0.glb",
+      "sha256": "db0124cefbac72c797e7fbdeaafe46e96fd60eb57f33e41ceabb1212a6c634ee",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_END_BROKEN_A_LOD0.glb",
+      "sha256": "283de915aaa3f5e6d0a9116e48e06dab135c74cbf89b989bb0af5ff4833eeca3",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_END_BROKEN_B_LOD0.glb",
+      "sha256": "10048419230bc728aaa99ef0dac015fce10807fc80fea6eba56f4e31b462967c",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_END_CAP_A_LOD0.glb",
+      "sha256": "072156642e2b6b36ff67f790ba0222d9e7d1ad7a0cf1f3c8007e3fc56bfd0c2a",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_END_CAP_B_LOD0.glb",
+      "sha256": "1dc35ce6f914982f5bb1c4ac0d1366ee9249d7d2ecc1657896b3417b4eb6355e",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_GATE_FRAME_A_LOD0.glb",
+      "sha256": "03ce0ea6257e1f4694bf784d1868870d95e5ff9f7aab4c2f551f6c8546615df1",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_GATE_FRAME_B_LOD0.glb",
+      "sha256": "e531c6e864d4f245f360e7a085dd5910be2a41e3cd37f7d977bae4144edf1dee",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_GATE_LEAF_A_LOD0.glb",
+      "sha256": "f4b2a9547474f78877cb818dcbfc1b39137c1419e3bd757aad2baf948d75d807",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_GATE_LEAF_B_LOD0.glb",
+      "sha256": "4926883cb713f84c6e4cf64524b0a8f7c1041755563de319c7c3aabc82934534",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_POST_A_LOD0.glb",
+      "sha256": "4e4593019dc27365ebfdd0455a78d0702da03de4704f5491349c91d292d73285",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_POST_B_LOD0.glb",
+      "sha256": "84f11a85bf4fb08ab089c203a73aa4295708a71314f17cc1b850cf23b34473a2",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_RAIL_1M_B_LOD0.glb",
+      "sha256": "054e70ad24e3214ca1b51c642e647f865425ddb318d62f276c8edd7286a9b597",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_RAIL_2M_B_LOD0.glb",
+      "sha256": "f331bfa892c6cf6f64489165b8ff84f4afea0dbe3a1cd2b05a02434a054dfd44",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_RAIL_4M_A_LOD0.glb",
+      "sha256": "245f0bc2dcc43f2cc1011127473e4968431ffdf15f8171e7c04c2d3aa4915fae",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_WOOD_RAIL_4M_B_LOD0.glb",
+      "sha256": "e92e42218a146fbbe70e7a8d163d9aa08b1568e5e29ab2655f4fc59cea7a83c1",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_CORNER_L90_A_LOD0.glb",
+      "sha256": "3ca68f0795870238b934f1224b29219a1f8a16de50761b823c3159d3f026e48d",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_CORNER_L90_B_LOD0.glb",
+      "sha256": "ef897b948611f519b54ff2763d9c955d990092908b571844bbe0302394a6a493",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_CORNER_R90_A_LOD0.glb",
+      "sha256": "ec1b924a8419d7faa1da6a36c4a9e133ad4db7161a653896a8922829d546d92b",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_CORNER_R90_B_LOD0.glb",
+      "sha256": "af417c80c2440f4f621e61c6ad6298f391a1c5f20640aad32eb2582e7a3c0270",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_END_CAP_A_LOD0.glb",
+      "sha256": "a1ce808458548356567e92344059bfa6860b690f0db27d25ddb1ae618d72402a",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_END_CAP_B_LOD0.glb",
+      "sha256": "ab2099f15624762f12900abde565b3699c35bb8a706010ec735e01c904ee8e50",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_END_RUIN_A_LOD0.glb",
+      "sha256": "afeac20f93c97c1e20b41ad2a70b2f4b890e1c6cb923efa46d476dbf8726a3ab",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_END_RUIN_B_LOD0.glb",
+      "sha256": "026647716ac30b7cfe39c4e095b0cd4f9070df0dd07076834bf0bfaa4b06e7c1",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_POST_A_LOD0.glb",
+      "sha256": "0bb284c5f538212a2697d2954556e32a735d564c654ef2af7cdb7eea000f4864",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_POST_B_LOD0.glb",
+      "sha256": "27222b78900a55729d9a49a426950bad36b736fbbee1e0a460411dc4cad9e6b4",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_WALL_1M_A_LOD0.glb",
+      "sha256": "085fc7687d280bb39db4be6a6559bef6e5e03b89352e4c678c585ed0156f5e83",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_WALL_1M_B_LOD0.glb",
+      "sha256": "6162d3ffd8b0bedf593200606d98011f87f3175dccebb68cbac6e979377194d5",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_WALL_2M_A_LOD0.glb",
+      "sha256": "68de2e11fe2ba41b137cf36bd37ae4b49cacb69e5a8e87d9aee144be6829bd80",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_WALL_2M_B_LOD0.glb",
+      "sha256": "a0f2342a6d372d97a599ae1627c94779c960725db664981415a1cc596d2e9f83",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_WALL_4M_A_LOD0.glb",
+      "sha256": "3703299970bd67a04fc2137eefd5197f48112debf646d2e314a97dd9bc53a916",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_STONE_WALL_4M_B_LOD0.glb",
+      "sha256": "76ab2957211917265e9eaf691b1886b6abb7ea974dbf7e368441f7f27446b7fb",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_BRANCH_FORK_A_LOD0.glb",
+      "sha256": "7716c022b02c9c2fee9d6e0bbb609baf090441e6c6e1cf4cc51025a7f0a6de58",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_BRANCH_FORK_B_LOD0.glb",
+      "sha256": "1ae58b658c945ab566387b8538923f6d51dde0893d82baee48af698a1a82fb9c",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_BRANCH_PILE_A_LOD0.glb",
+      "sha256": "d7b1d99cdeb5e187da94c0035eabc974ab74271af77655495b10ad7e6c97dee4",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_BRANCH_PILE_B_LOD0.glb",
+      "sha256": "db43edea4ce1dcec0f4f6838b2a729d91b71d0078c860250a1ee1b6be3db880a",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_LOG_BROKEN_A_LOD0.glb",
+      "sha256": "45146ced62dd70ee3d6a91462fbcbe65f497c0702e1391b9cee5c63b3297377e",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_LOG_BROKEN_B_LOD0.glb",
+      "sha256": "961bab59257f21f84af7dd95c73d92b22ecf58726627d7596e37024511c18999",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_LOG_STRAIGHT_A_LOD0.glb",
+      "sha256": "3b7797641a3681f99680affc059705eb21f75424921147cff754f14dae6f1dff",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_LOG_STRAIGHT_B_LOD0.glb",
+      "sha256": "a424f1b5a1f84e00c55fdf70a7b4e57ac21c163b3dbb3c79b2c00a523399c8cc",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_STUMP_ROUND_A_LOD0.glb",
+      "sha256": "cb9368ff94efa3f4300754480926c078be3a95f895b5f238686e0adc0250e36c",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_STUMP_ROUND_B_LOD0.glb",
+      "sha256": "d4253c762e4bd3555613345bfa5a7c315811704635780dd7d6b28e1ed88a21e0",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_STUMP_SPLIT_A_LOD0.glb",
+      "sha256": "1c89236aa7a8f395c185513cfa64b2305280a86a3609966cfb3706988a7c1dc7",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_PROP_STUMP_SPLIT_B_LOD0.glb",
+      "sha256": "9e7e6dacae130d9b56ed797a8f32ca74c3268baf35bd7e43da8c8770cca60bfb",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_CLUSTER_LARGE_A_LOD0.glb",
+      "sha256": "3cc13c928269d23b5aa5c41e5a30ac56c24c07aabe747aeea95ffa364858054d",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_CLUSTER_LARGE_B_LOD0.glb",
+      "sha256": "10f7b89b791b1fe665a98d0645cc5507c7fde4e2f51c23aea203967ba4c88f85",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_CLUSTER_SMALL_A_LOD0.glb",
+      "sha256": "5a8f0a7d87271351360482b8e0d248f850d5148e23b412fa04f409452a587301",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_CLUSTER_SMALL_B_LOD0.glb",
+      "sha256": "5561db925cf886851c59a1546e1fc1f3d83ff62158b6380491860cbd13aad9d7",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_FLAT_SLAB_A_LOD0.glb",
+      "sha256": "15a1ac3105e186194c4712c0370950362e6fe2963d0c84d6b269b3f316f67388",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_FLAT_SLAB_B_LOD0.glb",
+      "sha256": "de518a89e1c3188ba36dc343799801a3c5152dc99e25cca61401a14b09b567b8",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_LOW_WEDGE_B_LOD0.glb",
+      "sha256": "9d9d2983d387a316949d1a6cf136732b6b72b68a66e72c365f5bb3dc95f3a3d1",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_SPLIT_MASS_A_LOD0.glb",
+      "sha256": "a0206816074ee3b9ca2877f575fa3396add8c60c4432aeb461ea61f58e8ac421",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_SPLIT_MASS_B_LOD0.glb",
+      "sha256": "0efe3c66b096760405d91528aa8d52262104057ed2344f0ddfd916494bc6d805",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_UPRIGHT_B_LOD0.glb",
+      "sha256": "82b0bc95c25fe10460912d7895ec0adafca40228e1bdc109d322a50694914cb0",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_DEAD_FORK_A_LOD0.glb",
+      "sha256": "285950e11db13e2e74ce4f33ae6beb2922fa049d356a091e8e86ae52a4c7a1ce",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_DEAD_FORK_B_LOD0.glb",
+      "sha256": "6a55c74f27e2a11017dbac283d0886fc450b22196f1eb6e00f49922b7438a321",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_DEAD_LEAN_A_LOD0.glb",
+      "sha256": "df1fc525b4faac6d6ed88f579c52526e967270d1f26e722ce857195e493c3b04",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_DEAD_LEAN_B_LOD0.glb",
+      "sha256": "9318ed8cd1f208c654693233040a7bcd94ab0f601ebe1ca31ac6cde89f0f3506",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_ROUND_BROAD_A_LOD0.glb",
+      "sha256": "85e8da61503748166ef0310a40b4ab93af2aafaaaf540290f9371ac6dbb488e6",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_ROUND_BROAD_B_LOD0.glb",
+      "sha256": "04e0bba98a7dded93bf76ea4b38ed02651818fa073a045fa35d7c3d872e74a5b",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_ROUND_SMALL_B_LOD0.glb",
+      "sha256": "51fa12c7c086afeec99bb4e38f68d6b5ff5857e9424b2446c098dc516a35afe0",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_TIERED_SLIM_B_LOD0.glb",
+      "sha256": "572689225dfd2bcfef20ba193da3616eed95d387d4579e3e4acb23aaf030302f",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_TIERED_WIDE_A_LOD0.glb",
+      "sha256": "3793033bdcda6e201cae1f8d6b5211a6b39b9e7a80794ceafe391f99979b3ed3",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_TIERED_WIDE_B_LOD0.glb",
+      "sha256": "4301f18d0afda0ccc94830ff23c47a4dcf275ccc35b2c47a60fe6d08710652e4",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_BUSH_LONG_A_LOD0.glb",
+      "sha256": "9756c421105836f8c8ba7c3787c73dbcfddda44e323ff2eb2c0e1189f7539bea",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_BUSH_LONG_B_LOD0.glb",
+      "sha256": "ef36478a0d864f969139d4370deb3b3bbc2f49810c22f6aac9d8fde931a83adb",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_BUSH_ROUND_A_LOD0.glb",
+      "sha256": "de83615ee59b708eef19dba939ff65571bf2ea0662032d64b56666c204ced8e5",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_BUSH_ROUND_B_LOD0.glb",
+      "sha256": "29ad44d3f65c7d00b7b84fca9313056920722cd181242b41343ca5d938b5617f",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_BUSH_SPARSE_A_LOD0.glb",
+      "sha256": "0d4addb8638037f654c0bf6fd722d0df277cfcb30b3ff3d975a52b32656dc280",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_BUSH_SPARSE_B_LOD0.glb",
+      "sha256": "d6046711a48b7b5ac1478277aa7d0c247ae89addec8fc84c3466bcded7e1c59a",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_GRASS_FAN_A_LOD0.glb",
+      "sha256": "5e1d78c7b61abb0c30d3b5fcd42f784e50af62f5a66deee6b975ace16539ad93",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_GRASS_FAN_B_LOD0.glb",
+      "sha256": "ee2010a53c19a4ebf9b5b157718f0d3f91a39deffbde6af01d5a21edfb4a8638",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_GRASS_LOW_A_LOD0.glb",
+      "sha256": "f57c101fcf430f4b3705a066a4bf5abe7f1e042c0ca3dee2e1e1b266095f9f4e",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_GRASS_LOW_B_LOD0.glb",
+      "sha256": "774f8cdb0f8325f18cabc2d910d8031bd4da0cd99dd91d1b540af0ca74b408cf",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_GRASS_TUFT_A_LOD0.glb",
+      "sha256": "8ff52aae8a517305fd058a372808efa960dddc42d788bd15319deb5da2015f74",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_VEG_GRASS_TUFT_B_LOD0.glb",
+      "sha256": "3faff0e16a7893d9a6b50d9f25941faac4c0cfab8258fda791ae330f4a5a4615",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_LOW_WEDGE_A_LOD1.glb",
+      "sha256": "98534b14574079de04e38e69497dddbc665914900a2185adc21c9b495fda29e0",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_ROCK_UPRIGHT_A_LOD1.glb",
+      "sha256": "533fb9d54b6af017de283a7cf4709ac38bbaac03d1526277c3d09aad23835383",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_ROUND_SMALL_A_LOD1.glb",
+      "sha256": "c1b21e082ad83c0a604566cf9e1450896660ae5d066d464f087b373f79ee4413",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TREE_TIERED_SLIM_A_LOD1.glb",
+      "sha256": "0f6ae372d43f054df932480edfbfcef2dc5da69182123290d102e667ad1bad96",
+      "errors": []
+    },
+    {
+      "file": "DUSK_01/models/TW_TERMINAL_POST.glb",
+      "sha256": "646e5949ea723fc658571ff9cb49a1c0a1063ddd060678e36e378e43d340e0ef",
+      "errors": []
+    }
+  ]
+}

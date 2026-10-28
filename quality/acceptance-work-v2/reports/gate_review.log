@@ -1,0 +1,20 @@
+{
+  "audit_version": "1.0",
+  "internal_review_package_permitted": true,
+  "sales_release_permitted": false,
+  "internal_blockers": [],
+  "sales_blockers": [
+    "human_art_approval",
+    "provenance_complete",
+    "lod_coverage",
+    "gpu_visual_review",
+    "mobile_performance",
+    "platform_and_terms_review",
+    "sales_required_files",
+    "sales_allowlist_packaging",
+    "examples_catalog_thumbnails",
+    "free_trial_subset"
+  ],
+  "approval_policy": "No automatic approvals; no publication performed.",
+  "scope": "Local recorded-evidence audit. PASS for internal review is not sales readiness."
+}

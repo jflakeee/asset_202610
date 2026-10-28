@@ -1,0 +1,10 @@
+{
+  "test": "AT09",
+  "passed": true,
+  "valid_catalog_files": 327,
+  "missing_palette": "M001",
+  "external_uri_variants": 5,
+  "external_buffer": "X001",
+  "out_of_bounds_palette": "M001",
+  "scope": "Strict original v1 embedded-palette preflight, separate from core-six vertex-color profile"
+}

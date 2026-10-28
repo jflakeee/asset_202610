@@ -1,0 +1,39 @@
+{
+  "AT01": {
+    "passed": true,
+    "unique_recipes": 6,
+    "generation_success": true,
+    "provenance_file_hashes_verified": true,
+    "human_provenance_approval": false
+  },
+  "AT08": {
+    "passed": true,
+    "scope": "Six P0 recipes; reversed per-generator recipe order",
+    "results": {
+      "TW_ROCK_LOW_WEDGE_A": {
+        "glb_sha256": "2cd6780d0595b36548476c0f7696a9c6141b64eefc2357bd11db102f3562d951",
+        "source_sha256": "b52f80fa11a380d764d0a35ad56b65ec7e1cbfd7683e24f3515063ec9a48e3e7"
+      },
+      "TW_ROCK_UPRIGHT_A": {
+        "glb_sha256": "1ca01b466bb82bea44d2fd7193932f519285697b36a98ee7abcca3a80c9645fb",
+        "source_sha256": "17683291531e8e6232ed4e7ed645ee8d4813b1911fd61041a910dc2c6fb30b34"
+      },
+      "TW_TREE_ROUND_SMALL_A": {
+        "glb_sha256": "2d509a2050e0e3bc94bb22ac2d0a74b4827842551e8220c69ead4fa65a23b26e",
+        "source_sha256": "494bb88f98b26505be9c01b5dfae7d19855619f71027baf460995cd54b380aff"
+      },
+      "TW_TREE_TIERED_SLIM_A": {
+        "glb_sha256": "21420a077931fc9acb66446bea8b2f7847a0dc2c05d43d65103f6b6fe694de00",
+        "source_sha256": "e2ff3b07396794c6231d62398ccb48edd99ba2b42b159c7c8286f6a8d1392840"
+      },
+      "TW_WOOD_RAIL_1M_A": {
+        "glb_sha256": "055cb7e0008e0b20047c351ae409b789811fd344dcfa966fa323e66f3b34248d",
+        "source_sha256": "3d61d52fe8452ab98e306f306b3a4593c4960cef8c7e923d17c88f8035213148"
+      },
+      "TW_WOOD_RAIL_2M_A": {
+        "glb_sha256": "df031a7101cf320955722e30398c5b0442b0c2aefaf36df95728be27a918e11d",
+        "source_sha256": "ec8d98a089ad973498d1821247436b5d85430652edc14396d99c8cd73e615e8c"
+      }
+    }
+  }
+}
