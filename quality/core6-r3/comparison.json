@@ -1,0 +1,50 @@
+[
+  {
+    "id": "chest",
+    "before_bytes": 67420,
+    "after_bytes": 40976,
+    "before_vertices": 1704,
+    "after_vertices": 1104,
+    "max_linear_color_error": 0.0018634016315142304
+  },
+  {
+    "id": "ore",
+    "before_bytes": 6856,
+    "after_bytes": 6180,
+    "before_vertices": 126,
+    "after_vertices": 122,
+    "max_linear_color_error": 0.001943791146371887
+  },
+  {
+    "id": "coin",
+    "before_bytes": 22068,
+    "after_bytes": 11600,
+    "before_vertices": 576,
+    "after_vertices": 322,
+    "max_linear_color_error": 0.0018634016315142304
+  },
+  {
+    "id": "rope",
+    "before_bytes": 75016,
+    "after_bytes": 61668,
+    "before_vertices": 2046,
+    "after_vertices": 2004,
+    "max_linear_color_error": 0.0016336637384751218
+  },
+  {
+    "id": "potion",
+    "before_bytes": 30316,
+    "after_bytes": 18268,
+    "before_vertices": 780,
+    "after_vertices": 510,
+    "max_linear_color_error": 0.001872620556284399
+  },
+  {
+    "id": "wood",
+    "before_bytes": 18636,
+    "after_bytes": 9636,
+    "before_vertices": 480,
+    "after_vertices": 258,
+    "max_linear_color_error": 0.0016336637384751218
+  }
+]

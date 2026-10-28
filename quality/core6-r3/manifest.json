@@ -1,0 +1,50 @@
+[
+  {
+    "id": "chest",
+    "triangles": 568,
+    "materials": 3,
+    "primitives": 6,
+    "bytes": 40976,
+    "animated": true
+  },
+  {
+    "id": "ore",
+    "triangles": 42,
+    "materials": 2,
+    "primitives": 2,
+    "bytes": 6180,
+    "animated": false
+  },
+  {
+    "id": "coin",
+    "triangles": 192,
+    "materials": 1,
+    "primitives": 1,
+    "bytes": 11600,
+    "animated": false
+  },
+  {
+    "id": "rope",
+    "triangles": 682,
+    "materials": 1,
+    "primitives": 1,
+    "bytes": 61668,
+    "animated": false
+  },
+  {
+    "id": "potion",
+    "triangles": 260,
+    "materials": 2,
+    "primitives": 2,
+    "bytes": 18268,
+    "animated": false
+  },
+  {
+    "id": "wood",
+    "triangles": 160,
+    "materials": 1,
+    "primitives": 1,
+    "bytes": 9636,
+    "animated": false
+  }
+]
