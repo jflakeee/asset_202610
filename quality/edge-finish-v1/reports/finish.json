@@ -1,0 +1,107 @@
+{
+  "blender": "4.5.9 LTS",
+  "models": [
+    {
+      "id": "chest",
+      "base_triangles": 568,
+      "finished_triangles": 1144,
+      "modified_components": [
+        {
+          "component": "side_wall",
+          "width_m": 0.006
+        },
+        {
+          "component": "side_wall",
+          "width_m": 0.006
+        },
+        {
+          "component": "rim",
+          "width_m": 0.006
+        },
+        {
+          "component": "rim",
+          "width_m": 0.006
+        },
+        {
+          "component": "rim",
+          "width_m": 0.006
+        },
+        {
+          "component": "rim",
+          "width_m": 0.006
+        },
+        {
+          "component": "corner_guard",
+          "width_m": 0.0015
+        },
+        {
+          "component": "corner_guard",
+          "width_m": 0.0015
+        },
+        {
+          "component": "corner_guard",
+          "width_m": 0.0015
+        },
+        {
+          "component": "corner_guard",
+          "width_m": 0.0015
+        },
+        {
+          "component": "lock_plate",
+          "width_m": 0.0015
+        },
+        {
+          "component": "lid_plank",
+          "width_m": 0.006
+        },
+        {
+          "component": "lid_plank",
+          "width_m": 0.006
+        },
+        {
+          "component": "lid_plank",
+          "width_m": 0.006
+        },
+        {
+          "component": "lid_plank",
+          "width_m": 0.006
+        },
+        {
+          "component": "lid_plank",
+          "width_m": 0.006
+        },
+        {
+          "component": "lid_edge",
+          "width_m": 0.006
+        },
+        {
+          "component": "lid_edge",
+          "width_m": 0.006
+        }
+      ]
+    },
+    {
+      "id": "ore",
+      "base_triangles": 42,
+      "finished_triangles": 146,
+      "modified_components": [
+        {
+          "component": "host_rock",
+          "width_m": 0.008
+        },
+        {
+          "component": "iron_front",
+          "width_m": 0.0035
+        },
+        {
+          "component": "iron_crown",
+          "width_m": 0.0035
+        },
+        {
+          "component": "iron_rear",
+          "width_m": 0.0035
+        }
+      ]
+    }
+  ]
+}

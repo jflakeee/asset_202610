@@ -1,0 +1,23 @@
+{
+  "blender": "4.5.9 LTS",
+  "models": [
+    {
+      "id": "chest",
+      "evaluated_triangles": 1144,
+      "enabled_bevels": 18,
+      "reopen_ok": true,
+      "hinge_degrees": [
+        0.0,
+        52.49999633830372,
+        104.99999950679661
+      ]
+    },
+    {
+      "id": "ore",
+      "evaluated_triangles": 146,
+      "enabled_bevels": 4,
+      "reopen_ok": true
+    }
+  ],
+  "passed": true
+}

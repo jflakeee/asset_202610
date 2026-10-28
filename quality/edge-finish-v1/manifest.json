@@ -1,0 +1,18 @@
+[
+  {
+    "id": "chest",
+    "triangles": 1144,
+    "materials": 3,
+    "primitives": 6,
+    "bytes": 91940,
+    "animated": true
+  },
+  {
+    "id": "ore",
+    "triangles": 146,
+    "materials": 2,
+    "primitives": 2,
+    "bytes": 15556,
+    "animated": false
+  }
+]

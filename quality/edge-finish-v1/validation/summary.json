@@ -1,0 +1,19 @@
+{
+  "validator": "2.0.0-dev.3.10",
+  "models": [
+    {
+      "id": "chest",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0,
+      "hints": 0
+    },
+    {
+      "id": "ore",
+      "errors": 0,
+      "warnings": 0,
+      "infos": 0,
+      "hints": 0
+    }
+  ]
+}
