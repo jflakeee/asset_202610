@@ -1,0 +1,24 @@
+{
+  "validator": "2.0.0-dev.3.10",
+  "themes": [
+    {
+      "theme": "MOSS_01",
+      "files": 109,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "theme": "DRY_01",
+      "files": 109,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "theme": "DUSK_01",
+      "files": 109,
+      "errors": 0,
+      "warnings": 0
+    }
+  ],
+  "scope": "Fresh validation of regenerated GLBs with SHA-256 in per-theme results"
+}

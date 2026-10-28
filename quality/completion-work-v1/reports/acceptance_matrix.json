@@ -1,0 +1,87 @@
+{
+  "base_commit": "ed6435cec2b431f3b958d895afed9a4799577dcd",
+  "tests": [
+    {
+      "id": "AT01",
+      "status": "NOT_RUN",
+      "detail": "6 recipe/provenance schema acceptance not freshly executed"
+    },
+    {
+      "id": "AT02",
+      "status": "NOT_RUN",
+      "detail": "10m five-module plus physical terminal-post case not freshly executed"
+    },
+    {
+      "id": "AT03",
+      "status": "PASS",
+      "detail": "Actual 1/2/4m 7m socket chain"
+    },
+    {
+      "id": "AT04",
+      "status": "PASS",
+      "detail": "2.13m residual preserved without scale"
+    },
+    {
+      "id": "AT05",
+      "status": "NOT_RUN",
+      "detail": "Topology ownership and four real closed loops checked; complete open/closed acceptance still pending"
+    },
+    {
+      "id": "AT06",
+      "status": "PASS",
+      "detail": "Actual exported sockets, normals and collider descriptors rotated90deg"
+    },
+    {
+      "id": "AT07",
+      "status": "PASS",
+      "detail": "Two fresh source builds:327 byte-identical GLBs,84 normalized geometry hashes and bounds match"
+    },
+    {
+      "id": "AT08",
+      "status": "NOT_RUN",
+      "detail": "Recipe list order permutation not executed"
+    },
+    {
+      "id": "AT09",
+      "status": "NOT_RUN",
+      "detail": "Missing texture/absolute path negative case not freshly executed"
+    },
+    {
+      "id": "AT10",
+      "status": "PASS",
+      "detail": "84 canonical models positions/indices/UV/nodes identical across3 themes"
+    },
+    {
+      "id": "AT11",
+      "status": "NOT_RUN",
+      "detail": "Original P0 model set fresh engine import not rerun; core-six items Godot report is a separate scope"
+    },
+    {
+      "id": "AT12",
+      "status": "NOT_RUN",
+      "detail": "Only4 LOD1 pairs; full84 LOD1/2 policies pending"
+    },
+    {
+      "id": "AT13",
+      "status": "PASS",
+      "detail": "Synthetic approval fixture rejects changed content hashes P002; no real approvals issued"
+    },
+    {
+      "id": "AT14",
+      "status": "PASS",
+      "detail": "Trial staging extra file/mutation/missing/symlink/path controls reject; sales-wide staging pending"
+    },
+    {
+      "id": "AT15",
+      "status": "NOT_RUN",
+      "detail": "Approved84 thumbnail/document exactness pending"
+    },
+    {
+      "id": "AT16",
+      "status": "PASS",
+      "detail": "Zero-length and +/-16deg rejection checked"
+    }
+  ],
+  "all_design_complete": false,
+  "sales_approved": false
+}

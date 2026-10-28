@@ -1,0 +1,116 @@
+{
+  "passed": true,
+  "pngs": [
+    {
+      "id": "chest",
+      "size": 64,
+      "margin_px": 4,
+      "sha256": "d514c0c398f180e942fc0e2fa577f440caf5e92c28011a41334e4546ad5c884a"
+    },
+    {
+      "id": "chest",
+      "size": 128,
+      "margin_px": 11,
+      "sha256": "0ce699671c12c7bdaf56c6834a4fcb6713a371f9c3cb91fd36cae0bd1a11bf94"
+    },
+    {
+      "id": "chest",
+      "size": 256,
+      "margin_px": 24,
+      "sha256": "ff49d3e370838c3ce5d4ce5e4b90318f283bd39f340e026b211e79c070f1a3a4"
+    },
+    {
+      "id": "ore",
+      "size": 64,
+      "margin_px": 6,
+      "sha256": "61cab8d7a24bfdc2884e20e07f51e283c4b9460dd6707b30fe123e3d67ff6825"
+    },
+    {
+      "id": "ore",
+      "size": 128,
+      "margin_px": 13,
+      "sha256": "016613bca03f8db587b047c1099bc5be2ce106003aeedd11f6832ab96c791c97"
+    },
+    {
+      "id": "ore",
+      "size": 256,
+      "margin_px": 29,
+      "sha256": "056661f7c5a66156520fdada1d321ae236d170bc997f6d2b6186076e43c82982"
+    },
+    {
+      "id": "coin",
+      "size": 64,
+      "margin_px": 9,
+      "sha256": "cbe343123dba5f490bcc02de874c30e0898fd03191e7ea19417f5fcb97c5ce40"
+    },
+    {
+      "id": "coin",
+      "size": 128,
+      "margin_px": 21,
+      "sha256": "ef1fc6629234b54017fb349c8275b70edff65b4efa4156ffc5372583c9bed16b"
+    },
+    {
+      "id": "coin",
+      "size": 256,
+      "margin_px": 44,
+      "sha256": "ce207f7aed1e42c9123361835010c23037e043219c7122449df2c053ee4de990"
+    },
+    {
+      "id": "rope",
+      "size": 64,
+      "margin_px": 9,
+      "sha256": "0cb26d73dd954195fcaa1126af0c1b0ab6ebf42ca8199206bd07940bd3f61459"
+    },
+    {
+      "id": "rope",
+      "size": 128,
+      "margin_px": 21,
+      "sha256": "b90930fe0d4f4c29d1d719cecfd5653d947e0ed919eaba576080f02eb0da15be"
+    },
+    {
+      "id": "rope",
+      "size": 256,
+      "margin_px": 45,
+      "sha256": "8594068d1ac3b810c231ff0935989148c53868bb39e8496635b8ce7804cb8b5e"
+    },
+    {
+      "id": "potion",
+      "size": 64,
+      "margin_px": 7,
+      "sha256": "7cb80411caa9970181eeae045259bbf1d20b1de395a37415a316bfa93072673c"
+    },
+    {
+      "id": "potion",
+      "size": 128,
+      "margin_px": 17,
+      "sha256": "b8243e831c0b584a695a6812747502e744dffb899877f3e8f6f9a9ee3bbced4d"
+    },
+    {
+      "id": "potion",
+      "size": 256,
+      "margin_px": 37,
+      "sha256": "9427dbbc9f388775fc1b6657bea08056a2859212fae84adb5ef0281d1c932309"
+    },
+    {
+      "id": "wood",
+      "size": 64,
+      "margin_px": 11,
+      "sha256": "4d228ba6e6692c917bc4db8bca50b05853541154e73e8011dcf7fc34ad1c28fc"
+    },
+    {
+      "id": "wood",
+      "size": 128,
+      "margin_px": 24,
+      "sha256": "e48150d4d3eb8266e419d9ef2d7fb61fcde959acbdca9a15609c87692fb759a0"
+    },
+    {
+      "id": "wood",
+      "size": 256,
+      "margin_px": 51,
+      "sha256": "fd9ef80f54db634e45ae569c0d219aeeff0c73c4b5b17166489d02dcec139af4"
+    }
+  ],
+  "atlas_regions": 6,
+  "alpha": "straight",
+  "method": "Premultiplied-alpha downsampling followed by straight-alpha PNG encoding"
+}

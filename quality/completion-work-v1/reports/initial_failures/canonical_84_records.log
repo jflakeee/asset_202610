@@ -1,0 +1,18 @@
+
+Traceback (most recent call last):
+  File "/workspace/scratch/eee38282c88e/completion_checkout/asset_202610-ed6435cec2b431f3b958d895afed9a4799577dcd/creation/build_asset_records.py", line 116, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/eee38282c88e/completion_checkout/asset_202610-ed6435cec2b431f3b958d895afed9a4799577dcd/creation/build_asset_records.py", line 88, in main
+    doc=build(); rows=doc['records']; assert len(rows)==84
+        ^^^^^^^
+  File "/workspace/scratch/eee38282c88e/completion_checkout/asset_202610-ed6435cec2b431f3b958d895afed9a4799577dcd/creation/build_asset_records.py", line 18, in build
+    manifest = json.loads((root/'theme_output/manifest.json').read_text())
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1027, in read_text
+    with self.open(mode='r', encoding=encoding, errors=errors) as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/pathlib.py", line 1013, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/workspace/scratch/eee38282c88e/completion_checkout/asset_202610-ed6435cec2b431f3b958d895afed9a4799577dcd/creation/theme_output/manifest.json'

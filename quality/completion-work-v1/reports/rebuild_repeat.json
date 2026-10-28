@@ -1,0 +1,429 @@
+{
+  "test": "AT07",
+  "passed": true,
+  "fresh_builds": 2,
+  "byte_identical_glbs": 327,
+  "canonical_normalized_geometry_and_bounds": 84,
+  "models": [
+    {
+      "id": "TW_PROP_BRANCH_FORK_A",
+      "normalized_geometry_sha256": "fa4deaf1550226bc55bf2b00555f73a29bcadac96872443aa9fdd48881f6232d",
+      "triangles": 48
+    },
+    {
+      "id": "TW_PROP_BRANCH_FORK_B",
+      "normalized_geometry_sha256": "8f497b018755cf923fe208936cde69392ff70085bfec911d42f0fece420cfae4",
+      "triangles": 70
+    },
+    {
+      "id": "TW_PROP_BRANCH_PILE_A",
+      "normalized_geometry_sha256": "dfe00216ae3fee17acba3be10be91fc1f4a41bed99b74812679c5921f14a4966",
+      "triangles": 144
+    },
+    {
+      "id": "TW_PROP_BRANCH_PILE_B",
+      "normalized_geometry_sha256": "638a1f062575472d12741bf4a196ab8ddf4c77abc6aa62420410e08a2c4e5f92",
+      "triangles": 216
+    },
+    {
+      "id": "TW_PROP_LOG_BROKEN_A",
+      "normalized_geometry_sha256": "3feb87c42077b9b95b0e5a0b8d68765318dc1b6c3ea0dec1658b472378bd3ff6",
+      "triangles": 124
+    },
+    {
+      "id": "TW_PROP_LOG_BROKEN_B",
+      "normalized_geometry_sha256": "3f969d5aae8e21ef8f7f8bf6aa6860c668962383d9e7ef7cfe758c78fa2cbf10",
+      "triangles": 166
+    },
+    {
+      "id": "TW_PROP_LOG_STRAIGHT_A",
+      "normalized_geometry_sha256": "861795e7e2c6e26c7f1b65a98395379e9bc7a0ba381957060f230bf32f6b745d",
+      "triangles": 76
+    },
+    {
+      "id": "TW_PROP_LOG_STRAIGHT_B",
+      "normalized_geometry_sha256": "a015c8ca4320123240bb955687b632b7bb7317d072f003386b8c7d46f32fc344",
+      "triangles": 102
+    },
+    {
+      "id": "TW_PROP_STUMP_ROUND_A",
+      "normalized_geometry_sha256": "989c4cf42911ff1fc9c7390738c5ba117858d48de25cf9562658e298bb26395f",
+      "triangles": 110
+    },
+    {
+      "id": "TW_PROP_STUMP_ROUND_B",
+      "normalized_geometry_sha256": "94bb51fc572c016ba7854c0877526add7749d252a44bed700991e8ba51f07b64",
+      "triangles": 136
+    },
+    {
+      "id": "TW_PROP_STUMP_SPLIT_A",
+      "normalized_geometry_sha256": "4f9267fa5361c8f5cc266d80224914c13ebe0f3f6be1f589436e6d9ee89b3c69",
+      "triangles": 76
+    },
+    {
+      "id": "TW_PROP_STUMP_SPLIT_B",
+      "normalized_geometry_sha256": "ed2f31b3650e90962f38e76897cc0d14bd06c205f94f1ab01bda4ec36d34796b",
+      "triangles": 122
+    },
+    {
+      "id": "TW_ROCK_CLUSTER_LARGE_A",
+      "normalized_geometry_sha256": "ab6bfb60a2aff51c4866f9701b07cad89be75bc9769ecd4ec2c0c599825bfb2c",
+      "triangles": 260
+    },
+    {
+      "id": "TW_ROCK_CLUSTER_LARGE_B",
+      "normalized_geometry_sha256": "306836d8535d22e6339d3c3e770ff1247b5ce0a9c5fd5362d4088704381029ff",
+      "triangles": 360
+    },
+    {
+      "id": "TW_ROCK_CLUSTER_SMALL_A",
+      "normalized_geometry_sha256": "c0dead4544061bdf1fe7a53a6c97f211047230920fa13ffc1fa0680fb64c650a",
+      "triangles": 156
+    },
+    {
+      "id": "TW_ROCK_CLUSTER_SMALL_B",
+      "normalized_geometry_sha256": "51f55b22f51331168350ec8b68a879d3d575bbcc08899271b41e8bc0b5101027",
+      "triangles": 240
+    },
+    {
+      "id": "TW_ROCK_FLAT_SLAB_A",
+      "normalized_geometry_sha256": "2e661853aeb467b8f32a6d7407fa6e2c0c56470d8f4658cfe1d0208202775634",
+      "triangles": 52
+    },
+    {
+      "id": "TW_ROCK_FLAT_SLAB_B",
+      "normalized_geometry_sha256": "9f9aa1af29967e2f4b2e9cac1cc1a100e6b01a81acdac457a505e506078fac0f",
+      "triangles": 60
+    },
+    {
+      "id": "TW_ROCK_LOW_WEDGE_A",
+      "normalized_geometry_sha256": "8b5995974b97af625d0e907479eecd5bc91ba724b9b68258368d1725f8835311",
+      "triangles": 66
+    },
+    {
+      "id": "TW_ROCK_LOW_WEDGE_B",
+      "normalized_geometry_sha256": "df363e573e5d2d08341101987b919893e782cda8efd1bcf9e0e2b89260f024eb",
+      "triangles": 60
+    },
+    {
+      "id": "TW_ROCK_SPLIT_MASS_A",
+      "normalized_geometry_sha256": "150a3c91dc6fe12c66f6d09c3ec090a0c9d3885c9cde76e868ba065bee1886cb",
+      "triangles": 104
+    },
+    {
+      "id": "TW_ROCK_SPLIT_MASS_B",
+      "normalized_geometry_sha256": "e7802b0d814adcf22f4de82a1ec49c7a1d94dcb88b63ca55a298a2f0ac8162e4",
+      "triangles": 180
+    },
+    {
+      "id": "TW_ROCK_UPRIGHT_A",
+      "normalized_geometry_sha256": "c1300b2ba10dcc5894cb42a7943bbcdc564c94405115c72c593eb85725337a63",
+      "triangles": 70
+    },
+    {
+      "id": "TW_ROCK_UPRIGHT_B",
+      "normalized_geometry_sha256": "607c23b48773beaea03e800907a89989bfad9afe7de79c21b661edb16de1354d",
+      "triangles": 60
+    },
+    {
+      "id": "TW_STONE_CORNER_L90_A",
+      "normalized_geometry_sha256": "1ea513dbd0fe51d40302016a384a20ef2b55cb2f0a092b826c6ba3fd7962f447",
+      "triangles": 240
+    },
+    {
+      "id": "TW_STONE_CORNER_L90_B",
+      "normalized_geometry_sha256": "8899e84b297e57036f85df5eb7ea83b88bd854d2c86167c3005c0aae917eebfa",
+      "triangles": 312
+    },
+    {
+      "id": "TW_STONE_CORNER_R90_A",
+      "normalized_geometry_sha256": "0669372d47887b3f504525c57d2aac0a0bbc273f8a7ab43c5f098593bc6507ad",
+      "triangles": 252
+    },
+    {
+      "id": "TW_STONE_CORNER_R90_B",
+      "normalized_geometry_sha256": "19ebdb741233815fff695e09fa67d1690a2904f306029575449c14b0baa5e98b",
+      "triangles": 324
+    },
+    {
+      "id": "TW_STONE_END_CAP_A",
+      "normalized_geometry_sha256": "9f8cba1b38af0d2170952c3244626b4de10d171c369c27e6f972a1990508ebc6",
+      "triangles": 48
+    },
+    {
+      "id": "TW_STONE_END_CAP_B",
+      "normalized_geometry_sha256": "c6f48a3aa7575dd3b34114751cd69334eb7b254626c9b4b5674b5fee28db439c",
+      "triangles": 72
+    },
+    {
+      "id": "TW_STONE_END_RUIN_A",
+      "normalized_geometry_sha256": "2b4b1f346bf2b479fcda4b0bd254f1cd49a1c03a0dc65c58d293972b19fb5e34",
+      "triangles": 60
+    },
+    {
+      "id": "TW_STONE_END_RUIN_B",
+      "normalized_geometry_sha256": "69ef47fbe5c1f160c67d834624405577f59eb0966ba9f58f108a9e1f650d8da8",
+      "triangles": 96
+    },
+    {
+      "id": "TW_STONE_POST_A",
+      "normalized_geometry_sha256": "4075006e49221973284a6a5dc5dd2eac39a318b552f916d0a0e74edd80b81ce5",
+      "triangles": 36
+    },
+    {
+      "id": "TW_STONE_POST_B",
+      "normalized_geometry_sha256": "a5d8ed65afe14e480e36a2f91bf4d5bebfc29e548d60043773d855802933c6cd",
+      "triangles": 60
+    },
+    {
+      "id": "TW_STONE_WALL_1M_A",
+      "normalized_geometry_sha256": "e19760213054eef50ba809f272c024d84ba50f5616fa137bf60a8dd9b6c8fbf9",
+      "triangles": 120
+    },
+    {
+      "id": "TW_STONE_WALL_1M_B",
+      "normalized_geometry_sha256": "9ec7273742e3f9927ea4ddaf5d3d22defc7a24b2d8130711e7dccf55524c39c7",
+      "triangles": 156
+    },
+    {
+      "id": "TW_STONE_WALL_2M_A",
+      "normalized_geometry_sha256": "5aff3a5ad8a7b2acb74fdc0cfe65ea6db865a9b6f5a3c1b749bc9341d2c1b1ba",
+      "triangles": 192
+    },
+    {
+      "id": "TW_STONE_WALL_2M_B",
+      "normalized_geometry_sha256": "ba8b39a751db31c6467ac5078b7a988a4b9bbf9aa6111bae129855aa3b28f4a5",
+      "triangles": 252
+    },
+    {
+      "id": "TW_STONE_WALL_4M_A",
+      "normalized_geometry_sha256": "e69f5252f436c150d80765db5be83dc5662ae383be545fad91e5458c94f33cc6",
+      "triangles": 372
+    },
+    {
+      "id": "TW_STONE_WALL_4M_B",
+      "normalized_geometry_sha256": "f27b9cedb957dc4af5c7d096367cd6e6fbc321b5173aa64529b3548399c9a0ed",
+      "triangles": 420
+    },
+    {
+      "id": "TW_TREE_DEAD_FORK_A",
+      "normalized_geometry_sha256": "43b0d1125442818730cc4a0847a58813d8def678dc1f6b183a2f5cea1ba3fe7d",
+      "triangles": 156
+    },
+    {
+      "id": "TW_TREE_DEAD_FORK_B",
+      "normalized_geometry_sha256": "2953d0ac470b8f46e36552ba54f177bb61107e98ce56412269a6fb005832cf6f",
+      "triangles": 212
+    },
+    {
+      "id": "TW_TREE_DEAD_LEAN_A",
+      "normalized_geometry_sha256": "9700a16a5ee2d4f4e01abb6d6843209aa970775978d10d1aca68690aafadfaf4",
+      "triangles": 124
+    },
+    {
+      "id": "TW_TREE_DEAD_LEAN_B",
+      "normalized_geometry_sha256": "a102be48aa7d44a1b5617c3ef26377d505373abcf5093fe152b94896217ec389",
+      "triangles": 174
+    },
+    {
+      "id": "TW_TREE_ROUND_BROAD_A",
+      "normalized_geometry_sha256": "e288200905c1aee0878add584d27a6d22a4a451a997bbd0d45b1a07ca24c9aa8",
+      "triangles": 380
+    },
+    {
+      "id": "TW_TREE_ROUND_BROAD_B",
+      "normalized_geometry_sha256": "4924ec5f70b1492d5132c61b0ff93dd6fe1e5f74a0a431de00fbab49f5d8f2d2",
+      "triangles": 478
+    },
+    {
+      "id": "TW_TREE_ROUND_SMALL_A",
+      "normalized_geometry_sha256": "34760fc45db8660b159d89b2a1112833904fe73e8beb0b23b2d7cfb57130635b",
+      "triangles": 352
+    },
+    {
+      "id": "TW_TREE_ROUND_SMALL_B",
+      "normalized_geometry_sha256": "983c56d6861a3b0d1666dfe00fba262dc19bcde7e5db52d481a220aa4c88b856",
+      "triangles": 404
+    },
+    {
+      "id": "TW_TREE_TIERED_SLIM_A",
+      "normalized_geometry_sha256": "f8cdc05b4e0c9573d6abdb6441dc2f2e76f8b90e1054654b7a9da6122cf759c9",
+      "triangles": 248
+    },
+    {
+      "id": "TW_TREE_TIERED_SLIM_B",
+      "normalized_geometry_sha256": "baec1283e6d87f3555bef8950400095ac231864c2ff623281708502cc2aa4afe",
+      "triangles": 268
+    },
+    {
+      "id": "TW_TREE_TIERED_WIDE_A",
+      "normalized_geometry_sha256": "cda26ae94edb309f905e242668f6799af02d9feddb4932b2e9c5b7d8ef0f9517",
+      "triangles": 198
+    },
+    {
+      "id": "TW_TREE_TIERED_WIDE_B",
+      "normalized_geometry_sha256": "ab0606826d0d8ba2e9a308d5f851413a80e685b49c47e47b2052ef7b66adb65d",
+      "triangles": 268
+    },
+    {
+      "id": "TW_VEG_BUSH_LONG_A",
+      "normalized_geometry_sha256": "499d90dcb3fa71513899a9070e92a9cf6b7a7a52c85bbdc4461b9e55283213a1",
+      "triangles": 112
+    },
+    {
+      "id": "TW_VEG_BUSH_LONG_B",
+      "normalized_geometry_sha256": "11ba8a795914d70d96a9c4a366fd7490fd401c988a7dedf554edfe4c98aae5db",
+      "triangles": 160
+    },
+    {
+      "id": "TW_VEG_BUSH_ROUND_A",
+      "normalized_geometry_sha256": "29720b0008494930b29ad29a4916db04043dfec70f7d5bed111e3d19d709bde8",
+      "triangles": 84
+    },
+    {
+      "id": "TW_VEG_BUSH_ROUND_B",
+      "normalized_geometry_sha256": "b650d0f4c2aee467d598be8350216bc5b4fb2b94ddca417dd9821d523491490a",
+      "triangles": 128
+    },
+    {
+      "id": "TW_VEG_BUSH_SPARSE_A",
+      "normalized_geometry_sha256": "b043d93b075010292876cad716fd032d3a7bc0a8b1ce7becbf442a1e861790b5",
+      "triangles": 56
+    },
+    {
+      "id": "TW_VEG_BUSH_SPARSE_B",
+      "normalized_geometry_sha256": "38e6568540c4346ad012645359a7009b881228ff3f619ee1383cb741633f9730",
+      "triangles": 96
+    },
+    {
+      "id": "TW_VEG_GRASS_FAN_A",
+      "normalized_geometry_sha256": "9bc97cc9e3487b046d248cdbb66826d4698da2b5ec46aefd28bd774981178ecf",
+      "triangles": 50
+    },
+    {
+      "id": "TW_VEG_GRASS_FAN_B",
+      "normalized_geometry_sha256": "f200ec0703c1fe2c7bdc67e5a10f5de3f9cdfe0ff4002a3a168c83e2f3f33eb6",
+      "triangles": 70
+    },
+    {
+      "id": "TW_VEG_GRASS_LOW_A",
+      "normalized_geometry_sha256": "f63c0472605d4c501a273084b572f45efabb6385d50edcf9bc29d0e584333d72",
+      "triangles": 50
+    },
+    {
+      "id": "TW_VEG_GRASS_LOW_B",
+      "normalized_geometry_sha256": "9b9dc0bed05af6283cab2b74c856a4d38c62be4c29769758d2b1e89e5daaf2a1",
+      "triangles": 70
+    },
+    {
+      "id": "TW_VEG_GRASS_TUFT_A",
+      "normalized_geometry_sha256": "1a51709dc372dbc843b0c321d13240a85d103bfe08979e6379dfb7c3cc370e69",
+      "triangles": 50
+    },
+    {
+      "id": "TW_VEG_GRASS_TUFT_B",
+      "normalized_geometry_sha256": "a5e0f41b3febc966365b4b0a75623e14deb66fae767be55226d67409a76f7ac6",
+      "triangles": 70
+    },
+    {
+      "id": "TW_WOOD_CORNER_L90_A",
+      "normalized_geometry_sha256": "d8215d7aef96766ae1272033788159ddac72f8403fb7671af275301f6717b4ec",
+      "triangles": 88
+    },
+    {
+      "id": "TW_WOOD_CORNER_L90_B",
+      "normalized_geometry_sha256": "a4f7f594c63598738ee2832ee5cb54084edc6c0acd01ba19fee23f7821fecf29",
+      "triangles": 124
+    },
+    {
+      "id": "TW_WOOD_CORNER_R90_A",
+      "normalized_geometry_sha256": "f98c8a01f3fe57c3c5e231a4769413f1a0301677f65d9bb63be2cea157a85866",
+      "triangles": 100
+    },
+    {
+      "id": "TW_WOOD_CORNER_R90_B",
+      "normalized_geometry_sha256": "108be9185e5616b5beb9b5550b5a43fd322d34fb225e3f0541db18d6ca36bd84",
+      "triangles": 136
+    },
+    {
+      "id": "TW_WOOD_END_BROKEN_A",
+      "normalized_geometry_sha256": "3cec5c3f5b9283789e03a66fe5bef7a71c2afce7a57752b6b789179c4761ca9c",
+      "triangles": 36
+    },
+    {
+      "id": "TW_WOOD_END_BROKEN_B",
+      "normalized_geometry_sha256": "87f58cba4efd08b1ac86014d225fe9da8d598ebdd8d02a1cdcddfeea7185d859",
+      "triangles": 48
+    },
+    {
+      "id": "TW_WOOD_END_CAP_A",
+      "normalized_geometry_sha256": "adad2987e972f5ff97b9257971e32b85ab9219b217fcdfadfad5b634d8bb7cac",
+      "triangles": 32
+    },
+    {
+      "id": "TW_WOOD_END_CAP_B",
+      "normalized_geometry_sha256": "a3bdc019827de16e98894eec6c29c8ad58ec6b9f7891645f8eb39ba12ad7c94f",
+      "triangles": 44
+    },
+    {
+      "id": "TW_WOOD_GATE_FRAME_A",
+      "normalized_geometry_sha256": "1f5a3aac1b0ce165b33d8f2e6a838eaba964dc46cdffe3dcb84e670f06c41fec",
+      "triangles": 76
+    },
+    {
+      "id": "TW_WOOD_GATE_FRAME_B",
+      "normalized_geometry_sha256": "4db259ba47a1129b23ff4b6bcdbb1183a89734fc5a570e3fac4efce14a7042b3",
+      "triangles": 88
+    },
+    {
+      "id": "TW_WOOD_GATE_LEAF_A",
+      "normalized_geometry_sha256": "fe66f8f15c01614f6fa54f0f5973b6d1731fe43ec613c24db8b3fddaf0b47d78",
+      "triangles": 108
+    },
+    {
+      "id": "TW_WOOD_GATE_LEAF_B",
+      "normalized_geometry_sha256": "e96c76a40b62bcefd6a6dc6992162629a8ff33eede26bd977a3952447a941de3",
+      "triangles": 132
+    },
+    {
+      "id": "TW_WOOD_POST_A",
+      "normalized_geometry_sha256": "75e5abed3e8f256a620624fd81d02ec72c65726da2f97926be982f4acb20a705",
+      "triangles": 20
+    },
+    {
+      "id": "TW_WOOD_POST_B",
+      "normalized_geometry_sha256": "4061c75b1aab743dfceebc7c1c0b218890044c384ab5256b4d4804c93626e67e",
+      "triangles": 32
+    },
+    {
+      "id": "TW_WOOD_RAIL_1M_A",
+      "normalized_geometry_sha256": "4a1d95d939fbb236c8695252c9f3975fd82688f935bc5b1ab42958ced5c2543b",
+      "triangles": 56
+    },
+    {
+      "id": "TW_WOOD_RAIL_1M_B",
+      "normalized_geometry_sha256": "7ff3004842aa67354a2ee98f15929dfbc852566b058b4245028e1bae6f9a3585",
+      "triangles": 68
+    },
+    {
+      "id": "TW_WOOD_RAIL_2M_A",
+      "normalized_geometry_sha256": "3638e09e630103ec72d5f49e9ef40bb7ec20c5a088a2bf4da7fb88ecb97d12e5",
+      "triangles": 44
+    },
+    {
+      "id": "TW_WOOD_RAIL_2M_B",
+      "normalized_geometry_sha256": "465ebb0cc80e75b2b6433aa04e330bf6b193e41d2f3fdceefb72d28b885e9fa5",
+      "triangles": 68
+    },
+    {
+      "id": "TW_WOOD_RAIL_4M_A",
+      "normalized_geometry_sha256": "dba2884b5a2b13d5e7edf6e4c4a2f97f766ccdc9937c45608f9d36f5a3ed7352",
+      "triangles": 44
+    },
+    {
+      "id": "TW_WOOD_RAIL_4M_B",
+      "normalized_geometry_sha256": "0ca57b9a2dd66cdd7af70835d6bf4775b7ed7d1c87d3f159a34ac084faca75e4",
+      "triangles": 68
+    }
+  ]
+}

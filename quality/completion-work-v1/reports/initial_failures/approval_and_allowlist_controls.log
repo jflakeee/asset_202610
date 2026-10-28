@@ -1,0 +1,15 @@
+
+Traceback (most recent call last):
+  File "/workspace/scratch/eee38282c88e/completion_checkout/asset_202610-ed6435cec2b431f3b958d895afed9a4799577dcd/creation/release_controls.py", line 129, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/eee38282c88e/completion_checkout/asset_202610-ed6435cec2b431f3b958d895afed9a4799577dcd/creation/release_controls.py", line 118, in main
+    stage,manifest=make_trial();targets={asset:snapshot(asset) for asset in TRIAL_IDS}
+                   ^^^^^^^^^^^^
+  File "/workspace/scratch/eee38282c88e/completion_checkout/asset_202610-ed6435cec2b431f3b958d895afed9a4799577dcd/creation/release_controls.py", line 70, in make_trial
+    for asset in TRIAL_IDS:shutil.copyfile(ROOT/'theme_output/MOSS_01/models'/f'{asset}_LOD0.glb',stage/'models'/f'{asset}_LOD0.glb')
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/lib/python3.12/shutil.py", line 260, in copyfile
+    with open(src, 'rb') as fsrc:
+         ^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/workspace/scratch/eee38282c88e/completion_checkout/asset_202610-ed6435cec2b431f3b958d895afed9a4799577dcd/creation/theme_output/MOSS_01/models/TW_TREE_ROUND_SMALL_A_LOD0.glb'

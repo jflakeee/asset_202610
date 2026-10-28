@@ -1,0 +1,15 @@
+
+Traceback (most recent call last):
+  File "/workspace/scratch/eee38282c88e/completion_checkout/asset_202610-ed6435cec2b431f3b958d895afed9a4799577dcd/creation/build_closed_boundaries.py", line 71, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/scratch/eee38282c88e/completion_checkout/asset_202610-ed6435cec2b431f3b958d895afed9a4799577dcd/creation/build_closed_boundaries.py", line 61, in main
+    scene=validate(examples.build_scene(name,[(assets,[0,0,0])]))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/eee38282c88e/completion_checkout/asset_202610-ed6435cec2b431f3b958d895afed9a4799577dcd/creation/build_boundary_examples.py", line 53, in build_scene
+    matrix=np.eye(4);matrix[:3,3]=origin;previous=add(assets[0],matrix)
+                                                  ^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/scratch/eee38282c88e/completion_checkout/asset_202610-ed6435cec2b431f3b958d895afed9a4799577dcd/creation/build_boundary_examples.py", line 23, in add
+    path=next(p for p in candidates if p.exists());model=load_glb(path)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+StopIteration

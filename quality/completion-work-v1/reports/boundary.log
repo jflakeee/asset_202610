@@ -1,0 +1,14 @@
+{
+  "status": "PASS_EXECUTED_CHECKS",
+  "actual_mesh_checks": {
+    "actual_1_2_4m_yaw_0": "PASS",
+    "actual_1_2_4m_yaw_90": "PASS"
+  },
+  "not_implemented": [
+    "physical corner fitting and closed-loop socket closure",
+    "slope geometry generation",
+    "gate reservation/path clipping",
+    "engine collision traversal"
+  ]
+}
+

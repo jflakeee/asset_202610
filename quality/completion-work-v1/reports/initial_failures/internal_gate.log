@@ -1,0 +1,35 @@
+{
+  "audit_version": "1.0",
+  "internal_review_package_permitted": false,
+  "sales_release_permitted": false,
+  "internal_blockers": [
+    "glb_manifest_integrity",
+    "theme_model_sets",
+    "khronos_recorded_results",
+    "recorded_rebuild",
+    "canonical_evidence_inventory"
+  ],
+  "sales_blockers": [
+    "glb_manifest_integrity",
+    "theme_model_sets",
+    "canonical_84_candidates",
+    "khronos_recorded_results",
+    "recorded_rebuild",
+    "human_art_approval",
+    "provenance_complete",
+    "canonical_evidence_inventory",
+    "existing_four_lod1_silhouette_iou",
+    "lod_coverage",
+    "gpu_visual_review",
+    "mobile_performance",
+    "platform_and_terms_review",
+    "sales_required_files",
+    "sales_allowlist_packaging",
+    "examples_catalog_thumbnails",
+    "free_trial_subset",
+    "editable_blender_review_source"
+  ],
+  "approval_policy": "No automatic approvals; no publication performed.",
+  "scope": "Local recorded-evidence audit. PASS for internal review is not sales readiness."
+}
+

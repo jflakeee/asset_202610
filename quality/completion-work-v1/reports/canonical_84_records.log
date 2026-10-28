@@ -1,0 +1,2 @@
+{"status": "PASS", "canonical_records": 84, "lod1_present": 4, "lod2_present": 0, "per_model_evidence_missing": [], "approval": "ALL_PENDING", "negative_controls": {"missing_asset": true, "duplicate_asset": true, "changed_hash": true, "invented_approval": true, "invented_lod_exception": true}, "sales_release_permitted": false}
+

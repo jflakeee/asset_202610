@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "trial_model_count": 8,
+  "trial_theme": "MOSS_01",
+  "tests": [
+    "synthetic matching approval accepted",
+    "missing approval blocked P001",
+    "geometry/palette/recipe/export mutation blocked P002",
+    "unlisted file blocked K001",
+    "asset mutation blocked K002",
+    "missing model blocked K002",
+    "symlink blocked K001",
+    "parent path blocked K001",
+    "normalized geometry independent of triangle order",
+    "actual geometry mutation changes normalized hash"
+  ],
+  "pending_approval_blockers": {
+    "TW_TREE_ROUND_SMALL_A": [
+      "P001"
+    ],
+    "TW_TREE_TIERED_SLIM_A": [
+      "P001"
+    ],
+    "TW_ROCK_LOW_WEDGE_A": [
+      "P001"
+    ],
+    "TW_ROCK_UPRIGHT_A": [
+      "P001"
+    ],
+    "TW_VEG_GRASS_LOW_A": [
+      "P001"
+    ],
+    "TW_WOOD_RAIL_2M_A": [
+      "P001"
+    ],
+    "TW_WOOD_POST_A": [
+      "P001"
+    ],
+    "TW_STONE_WALL_1M_A": [
+      "P001"
+    ]
+  },
+  "public_distribution_permitted": false,
+  "scope": "Local content-binding and allowlist validation; does not authenticate reviewer identity or satisfy all sales gates"
+}

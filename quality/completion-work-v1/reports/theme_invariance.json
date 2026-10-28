@@ -1,0 +1,344 @@
+{
+  "test": "AT10",
+  "passed": true,
+  "models": 84,
+  "checks": "Identical positions/indices/UV/node sockets across three palettes",
+  "results": [
+    {
+      "asset_id": "TW_PROP_BRANCH_FORK_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_PROP_BRANCH_FORK_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_PROP_BRANCH_PILE_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_PROP_BRANCH_PILE_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_PROP_LOG_BROKEN_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_PROP_LOG_BROKEN_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_PROP_LOG_STRAIGHT_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_PROP_LOG_STRAIGHT_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_ROUND_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_ROUND_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_SPLIT_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_SPLIT_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_ROCK_FLAT_SLAB_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_ROCK_FLAT_SLAB_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_ROCK_LOW_WEDGE_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_ROCK_LOW_WEDGE_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_ROCK_SPLIT_MASS_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_ROCK_SPLIT_MASS_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_ROCK_UPRIGHT_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_ROCK_UPRIGHT_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_L90_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_L90_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_R90_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_R90_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_END_CAP_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_END_CAP_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_END_RUIN_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_END_RUIN_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_POST_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_POST_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_WALL_1M_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_WALL_1M_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_WALL_2M_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_WALL_2M_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_WALL_4M_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_STONE_WALL_4M_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_FORK_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_FORK_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_LEAN_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_LEAN_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_BROAD_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_BROAD_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_SMALL_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_SMALL_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_SLIM_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_SLIM_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_WIDE_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_WIDE_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_LONG_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_LONG_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_ROUND_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_ROUND_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_SPARSE_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_SPARSE_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_FAN_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_FAN_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_LOW_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_LOW_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_TUFT_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_TUFT_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_L90_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_L90_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_R90_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_R90_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_END_BROKEN_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_END_BROKEN_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_END_CAP_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_END_CAP_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_FRAME_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_FRAME_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_LEAF_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_LEAF_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_POST_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_POST_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_1M_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_1M_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_2M_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_2M_B",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_4M_A",
+      "passed": true
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_4M_B",
+      "passed": true
+    }
+  ]
+}

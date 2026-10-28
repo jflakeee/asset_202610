@@ -1,0 +1,133 @@
+{
+  "width": 1024,
+  "height": 512,
+  "premultiplied": false,
+  "entries": [
+    {
+      "id": "chest",
+      "rect": [
+        4,
+        4,
+        248,
+        248
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "icon_sizes": [
+        64,
+        128,
+        256
+      ],
+      "source": "blender-source-v1",
+      "alpha": "straight",
+      "padding": 4
+    },
+    {
+      "id": "ore",
+      "rect": [
+        260,
+        4,
+        248,
+        248
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "icon_sizes": [
+        64,
+        128,
+        256
+      ],
+      "source": "blender-source-v1",
+      "alpha": "straight",
+      "padding": 4
+    },
+    {
+      "id": "coin",
+      "rect": [
+        516,
+        4,
+        248,
+        248
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "icon_sizes": [
+        64,
+        128,
+        256
+      ],
+      "source": "blender-source-v1",
+      "alpha": "straight",
+      "padding": 4
+    },
+    {
+      "id": "rope",
+      "rect": [
+        772,
+        4,
+        248,
+        248
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "icon_sizes": [
+        64,
+        128,
+        256
+      ],
+      "source": "blender-source-v1",
+      "alpha": "straight",
+      "padding": 4
+    },
+    {
+      "id": "potion",
+      "rect": [
+        4,
+        260,
+        248,
+        248
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "icon_sizes": [
+        64,
+        128,
+        256
+      ],
+      "source": "blender-source-v1",
+      "alpha": "straight",
+      "padding": 4
+    },
+    {
+      "id": "wood",
+      "rect": [
+        260,
+        260,
+        248,
+        248
+      ],
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "icon_sizes": [
+        64,
+        128,
+        256
+      ],
+      "source": "blender-source-v1",
+      "alpha": "straight",
+      "padding": 4
+    }
+  ]
+}

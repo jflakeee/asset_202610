@@ -1,0 +1,79 @@
+{
+  "status": "PASS",
+  "unique_models": 104,
+  "glb_files": 327,
+  "missing": [],
+  "extra": [],
+  "changed": [],
+  "commands": [
+    {
+      "script": "build_rocks.py",
+      "exit_code": 0
+    },
+    {
+      "script": "build_trees.py",
+      "exit_code": 0
+    },
+    {
+      "script": "build_fences.py",
+      "exit_code": 0
+    },
+    {
+      "script": "build_wood_props.py",
+      "exit_code": 0
+    },
+    {
+      "script": "build_vegetation.py",
+      "exit_code": 0
+    },
+    {
+      "script": "build_camp_props.py",
+      "exit_code": 0
+    },
+    {
+      "script": "build_path_props.py",
+      "exit_code": 0
+    },
+    {
+      "script": "build_furniture_props.py",
+      "exit_code": 0
+    },
+    {
+      "script": "build_wood_modules.py",
+      "exit_code": 0
+    },
+    {
+      "script": "build_stone_modules.py",
+      "exit_code": 0
+    },
+    {
+      "script": "build_natural_catalog.py",
+      "exit_code": 0
+    },
+    {
+      "script": "build_lods.py",
+      "exit_code": 0
+    },
+    {
+      "script": "build_demo.py",
+      "exit_code": 0
+    },
+    {
+      "script": "build_themes.py",
+      "exit_code": 0
+    },
+    {
+      "script": "verify_wind_geometry.py",
+      "exit_code": 0
+    }
+  ],
+  "model_inputs_copied": 0,
+  "python": "3.12.14",
+  "dependencies": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "pillow": "12.3.0",
+    "matplotlib": "3.10.8"
+  },
+  "scope": "Byte-identical GLBs from source; preview images and GPU behavior are not compared"
+}

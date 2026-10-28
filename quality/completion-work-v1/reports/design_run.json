@@ -1,0 +1,63 @@
+{
+  "base_commit": "ed6435cec2b431f3b958d895afed9a4799577dcd",
+  "checks": [
+    {
+      "check": "boundary",
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "passed": true,
+      "script_sha256": "e40fe11871ef64cf8356fc135ceeff7776866d8fc848bdd4160aa8d694eaf8aa"
+    },
+    {
+      "check": "closed_paths",
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "passed": true,
+      "script_sha256": "205d3ecfcad860f920419de050566c24654e696da1f73dc929cf9a0dd5d75b60"
+    },
+    {
+      "check": "slopes",
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "passed": true,
+      "script_sha256": "252c50fd27c41bc4f00577788e5a1a4d0537e81c1b802366a8d7eca145e0d007"
+    },
+    {
+      "check": "gate_reservation",
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "passed": true,
+      "script_sha256": "810e378557fc452c5df7dc883fe3614464bb861391b23ed1ab9f3008f5c752ef"
+    },
+    {
+      "check": "approval_and_allowlist_controls",
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "passed": true,
+      "script_sha256": "576a43b930d097570ffe636648967b9609741f458fc8377a357b2236bc24d510"
+    },
+    {
+      "check": "canonical_84_records",
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "passed": true,
+      "script_sha256": "17af7ff1baba77c37e9e10300a27af473809296dd3a93e4047d02fb837db1fe7"
+    },
+    {
+      "check": "internal_gate",
+      "exit_code": 0,
+      "expected_exit_code": 0,
+      "passed": true,
+      "script_sha256": "78bbc78b6ca71cfb70c6fedad18eef4f426bc27777a5fdf326d952aeeb0ad278"
+    },
+    {
+      "check": "sales_gate_rejects_incomplete",
+      "exit_code": 2,
+      "expected_exit_code": 2,
+      "passed": true,
+      "script_sha256": "78bbc78b6ca71cfb70c6fedad18eef4f426bc27777a5fdf326d952aeeb0ad278"
+    }
+  ],
+  "passed": true,
+  "scope": "Fresh execution of listed checks only, not complete AT01\u2013AT16, human art approval or device performance"
+}

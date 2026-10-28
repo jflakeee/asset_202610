@@ -31,3 +31,12 @@ GitHub Pages 최초 활성화가 필요합니다: 저장소 Settings → Pages �
 
 갤러리 재생성: `python web/build_gallery.py` (creation/rebuild_requirements.txt 의존성).
 웹 의존성 라이선스: web/THIRD_PARTY.md.
+
+
+## 전체 설계 구현·검증 현황 (2026-10-28)
+
+원설계 숲·경계 84종과 보조 자원·보상 6종을 구분해 추적합니다. 전체 완료·판매 승인 상태는 아닙니다.
+
+- [전체 작업표와 AT01–AT16 상태](quality/completion-work-v1/STATUS.md)
+- [6종 투명 PNG와 아틀라스](quality/completion-work-v1/icons)
+- [새 실행 검증 기록](quality/completion-work-v1/reports)
