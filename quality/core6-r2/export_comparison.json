@@ -1,0 +1,44 @@
+[
+  {
+    "id": "chest",
+    "before_primitives": 9,
+    "before_bytes": 47944,
+    "after_primitives": 6,
+    "after_bytes": 67420
+  },
+  {
+    "id": "ore",
+    "before_primitives": 2,
+    "before_bytes": 5764,
+    "after_primitives": 2,
+    "after_bytes": 6856
+  },
+  {
+    "id": "coin",
+    "before_primitives": 3,
+    "before_bytes": 16364,
+    "after_primitives": 1,
+    "after_bytes": 22068
+  },
+  {
+    "id": "rope",
+    "before_primitives": 2,
+    "before_bytes": 45536,
+    "after_primitives": 1,
+    "after_bytes": 75016
+  },
+  {
+    "id": "potion",
+    "before_primitives": 4,
+    "before_bytes": 21980,
+    "after_primitives": 2,
+    "after_bytes": 30316
+  },
+  {
+    "id": "wood",
+    "before_primitives": 4,
+    "before_bytes": 14912,
+    "after_primitives": 1,
+    "after_bytes": 18636
+  }
+]
