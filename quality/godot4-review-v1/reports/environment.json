@@ -1,0 +1,14 @@
+{
+  "tag": "4.7.2-stable",
+  "url": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_linux.x86_64.zip",
+  "sha256": "cadd3204e728a35d3f13adb7fd0d7902636b79f6b95c40c265eb73b6c35329e4",
+  "release_digest": "sha256:cadd3204e728a35d3f13adb7fd0d7902636b79f6b95c40c265eb73b6c35329e4",
+  "asset_sha256": {
+    "wood.glb": "b40328808749c7cc6d0cad4bed0e5c118867ccbeb8d2a92080113a1c1fb8ca27",
+    "chest.glb": "c6bdeb5df9935806e1d9431d203571d4181595eae950b92a7c9460267fafb625",
+    "coin.glb": "9e719604eceb076ac4a531f67b4702969442296fd6339eec7f14c9a7e16fb9a9",
+    "rope.glb": "563587b50828b61a647b7976ccc3541965e76d8feee53a4f948c4be8ba2a4af3",
+    "potion.glb": "c3ab418ca98906c99047741694028f60d793ded41fd40b879a3855e4f052418f",
+    "ore.glb": "616ad72d12fac3f47cfcdc9a62a07d24093174d07ae2e356f40496d10b3f4b96"
+  }
+}

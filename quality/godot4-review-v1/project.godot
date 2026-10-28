@@ -1,0 +1,11 @@
+; Trailwood asset import verification project, not a game demo.
+config_version=5
+
+[application]
+config/name="Trailwood Asset Import Review"
+run/main_scene="res://review.tscn"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/default_filters/use_nearest_mipmap_filter=false

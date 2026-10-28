@@ -1,0 +1,57 @@
+[gd_scene load_steps=9 format=3]
+
+[ext_resource type="PackedScene" path="res://prefabs/chest.tscn" id="1"]
+[ext_resource type="PackedScene" path="res://prefabs/ore.tscn" id="2"]
+[ext_resource type="PackedScene" path="res://prefabs/coin.tscn" id="3"]
+[ext_resource type="PackedScene" path="res://prefabs/rope.tscn" id="4"]
+[ext_resource type="PackedScene" path="res://prefabs/potion.tscn" id="5"]
+[ext_resource type="PackedScene" path="res://prefabs/wood.tscn" id="6"]
+
+[sub_resource type="Environment" id="Environment_review"]
+background_mode = 1
+background_color = Color(0.12, 0.14, 0.16, 1)
+ambient_light_source = 3
+ambient_light_color = Color(1, 0.92, 0.82, 1)
+ambient_light_energy = 0.5
+tonemap_mode = 0
+
+[sub_resource type="PlaneMesh" id="Plane_review"]
+size = Vector2(5, 3)
+
+[node name="AssetReview" type="Node3D"]
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment_review")
+
+[node name="KeyLight" type="DirectionalLight3D" parent="."]
+rotation_degrees = Vector3(-50, -35, 0)
+light_energy = 1.2
+
+[node name="Camera" type="Camera3D" parent="."]
+position = Vector3(0, 2.6, 4.2)
+rotation_degrees = Vector3(-29, 0, 0)
+projection = 1
+size = 4.5
+current = true
+
+[node name="Ground" type="MeshInstance3D" parent="."]
+position = Vector3(0, -0.01, 0)
+mesh = SubResource("Plane_review")
+
+[node name="Chest" parent="." instance=ExtResource("1")]
+position = Vector3(-1.2, 0, -0.55)
+
+[node name="Ore" parent="." instance=ExtResource("2")]
+position = Vector3(0.0, 0, -0.55)
+
+[node name="Coin" parent="." instance=ExtResource("3")]
+position = Vector3(1.2, 0, -0.55)
+
+[node name="Rope" parent="." instance=ExtResource("4")]
+position = Vector3(-1.2, 0, 0.55)
+
+[node name="Potion" parent="." instance=ExtResource("5")]
+position = Vector3(0.0, 0, 0.55)
+
+[node name="Wood" parent="." instance=ExtResource("6")]
+position = Vector3(1.2, 0, 0.55)

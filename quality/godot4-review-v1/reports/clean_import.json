@@ -1,0 +1,250 @@
+{
+  "engine": {
+    "build": "official",
+    "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (official)",
+    "timestamp": 0
+  },
+  "gpu_render_verified": false,
+  "headless": true,
+  "models": [
+    {
+      "animation_names": [
+        "Chest_Open"
+      ],
+      "animation_ok": true,
+      "bounds_min": [
+        -0.359499990940094,
+        0.0,
+        -0.284999996423721
+      ],
+      "bounds_size": [
+        0.718999981880188,
+        0.462000012397766,
+        0.583000004291534
+      ],
+      "color_arrays": 6,
+      "color_material_ok": true,
+      "hinge_degrees": [
+        0.0,
+        52.4999963383037,
+        104.999992676607
+      ],
+      "id": "chest",
+      "import_ok": true,
+      "materials": [
+        {
+          "metallic": 0.0,
+          "name": "Trailwood_matte",
+          "roughness": 0.899999976158142,
+          "vertex_color_is_srgb": false,
+          "vertex_color_use_as_albedo": true
+        },
+        {
+          "metallic": 0.649999976158142,
+          "name": "Trailwood_iron",
+          "roughness": 0.550000011920929,
+          "vertex_color_is_srgb": false,
+          "vertex_color_use_as_albedo": true
+        },
+        {
+          "metallic": 0.800000011920929,
+          "name": "Trailwood_gold",
+          "roughness": 0.379999995231628,
+          "vertex_color_is_srgb": false,
+          "vertex_color_use_as_albedo": true
+        },
+        {
+          "metallic": 0.0,
+          "name": "Trailwood_matte",
+          "roughness": 0.899999976158142,
+          "vertex_color_is_srgb": false,
+          "vertex_color_use_as_albedo": true
+        },
+        {
+          "metallic": 0.649999976158142,
+          "name": "Trailwood_iron",
+          "roughness": 0.550000011920929,
+          "vertex_color_is_srgb": false,
+          "vertex_color_use_as_albedo": true
+        },
+        {
+          "metallic": 0.800000011920929,
+          "name": "Trailwood_gold",
+          "roughness": 0.379999995231628,
+          "vertex_color_is_srgb": false,
+          "vertex_color_use_as_albedo": true
+        }
+      ],
+      "scale_bounds_ok": true,
+      "surfaces": 6,
+      "triangles": 568,
+      "vertex_color_materials": 6
+    },
+    {
+      "bounds_min": [
+        -0.319999992847443,
+        0.0,
+        -0.230000004172325
+      ],
+      "bounds_size": [
+        0.649999976158142,
+        0.379999995231628,
+        0.5
+      ],
+      "color_arrays": 2,
+      "color_material_ok": true,
+      "id": "ore",
+      "import_ok": true,
+      "materials": [
+        {
+          "metallic": 0.0,
+          "name": "Trailwood_matte",
+          "roughness": 0.899999976158142,
+          "vertex_color_is_srgb": false,
+          "vertex_color_use_as_albedo": true
+        },
+        {
+          "metallic": 0.649999976158142,
+          "name": "Trailwood_iron",
+          "roughness": 0.550000011920929,
+          "vertex_color_is_srgb": false,
+          "vertex_color_use_as_albedo": true
+        }
+      ],
+      "scale_bounds_ok": true,
+      "surfaces": 2,
+      "triangles": 42,
+      "vertex_color_materials": 2
+    },
+    {
+      "bounds_min": [
+        -0.180000007152557,
+        0.0,
+        -0.0405000001192093
+      ],
+      "bounds_size": [
+        0.360000014305115,
+        0.360000014305115,
+        0.0810000002384186
+      ],
+      "color_arrays": 1,
+      "color_material_ok": true,
+      "id": "coin",
+      "import_ok": true,
+      "materials": [
+        {
+          "metallic": 0.800000011920929,
+          "name": "Trailwood_gold",
+          "roughness": 0.379999995231628,
+          "vertex_color_is_srgb": false,
+          "vertex_color_use_as_albedo": true
+        }
+      ],
+      "scale_bounds_ok": true,
+      "surfaces": 1,
+      "triangles": 192,
+      "vertex_color_materials": 1
+    },
+    {
+      "bounds_min": [
+        -0.271036237478256,
+        0.0,
+        -0.321768403053284
+      ],
+      "bounds_size": [
+        0.542475521564484,
+        0.256369411945343,
+        0.592804670333862
+      ],
+      "color_arrays": 1,
+      "color_material_ok": true,
+      "id": "rope",
+      "import_ok": true,
+      "materials": [
+        {
+          "metallic": 0.0,
+          "name": "Trailwood_matte",
+          "roughness": 0.899999976158142,
+          "vertex_color_is_srgb": false,
+          "vertex_color_use_as_albedo": true
+        }
+      ],
+      "scale_bounds_ok": true,
+      "surfaces": 1,
+      "triangles": 682,
+      "vertex_color_materials": 1
+    },
+    {
+      "bounds_min": [
+        -0.154548138380051,
+        0.0,
+        -0.158000007271767
+      ],
+      "bounds_size": [
+        0.309096276760101,
+        0.465000003576279,
+        0.316000014543533
+      ],
+      "color_arrays": 2,
+      "color_material_ok": true,
+      "id": "potion",
+      "import_ok": true,
+      "materials": [
+        {
+          "metallic": 0.0,
+          "name": "Trailwood_painted",
+          "roughness": 0.600000023841858,
+          "vertex_color_is_srgb": false,
+          "vertex_color_use_as_albedo": true
+        },
+        {
+          "metallic": 0.0,
+          "name": "Trailwood_matte",
+          "roughness": 0.899999976158142,
+          "vertex_color_is_srgb": false,
+          "vertex_color_use_as_albedo": true
+        }
+      ],
+      "scale_bounds_ok": true,
+      "surfaces": 2,
+      "triangles": 260,
+      "vertex_color_materials": 2
+    },
+    {
+      "bounds_min": [
+        -0.504987776279449,
+        0.0,
+        -0.187310576438904
+      ],
+      "bounds_size": [
+        0.998929798603058,
+        0.492765963077545,
+        0.380184829235077
+      ],
+      "color_arrays": 1,
+      "color_material_ok": true,
+      "id": "wood",
+      "import_ok": true,
+      "materials": [
+        {
+          "metallic": 0.0,
+          "name": "Trailwood_matte",
+          "roughness": 0.899999976158142,
+          "vertex_color_is_srgb": false,
+          "vertex_color_use_as_albedo": true
+        }
+      ],
+      "scale_bounds_ok": true,
+      "surfaces": 1,
+      "triangles": 160,
+      "vertex_color_materials": 1
+    }
+  ],
+  "passed": true
+}
