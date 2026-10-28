@@ -1,0 +1,6 @@
+{
+  "version": "4.5.9",
+  "url": "https://download.blender.org/release/Blender4.5/blender-4.5.9-linux-x64.tar.xz",
+  "sha256": "dcdc3eca6c9825bb35a8033b689c053f3cb5a9b0cd2a61b2eac2a49436b4ad3d",
+  "checksum_url": "https://download.blender.org/release/Blender4.5/blender-4.5.9.sha256"
+}

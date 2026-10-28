@@ -1,0 +1,53 @@
+{
+  "blender": "4.5.9 LTS",
+  "models": [
+    {
+      "id": "chest",
+      "triangles": 568,
+      "objects": 44,
+      "materials": 5,
+      "blend_bytes": 103221,
+      "optional_bevel_enabled": false
+    },
+    {
+      "id": "coin",
+      "triangles": 192,
+      "objects": 6,
+      "materials": 3,
+      "blend_bytes": 94011,
+      "optional_bevel_enabled": false
+    },
+    {
+      "id": "ore",
+      "triangles": 42,
+      "objects": 5,
+      "materials": 2,
+      "blend_bytes": 90710,
+      "optional_bevel_enabled": false
+    },
+    {
+      "id": "potion",
+      "triangles": 260,
+      "objects": 7,
+      "materials": 4,
+      "blend_bytes": 95548,
+      "optional_bevel_enabled": false
+    },
+    {
+      "id": "rope",
+      "triangles": 682,
+      "objects": 4,
+      "materials": 2,
+      "blend_bytes": 100083,
+      "optional_bevel_enabled": false
+    },
+    {
+      "id": "wood",
+      "triangles": 160,
+      "objects": 6,
+      "materials": 4,
+      "blend_bytes": 95293,
+      "optional_bevel_enabled": false
+    }
+  ]
+}

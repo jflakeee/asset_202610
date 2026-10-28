@@ -1,0 +1,54 @@
+{
+  "blender": "4.5.9 LTS",
+  "models": [
+    {
+      "id": "chest",
+      "mesh_objects": 42,
+      "triangles": 568,
+      "reopen_ok": true,
+      "base_mesh_ok": true,
+      "hinge_degrees": [
+        0.0,
+        52.49999633830372,
+        104.99999950679661
+      ],
+      "animation_ok": true
+    },
+    {
+      "id": "coin",
+      "mesh_objects": 5,
+      "triangles": 192,
+      "reopen_ok": true,
+      "base_mesh_ok": true
+    },
+    {
+      "id": "ore",
+      "mesh_objects": 4,
+      "triangles": 42,
+      "reopen_ok": true,
+      "base_mesh_ok": true
+    },
+    {
+      "id": "potion",
+      "mesh_objects": 6,
+      "triangles": 260,
+      "reopen_ok": true,
+      "base_mesh_ok": true
+    },
+    {
+      "id": "rope",
+      "mesh_objects": 3,
+      "triangles": 682,
+      "reopen_ok": true,
+      "base_mesh_ok": true
+    },
+    {
+      "id": "wood",
+      "mesh_objects": 5,
+      "triangles": 160,
+      "reopen_ok": true,
+      "base_mesh_ok": true
+    }
+  ],
+  "passed": true
+}
