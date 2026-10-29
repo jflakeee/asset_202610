@@ -1,12 +1,12 @@
 from pathlib import Path
 import json,tempfile,shutil,sys,zipfile,warnings,stat,subprocess
 from package import build,staging_errors,archive_errors,safe,sha,R,plan
-root=Path(sys.argv[1]).resolve();results=[];archives=[]
+root=Path(sys.argv[1]).resolve();colliders=Path(sys.argv[2]).resolve() if len(sys.argv)>2 else None;results=[];archives=[]
 for subset in ['full','trial']:
     with tempfile.TemporaryDirectory(prefix='tw-package-') as tmp:
-        base=Path(tmp);stage=base/subset;payload,files,archive=build(root,stage,subset)
+        base=Path(tmp);stage=base/subset;payload,files,archive=build(root,stage,subset,colliders)
         assert not staging_errors(stage,files) and not archive_errors(archive,files)
-        other_payload,other_files,other_archive=build(root,base/(subset+'repeat'),subset)
+        other_payload,other_files,other_archive=build(root,base/(subset+'repeat'),subset,colliders)
         assert archive.read_bytes()==other_archive.read_bytes();results.append(subset+': reproducible archive bytes')
         for name in files:
             assert safe(name)
@@ -20,6 +20,11 @@ for subset in ['full','trial']:
         assert len(payload['asset_ids'])==(84 if subset=='full' else 8)
         assert len(payload['exports'])==(252 if subset=='full' else 8)
         if subset=='trial':assert not any(n.startswith(('source/','examples/')) or '/dry/' in n or '/dusk/' in n for n in files)
+        if colliders:
+            assert payload['collider_overrides_applied']==(24 if subset=='full' else 4)
+            for m in payload['models']:
+                if m['asset_id'].startswith('TW_TREE_'):assert all(p['type']=='capsule' for p in m['collider']['parts'])
+            results.append(subset+': hash-bound collider overrides applied to exact allowed models')
         results.append(subset+': exact IDs/themes, no generators/cache/absolute paths, all scene references resolve')
         extra=stage/'research.bin';extra.write_bytes(b'TEST');assert 'K001' in staging_errors(stage,files);extra.unlink();results.append(subset+': unlisted file blocked')
         model=stage/next(n for n in files if n.endswith('.glb'));original=model.read_bytes()
@@ -43,7 +48,7 @@ for subset in ['full','trial']:
             info=zipfile.ZipInfo('link');info.external_attr=(stat.S_IFLNK|0o777)<<16;z.writestr(info,'README.md')
         assert 'K001' in archive_errors(changed,files);results.append(subset+': archive symlink blocked')
         contaminated=base/'contaminated';contaminated.mkdir();(contaminated/'foreign.bin').write_bytes(b'TEST')
-        try:build(root,contaminated,subset)
+        try:build(root,contaminated,subset,colliders)
         except ValueError:pass
         else:raise AssertionError('Existing staging accepted')
         results.append(subset+': existing staging rejected without deleting contents')

@@ -31,6 +31,18 @@ func setup(entry: Dictionary):
                 var size = part.size_m
                 shape.size = Vector3(size[0], size[2], size[1])
                 collision.shape = shape
+            elif part.type == "capsule":
+                var first = part.endpoints_m[0]
+                var second = part.endpoints_m[1]
+                var a = Vector3(first[0], first[2], -first[1])
+                var b = Vector3(second[0], second[2], -second[1])
+                var shape := CapsuleShape3D.new()
+                shape.radius = part.radius_m
+                shape.height = a.distance_to(b) + 2.0 * part.radius_m
+                collision.shape = shape
+                collision.position = (a + b) / 2.0
+                if a.distance_to(b) > 0.000001:
+                    collision.quaternion = Quaternion(Vector3.UP, (b - a).normalized())
             elif part.type == "cylinder":
                 assert(part.axis == "Z")
                 var shape := CylinderShape3D.new()
@@ -43,6 +55,8 @@ func setup(entry: Dictionary):
             if part.has("center_m"):
                 var p = part.center_m
                 collision.position = Vector3(p[0], p[2], -p[1])
+            if part.has("margin_m"):
+                collision.shape.margin = part.margin_m
             body.add_child(collision)
     set_level(0)
 func set_level(level: int):
@@ -59,7 +73,7 @@ func collision_snapshot() -> Array:
         return result
     result.append([body.get_instance_id(), body.global_transform, body.collision_layer, body.collision_mask])
     for child in body.get_children():
-        result.append([child.get_instance_id(), child.shape.get_instance_id(), child.disabled, child.global_transform, shape_data(child.shape)])
+        result.append([child.get_instance_id(), child.shape.get_instance_id(), child.disabled, child.global_transform, child.shape.margin, shape_data(child.shape)])
     return result
 func sockets(visual: Node3D) -> Dictionary:
     var result := {}
@@ -73,6 +87,8 @@ func shape_data(shape: Shape3D):
         return shape.points
     if shape is BoxShape3D:
         return shape.size
+    if shape is CapsuleShape3D:
+        return [shape.radius, shape.height]
     if shape is CylinderShape3D:
         return [shape.radius, shape.height]
     return null

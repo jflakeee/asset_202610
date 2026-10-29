@@ -1,6 +1,10 @@
 {
   "art_approved": false,
   "at12_complete": false,
+  "collider_manifest": {
+    "overridden_models": 24.0,
+    "sha256": "38aad7bd61f32ee9dd3372a712c9b0a63551d2ff67faaddc597983bf55ef2405"
+  },
   "engine": {
     "build": "official",
     "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
@@ -22,11 +26,14 @@
       "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_PROP_BRANCH_FORK_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -95,11 +102,14 @@
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
       "id": "TW_PROP_BRANCH_FORK_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -168,11 +178,14 @@
       "collision_shapes": 6,
       "disabled_rays_rejected": true,
       "id": "TW_PROP_BRANCH_PILE_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -241,11 +254,14 @@
       "collision_shapes": 8,
       "disabled_rays_rejected": true,
       "id": "TW_PROP_BRANCH_PILE_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -314,11 +330,14 @@
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
       "id": "TW_PROP_LOG_BROKEN_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -387,11 +406,14 @@
       "collision_shapes": 7,
       "disabled_rays_rejected": true,
       "id": "TW_PROP_LOG_BROKEN_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -460,11 +482,14 @@
       "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_PROP_LOG_STRAIGHT_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -533,11 +558,14 @@
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
       "id": "TW_PROP_LOG_STRAIGHT_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -606,11 +634,14 @@
       "collision_shapes": 4,
       "disabled_rays_rejected": true,
       "id": "TW_PROP_STUMP_ROUND_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -679,11 +710,14 @@
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
       "id": "TW_PROP_STUMP_ROUND_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -752,11 +786,14 @@
       "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_PROP_STUMP_SPLIT_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -825,11 +862,14 @@
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
       "id": "TW_PROP_STUMP_SPLIT_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -898,11 +938,14 @@
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
       "id": "TW_ROCK_CLUSTER_LARGE_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -971,11 +1014,14 @@
       "collision_shapes": 6,
       "disabled_rays_rejected": true,
       "id": "TW_ROCK_CLUSTER_LARGE_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -1044,11 +1090,14 @@
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
       "id": "TW_ROCK_CLUSTER_SMALL_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -1117,11 +1166,14 @@
       "collision_shapes": 4,
       "disabled_rays_rejected": true,
       "id": "TW_ROCK_CLUSTER_SMALL_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -1190,11 +1242,14 @@
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
       "id": "TW_ROCK_FLAT_SLAB_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -1263,11 +1318,14 @@
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
       "id": "TW_ROCK_FLAT_SLAB_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -1336,11 +1394,14 @@
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
       "id": "TW_ROCK_LOW_WEDGE_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -1409,11 +1470,14 @@
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
       "id": "TW_ROCK_LOW_WEDGE_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -1482,11 +1546,14 @@
       "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_ROCK_SPLIT_MASS_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -1555,11 +1622,14 @@
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
       "id": "TW_ROCK_SPLIT_MASS_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -1628,11 +1698,14 @@
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
       "id": "TW_ROCK_UPRIGHT_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -1701,11 +1774,14 @@
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
       "id": "TW_ROCK_UPRIGHT_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -1774,11 +1850,14 @@
       "collision_shapes": 20,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_CORNER_L90_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -1847,11 +1926,14 @@
       "collision_shapes": 26,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_CORNER_L90_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -1920,11 +2002,14 @@
       "collision_shapes": 21,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_CORNER_R90_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -1993,11 +2078,14 @@
       "collision_shapes": 27,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_CORNER_R90_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -2066,11 +2154,14 @@
       "collision_shapes": 4,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_END_CAP_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -2139,11 +2230,14 @@
       "collision_shapes": 6,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_END_CAP_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -2212,11 +2306,14 @@
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_END_RUIN_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -2285,11 +2382,14 @@
       "collision_shapes": 8,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_END_RUIN_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -2358,11 +2458,14 @@
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_POST_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -2431,11 +2534,14 @@
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_POST_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -2504,11 +2610,14 @@
       "collision_shapes": 10,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_WALL_1M_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -2577,11 +2686,14 @@
       "collision_shapes": 13,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_WALL_1M_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -2650,11 +2762,14 @@
       "collision_shapes": 16,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_WALL_2M_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -2723,11 +2838,14 @@
       "collision_shapes": 21,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_WALL_2M_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -2796,11 +2914,14 @@
       "collision_shapes": 31,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_WALL_4M_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -2869,11 +2990,14 @@
       "collision_shapes": 35,
       "disabled_rays_rejected": true,
       "id": "TW_STONE_WALL_4M_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -2939,14 +3063,17 @@
       "automatic_lod_import_disabled": true,
       "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
-      "collision_shapes": 4,
+      "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_TREE_DEAD_FORK_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -3012,14 +3139,17 @@
       "automatic_lod_import_disabled": true,
       "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
-      "collision_shapes": 5,
+      "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_TREE_DEAD_FORK_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -3085,14 +3215,17 @@
       "automatic_lod_import_disabled": true,
       "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
-      "collision_shapes": 3,
+      "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_TREE_DEAD_LEAN_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -3158,14 +3291,17 @@
       "automatic_lod_import_disabled": true,
       "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
-      "collision_shapes": 4,
+      "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_TREE_DEAD_LEAN_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -3231,14 +3367,17 @@
       "automatic_lod_import_disabled": true,
       "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
-      "collision_shapes": 5,
+      "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_TREE_ROUND_BROAD_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -3304,14 +3443,17 @@
       "automatic_lod_import_disabled": true,
       "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
-      "collision_shapes": 6,
+      "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_TREE_ROUND_BROAD_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -3377,14 +3519,17 @@
       "automatic_lod_import_disabled": true,
       "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
-      "collision_shapes": 1,
+      "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_TREE_ROUND_SMALL_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -3450,14 +3595,17 @@
       "automatic_lod_import_disabled": true,
       "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
-      "collision_shapes": 5,
+      "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_TREE_ROUND_SMALL_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -3523,14 +3671,17 @@
       "automatic_lod_import_disabled": true,
       "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
-      "collision_shapes": 1,
+      "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_TREE_TIERED_SLIM_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -3596,14 +3747,17 @@
       "automatic_lod_import_disabled": true,
       "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
-      "collision_shapes": 1,
+      "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_TREE_TIERED_SLIM_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -3669,14 +3823,17 @@
       "automatic_lod_import_disabled": true,
       "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
-      "collision_shapes": 1,
+      "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_TREE_TIERED_WIDE_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -3742,14 +3899,17 @@
       "automatic_lod_import_disabled": true,
       "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
-      "collision_shapes": 1,
+      "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_TREE_TIERED_WIDE_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "V8",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -3818,11 +3978,14 @@
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
       "id": "TW_VEG_BUSH_LONG_A",
+      "margin_mutation_detected": null,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -3891,11 +4054,14 @@
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
       "id": "TW_VEG_BUSH_LONG_B",
+      "margin_mutation_detected": null,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -3964,11 +4130,14 @@
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
       "id": "TW_VEG_BUSH_ROUND_A",
+      "margin_mutation_detected": null,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -4037,11 +4206,14 @@
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
       "id": "TW_VEG_BUSH_ROUND_B",
+      "margin_mutation_detected": null,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -4110,11 +4282,14 @@
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
       "id": "TW_VEG_BUSH_SPARSE_A",
+      "margin_mutation_detected": null,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -4183,11 +4358,14 @@
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
       "id": "TW_VEG_BUSH_SPARSE_B",
+      "margin_mutation_detected": null,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -4256,11 +4434,14 @@
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
       "id": "TW_VEG_GRASS_FAN_A",
+      "margin_mutation_detected": null,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -4329,11 +4510,14 @@
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
       "id": "TW_VEG_GRASS_FAN_B",
+      "margin_mutation_detected": null,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -4402,11 +4586,14 @@
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
       "id": "TW_VEG_GRASS_LOW_A",
+      "margin_mutation_detected": null,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -4475,11 +4662,14 @@
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
       "id": "TW_VEG_GRASS_LOW_B",
+      "margin_mutation_detected": null,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -4548,11 +4738,14 @@
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
       "id": "TW_VEG_GRASS_TUFT_A",
+      "margin_mutation_detected": null,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -4621,11 +4814,14 @@
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
       "id": "TW_VEG_GRASS_TUFT_B",
+      "margin_mutation_detected": null,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
@@ -4694,11 +4890,14 @@
       "collision_shapes": 6,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_CORNER_L90_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -4767,11 +4966,14 @@
       "collision_shapes": 9,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_CORNER_L90_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -4840,11 +5042,14 @@
       "collision_shapes": 7,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_CORNER_R90_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -4913,11 +5118,14 @@
       "collision_shapes": 10,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_CORNER_R90_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -4986,11 +5194,14 @@
       "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_END_BROKEN_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -5059,11 +5270,14 @@
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_END_BROKEN_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         true
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -5132,11 +5346,14 @@
       "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_END_CAP_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -5205,11 +5422,14 @@
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_END_CAP_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -5278,11 +5498,14 @@
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_GATE_FRAME_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -5351,11 +5574,14 @@
       "collision_shapes": 6,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_GATE_FRAME_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -5424,11 +5650,14 @@
       "collision_shapes": 9,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_GATE_LEAF_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -5497,11 +5726,14 @@
       "collision_shapes": 11,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_GATE_LEAF_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -5570,11 +5802,14 @@
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_POST_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -5643,11 +5878,14 @@
       "collision_shapes": 2,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_POST_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -5716,11 +5954,14 @@
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_RAIL_1M_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -5789,11 +6030,14 @@
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_RAIL_1M_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -5862,11 +6106,14 @@
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_RAIL_2M_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -5935,11 +6182,14 @@
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_RAIL_2M_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         true,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -6008,11 +6258,14 @@
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_RAIL_4M_A",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
@@ -6081,11 +6334,14 @@
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
       "id": "TW_WOOD_RAIL_4M_B",
+      "margin_mutation_detected": true,
       "omission_pending": [
         false,
         false
       ],
       "passed": true,
+      "proxy_binding_pass": true,
+      "proxy_revision": "ORIGINAL",
       "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [

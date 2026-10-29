@@ -13,7 +13,7 @@ def safe(name):
     p=PurePosixPath(name)
     return bool(name) and not p.is_absolute() and p.as_posix()==name and '..' not in p.parts and '\\' not in name and ':' not in name
 
-def plan(root,subset):
+def plan(root,subset,colliders=None):
     creation=root/'creation';records=json.loads((creation/'asset_records_output/asset_records.json').read_text())['records'];ids=sorted(TRIAL if subset=='trial' else [r['asset_id'] for r in records]);assert len(ids)==(8 if subset=='trial' else 84)
     section=(root/'original_asset_pack_design_v1.md').read_text().split('## 18. 42개 원형 카탈로그',1)[1].split('## 19.',1)[0]
     families=[]
@@ -23,6 +23,14 @@ def plan(root,subset):
     assert len(set(families))==42 and len(canonical)==84
     assert len(records)==84 and {r['asset_id'] for r in records}==canonical
     assert all(r['asset_id']==f"TW_{r['family']}_{r['variant']}" and r['variant'] in 'AB' for r in records)
+    overrides={};proxy_sha=None
+    if colliders:
+        raw=Path(colliders).read_bytes();proxy=json.loads(raw);proxy_sha=sha(raw)
+        assert proxy['schema_version']=='1.0' and proxy['coordinate_frame']=='SOURCE_Z_UP'
+        assert proxy['source_catalog_sha256']==sha((root/'trailwood_godot/data/full_catalog.json').read_bytes())
+        overrides=proxy['overrides']
+        assert set(overrides)=={aid for aid in canonical if aid.startswith(('TW_TREE_','TW_ROCK_'))}
+        for aid in overrides:assert proxy['source_model_sha256'][aid]==sha((creation/'theme_output/MOSS_01/models'/f'{aid}_LOD0.glb').read_bytes())
     files={};exports=[];models=[]
     def add(name,data):
         assert safe(name) and name.casefold() not in {n.casefold() for n in files}
@@ -40,7 +48,7 @@ def plan(root,subset):
         for e in record['exports']:
             if e['lod']!=0 or e['theme'] not in THEMES or subset=='trial' and e['theme']!='MOSS_01':continue
             dest=f"models/glb/lod0/{THEMES[e['theme']]}/{aid}_LOD0.glb";source(dest,creation/e['path'],e['sha256']);exports.append(dict(asset_id=aid,theme=THEMES[e['theme']],lod=0,file=dest,triangles=e['triangles'],sha256=e['sha256']))
-        t=thumbs[aid];source(f'previews/thumbnails/{aid}.png',media/t['file'],t['sha256']);models.append(dict(asset_id=aid,family=record['family'],variant=record['variant'],collider=fullcat[aid].get('collider'),lod_status='LOD0_ONLY_IN_THIS_LAYOUT_PREVIEW',art_approval='PENDING'))
+        t=thumbs[aid];source(f'previews/thumbnails/{aid}.png',media/t['file'],t['sha256']);models.append(dict(asset_id=aid,family=record['family'],variant=record['variant'],collider=overrides.get(aid,fullcat[aid].get('collider')),collider_revision='V8_REVIEW' if aid in overrides else 'ORIGINAL',lod_status='LOD0_ONLY_IN_THIS_LAYOUT_PREVIEW',art_approval='PENDING'))
     assert len(exports)==len(ids)*(1 if subset=='trial' else 3)
     if subset=='full':
         audit=json.loads((R/'reports/blend_audit.json').read_text());assert audit['passed']
@@ -60,7 +68,7 @@ def plan(root,subset):
     sys.path.insert(0,str(creation));from verify_glb import load_glb
     for theme in (['MOSS_01'] if subset=='trial' else THEMES):
         mesh=load_glb(creation/'theme_output'/theme/'models'/f'{ids[0]}_LOD0.glb');add(f'textures/{THEMES[theme]}.png',mesh['png'])
-    payload=dict(schema_version='1.0',channel='INTERNAL_REVIEW',subset=subset,unique_model_count=len(ids),asset_ids=ids,themes=['moss'] if subset=='trial' else list(THEMES.values()),models=models,exports=exports,sales_approved=False,blockers=BLOCKERS)
+    payload=dict(schema_version='1.0',channel='INTERNAL_REVIEW',subset=subset,unique_model_count=len(ids),asset_ids=ids,themes=['moss'] if subset=='trial' else list(THEMES.values()),models=models,exports=exports,sales_approved=False,collider_overrides_sha256=proxy_sha,collider_overrides_applied=sum(m['asset_id'] in overrides for m in models),collision_fidelity_approved=False,blockers=BLOCKERS)
     add('asset_manifest.json',json.dumps(payload,indent=2).encode())
     stream=io.StringIO(newline='');w=csv.DictWriter(stream,fieldnames=['asset_id','theme','lod','file','triangles','sha256']);w.writeheader();w.writerows(exports);add('manifest.csv',stream.getvalue().encode('utf-8-sig'))
     add('README.md',f'''# Trailwood {subset} - INTERNAL REVIEW
@@ -98,7 +106,7 @@ Final platform terms, customer license, pricing and support commitments require 
 3. The full layout also has dry and dusk folders. They recolor the same geometry, not additional model designs.
 4. Godot4.7.2 Linux headless import is engineering evidence. Native Unity/URP support, GPU appearance and Android/iOS performance are not established.
 5. In Godot's Advanced Import Settings disable Generate LODs before reimporting manually authored LODs. Automatic import collision must remain off if descriptors are used to construct collision.
-6. Collision descriptors in asset_manifest.json are source Z-up: map(x,y,z) to(x,z,-y) exactly once. Grass/bush entries with null descriptors are nonblocking. Descriptors are separate data, not portable glTF physics.
+6. Collision descriptors in asset_manifest.json are source Z-up: map(x,y,z) to(x,z,-y) exactly once. Grass/bush entries with null descriptors are nonblocking. Descriptors are separate data, not portable glTF physics. Capsule endpoints_m are sphere centers: transform both endpoints once, place the capsule at their midpoint, align its localY axis along the segment and set total height to segment length plus2radius. V8 review parts set margin_m=0.001. Rounded tree bases can extend below ground; component-only proxy shape and visual fidelity still require review.
 7. The full Blender source is an editable imported mesh/UV/material/socket document, not a parametric generator. Its Moss image is packed; image paths are relative.
 8. Static example JSONs describe assembly and are not ready-to-play scenes. No dynamic gate controller is included.
 
@@ -112,6 +120,7 @@ For material sharing, first confirm embedded materials render correctly, then re
 - This layout contains LOD0 only. No unsupported LOD-completeness or mobile-performance claim is made.
 - Tested engineering environment: Godot4.7.2 Linux headless. GPU screenshots, physical Android/iOS, art approval and final terms are pending.
 - Orthographic top-down examples should keep LOD0. Perspective initial distances: natural12/28m, boundary18/40m; grass cull25m. These are design starting values, not device recommendations.
+- When V8 colliders are selected: rocks retain inward gaps up to about0.121m and rounded tree caps extend below ground up to about0.238m before1mm margin. These remain contact-fidelity review limitations, not approved sales behavior.
 - Gates in examples are static positions. Damaged fence collision can use a simplified intact proxy and needs review.
 - Customer layout excludes generators, recipes, third-party research, credentials, caches and absolute machine paths.
 '''.encode())
@@ -157,8 +166,8 @@ def archive_errors(path,files):
         else:errors.append('K002')
     return sorted(set(errors))
 
-def build(root,out,subset):
-    payload,files=plan(root,subset)
+def build(root,out,subset,colliders=None):
+    payload,files=plan(root,subset,colliders)
     if out.exists():raise ValueError('Output must be new, refusing to merge contaminated staging')
     out.mkdir(parents=True)
     for name,data in files.items():p=out/name;p.parent.mkdir(parents=True,exist_ok=True);p.write_bytes(data)
@@ -172,9 +181,9 @@ def build(root,out,subset):
     return payload,files,archive
 
 def main():
-    p=argparse.ArgumentParser();p.add_argument('root',type=Path);p.add_argument('--out',type=Path,required=True);p.add_argument('--subset',choices=['full','trial'],default='full');p.add_argument('--channel',choices=['internal-review','sales'],default='internal-review');a=p.parse_args()
+    p=argparse.ArgumentParser();p.add_argument('root',type=Path);p.add_argument('--out',type=Path,required=True);p.add_argument('--subset',choices=['full','trial'],default='full');p.add_argument('--colliders',type=Path);p.add_argument('--channel',choices=['internal-review','sales'],default='internal-review');a=p.parse_args()
     if a.channel=='sales':
         print(json.dumps(dict(sales_approved=False,blockers=BLOCKERS),indent=2));raise SystemExit(2)
-    payload,files,archive=build(a.root.resolve(),a.out,a.subset)
+    payload,files,archive=build(a.root.resolve(),a.out,a.subset,a.colliders)
     print(json.dumps(dict(subset=a.subset,unique_models=len(payload['asset_ids']),files=len(files)+1,archive=str(archive),bytes=archive.stat().st_size,sha256=sha(archive.read_bytes()),sales_approved=False)))
 if __name__=='__main__':main()

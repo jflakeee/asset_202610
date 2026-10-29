@@ -2,6 +2,8 @@
 
 This implements the section9 full/trial file boundary. It does not authorize sales or public free distribution. `package.py --channel sales` exits2 before creating output because unresolved build gates remain. The pending LICENSE notice is not a final customer license.
 
+Current archives use the hash-bound24-model V8 collider revision from ../collider-work-v8/overrides.json. The full inventory applies24 overrides; the trial applies only the4 allowed tree/rock entries. The old baseline collider audit remains evidence of the original24 mismatches, not the selected archive contents.
+
 Full:84 unique LOD0 models ×3 themes =252 GLBs,84 thumbnails,6 contact sheets,6 static assembly JSONs with matching preview images,3 external palettes and one sanitized editable Blender source.367 total files including manifests and documents.
 
 Trial: exact8 design IDs, Moss only,8 GLBs and8 thumbnails.26 total files. No full-source Blender file, full-pack examples, Dry or Dusk assets. The existing low-detail91 reduced Moss candidates remain separate engineering deliverables; these layout previews intentionally contain LOD0 only and do not satisfy the final LOD shipping requirement.
@@ -17,16 +19,16 @@ Start with the generated disposable repository from ../completion-work-v1/STATUS
 ```sh
 mkdir -p quality/sales-package-work-v7/sanitized
 blender --background --python-exit-code 1 --python quality/sales-package-work-v7/audit_blend.py -- /repository/creation/blender_sources_output/Trailwood.blend /repository/quality/sales-package-work-v7/sanitized/Trailwood.blend /repository/quality/sales-package-work-v7/reports/blend_audit.json
-python quality/sales-package-work-v7/test_package.py /generated/repository
-python quality/sales-package-work-v7/package.py /generated/repository --out /new/empty/full-layout --subset full
-python quality/sales-package-work-v7/package.py /generated/repository --out /new/empty/trial-layout --subset trial
+python quality/sales-package-work-v7/test_package.py /generated/repository quality/collider-work-v8/overrides.json
+python quality/sales-package-work-v7/package.py /generated/repository --out /new/empty/full-layout --subset full --colliders quality/collider-work-v8/overrides.json
+python quality/sales-package-work-v7/package.py /generated/repository --out /new/empty/trial-layout --subset trial --colliders quality/collider-work-v8/overrides.json
 ```
 
 The test writes two downloadable review ZIPs and a report. It checks deterministic ZIP bytes, package hashes, exact ID/theme sets, resolved assembly references, absent internal code/path leakage, filesystem/ZIP extras, mutation, missing files, symlinks, traversal, duplicate entries, malformed/retagged manifests, self-consistent manifest tampering, paid-only model contamination in trial and sales-mode refusal. Trusted plans are regenerated from canonical source records; a changed manifest cannot approve itself.
 
 ## Engineering work still open
 
-- Section23.3 collider audit finds24 canonical model differences: all12 trees use other shapes/counts than the capsule contract and all12 rocks exceed the16-vertex proxy limit. Fidelity and3cm outward error are not established. Engine collision stability tests do not resolve these differences.
+- The V8 revision resolves the24 tree-shape/rock-vertex structural differences. Contact fidelity remains pending: all29 rock components exceed a supplementary3cm inward target (worst about12.1cm), and tree rounded bases extend below ground (worst about0.238m before margin). Original baseline findings remain in reports/collider_contract.json; current measurements are in ../collider-work-v8/reports/.
 - Ship reduced models across all themes after candidate/art review; resolve77 omission decisions.
 - Complete customer native Godot scenes, shared-material reimport checks and actual GPU preview images.
 - Complete source/provenance signoff, final terms, human art approval and physical Android/iOS performance measurements.

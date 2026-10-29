@@ -1,0 +1,21 @@
+{
+  "canonical_overrides": 24,
+  "tree_models": 12,
+  "tree_capsules": 24,
+  "rock_models": 12,
+  "rock_components": 29,
+  "rock_vertices_max": 16,
+  "structure_pass": true,
+  "independent_rock_outward_check_pass": true,
+  "rock_inward_max_m": 0.12095058194912552,
+  "rock_inward_warning_components": 29,
+  "tree_ground_extension_max_m": 0.2375969574286852,
+  "engine_models": 84,
+  "engine_transitions": 588,
+  "engine_collision_shapes": 454,
+  "engine_proxy_binding_pass": true,
+  "source_lod0_exports_unchanged": 252,
+  "art_approved": false,
+  "contact_fidelity_approved": false,
+  "sales_approved": false
+}

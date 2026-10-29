@@ -13,8 +13,12 @@
     "timestamp": 0
   },
   "automatic_lod_levels": 0,
+  "collider_manifest": {
+    "overridden_models": 24.0,
+    "sha256": "38aad7bd61f32ee9dd3372a712c9b0a63551d2ff67faaddc597983bf55ef2405"
+  },
   "cache_reused": false,
   "archive": "trailwood_lod_engine_review_20261029.zip",
-  "scope": "Fresh archive extraction, native headless import and full588 transition/physics checks; GPU not run",
-  "archive_sha256": "c30d7f971d510fc40df3421310612842bbe89c12d8d7c8ed0ea15d541e9fd557"
+  "archive_sha256": "1d1041f14f21c99a207d218cfe36295c9306a57268e5c163f48dc9929e29581e",
+  "scope": "FreshV8 archive extraction, native headless import and588 transition/physics checks; GPU not run"
 }

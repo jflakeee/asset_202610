@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "unique_models": 84,
+  "exports": 252,
+  "all_match_original_recorded_sha256": true,
+  "visible_geometry_changed": false,
+  "scope": "Full3-theme canonical LOD0 file bytes, including geometry/UV/materials/sockets, match recorded source exports"
+}

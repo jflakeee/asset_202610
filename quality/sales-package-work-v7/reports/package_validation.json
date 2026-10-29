@@ -2,6 +2,7 @@
   "passed": true,
   "checks": [
     "full: reproducible archive bytes",
+    "full: hash-bound collider overrides applied to exact allowed models",
     "full: exact IDs/themes, no generators/cache/absolute paths, all scene references resolve",
     "full: unlisted file blocked",
     "full: mutated and missing model blocked",
@@ -15,6 +16,7 @@
     "full: archive symlink blocked",
     "full: existing staging rejected without deleting contents",
     "trial: reproducible archive bytes",
+    "trial: hash-bound collider overrides applied to exact allowed models",
     "trial: exact IDs/themes, no generators/cache/absolute paths, all scene references resolve",
     "trial: unlisted file blocked",
     "trial: mutated and missing model blocked",
@@ -35,8 +37,8 @@
     {
       "subset": "full",
       "file": "full_customer_layout_review_20261029.zip",
-      "bytes": 4654088,
-      "sha256": "5428552fa2a68c19fea5bcbbc9a975dc2139a197b56854d3ac4d2606218bd512",
+      "bytes": 4629097,
+      "sha256": "4232d638431a292b4046b43018bb293296701e51295179eaf3ecb4887a25d4c7",
       "unique_models": 84,
       "glb_files": 252,
       "files": 367,
@@ -45,8 +47,8 @@
     {
       "subset": "trial",
       "file": "trial_customer_layout_review_20261029.zip",
-      "bytes": 217380,
-      "sha256": "e6f97dc24076ff8b86ebd857a4eb9cce2e5225b58ecc382c7fbb5a4bc18c1a3c",
+      "bytes": 217112,
+      "sha256": "875b37c51da9cd87586e832d720469e8a8a1f5250bf55ebe6ed7d8bab6b09db6",
       "unique_models": 8,
       "glb_files": 8,
       "files": 26,

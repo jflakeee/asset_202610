@@ -1,0 +1,303 @@
+{
+  "passed": true,
+  "models": 12,
+  "components": 29,
+  "max_outward_distance_m": 4.804952026132896e-08,
+  "max_inward_distance_m": 0.12095058194912552,
+  "inward_warning_components": 29,
+  "method": "Independent SLSQP convex distance QPs, every hull vertex; tolerance1um",
+  "scope": "Geometry distances plus configured margin budget; not a full character sweep/contact fidelity certification",
+  "rows": [
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_A",
+      "component": 0,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.08801544318397848,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_A",
+      "component": 1,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.07958891168993938,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_A",
+      "component": 2,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.11197634688238638,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_A",
+      "component": 3,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.08107499687675225,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_A",
+      "component": 4,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.09336854258875321,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_B",
+      "component": 0,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.07982012288074099,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_B",
+      "component": 1,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.08391490700587118,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_B",
+      "component": 2,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.11371493177808144,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_B",
+      "component": 3,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.090794674151416,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_B",
+      "component": 4,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.09183553274847676,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_B",
+      "component": 5,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.12095058194912552,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_A",
+      "component": 0,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.06778370942947894,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_A",
+      "component": 1,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.05838318745770506,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_A",
+      "component": 2,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.08223308629147823,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_B",
+      "component": 0,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.06477917678875529,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_B",
+      "component": 1,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.07449661988716899,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_B",
+      "component": 2,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.07932837506859282,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_B",
+      "component": 3,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.05933096133877627,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_FLAT_SLAB_A",
+      "component": 0,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.054407345471745173,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_FLAT_SLAB_B",
+      "component": 0,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.06743894585812227,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_LOW_WEDGE_A",
+      "component": 0,
+      "vertices": 16,
+      "outward_distance_m": 2.6074488681187025e-08,
+      "inward_distance_m": 0.09628328375859768,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_LOW_WEDGE_B",
+      "component": 0,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.08643194187764819,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_SPLIT_MASS_A",
+      "component": 0,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.08296683571885058,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_SPLIT_MASS_A",
+      "component": 1,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.0842982623737904,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_SPLIT_MASS_B",
+      "component": 0,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.07763914296719271,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_SPLIT_MASS_B",
+      "component": 1,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.0883071707308336,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_SPLIT_MASS_B",
+      "component": 2,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.08301224108983062,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_UPRIGHT_A",
+      "component": 0,
+      "vertices": 16,
+      "outward_distance_m": 4.804952026132896e-08,
+      "inward_distance_m": 0.07788420809297077,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    },
+    {
+      "asset_id": "TW_ROCK_UPRIGHT_B",
+      "component": 0,
+      "vertices": 16,
+      "outward_distance_m": 0.0,
+      "inward_distance_m": 0.08501105731316796,
+      "physics_margin_setting_m": 0.001,
+      "passed_outward_contract_with_1um_allowance": true,
+      "inward_3cm_review_warning": true
+    }
+  ],
+  "sales_approved": false
+}

@@ -1,0 +1,662 @@
+{
+  "models": 12,
+  "passed_trunk_capsule_contract": true,
+  "coordinate_frame": "source Z-up metres",
+  "constraints": "At most2 capsules; totalheight>=2radius; trunk component only; no source mesh changes",
+  "containment_proof": "Each trunk triangle has all3 vertices inside one convex capsule; therefore the complete triangle is contained",
+  "limitation": "Flat trunk bases cannot be fully contained by rounded capsule caps with zero ground extension. Proxies intentionally extend below ground; extension and conservative outward bounds require review.",
+  "geometry_modified": false,
+  "art_approved": false,
+  "physics_engine_test": "PARENT_INTEGRATION_PENDING",
+  "models_detail": [
+    {
+      "asset_id": "TW_TREE_DEAD_FORK_A",
+      "source_file": "natural_catalog_output/source_meshes/TW_TREE_DEAD_FORK_A.json",
+      "source_sha256": "718db4034748b83904a85d97e64ab03b60f9c369cfb685fa84f0cfb8d608fb58",
+      "coordinate_frame": "source Z-up metres; endpoints are sphere centers",
+      "capsule_count": 2,
+      "split_ring": 2,
+      "trunk_rings": 4,
+      "source_trunk_vertices": 32,
+      "source_trunk_triangles": 60,
+      "all_trunk_triangles_contained": true,
+      "exact_directed_trunk_surface_excess_m": 0.0,
+      "ground_extension_below_trunk_base_m": 0.156001,
+      "top_extension_above_trunk_m": 0.0851187443876209,
+      "excluded_components": [
+        "dead_branch_0",
+        "dead_branch_1",
+        "dead_branch_2"
+      ],
+      "canopy_or_branch_geometry_used": false,
+      "approximation_review_required": true,
+      "parts": [
+        {
+          "rings": [
+            0,
+            2
+          ],
+          "radius_m": 0.156001,
+          "height_m": 2.228560634636572,
+          "axis_length_m": 1.916558634636572,
+          "source_vertices": 24,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.156001,
+          "sampled_outward_plane_violation_lower_bound_m": 0.156001,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        },
+        {
+          "rings": [
+            2,
+            3
+          ],
+          "radius_m": 0.08970100000000004,
+          "height_m": 0.9377403150019522,
+          "axis_length_m": 0.7583383150019521,
+          "source_vertices": 16,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.08970100000000004,
+          "sampled_outward_plane_violation_lower_bound_m": 0.0896504031608325,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_FORK_B",
+      "source_file": "natural_catalog_output/source_meshes/TW_TREE_DEAD_FORK_B.json",
+      "source_sha256": "c53b1535b80bcfcada2398541fc267656239f3a7c724435822e9cee7c58a4929",
+      "coordinate_frame": "source Z-up metres; endpoints are sphere centers",
+      "capsule_count": 2,
+      "split_ring": 1,
+      "trunk_rings": 4,
+      "source_trunk_vertices": 32,
+      "source_trunk_triangles": 60,
+      "all_trunk_triangles_contained": true,
+      "exact_directed_trunk_surface_excess_m": 0.0,
+      "ground_extension_below_trunk_base_m": 0.17759685948620313,
+      "top_extension_above_trunk_m": 0.1402958742027982,
+      "excluded_components": [
+        "dead_branch_0",
+        "dead_branch_1",
+        "dead_branch_2",
+        "dead_branch_3"
+      ],
+      "canopy_or_branch_geometry_used": false,
+      "approximation_review_required": true,
+      "parts": [
+        {
+          "rings": [
+            0,
+            1
+          ],
+          "radius_m": 0.17759685948620313,
+          "height_m": 1.3967550469795476,
+          "axis_length_m": 1.0415613280071412,
+          "source_vertices": 16,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.17759685948620313,
+          "sampled_outward_plane_violation_lower_bound_m": 0.17759685948620313,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        },
+        {
+          "rings": [
+            1,
+            3
+          ],
+          "radius_m": 0.14800100000000005,
+          "height_m": 2.268703193794945,
+          "axis_length_m": 1.9727011937949448,
+          "source_vertices": 24,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.14800100000000005,
+          "sampled_outward_plane_violation_lower_bound_m": 0.14794854536266633,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_LEAN_A",
+      "source_file": "natural_catalog_output/source_meshes/TW_TREE_DEAD_LEAN_A.json",
+      "source_sha256": "1dca61c1beb34f7fa0cfe3b5981be85c6f527f74715b09cbd2af893808fc899f",
+      "coordinate_frame": "source Z-up metres; endpoints are sphere centers",
+      "capsule_count": 2,
+      "split_ring": 1,
+      "trunk_rings": 4,
+      "source_trunk_vertices": 32,
+      "source_trunk_triangles": 60,
+      "all_trunk_triangles_contained": true,
+      "exact_directed_trunk_surface_excess_m": 0.0,
+      "ground_extension_below_trunk_base_m": 0.15600100000000003,
+      "top_extension_above_trunk_m": 0.13440217880872307,
+      "excluded_components": [
+        "dead_branch_0",
+        "dead_branch_1"
+      ],
+      "canopy_or_branch_geometry_used": false,
+      "approximation_review_required": true,
+      "parts": [
+        {
+          "rings": [
+            0,
+            1
+          ],
+          "radius_m": 0.15600100000000003,
+          "height_m": 1.2487198070262142,
+          "axis_length_m": 0.9367178070262141,
+          "source_vertices": 16,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.15600100000000003,
+          "sampled_outward_plane_violation_lower_bound_m": 0.15600100000000003,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        },
+        {
+          "rings": [
+            1,
+            3
+          ],
+          "radius_m": 0.15381057730395073,
+          "height_m": 2.191661029451319,
+          "axis_length_m": 1.8840398748434175,
+          "source_vertices": 24,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.15381057730395073,
+          "sampled_outward_plane_violation_lower_bound_m": 0.15371852489595672,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_LEAN_B",
+      "source_file": "natural_catalog_output/source_meshes/TW_TREE_DEAD_LEAN_B.json",
+      "source_sha256": "f119b60bf5e4286f1973c09ae68a0312da8164bdb60db0b0225d68db4646d616",
+      "coordinate_frame": "source Z-up metres; endpoints are sphere centers",
+      "capsule_count": 2,
+      "split_ring": 1,
+      "trunk_rings": 4,
+      "source_trunk_vertices": 32,
+      "source_trunk_triangles": 60,
+      "all_trunk_triangles_contained": true,
+      "exact_directed_trunk_surface_excess_m": 0.0,
+      "ground_extension_below_trunk_base_m": 0.17750346517135313,
+      "top_extension_above_trunk_m": 0.15646037511528066,
+      "excluded_components": [
+        "dead_branch_0",
+        "dead_branch_1",
+        "dead_branch_2"
+      ],
+      "canopy_or_branch_geometry_used": false,
+      "approximation_review_required": true,
+      "parts": [
+        {
+          "rings": [
+            0,
+            1
+          ],
+          "radius_m": 0.17750346517135313,
+          "height_m": 1.4033776901409754,
+          "axis_length_m": 1.048370759798269,
+          "source_vertices": 16,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.17750346517135313,
+          "sampled_outward_plane_violation_lower_bound_m": 0.17750346517135313,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        },
+        {
+          "rings": [
+            1,
+            3
+          ],
+          "radius_m": 0.17660106051077623,
+          "height_m": 2.438515346894347,
+          "axis_length_m": 2.0853132258727944,
+          "source_vertices": 24,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.17660106051077623,
+          "sampled_outward_plane_violation_lower_bound_m": 0.1764312076330108,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_BROAD_A",
+      "source_file": "natural_catalog_output/source_meshes/TW_TREE_ROUND_BROAD_A.json",
+      "source_sha256": "5df47c2b4f628668c876983f029efca6d34247f8af29a59ac6e4df6ee33fa64a",
+      "coordinate_frame": "source Z-up metres; endpoints are sphere centers",
+      "capsule_count": 2,
+      "split_ring": 2,
+      "trunk_rings": 4,
+      "source_trunk_vertices": 32,
+      "source_trunk_triangles": 60,
+      "all_trunk_triangles_contained": true,
+      "exact_directed_trunk_surface_excess_m": 0.0,
+      "ground_extension_below_trunk_base_m": 0.21600099999999997,
+      "top_extension_above_trunk_m": 0.11844527975670438,
+      "excluded_components": [
+        "canopy_lobe_0",
+        "branch_0",
+        "canopy_lobe_1",
+        "branch_1",
+        "canopy_lobe_2",
+        "branch_2",
+        "canopy_lobe_3",
+        "branch_3",
+        "canopy_top"
+      ],
+      "canopy_or_branch_geometry_used": false,
+      "approximation_review_required": true,
+      "parts": [
+        {
+          "rings": [
+            0,
+            2
+          ],
+          "radius_m": 0.21600099999999997,
+          "height_m": 2.5463210393126574,
+          "axis_length_m": 2.1143190393126576,
+          "source_vertices": 24,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.21600099999999997,
+          "sampled_outward_plane_violation_lower_bound_m": 0.21600099999999997,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        },
+        {
+          "rings": [
+            2,
+            3
+          ],
+          "radius_m": 0.12420099999999999,
+          "height_m": 1.0843356098040324,
+          "axis_length_m": 0.8359336098040324,
+          "source_vertices": 16,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.12420099999999999,
+          "sampled_outward_plane_violation_lower_bound_m": 0.1241609169847735,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_BROAD_B",
+      "source_file": "natural_catalog_output/source_meshes/TW_TREE_ROUND_BROAD_B.json",
+      "source_sha256": "e1d50c9a053bb45bd20f64fa70dc7e7f89298031a93ba3f6a46a1761d71ba9da",
+      "coordinate_frame": "source Z-up metres; endpoints are sphere centers",
+      "capsule_count": 2,
+      "split_ring": 1,
+      "trunk_rings": 4,
+      "source_trunk_vertices": 32,
+      "source_trunk_triangles": 60,
+      "all_trunk_triangles_contained": true,
+      "exact_directed_trunk_surface_excess_m": 0.0,
+      "ground_extension_below_trunk_base_m": 0.23759608902701754,
+      "top_extension_above_trunk_m": 0.18827673502665876,
+      "excluded_components": [
+        "canopy_lobe_0",
+        "branch_0",
+        "canopy_lobe_1",
+        "branch_1",
+        "canopy_lobe_2",
+        "branch_2",
+        "canopy_lobe_3",
+        "branch_3",
+        "canopy_lobe_4",
+        "branch_4",
+        "canopy_top"
+      ],
+      "canopy_or_branch_geometry_used": false,
+      "approximation_review_required": true,
+      "parts": [
+        {
+          "rings": [
+            0,
+            1
+          ],
+          "radius_m": 0.23759608902701754,
+          "height_m": 1.5806631184228899,
+          "axis_length_m": 1.1054709403688547,
+          "source_vertices": 16,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.23759608902701754,
+          "sampled_outward_plane_violation_lower_bound_m": 0.23759608902701754,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        },
+        {
+          "rings": [
+            1,
+            3
+          ],
+          "radius_m": 0.19800100000000004,
+          "height_m": 2.4874010532655415,
+          "axis_length_m": 2.0913990532655413,
+          "source_vertices": 24,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.19800100000000004,
+          "sampled_outward_plane_violation_lower_bound_m": 0.19791034279236897,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_SMALL_A",
+      "source_file": "trees_output_v2/source_meshes/TW_TREE_ROUND_SMALL_A.json",
+      "source_sha256": "3ec8d670e2481294525dd6b156045a38a153bedacfad3c8ab59c606ceaa62abc",
+      "coordinate_frame": "source Z-up metres; endpoints are sphere centers",
+      "capsule_count": 2,
+      "split_ring": 2,
+      "trunk_rings": 5,
+      "source_trunk_vertices": 40,
+      "source_trunk_triangles": 76,
+      "all_trunk_triangles_contained": true,
+      "exact_directed_trunk_surface_excess_m": 0.0,
+      "ground_extension_below_trunk_base_m": 0.14000100000000001,
+      "top_extension_above_trunk_m": 0.08217772354663144,
+      "excluded_components": [
+        "canopy_0",
+        "branch_0",
+        "canopy_1",
+        "branch_1",
+        "canopy_2",
+        "branch_2"
+      ],
+      "canopy_or_branch_geometry_used": false,
+      "approximation_review_required": true,
+      "parts": [
+        {
+          "rings": [
+            0,
+            2
+          ],
+          "radius_m": 0.14000100000000001,
+          "height_m": 1.2067435286784296,
+          "axis_length_m": 0.9267415286784295,
+          "source_vertices": 24,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.14000100000000001,
+          "sampled_outward_plane_violation_lower_bound_m": 0.14000100000000001,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        },
+        {
+          "rings": [
+            2,
+            4
+          ],
+          "radius_m": 0.09100100000000003,
+          "height_m": 1.122559679674719,
+          "axis_length_m": 0.940557679674719,
+          "source_vertices": 24,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.09100100000000003,
+          "sampled_outward_plane_violation_lower_bound_m": 0.09096434948748877,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_SMALL_B",
+      "source_file": "natural_catalog_output/source_meshes/TW_TREE_ROUND_SMALL_B.json",
+      "source_sha256": "eb7db1dc6169c461f994f129b2dbe6f9defd158f105935f278e602c43f33ee54",
+      "coordinate_frame": "source Z-up metres; endpoints are sphere centers",
+      "capsule_count": 2,
+      "split_ring": 1,
+      "trunk_rings": 4,
+      "source_trunk_vertices": 32,
+      "source_trunk_triangles": 60,
+      "all_trunk_triangles_contained": true,
+      "exact_directed_trunk_surface_excess_m": 0.0,
+      "ground_extension_below_trunk_base_m": 0.17759629321557444,
+      "top_extension_above_trunk_m": 0.13980442440080632,
+      "excluded_components": [
+        "canopy_lobe_0",
+        "branch_0",
+        "canopy_lobe_1",
+        "branch_1",
+        "canopy_lobe_2",
+        "branch_2",
+        "canopy_lobe_3",
+        "branch_3",
+        "canopy_top"
+      ],
+      "canopy_or_branch_geometry_used": false,
+      "approximation_review_required": true,
+      "parts": [
+        {
+          "rings": [
+            0,
+            1
+          ],
+          "radius_m": 0.17759629321557444,
+          "height_m": 1.332856127737666,
+          "axis_length_m": 0.9776635413065171,
+          "source_vertices": 16,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.17759629321557444,
+          "sampled_outward_plane_violation_lower_bound_m": 0.17759629321557444,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        },
+        {
+          "rings": [
+            1,
+            3
+          ],
+          "radius_m": 0.148001,
+          "height_m": 2.1501729737777695,
+          "axis_length_m": 1.8541709737777694,
+          "source_vertices": 24,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.148001,
+          "sampled_outward_plane_violation_lower_bound_m": 0.14796718611402948,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_SLIM_A",
+      "source_file": "trees_output_v2/source_meshes/TW_TREE_TIERED_SLIM_A.json",
+      "source_sha256": "aa75f8aebf2c7e2ac0c995459999bfe95a269a4e387e6d6ae4d9bea81c4ab7b0",
+      "coordinate_frame": "source Z-up metres; endpoints are sphere centers",
+      "capsule_count": 2,
+      "split_ring": 2,
+      "trunk_rings": 6,
+      "source_trunk_vertices": 48,
+      "source_trunk_triangles": 92,
+      "all_trunk_triangles_contained": true,
+      "exact_directed_trunk_surface_excess_m": 0.0,
+      "ground_extension_below_trunk_base_m": 0.120001,
+      "top_extension_above_trunk_m": 0.08538260050788749,
+      "excluded_components": [
+        "tier_0",
+        "tier_1",
+        "tier_2"
+      ],
+      "canopy_or_branch_geometry_used": false,
+      "approximation_review_required": true,
+      "parts": [
+        {
+          "rings": [
+            0,
+            2
+          ],
+          "radius_m": 0.120001,
+          "height_m": 1.6600300807085175,
+          "axis_length_m": 1.4200280807085175,
+          "source_vertices": 24,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.120001,
+          "sampled_outward_plane_violation_lower_bound_m": 0.120001,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        },
+        {
+          "rings": [
+            2,
+            5
+          ],
+          "radius_m": 0.086401,
+          "height_m": 2.3033179256374345,
+          "axis_length_m": 2.1305159256374346,
+          "source_vertices": 32,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.086401,
+          "sampled_outward_plane_violation_lower_bound_m": 0.08640062184698838,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_SLIM_B",
+      "source_file": "natural_catalog_output/source_meshes/TW_TREE_TIERED_SLIM_B.json",
+      "source_sha256": "e56aec5765a2e9daf7e825e1af4a511a6d40002331cb5a3488d11f3d0a4caeb5",
+      "coordinate_frame": "source Z-up metres; endpoints are sphere centers",
+      "capsule_count": 2,
+      "split_ring": 1,
+      "trunk_rings": 4,
+      "source_trunk_vertices": 32,
+      "source_trunk_triangles": 60,
+      "all_trunk_triangles_contained": true,
+      "exact_directed_trunk_surface_excess_m": 0.0,
+      "ground_extension_below_trunk_base_m": 0.1775984066030372,
+      "top_extension_above_trunk_m": 0.14186483229569324,
+      "excluded_components": [
+        "tier_0",
+        "tier_1",
+        "tier_2",
+        "tier_3"
+      ],
+      "canopy_or_branch_geometry_used": false,
+      "approximation_review_required": true,
+      "parts": [
+        {
+          "rings": [
+            0,
+            1
+          ],
+          "radius_m": 0.1775984066030372,
+          "height_m": 1.6684347962083934,
+          "axis_length_m": 1.313237983002319,
+          "source_vertices": 16,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.1775984066030372,
+          "sampled_outward_plane_violation_lower_bound_m": 0.1775984066030372,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        },
+        {
+          "rings": [
+            1,
+            3
+          ],
+          "radius_m": 0.14800099999999997,
+          "height_m": 2.7740354945274657,
+          "axis_length_m": 2.4780334945274656,
+          "source_vertices": 24,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.14800099999999997,
+          "sampled_outward_plane_violation_lower_bound_m": 0.14797986833404542,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_WIDE_A",
+      "source_file": "natural_catalog_output/source_meshes/TW_TREE_TIERED_WIDE_A.json",
+      "source_sha256": "2c08e7c3b920680f91644edebe023a547f3906e0c47ef4798c8cd0b359dceee6",
+      "coordinate_frame": "source Z-up metres; endpoints are sphere centers",
+      "capsule_count": 2,
+      "split_ring": 2,
+      "trunk_rings": 4,
+      "source_trunk_vertices": 32,
+      "source_trunk_triangles": 60,
+      "all_trunk_triangles_contained": true,
+      "exact_directed_trunk_surface_excess_m": 0.0,
+      "ground_extension_below_trunk_base_m": 0.21600100000000005,
+      "top_extension_above_trunk_m": 0.11893456894298504,
+      "excluded_components": [
+        "tier_0",
+        "tier_1",
+        "tier_2"
+      ],
+      "canopy_or_branch_geometry_used": false,
+      "approximation_review_required": true,
+      "parts": [
+        {
+          "rings": [
+            0,
+            2
+          ],
+          "radius_m": 0.21600100000000005,
+          "height_m": 2.7441224553396437,
+          "axis_length_m": 2.3121204553396435,
+          "source_vertices": 24,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.21600100000000005,
+          "sampled_outward_plane_violation_lower_bound_m": 0.21600100000000005,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        },
+        {
+          "rings": [
+            2,
+            3
+          ],
+          "radius_m": 0.124201,
+          "height_m": 1.1619998327469916,
+          "axis_length_m": 0.9135978327469916,
+          "source_vertices": 16,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.124201,
+          "sampled_outward_plane_violation_lower_bound_m": 0.12417946857447948,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_WIDE_B",
+      "source_file": "natural_catalog_output/source_meshes/TW_TREE_TIERED_WIDE_B.json",
+      "source_sha256": "11a7bf7c8d9e7a90f26d352e5505daad8ed25de5bfe83ca560b4ddf3ea583dbd",
+      "coordinate_frame": "source Z-up metres; endpoints are sphere centers",
+      "capsule_count": 2,
+      "split_ring": 1,
+      "trunk_rings": 4,
+      "source_trunk_vertices": 32,
+      "source_trunk_triangles": 60,
+      "all_trunk_triangles_contained": true,
+      "exact_directed_trunk_surface_excess_m": 0.0,
+      "ground_extension_below_trunk_base_m": 0.2375969574286852,
+      "top_extension_above_trunk_m": 0.1891551593759937,
+      "excluded_components": [
+        "tier_0",
+        "tier_1",
+        "tier_2",
+        "tier_3"
+      ],
+      "canopy_or_branch_geometry_used": false,
+      "approximation_review_required": true,
+      "parts": [
+        {
+          "rings": [
+            0,
+            1
+          ],
+          "radius_m": 0.2375969574286852,
+          "height_m": 1.6925295300432563,
+          "axis_length_m": 1.217335615185886,
+          "source_vertices": 16,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.2375969574286852,
+          "sampled_outward_plane_violation_lower_bound_m": 0.2375969574286852,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        },
+        {
+          "rings": [
+            1,
+            3
+          ],
+          "radius_m": 0.19800099999999998,
+          "height_m": 2.695447585353131,
+          "axis_length_m": 2.299445585353131,
+          "source_vertices": 24,
+          "trunk_surface_to_capsule_upper_bound_m": 0.0,
+          "capsule_to_piece_convex_hull_upper_bound_m": 0.19800099999999998,
+          "sampled_outward_plane_violation_lower_bound_m": 0.19796037436720448,
+          "bound_note": "Sampled plane violation is a lower bound, not a Hausdorff guarantee; radius is the conservative directed upper bound"
+        }
+      ]
+    }
+  ]
+}

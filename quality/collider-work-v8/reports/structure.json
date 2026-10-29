@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "models": 24,
+  "negative_controls": [
+    "wrong_frame",
+    "negative_radius",
+    "three_capsules",
+    "excess_hull_vertices"
+  ],
+  "sales_approved": false
+}

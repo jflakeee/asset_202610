@@ -1,11 +1,16 @@
 {
   "models": 84,
   "transitions": 588,
-  "collision_shapes": 467,
+  "collision_shapes": 454,
   "collidable_models": 72,
   "nonblocking_models": 12,
   "socket_mutation_controls": 36,
   "all_passed": true,
+  "collider_manifest": {
+    "overridden_models": 24.0,
+    "sha256": "38aad7bd61f32ee9dd3372a712c9b0a63551d2ff67faaddc597983bf55ef2405"
+  },
+  "proxy_binding_pass": true,
   "automatic_lod_import_disabled": true,
   "automatic_lod_levels": 0,
   "perspective_and_orthographic_configuration_pass": true,
