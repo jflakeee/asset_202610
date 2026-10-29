@@ -6,6 +6,9 @@
   "nonblocking_models": 12,
   "socket_mutation_controls": 36,
   "all_passed": true,
+  "automatic_lod_import_disabled": true,
+  "automatic_lod_levels": 0,
+  "perspective_and_orthographic_configuration_pass": true,
   "engine": {
     "build": "official",
     "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",

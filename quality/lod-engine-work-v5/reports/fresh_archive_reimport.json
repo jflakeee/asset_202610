@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "models": 84,
+  "engine": {
+    "build": "official",
+    "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (official)",
+    "timestamp": 0
+  },
+  "automatic_lod_levels": 0,
+  "cache_reused": false,
+  "archive": "trailwood_lod_engine_review_20261029.zip",
+  "scope": "Fresh archive extraction, native headless import and full588 transition/physics checks; GPU not run",
+  "archive_sha256": "c30d7f971d510fc40df3421310612842bbe89c12d8d7c8ed0ea15d541e9fd557"
+}

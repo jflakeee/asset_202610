@@ -59,7 +59,7 @@
     {
       "id": "AT12",
       "status": "NOT_RUN",
-      "detail": "All84 models now have168 decisions:91 silhouette-pass candidates,77 omission reviews. Godot4.7.2 headless84-model transitions/collider binding verified; omission approvals and GPU/art review remain open"
+      "detail": "All84 models now have168 decisions:91 silhouette-pass candidates,77 omission reviews. Godot4.7.2 headless84-model transitions/collider binding verified; automatic mesh LOD disabled; native range/orthographic configuration checked; omission approvals and GPU/art review remain open"
     },
     {
       "id": "AT13",
@@ -69,7 +69,7 @@
     {
       "id": "AT14",
       "status": "PASS",
-      "detail": "Trial staging extra file/mutation/missing/symlink/path controls reject; sales-wide staging pending"
+      "detail": "Trial staging extra file/mutation/missing/symlink/path controls reject; full/trial customer-layout allowlists and filesystem/ZIP contamination controls verified; final sales release remains blocked"
     },
     {
       "id": "AT15",

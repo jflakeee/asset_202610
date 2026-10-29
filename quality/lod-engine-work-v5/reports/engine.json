@@ -16,6 +16,8 @@
   "headless": true,
   "models": [
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 2,
       "disabled_rays_rejected": true,
@@ -25,6 +27,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -53,7 +56,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -61,7 +64,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -86,6 +89,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
@@ -95,6 +100,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -123,7 +129,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -131,7 +137,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -156,6 +162,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 6,
       "disabled_rays_rejected": true,
@@ -165,6 +173,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -193,7 +202,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -201,7 +210,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -226,6 +235,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 8,
       "disabled_rays_rejected": true,
@@ -235,6 +246,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -263,7 +275,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -271,7 +283,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -296,6 +308,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
@@ -305,6 +319,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -333,7 +348,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -341,7 +356,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -366,6 +381,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 7,
       "disabled_rays_rejected": true,
@@ -375,6 +392,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -403,7 +421,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -411,7 +429,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -436,6 +454,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 2,
       "disabled_rays_rejected": true,
@@ -445,6 +465,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -473,7 +494,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -481,7 +502,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -506,6 +527,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
@@ -515,6 +538,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -543,7 +567,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -551,7 +575,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -576,6 +600,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 4,
       "disabled_rays_rejected": true,
@@ -585,6 +611,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -613,7 +640,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -621,7 +648,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -646,6 +673,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
@@ -655,6 +684,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -683,7 +713,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -691,7 +721,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -716,6 +746,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 2,
       "disabled_rays_rejected": true,
@@ -725,6 +757,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -753,7 +786,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -761,7 +794,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -786,6 +819,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
@@ -795,6 +830,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -823,7 +859,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -831,7 +867,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -856,6 +892,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
@@ -865,6 +903,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -893,7 +932,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -901,7 +940,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -926,6 +965,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 6,
       "disabled_rays_rejected": true,
@@ -935,6 +976,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -963,7 +1005,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -971,7 +1013,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -996,6 +1038,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
@@ -1005,6 +1049,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -1033,7 +1078,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1041,7 +1086,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1066,6 +1111,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 4,
       "disabled_rays_rejected": true,
@@ -1075,6 +1122,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -1103,7 +1151,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1111,7 +1159,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1136,6 +1184,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
@@ -1145,6 +1195,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -1173,7 +1224,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1181,7 +1232,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1206,6 +1257,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
@@ -1215,6 +1268,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -1243,7 +1297,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1251,7 +1305,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1276,6 +1330,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
@@ -1285,6 +1341,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -1313,7 +1370,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1321,7 +1378,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1346,6 +1403,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
@@ -1355,6 +1414,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -1383,7 +1443,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1391,7 +1451,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1416,6 +1476,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 2,
       "disabled_rays_rejected": true,
@@ -1425,6 +1487,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -1453,7 +1516,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1461,7 +1524,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1486,6 +1549,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
@@ -1495,6 +1560,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -1523,7 +1589,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1531,7 +1597,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1556,6 +1622,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
@@ -1565,6 +1633,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -1593,7 +1662,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1601,7 +1670,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1626,6 +1695,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
@@ -1635,6 +1706,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -1663,7 +1735,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1671,7 +1743,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1696,6 +1768,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 20,
       "disabled_rays_rejected": true,
@@ -1705,6 +1779,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -1717,7 +1792,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1725,7 +1800,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1733,7 +1808,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1741,7 +1816,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1766,6 +1841,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 26,
       "disabled_rays_rejected": true,
@@ -1775,6 +1852,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -1787,7 +1865,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1795,7 +1873,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1803,7 +1881,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1811,7 +1889,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1836,6 +1914,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 21,
       "disabled_rays_rejected": true,
@@ -1845,6 +1925,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -1857,7 +1938,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1865,7 +1946,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1873,7 +1954,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1881,7 +1962,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1906,6 +1987,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 27,
       "disabled_rays_rejected": true,
@@ -1915,6 +1998,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -1927,7 +2011,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1935,7 +2019,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1943,7 +2027,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1951,7 +2035,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -1976,6 +2060,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 4,
       "disabled_rays_rejected": true,
@@ -1985,6 +2071,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -1997,7 +2084,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2005,7 +2092,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2013,7 +2100,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2021,7 +2108,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2046,6 +2133,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 6,
       "disabled_rays_rejected": true,
@@ -2055,6 +2144,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -2067,7 +2157,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2075,7 +2165,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2083,7 +2173,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2091,7 +2181,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2116,6 +2206,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
@@ -2125,6 +2217,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -2137,7 +2230,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2145,7 +2238,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2153,7 +2246,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2161,7 +2254,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2186,6 +2279,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 8,
       "disabled_rays_rejected": true,
@@ -2195,6 +2290,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -2207,7 +2303,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2215,7 +2311,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2223,7 +2319,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2231,7 +2327,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2256,6 +2352,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
@@ -2265,6 +2363,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -2277,7 +2376,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2285,7 +2384,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2293,7 +2392,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2301,7 +2400,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2326,6 +2425,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
@@ -2335,6 +2436,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -2347,7 +2449,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2355,7 +2457,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2363,7 +2465,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2371,7 +2473,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2396,6 +2498,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 10,
       "disabled_rays_rejected": true,
@@ -2405,6 +2509,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -2417,7 +2522,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2425,7 +2530,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2433,7 +2538,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2441,7 +2546,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2466,6 +2571,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 13,
       "disabled_rays_rejected": true,
@@ -2475,6 +2582,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -2487,7 +2595,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2495,7 +2603,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2503,7 +2611,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2511,7 +2619,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2536,6 +2644,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 16,
       "disabled_rays_rejected": true,
@@ -2545,6 +2655,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -2557,7 +2668,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2565,7 +2676,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2573,7 +2684,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2581,7 +2692,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2606,6 +2717,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 21,
       "disabled_rays_rejected": true,
@@ -2615,6 +2728,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -2627,7 +2741,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2635,7 +2749,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2643,7 +2757,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2651,7 +2765,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2676,6 +2790,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 31,
       "disabled_rays_rejected": true,
@@ -2685,6 +2801,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -2697,7 +2814,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2705,7 +2822,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2713,7 +2830,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2721,7 +2838,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2746,6 +2863,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 35,
       "disabled_rays_rejected": true,
@@ -2755,6 +2874,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -2767,7 +2887,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2775,7 +2895,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2783,7 +2903,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2791,7 +2911,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2816,6 +2936,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 4,
       "disabled_rays_rejected": true,
@@ -2825,6 +2947,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -2853,7 +2976,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2861,7 +2984,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2886,6 +3009,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
@@ -2895,6 +3020,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -2923,7 +3049,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2931,7 +3057,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -2956,6 +3082,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
@@ -2965,6 +3093,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -2993,7 +3122,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3001,7 +3130,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3026,6 +3155,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 4,
       "disabled_rays_rejected": true,
@@ -3035,6 +3166,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -3063,7 +3195,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3071,7 +3203,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3096,6 +3228,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
@@ -3105,6 +3239,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -3133,7 +3268,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3141,7 +3276,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3166,6 +3301,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 6,
       "disabled_rays_rejected": true,
@@ -3175,6 +3312,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -3203,7 +3341,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3211,7 +3349,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3236,6 +3374,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
@@ -3245,6 +3385,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -3273,7 +3414,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3281,7 +3422,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3306,6 +3447,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
@@ -3315,6 +3458,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -3343,7 +3487,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3351,7 +3495,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3376,6 +3520,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
@@ -3385,6 +3531,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -3413,7 +3560,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3421,7 +3568,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3446,6 +3593,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
@@ -3455,6 +3604,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -3483,7 +3633,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3491,7 +3641,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3516,6 +3666,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
@@ -3525,6 +3677,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -3553,7 +3706,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3561,7 +3714,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3586,6 +3739,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
@@ -3595,6 +3750,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -3623,7 +3779,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3631,7 +3787,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3656,6 +3812,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": null,
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
@@ -3665,6 +3823,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -3693,7 +3852,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3701,7 +3860,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3726,6 +3885,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": null,
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
@@ -3735,6 +3896,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -3763,7 +3925,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3771,7 +3933,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3796,6 +3958,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": null,
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
@@ -3805,6 +3969,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -3833,7 +3998,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3841,7 +4006,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3866,6 +4031,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": null,
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
@@ -3875,6 +4042,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -3903,7 +4071,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3911,7 +4079,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3936,6 +4104,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": null,
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
@@ -3945,6 +4115,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -3973,7 +4144,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -3981,7 +4152,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4006,6 +4177,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": null,
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
@@ -4015,6 +4188,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -4043,7 +4217,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4051,7 +4225,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4076,6 +4250,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": null,
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
@@ -4085,6 +4261,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -4113,7 +4290,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4121,7 +4298,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4146,6 +4323,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": null,
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
@@ -4155,6 +4334,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -4183,7 +4363,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4191,7 +4371,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4216,6 +4396,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": null,
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
@@ -4225,6 +4407,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -4253,7 +4436,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4261,7 +4444,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4286,6 +4469,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": null,
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
@@ -4295,6 +4480,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -4323,7 +4509,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4331,7 +4517,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4356,6 +4542,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": null,
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
@@ -4365,6 +4553,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -4393,7 +4582,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4401,7 +4590,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4426,6 +4615,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": null,
       "collision_shapes": 0,
       "disabled_rays_rejected": null,
@@ -4435,6 +4626,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": null,
       "transitions": [
         {
@@ -4463,7 +4655,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 27.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4471,7 +4663,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 28.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4496,6 +4688,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 6,
       "disabled_rays_rejected": true,
@@ -4505,6 +4699,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -4517,7 +4712,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4525,7 +4720,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4533,7 +4728,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4541,7 +4736,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4566,6 +4761,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 9,
       "disabled_rays_rejected": true,
@@ -4575,6 +4772,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -4587,7 +4785,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4595,7 +4793,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4603,7 +4801,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4611,7 +4809,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4636,6 +4834,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 7,
       "disabled_rays_rejected": true,
@@ -4645,6 +4845,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -4657,7 +4858,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4665,7 +4866,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4673,7 +4874,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4681,7 +4882,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4706,6 +4907,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 10,
       "disabled_rays_rejected": true,
@@ -4715,6 +4918,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -4727,7 +4931,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4735,7 +4939,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4743,7 +4947,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4751,7 +4955,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4776,6 +4980,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 2,
       "disabled_rays_rejected": true,
@@ -4785,6 +4991,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -4797,7 +5004,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4805,7 +5012,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4813,7 +5020,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4821,7 +5028,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4846,6 +5053,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
@@ -4855,6 +5064,7 @@
         true
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -4867,7 +5077,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4875,7 +5085,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4883,7 +5093,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4891,7 +5101,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4916,6 +5126,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 2,
       "disabled_rays_rejected": true,
@@ -4925,6 +5137,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -4937,7 +5150,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4945,7 +5158,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4953,7 +5166,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4961,7 +5174,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -4986,6 +5199,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
@@ -4995,6 +5210,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -5007,7 +5223,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5015,7 +5231,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5023,7 +5239,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5031,7 +5247,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5056,6 +5272,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
@@ -5065,6 +5283,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -5077,7 +5296,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5085,7 +5304,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5093,7 +5312,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5101,7 +5320,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5126,6 +5345,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 6,
       "disabled_rays_rejected": true,
@@ -5135,6 +5356,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -5147,7 +5369,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5155,7 +5377,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5163,7 +5385,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5171,7 +5393,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5196,6 +5418,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 9,
       "disabled_rays_rejected": true,
@@ -5205,6 +5429,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -5217,7 +5442,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5225,7 +5450,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5233,7 +5458,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5241,7 +5466,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5266,6 +5491,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 11,
       "disabled_rays_rejected": true,
@@ -5275,6 +5502,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -5287,7 +5515,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5295,7 +5523,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5303,7 +5531,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5311,7 +5539,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5336,6 +5564,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 1,
       "disabled_rays_rejected": true,
@@ -5345,6 +5575,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -5357,7 +5588,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5365,7 +5596,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5373,7 +5604,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5381,7 +5612,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5406,6 +5637,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 2,
       "disabled_rays_rejected": true,
@@ -5415,6 +5648,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -5427,7 +5661,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5435,7 +5669,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5443,7 +5677,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5451,7 +5685,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5476,6 +5710,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
@@ -5485,6 +5721,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -5497,7 +5734,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5505,7 +5742,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5513,7 +5750,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5521,7 +5758,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5546,6 +5783,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
@@ -5555,6 +5794,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -5567,7 +5807,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5575,7 +5815,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5583,7 +5823,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5591,7 +5831,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5616,6 +5856,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
@@ -5625,6 +5867,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -5637,7 +5880,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5645,7 +5888,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5653,7 +5896,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5661,7 +5904,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5686,6 +5929,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
@@ -5695,6 +5940,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -5707,7 +5953,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5715,7 +5961,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5723,7 +5969,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5731,7 +5977,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5756,6 +6002,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 3,
       "disabled_rays_rejected": true,
@@ -5765,6 +6013,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -5777,7 +6026,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5785,7 +6034,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5793,7 +6042,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5801,7 +6050,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5826,6 +6075,8 @@
       ]
     },
     {
+      "automatic_lod_import_disabled": true,
+      "automatic_lod_levels": 0,
       "collision_mutation_detected": true,
       "collision_shapes": 5,
       "disabled_rays_rejected": true,
@@ -5835,6 +6086,7 @@
         false
       ],
       "passed": true,
+      "range_configuration_pass": true,
       "socket_mutation_detected": true,
       "transitions": [
         {
@@ -5847,7 +6099,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 11.99,
+          "distance_m": 17.99,
           "level": 0,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5855,7 +6107,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 12.0,
+          "distance_m": 18.0,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5863,7 +6115,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 29.99,
+          "distance_m": 39.99,
           "level": 1,
           "physics_ray_pass": true,
           "sockets_unchanged": true,
@@ -5871,7 +6123,7 @@
         },
         {
           "collider_unchanged": true,
-          "distance_m": 30.0,
+          "distance_m": 40.0,
           "level": 2,
           "physics_ray_pass": true,
           "sockets_unchanged": true,

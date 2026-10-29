@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "source_sha256": "1bc1d7ed1e2edbf80e66f59f0e95d012df3ba88526b1d3731db53fcccf28fbcc",
+  "mesh_objects": 84,
+  "packed_images": [
+    "Trailwood_MOSS_01"
+  ],
+  "no_linked_libraries": true,
+  "no_text_blocks": true,
+  "relative_image_paths": true,
+  "relative_packed_file_paths": true,
+  "geometry_uv_transforms_unchanged": true,
+  "geometry_sha256": "bb26737c709694e958f2d33f79804228f691fb168a969389339fdfb9f0e41ac8",
+  "packed_image_hashes": {
+    "Trailwood_MOSS_01": "d5345e13fe30af4fa197b2364c43c4cf59d70340906e47a5cdd8400f4dc8e29f"
+  },
+  "blender_version": "4.5.9 LTS",
+  "sha256": "f3e9c40a16188b8446b6c1686fec520ef6a663df6453eb2e77abfc8174c15859"
+}

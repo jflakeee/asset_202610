@@ -3,7 +3,11 @@ extends Node3D
 var levels: Array[Node3D] = []
 var active_level := -1
 var body: StaticBody3D
+var distances := [12.0, 28.0]
+var grass_cull := 0.0
 func setup(entry: Dictionary):
+    distances = entry.distances
+    grass_cull = entry.grass_cull
     for file in entry.files:
         var visual = load("res://assets/" + file).instantiate() as Node3D
         add_child(visual)
@@ -46,7 +50,9 @@ func set_level(level: int):
     for i in levels.size():
         levels[i].visible = i == active_level
 func update_distance(distance_m: float):
-    set_level(0 if distance_m < 12.0 else (1 if distance_m < 30.0 else 2))
+    set_level(0 if distance_m < distances[0] else (1 if distance_m < distances[1] else 2))
+    if grass_cull > 0.0 and distance_m >= grass_cull:
+        for visual in levels: visual.visible = false
 func collision_snapshot() -> Array:
     var result := []
     if body == null:
@@ -70,3 +76,22 @@ func shape_data(shape: Shape3D):
     if shape is CylinderShape3D:
         return [shape.radius, shape.height]
     return null
+
+func configure_for_camera(orthographic: bool):
+    # Orthographic size does not shrink with camera distance: fixed LOD0.
+    for i in levels.size():
+        levels[i].visible = not orthographic or i == 0
+        var meshes = levels[i].find_children("*", "MeshInstance3D", true, false)
+        if levels[i] is MeshInstance3D: meshes.append(levels[i])
+        for mesh in meshes:
+            mesh.visibility_range_begin = 0.0 if orthographic or i == 0 else distances[i-1]
+            var end = 0.0 if i == 2 else distances[i]
+            if grass_cull > 0.0: end = grass_cull if end == 0.0 else minf(end, grass_cull)
+            mesh.visibility_range_end = 0.0 if orthographic else end
+            # A grass level beginning beyond cull distance must remain hidden.
+            if not orthographic and grass_cull > 0.0 and mesh.visibility_range_begin >= grass_cull:
+                levels[i].visible = false
+                mesh.visibility_range_begin = 0.0
+            mesh.visibility_range_begin_margin = 0.0
+            mesh.visibility_range_end_margin = 0.0
+            mesh.visibility_range_fade_mode = GeometryInstance3D.VISIBILITY_RANGE_FADE_DISABLED

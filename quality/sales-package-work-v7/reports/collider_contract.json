@@ -1,0 +1,267 @@
+{
+  "models_checked": 84,
+  "contract": "original_asset_pack_design_v1.md section23.3",
+  "mismatch_models": 24,
+  "issues": [
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_A",
+      "rule": "rock_convex_proxy_max16_vertices",
+      "status": "MISMATCH",
+      "actual_vertex_counts": [
+        28,
+        28,
+        28,
+        28,
+        28
+      ],
+      "detail": "3cm outward error not measured; retain as engineering blocker"
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_B",
+      "rule": "rock_convex_proxy_max16_vertices",
+      "status": "MISMATCH",
+      "actual_vertex_counts": [
+        32,
+        32,
+        32,
+        32,
+        32,
+        32
+      ],
+      "detail": "3cm outward error not measured; retain as engineering blocker"
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_A",
+      "rule": "rock_convex_proxy_max16_vertices",
+      "status": "MISMATCH",
+      "actual_vertex_counts": [
+        28,
+        28,
+        28
+      ],
+      "detail": "3cm outward error not measured; retain as engineering blocker"
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_B",
+      "rule": "rock_convex_proxy_max16_vertices",
+      "status": "MISMATCH",
+      "actual_vertex_counts": [
+        32,
+        32,
+        32,
+        32
+      ],
+      "detail": "3cm outward error not measured; retain as engineering blocker"
+    },
+    {
+      "asset_id": "TW_ROCK_FLAT_SLAB_A",
+      "rule": "rock_convex_proxy_max16_vertices",
+      "status": "MISMATCH",
+      "actual_vertex_counts": [
+        28
+      ],
+      "detail": "3cm outward error not measured; retain as engineering blocker"
+    },
+    {
+      "asset_id": "TW_ROCK_FLAT_SLAB_B",
+      "rule": "rock_convex_proxy_max16_vertices",
+      "status": "MISMATCH",
+      "actual_vertex_counts": [
+        32
+      ],
+      "detail": "3cm outward error not measured; retain as engineering blocker"
+    },
+    {
+      "asset_id": "TW_ROCK_LOW_WEDGE_A",
+      "rule": "rock_convex_proxy_max16_vertices",
+      "status": "MISMATCH",
+      "actual_vertex_counts": [
+        35
+      ],
+      "detail": "3cm outward error not measured; retain as engineering blocker"
+    },
+    {
+      "asset_id": "TW_ROCK_LOW_WEDGE_B",
+      "rule": "rock_convex_proxy_max16_vertices",
+      "status": "MISMATCH",
+      "actual_vertex_counts": [
+        32
+      ],
+      "detail": "3cm outward error not measured; retain as engineering blocker"
+    },
+    {
+      "asset_id": "TW_ROCK_SPLIT_MASS_A",
+      "rule": "rock_convex_proxy_max16_vertices",
+      "status": "MISMATCH",
+      "actual_vertex_counts": [
+        28,
+        28
+      ],
+      "detail": "3cm outward error not measured; retain as engineering blocker"
+    },
+    {
+      "asset_id": "TW_ROCK_SPLIT_MASS_B",
+      "rule": "rock_convex_proxy_max16_vertices",
+      "status": "MISMATCH",
+      "actual_vertex_counts": [
+        32,
+        32,
+        32
+      ],
+      "detail": "3cm outward error not measured; retain as engineering blocker"
+    },
+    {
+      "asset_id": "TW_ROCK_UPRIGHT_A",
+      "rule": "rock_convex_proxy_max16_vertices",
+      "status": "MISMATCH",
+      "actual_vertex_counts": [
+        37
+      ],
+      "detail": "3cm outward error not measured; retain as engineering blocker"
+    },
+    {
+      "asset_id": "TW_ROCK_UPRIGHT_B",
+      "rule": "rock_convex_proxy_max16_vertices",
+      "status": "MISMATCH",
+      "actual_vertex_counts": [
+        32
+      ],
+      "detail": "3cm outward error not measured; retain as engineering blocker"
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_FORK_A",
+      "rule": "tree_capsule_max2_trunk_only",
+      "status": "MISMATCH",
+      "actual_types": [
+        "convex_hull",
+        "convex_hull",
+        "convex_hull",
+        "convex_hull"
+      ],
+      "detail": "Current descriptors do not meet original capsule contract; trunk/canopy fidelity unverified"
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_FORK_B",
+      "rule": "tree_capsule_max2_trunk_only",
+      "status": "MISMATCH",
+      "actual_types": [
+        "convex_hull",
+        "convex_hull",
+        "convex_hull",
+        "convex_hull",
+        "convex_hull"
+      ],
+      "detail": "Current descriptors do not meet original capsule contract; trunk/canopy fidelity unverified"
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_LEAN_A",
+      "rule": "tree_capsule_max2_trunk_only",
+      "status": "MISMATCH",
+      "actual_types": [
+        "convex_hull",
+        "convex_hull",
+        "convex_hull"
+      ],
+      "detail": "Current descriptors do not meet original capsule contract; trunk/canopy fidelity unverified"
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_LEAN_B",
+      "rule": "tree_capsule_max2_trunk_only",
+      "status": "MISMATCH",
+      "actual_types": [
+        "convex_hull",
+        "convex_hull",
+        "convex_hull",
+        "convex_hull"
+      ],
+      "detail": "Current descriptors do not meet original capsule contract; trunk/canopy fidelity unverified"
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_BROAD_A",
+      "rule": "tree_capsule_max2_trunk_only",
+      "status": "MISMATCH",
+      "actual_types": [
+        "convex_hull",
+        "convex_hull",
+        "convex_hull",
+        "convex_hull",
+        "convex_hull"
+      ],
+      "detail": "Current descriptors do not meet original capsule contract; trunk/canopy fidelity unverified"
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_BROAD_B",
+      "rule": "tree_capsule_max2_trunk_only",
+      "status": "MISMATCH",
+      "actual_types": [
+        "convex_hull",
+        "convex_hull",
+        "convex_hull",
+        "convex_hull",
+        "convex_hull",
+        "convex_hull"
+      ],
+      "detail": "Current descriptors do not meet original capsule contract; trunk/canopy fidelity unverified"
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_SMALL_A",
+      "rule": "tree_capsule_max2_trunk_only",
+      "status": "MISMATCH",
+      "actual_types": [
+        "cylinder"
+      ],
+      "detail": "Current descriptors do not meet original capsule contract; trunk/canopy fidelity unverified"
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_SMALL_B",
+      "rule": "tree_capsule_max2_trunk_only",
+      "status": "MISMATCH",
+      "actual_types": [
+        "convex_hull",
+        "convex_hull",
+        "convex_hull",
+        "convex_hull",
+        "convex_hull"
+      ],
+      "detail": "Current descriptors do not meet original capsule contract; trunk/canopy fidelity unverified"
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_SLIM_A",
+      "rule": "tree_capsule_max2_trunk_only",
+      "status": "MISMATCH",
+      "actual_types": [
+        "cylinder"
+      ],
+      "detail": "Current descriptors do not meet original capsule contract; trunk/canopy fidelity unverified"
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_SLIM_B",
+      "rule": "tree_capsule_max2_trunk_only",
+      "status": "MISMATCH",
+      "actual_types": [
+        "convex_hull"
+      ],
+      "detail": "Current descriptors do not meet original capsule contract; trunk/canopy fidelity unverified"
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_WIDE_A",
+      "rule": "tree_capsule_max2_trunk_only",
+      "status": "MISMATCH",
+      "actual_types": [
+        "convex_hull"
+      ],
+      "detail": "Current descriptors do not meet original capsule contract; trunk/canopy fidelity unverified"
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_WIDE_B",
+      "rule": "tree_capsule_max2_trunk_only",
+      "status": "MISMATCH",
+      "actual_types": [
+        "convex_hull"
+      ],
+      "detail": "Current descriptors do not meet original capsule contract; trunk/canopy fidelity unverified"
+    }
+  ],
+  "geometry_modified": false,
+  "sales_approved": false
+}

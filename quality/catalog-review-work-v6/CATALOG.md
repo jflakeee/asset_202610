@@ -6,7 +6,7 @@ Units: metres. Export coordinates: Y-up. Source collider descriptors: Z-up; Godo
 
 All thumbnails below are 512px geometry previews from exported Moss GLBs. They are not GPU screenshots or approved sales images. The separate six-item resource pack and 20 legacy/expansion candidates are excluded.
 
-LOD review: 91 reduced candidate files; 77 pending omission decisions retain the nearest higher-detail model. Automatic distance thresholds 12/30 metres are review defaults, not measured mobile recommendations.
+LOD review: 91 reduced candidate files; 77 pending omission decisions retain the nearest higher-detail model. Perspective initial distance thresholds natural12/28m, boundaries18/40m and grass cull25m are review defaults; orthographic uses fixed LOD0. These are, not measured mobile recommendations.
 
 Godot compatibility evidence: 4.7.2 Linux headless. GPU rendering, Android/iOS devices and final art approval remain unverified.
 

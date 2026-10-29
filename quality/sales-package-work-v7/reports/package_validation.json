@@ -1,0 +1,59 @@
+{
+  "passed": true,
+  "checks": [
+    "full: reproducible archive bytes",
+    "full: exact IDs/themes, no generators/cache/absolute paths, all scene references resolve",
+    "full: unlisted file blocked",
+    "full: mutated and missing model blocked",
+    "full: symlink model blocked",
+    "full: altered IDs and malformed manifest blocked",
+    "full: self-consistent tampered manifest rejected against trusted plan",
+    "full: traversal/noncanonical paths rejected",
+    "full: archive extra.bin rejected",
+    "full: archive ../escape.bin rejected",
+    "full: archive manifest.csv rejected",
+    "full: archive symlink blocked",
+    "full: existing staging rejected without deleting contents",
+    "trial: reproducible archive bytes",
+    "trial: exact IDs/themes, no generators/cache/absolute paths, all scene references resolve",
+    "trial: unlisted file blocked",
+    "trial: mutated and missing model blocked",
+    "trial: symlink model blocked",
+    "trial: altered IDs and malformed manifest blocked",
+    "trial: self-consistent tampered manifest rejected against trusted plan",
+    "trial: actual paid-only model contamination rejected",
+    "trial: traversal/noncanonical paths rejected",
+    "trial: archive extra.bin rejected",
+    "trial: archive ../escape.bin rejected",
+    "trial: archive manifest.csv rejected",
+    "trial: archive symlink blocked",
+    "trial: existing staging rejected without deleting contents",
+    "Original design42 families/84 exact IDs enforced; noncanonical/duplicate records rejected",
+    "Sales mode exits2 before creating output"
+  ],
+  "archives": [
+    {
+      "subset": "full",
+      "file": "full_customer_layout_review_20261029.zip",
+      "bytes": 4654088,
+      "sha256": "5428552fa2a68c19fea5bcbbc9a975dc2139a197b56854d3ac4d2606218bd512",
+      "unique_models": 84,
+      "glb_files": 252,
+      "files": 367,
+      "sales_approved": false
+    },
+    {
+      "subset": "trial",
+      "file": "trial_customer_layout_review_20261029.zip",
+      "bytes": 217380,
+      "sha256": "e6f97dc24076ff8b86ebd857a4eb9cce2e5225b58ecc382c7fbb5a4bc18c1a3c",
+      "unique_models": 8,
+      "glb_files": 8,
+      "files": 26,
+      "sales_approved": false
+    }
+  ],
+  "sales_mode_blocked": true,
+  "sales_approved": false,
+  "full_design_complete": false
+}
