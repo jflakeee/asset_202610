@@ -1,0 +1,5901 @@
+{
+  "art_approved": false,
+  "at12_complete": false,
+  "engine": {
+    "build": "official",
+    "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (official)",
+    "timestamp": 0
+  },
+  "gpu_visual": "NOT_RUN",
+  "headless": true,
+  "models": [
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 2,
+      "disabled_rays_rejected": true,
+      "id": "TW_PROP_BRANCH_FORK_A",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 3,
+      "disabled_rays_rejected": true,
+      "id": "TW_PROP_BRANCH_FORK_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 62
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 62
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 58
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 58
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 6,
+      "disabled_rays_rejected": true,
+      "id": "TW_PROP_BRANCH_PILE_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 144
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 144
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 132
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 132
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 132
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 132
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 144
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 8,
+      "disabled_rays_rejected": true,
+      "id": "TW_PROP_BRANCH_PILE_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 216
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 216
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 200
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 200
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 200
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 200
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 216
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 5,
+      "disabled_rays_rejected": true,
+      "id": "TW_PROP_LOG_BROKEN_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 80
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 80
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 64
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 64
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 7,
+      "disabled_rays_rejected": true,
+      "id": "TW_PROP_LOG_BROKEN_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 166
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 166
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 130
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 130
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 112
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 112
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 166
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 2,
+      "disabled_rays_rejected": true,
+      "id": "TW_PROP_LOG_STRAIGHT_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 76
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 76
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 76
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 3,
+      "disabled_rays_rejected": true,
+      "id": "TW_PROP_LOG_STRAIGHT_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 102
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 102
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 90
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 90
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 80
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 80
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 102
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 4,
+      "disabled_rays_rejected": true,
+      "id": "TW_PROP_STUMP_ROUND_A",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 110
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 110
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 110
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 110
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 94
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 94
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 110
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 5,
+      "disabled_rays_rejected": true,
+      "id": "TW_PROP_STUMP_ROUND_B",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 136
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 136
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 136
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 136
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 118
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 118
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 136
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 2,
+      "disabled_rays_rejected": true,
+      "id": "TW_PROP_STUMP_SPLIT_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 76
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 76
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 46
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 46
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 76
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 3,
+      "disabled_rays_rejected": true,
+      "id": "TW_PROP_STUMP_SPLIT_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 122
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 122
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 78
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 78
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 66
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 66
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 122
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 5,
+      "disabled_rays_rejected": true,
+      "id": "TW_ROCK_CLUSTER_LARGE_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 260
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 260
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 240
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 240
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 224
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 224
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 260
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 6,
+      "disabled_rays_rejected": true,
+      "id": "TW_ROCK_CLUSTER_LARGE_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 360
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 360
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 344
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 344
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 312
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 312
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 360
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 3,
+      "disabled_rays_rejected": true,
+      "id": "TW_ROCK_CLUSTER_SMALL_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 144
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 144
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 130
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 130
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 4,
+      "disabled_rays_rejected": true,
+      "id": "TW_ROCK_CLUSTER_SMALL_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 240
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 240
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 226
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 226
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 212
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 212
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 240
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 1,
+      "disabled_rays_rejected": true,
+      "id": "TW_ROCK_FLAT_SLAB_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 52
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 52
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 42
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 42
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 38
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 38
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 52
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 1,
+      "disabled_rays_rejected": true,
+      "id": "TW_ROCK_FLAT_SLAB_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 52
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 52
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 42
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 42
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 1,
+      "disabled_rays_rejected": true,
+      "id": "TW_ROCK_LOW_WEDGE_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 66
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 66
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 52
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 52
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 66
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 1,
+      "disabled_rays_rejected": true,
+      "id": "TW_ROCK_LOW_WEDGE_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 54
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 54
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 2,
+      "disabled_rays_rejected": true,
+      "id": "TW_ROCK_SPLIT_MASS_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 104
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 104
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 98
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 98
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 104
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 3,
+      "disabled_rays_rejected": true,
+      "id": "TW_ROCK_SPLIT_MASS_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 180
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 180
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 174
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 174
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 154
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 154
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 180
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 1,
+      "disabled_rays_rejected": true,
+      "id": "TW_ROCK_UPRIGHT_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 1,
+      "disabled_rays_rejected": true,
+      "id": "TW_ROCK_UPRIGHT_B",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 54
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 54
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 20,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_CORNER_L90_A",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 240
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 240
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 240
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 240
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 240
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 240
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 240
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 26,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_CORNER_L90_B",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 312
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 312
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 312
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 312
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 312
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 312
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 312
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 21,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_CORNER_R90_A",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 252
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 252
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 252
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 252
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 252
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 252
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 252
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 27,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_CORNER_R90_B",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 324
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 324
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 324
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 324
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 324
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 324
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 324
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 4,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_END_CAP_A",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 6,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_END_CAP_B",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 72
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 72
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 72
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 72
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 72
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 72
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 72
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 5,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_END_RUIN_A",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 8,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_END_RUIN_B",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 3,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_POST_A",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 5,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_POST_B",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 10,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_WALL_1M_A",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 120
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 120
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 120
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 120
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 120
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 120
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 120
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 13,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_WALL_1M_B",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 16,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_WALL_2M_A",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 192
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 192
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 192
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 192
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 192
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 192
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 192
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 21,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_WALL_2M_B",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 252
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 252
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 252
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 252
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 252
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 252
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 252
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 31,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_WALL_4M_A",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 372
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 372
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 372
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 372
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 372
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 372
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 372
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 35,
+      "disabled_rays_rejected": true,
+      "id": "TW_STONE_WALL_4M_B",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 420
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 420
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 420
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 420
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 416
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 416
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 420
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 4,
+      "disabled_rays_rejected": true,
+      "id": "TW_TREE_DEAD_FORK_A",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 156
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 5,
+      "disabled_rays_rejected": true,
+      "id": "TW_TREE_DEAD_FORK_B",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 212
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 212
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 212
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 212
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 212
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 212
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 212
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 3,
+      "disabled_rays_rejected": true,
+      "id": "TW_TREE_DEAD_LEAN_A",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 4,
+      "disabled_rays_rejected": true,
+      "id": "TW_TREE_DEAD_LEAN_B",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 174
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 174
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 174
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 174
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 174
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 174
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 174
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 5,
+      "disabled_rays_rejected": true,
+      "id": "TW_TREE_ROUND_BROAD_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 380
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 380
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 348
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 348
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 332
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 332
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 380
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 6,
+      "disabled_rays_rejected": true,
+      "id": "TW_TREE_ROUND_BROAD_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 478
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 478
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 448
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 448
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 418
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 418
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 478
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 1,
+      "disabled_rays_rejected": true,
+      "id": "TW_TREE_ROUND_SMALL_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 352
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 352
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 322
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 322
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 276
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 276
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 352
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 5,
+      "disabled_rays_rejected": true,
+      "id": "TW_TREE_ROUND_SMALL_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 404
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 404
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 364
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 364
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 356
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 356
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 404
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 1,
+      "disabled_rays_rejected": true,
+      "id": "TW_TREE_TIERED_SLIM_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 248
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 248
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 230
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 230
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 184
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 184
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 248
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 1,
+      "disabled_rays_rejected": true,
+      "id": "TW_TREE_TIERED_SLIM_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 268
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 268
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 240
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 240
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 168
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 168
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 268
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 1,
+      "disabled_rays_rejected": true,
+      "id": "TW_TREE_TIERED_WIDE_A",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 198
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 198
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 198
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 198
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 174
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 174
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 198
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 1,
+      "disabled_rays_rejected": true,
+      "id": "TW_TREE_TIERED_WIDE_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 268
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 268
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 258
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 258
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 180
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 180
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 268
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": null,
+      "collision_shapes": 0,
+      "disabled_rays_rejected": null,
+      "id": "TW_VEG_BUSH_LONG_A",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 112
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 112
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 112
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 112
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 112
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 112
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 112
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": null,
+      "collision_shapes": 0,
+      "disabled_rays_rejected": null,
+      "id": "TW_VEG_BUSH_LONG_B",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 160
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 160
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 160
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 160
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 160
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 160
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 160
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": null,
+      "collision_shapes": 0,
+      "disabled_rays_rejected": null,
+      "id": "TW_VEG_BUSH_ROUND_A",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 84
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 84
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 84
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 84
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 84
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 84
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 84
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": null,
+      "collision_shapes": 0,
+      "disabled_rays_rejected": null,
+      "id": "TW_VEG_BUSH_ROUND_B",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 128
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 128
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 128
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 128
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 128
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 128
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 128
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": null,
+      "collision_shapes": 0,
+      "disabled_rays_rejected": null,
+      "id": "TW_VEG_BUSH_SPARSE_A",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": null,
+      "collision_shapes": 0,
+      "disabled_rays_rejected": null,
+      "id": "TW_VEG_BUSH_SPARSE_B",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": null,
+      "collision_shapes": 0,
+      "disabled_rays_rejected": null,
+      "id": "TW_VEG_GRASS_FAN_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 40
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 40
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": null,
+      "collision_shapes": 0,
+      "disabled_rays_rejected": null,
+      "id": "TW_VEG_GRASS_FAN_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 58
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 58
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": null,
+      "collision_shapes": 0,
+      "disabled_rays_rejected": null,
+      "id": "TW_VEG_GRASS_LOW_A",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 42
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 42
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": null,
+      "collision_shapes": 0,
+      "disabled_rays_rejected": null,
+      "id": "TW_VEG_GRASS_LOW_B",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": null,
+      "collision_shapes": 0,
+      "disabled_rays_rejected": null,
+      "id": "TW_VEG_GRASS_TUFT_A",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 50
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": null,
+      "collision_shapes": 0,
+      "disabled_rays_rejected": null,
+      "id": "TW_VEG_GRASS_TUFT_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": null,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 68
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 68
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 70
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 6,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_CORNER_L90_A",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 88
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 88
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 88
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 88
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 84
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 84
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 88
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 9,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_CORNER_L90_B",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 120
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 120
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 7,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_CORNER_R90_A",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 100
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 100
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 100
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 100
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 96
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 100
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 10,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_CORNER_R90_B",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 136
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 136
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 136
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 136
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 132
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 132
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 136
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 2,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_END_BROKEN_A",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 3,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_END_BROKEN_B",
+      "omission_pending": [
+        true,
+        true
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 48
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 2,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_END_CAP_A",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 32
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 32
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 32
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 32
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 26
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 26
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 32
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 3,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_END_CAP_B",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 38
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 38
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 5,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_GATE_FRAME_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 76
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 76
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 72
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 72
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 76
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 6,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_GATE_FRAME_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 88
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 88
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 80
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 80
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 72
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 72
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 88
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 9,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_GATE_LEAF_A",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 108
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 108
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 108
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 108
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 100
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 100
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 108
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 11,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_GATE_LEAF_B",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 132
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 132
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 132
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 132
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 124
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 132
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 1,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_POST_A",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 20
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 20
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 20
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 20
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 18
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 18
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 20
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 2,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_POST_B",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 32
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 32
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 32
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 32
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 30
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 30
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 32
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 3,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_RAIL_1M_A",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 54
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 54
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 56
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 5,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_RAIL_1M_B",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 68
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 68
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 68
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 68
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 66
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 66
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 68
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 3,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_RAIL_2M_A",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 5,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_RAIL_2M_B",
+      "omission_pending": [
+        true,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 68
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 68
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 68
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 68
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 60
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 68
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 3,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_RAIL_4M_A",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 36
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 28
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 28
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        }
+      ]
+    },
+    {
+      "collision_mutation_detected": true,
+      "collision_shapes": 5,
+      "disabled_rays_rejected": true,
+      "id": "TW_WOOD_RAIL_4M_B",
+      "omission_pending": [
+        false,
+        false
+      ],
+      "passed": true,
+      "socket_mutation_detected": true,
+      "transitions": [
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 68
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 11.99,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 68
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 12.0,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 58
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 29.99,
+          "level": 1,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 58
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 30.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 100.0,
+          "level": 2,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 44
+        },
+        {
+          "collider_unchanged": true,
+          "distance_m": 0.0,
+          "level": 0,
+          "physics_ray_pass": true,
+          "sockets_unchanged": true,
+          "triangles": 68
+        }
+      ]
+    }
+  ],
+  "omissions_approved": false,
+  "passed": true
+}

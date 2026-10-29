@@ -1,0 +1,24 @@
+{
+  "models": 84,
+  "transitions": 588,
+  "collision_shapes": 467,
+  "collidable_models": 72,
+  "nonblocking_models": 12,
+  "socket_mutation_controls": 36,
+  "all_passed": true,
+  "engine": {
+    "build": "official",
+    "hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (official)",
+    "timestamp": 0
+  },
+  "gpu_visual": "NOT_RUN",
+  "art_approved": false,
+  "omissions_approved": false,
+  "at12_complete": false
+}

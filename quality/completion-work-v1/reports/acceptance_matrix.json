@@ -59,7 +59,7 @@
     {
       "id": "AT12",
       "status": "NOT_RUN",
-      "detail": "All84 models now have168 decisions:91 silhouette-pass candidates,77 omission reviews. Engine switching/collider binding and approvals remain open"
+      "detail": "All84 models now have168 decisions:91 silhouette-pass candidates,77 omission reviews. Godot4.7.2 headless84-model transitions/collider binding verified; omission approvals and GPU/art review remain open"
     },
     {
       "id": "AT13",
@@ -74,7 +74,7 @@
     {
       "id": "AT15",
       "status": "NOT_RUN",
-      "detail": "Approved84 thumbnail/document exactness pending"
+      "detail": "84 thumbnail/CSV/GLB metadata/hash matches and252 mutation controls pass; art approval/final sales document signoff pending"
     },
     {
       "id": "AT16",
