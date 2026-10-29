@@ -1,0 +1,65 @@
+{
+  "AT02": {
+    "passed": true,
+    "span_m": 10,
+    "modules": 5,
+    "terminal_posts": 1,
+    "duplicate_posts": 0,
+    "contacts": [
+      {
+        "endpoint_vertices": 36,
+        "max_sampled_surface_distance_m": 5.21540641784668e-08
+      },
+      {
+        "endpoint_vertices": 36,
+        "max_sampled_surface_distance_m": 5.21540641784668e-08
+      },
+      {
+        "endpoint_vertices": 36,
+        "max_sampled_surface_distance_m": 5.21540641784668e-08
+      },
+      {
+        "endpoint_vertices": 36,
+        "max_sampled_surface_distance_m": 5.21540641784668e-08
+      },
+      {
+        "endpoint_vertices": 36,
+        "max_sampled_surface_distance_m": 5.21540641784668e-08
+      }
+    ]
+  },
+  "AT05": {
+    "passed": true,
+    "scope": "Real exported mesh/socket assembly and post ownership; not character physics",
+    "open_terminal_posts": 1,
+    "closed_examples": [
+      {
+        "id": "wood_closed_l",
+        "joints": 8,
+        "max_error_m": 0.0,
+        "terminal_posts": 0
+      },
+      {
+        "id": "wood_closed_r",
+        "joints": 8,
+        "max_error_m": 0.0,
+        "terminal_posts": 0
+      },
+      {
+        "id": "stone_closed_l",
+        "joints": 8,
+        "max_error_m": 0.0,
+        "terminal_posts": 0
+      },
+      {
+        "id": "stone_closed_r",
+        "joints": 8,
+        "max_error_m": 0.0,
+        "terminal_posts": 0
+      }
+    ],
+    "extra_owner_control": "REJECTED"
+  },
+  "engine_physics": "NOT_RUN",
+  "gpu_visual": "NOT_RUN"
+}

@@ -1,0 +1,467 @@
+{
+  "example_id": "wood_closed_l",
+  "coordinate_frame": "glTF Y-up meters",
+  "matrix_layout": "row-major 4x4; column vectors",
+  "instances": [
+    {
+      "asset_id": "TW_WOOD_RAIL_2M_A",
+      "file": "fences_output/models/TW_WOOD_RAIL_2M_A_LOD0.glb",
+      "world_matrix_row_major": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "bounds_y_up_m": [
+        [
+          -0.07000000029802322,
+          0.0,
+          -0.07000000029802322
+        ],
+        [
+          1.9299999475479126,
+          1.100000023841858,
+          0.07000000029802322
+        ]
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_L90_A",
+      "file": "wood_modules_output/models/TW_WOOD_CORNER_L90_A_LOD0.glb",
+      "world_matrix_row_major": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          2.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "bounds_y_up_m": [
+        [
+          1.9299999997019768,
+          0.0,
+          -0.4300000071525574
+        ],
+        [
+          2.5699999928474426,
+          1.100000023841858,
+          0.07000000029802322
+        ]
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_4M_A",
+      "file": "wood_modules_output/models/TW_WOOD_RAIL_4M_A_LOD0.glb",
+      "world_matrix_row_major": [
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          -0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "bounds_y_up_m": [
+        [
+          2.4299999997019768,
+          0.0,
+          -4.430000066757202
+        ],
+        [
+          2.5700000002980232,
+          1.100000023841858,
+          -0.4299999997019768
+        ]
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_L90_A",
+      "file": "wood_modules_output/models/TW_WOOD_CORNER_L90_A_LOD0.glb",
+      "world_matrix_row_major": [
+        [
+          0.0,
+          0.0,
+          1.0,
+          2.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          0.0,
+          -4.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "bounds_y_up_m": [
+        [
+          2.0699999928474426,
+          0.0,
+          -5.069999992847443
+        ],
+        [
+          2.5700000002980232,
+          1.100000023841858,
+          -4.429999999701977
+        ]
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_2M_A",
+      "file": "fences_output/models/TW_WOOD_RAIL_2M_A_LOD0.glb",
+      "world_matrix_row_major": [
+        [
+          -1.0,
+          0.0,
+          0.0,
+          2.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          -5.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "bounds_y_up_m": [
+        [
+          0.0700000524520874,
+          0.0,
+          -5.070000000298023
+        ],
+        [
+          2.0700000002980232,
+          1.100000023841858,
+          -4.929999999701977
+        ]
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_L90_A",
+      "file": "wood_modules_output/models/TW_WOOD_CORNER_L90_A_LOD0.glb",
+      "world_matrix_row_major": [
+        [
+          -1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          -1.0,
+          -5.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "bounds_y_up_m": [
+        [
+          -0.5699999928474426,
+          0.0,
+          -5.070000000298023
+        ],
+        [
+          0.07000000029802322,
+          1.100000023841858,
+          -4.569999992847443
+        ]
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_4M_A",
+      "file": "wood_modules_output/models/TW_WOOD_RAIL_4M_A_LOD0.glb",
+      "world_matrix_row_major": [
+        [
+          0.0,
+          0.0,
+          -1.0,
+          -0.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          -4.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "bounds_y_up_m": [
+        [
+          -0.5700000002980232,
+          0.0,
+          -4.570000000298023
+        ],
+        [
+          -0.4299999997019768,
+          1.100000023841858,
+          -0.5699999332427979
+        ]
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_L90_A",
+      "file": "wood_modules_output/models/TW_WOOD_CORNER_L90_A_LOD0.glb",
+      "world_matrix_row_major": [
+        [
+          0.0,
+          0.0,
+          -1.0,
+          -0.5
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "bounds_y_up_m": [
+        [
+          -0.5700000002980232,
+          0.0,
+          -0.5700000002980232
+        ],
+        [
+          -0.06999999284744263,
+          1.100000023841858,
+          0.06999999284744263
+        ]
+      ]
+    }
+  ],
+  "socket_checks": [
+    {
+      "from_asset": "TW_WOOD_RAIL_2M_A_LOD0",
+      "to_asset": "TW_WOOD_CORNER_L90_A",
+      "kind": "connection",
+      "position_error_m": 0.0,
+      "outward_error_degrees": 0.0,
+      "status": "PASS"
+    },
+    {
+      "from_asset": "TW_WOOD_CORNER_L90_A_LOD0",
+      "to_asset": "TW_WOOD_RAIL_4M_A",
+      "kind": "connection",
+      "position_error_m": 0.0,
+      "outward_error_degrees": 0.0,
+      "status": "PASS"
+    },
+    {
+      "from_asset": "TW_WOOD_RAIL_4M_A_LOD0",
+      "to_asset": "TW_WOOD_CORNER_L90_A",
+      "kind": "connection",
+      "position_error_m": 0.0,
+      "outward_error_degrees": 0.0,
+      "status": "PASS"
+    },
+    {
+      "from_asset": "TW_WOOD_CORNER_L90_A_LOD0",
+      "to_asset": "TW_WOOD_RAIL_2M_A",
+      "kind": "connection",
+      "position_error_m": 0.0,
+      "outward_error_degrees": 0.0,
+      "status": "PASS"
+    },
+    {
+      "from_asset": "TW_WOOD_RAIL_2M_A_LOD0",
+      "to_asset": "TW_WOOD_CORNER_L90_A",
+      "kind": "connection",
+      "position_error_m": 0.0,
+      "outward_error_degrees": 0.0,
+      "status": "PASS"
+    },
+    {
+      "from_asset": "TW_WOOD_CORNER_L90_A_LOD0",
+      "to_asset": "TW_WOOD_RAIL_4M_A",
+      "kind": "connection",
+      "position_error_m": 0.0,
+      "outward_error_degrees": 0.0,
+      "status": "PASS"
+    },
+    {
+      "from_asset": "TW_WOOD_RAIL_4M_A_LOD0",
+      "to_asset": "TW_WOOD_CORNER_L90_A",
+      "kind": "connection",
+      "position_error_m": 0.0,
+      "outward_error_degrees": 0.0,
+      "status": "PASS"
+    }
+  ],
+  "logical_post_centers_y_up_m": [
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      2.0,
+      0.0,
+      0.0
+    ],
+    [
+      2.5,
+      0.0,
+      0.0
+    ],
+    [
+      2.5,
+      0.0,
+      -0.5
+    ],
+    [
+      2.5,
+      0.0,
+      -4.5
+    ],
+    [
+      2.5,
+      0.0,
+      -5.0
+    ],
+    [
+      2.0,
+      0.0,
+      -5.0
+    ],
+    [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    [
+      -0.5,
+      0.0,
+      -5.0
+    ],
+    [
+      -0.5,
+      0.0,
+      -4.5
+    ],
+    [
+      -0.5,
+      0.0,
+      -0.5
+    ],
+    [
+      -0.5,
+      0.0,
+      0.0
+    ]
+  ],
+  "logical_duplicate_posts": 0,
+  "status": "PASS",
+  "scope": "Rigid socket placement and logical post ownership; not physical character or GPU validation",
+  "gate_state": null
+}

@@ -8,8 +8,8 @@
     },
     {
       "id": "AT02",
-      "status": "NOT_RUN",
-      "detail": "10m five-module plus physical terminal-post case not freshly executed"
+      "status": "PASS",
+      "detail": "Five actual2m modules plus terminal post form10m; no duplicate posts; endpoint vertices within1mm of following mesh surface"
     },
     {
       "id": "AT03",
@@ -23,8 +23,8 @@
     },
     {
       "id": "AT05",
-      "status": "NOT_RUN",
-      "detail": "Topology ownership and four real closed loops checked; complete open/closed acceptance still pending"
+      "status": "PASS",
+      "detail": "Open10m assembly has one terminal; four actual closed loops have none; unique logical post ownership checked, not character physics"
     },
     {
       "id": "AT06",
@@ -53,8 +53,8 @@
     },
     {
       "id": "AT11",
-      "status": "NOT_RUN",
-      "detail": "Original P0 model set fresh engine import not rerun; core-six items Godot report is a separate scope"
+      "status": "PASS",
+      "detail": "Original P0 six GLBs newly imported in Godot4.7.2 headless; textures/counts/bounds/source vertices verified; no unexpected collision objects"
     },
     {
       "id": "AT12",
