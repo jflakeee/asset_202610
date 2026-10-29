@@ -59,7 +59,7 @@
     {
       "id": "AT12",
       "status": "NOT_RUN",
-      "detail": "Only4 LOD1 pairs; full84 LOD1/2 policies pending"
+      "detail": "All84 models now have168 decisions:91 silhouette-pass candidates,77 omission reviews. Engine switching/collider binding and approvals remain open"
     },
     {
       "id": "AT13",

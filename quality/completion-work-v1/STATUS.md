@@ -26,7 +26,7 @@
 |AT09|PASS|327 original-v1 palette GLBs pass required preflight; missing/corrupt PNG M001 and external URI X001 blocked before existing gate|
 |AT10|PASS|84 canonical models positions/indices/UV/nodes identical across3 themes|
 |AT11|PASS|Original P0 six GLBs newly imported in Godot4.7.2 headless; textures/counts/bounds/source vertices verified; no unexpected collision objects|
-|AT12|NOT_RUN|Only4 LOD1 pairs; full84 LOD1/2 policies pending|
+|AT12|NOT_RUN|All84 models now have168 decisions:91 silhouette-pass candidates,77 omission reviews. Engine switching/collider binding and approvals remain open|
 |AT13|PASS|Synthetic approval fixture rejects changed content hashes P002; no real approvals issued|
 |AT14|PASS|Trial staging extra file/mutation/missing/symlink/path controls reject; sales-wide staging pending|
 |AT15|NOT_RUN|Approved84 thumbnail/document exactness pending|
@@ -36,7 +36,7 @@ NOT_RUN은 미실행 또는 일부 증거만 있는 상태이며 합격으로 �
 
 ## 아직 구현·검토할 항목
 
-1. 원설계84종의 LOD1/2 또는 근거 있는 개별 생략 정책. 현재 LOD1은4종뿐이다.
+1. 원설계84종의 LOD1/2 또는 근거 있는 개별 생략 정책. 기존 제공 LOD1은4종이며, 신규 후보91개와 생략 검토77개를 ../lod-catalog-work-v4/에서 추가 검토한다.
 2. 원설계6예제의 실제 통행/접촉·엔진 물리 검사와 미술 검토.
 3. 원설계AT12/15의 미실행 부분.
 4. 모델별 제작자/도구/날짜/참고 목적/AI 보조 단계 및 입력 허용목록 검토.

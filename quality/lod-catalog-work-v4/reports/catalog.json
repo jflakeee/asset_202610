@@ -1,0 +1,2932 @@
+{
+  "models": [
+    {
+      "asset_id": "TW_PROP_BRANCH_FORK_A",
+      "lod0_triangles": 48,
+      "source_sha256": "b3e2ef9a4d0a2fbd21638aebfa8846275992b66207a8e8ad5b212fcea8730cd7",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.005,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 48,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 44,
+          "views": {
+            "front": 0.9988938053097345,
+            "side": 0.9431429965836994,
+            "diagonal45": 0.9959618801486028,
+            "top": 0.9995719178082192
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_BRANCH_FORK_A_LOD2.glb",
+          "sha256": "416fa00fd7b574356a28e9e36ce177d3bb133d43fce0d7a2b19b01791fb0f697",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_PROP_BRANCH_FORK_B",
+      "lod0_triangles": 70,
+      "source_sha256": "1a4771141bc78122ba1c7e54c884a8005878194af562468337ee56197eddb4ae",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 62,
+          "views": {
+            "front": 0.9944346066278775,
+            "side": 0.9677478468022723,
+            "diagonal45": 0.9910019034435024,
+            "top": 0.9932659932659933
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_BRANCH_FORK_B_LOD1.glb",
+          "sha256": "259b3a0af1616c69a963800711520582d3f6d482892b658c3b2b7199d9c06138",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 58,
+          "views": {
+            "front": 0.9817859853275993,
+            "side": 0.940809968847352,
+            "diagonal45": 0.9634884928188268,
+            "top": 0.9932659932659933
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_BRANCH_FORK_B_LOD2.glb",
+          "sha256": "1e77b9fa9bf005de03e8c22505c67f69eb717bb51b678bb49573d0b17ee1f8a8",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_PROP_BRANCH_PILE_A",
+      "lod0_triangles": 144,
+      "source_sha256": "8905ad16367bc801dc05ec3594f337813d9a49f9c1395143654ea90d12e8a84d",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 132,
+          "views": {
+            "front": 0.9986721550922852,
+            "side": 0.9906924414442058,
+            "diagonal45": 0.9908787931941765,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_BRANCH_PILE_A_LOD1.glb",
+          "sha256": "cdda96e9af701a32e6b986b2bf3b821618f17407f412edfa436057c4aabc9352",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 132,
+          "views": {
+            "front": 0.9986721550922852,
+            "side": 0.9906924414442058,
+            "diagonal45": 0.9908787931941765,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_BRANCH_PILE_A_LOD2.glb",
+          "sha256": "7eb08c7a81da0171f97063d6466a2215b589a5bb7fcbd08bf00ed9bc22393824",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_PROP_BRANCH_PILE_B",
+      "lod0_triangles": 216,
+      "source_sha256": "209cc8b504c936589c0ba29f508ba2197f503b24209ec0179cc28dc57e321821",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 200,
+          "views": {
+            "front": 0.9996262148018938,
+            "side": 0.9951518477863154,
+            "diagonal45": 0.9935857321652065,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_BRANCH_PILE_B_LOD1.glb",
+          "sha256": "e27584f95006d11b190d40c1e081926847e7a106b76732e3f405ec3736bfdd15",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 200,
+          "views": {
+            "front": 0.9996262148018938,
+            "side": 0.9951518477863154,
+            "diagonal45": 0.9935857321652065,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_BRANCH_PILE_B_LOD2.glb",
+          "sha256": "2198adf84a932b272840c313c20ac4a4e0c17151c612e0b46f3bfbbc27287f4d",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_PROP_LOG_BROKEN_A",
+      "lod0_triangles": 124,
+      "source_sha256": "6c2c16ba1c98c155c6eeff6ab8fa268f2cc4857e0947e25684de80eb6323b7ca",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 80,
+          "views": {
+            "front": 0.9893850337748925,
+            "side": 0.9919468998710246,
+            "diagonal45": 0.9927795200933557,
+            "top": 0.9759303832623588
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_LOG_BROKEN_A_LOD1.glb",
+          "sha256": "ea81a9664505ad9a8c9226e53cd96da90177a5ca173aa4434cf93f55a1b70c71",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 64,
+          "views": {
+            "front": 0.8999912273006404,
+            "side": 0.9919468998710246,
+            "diagonal45": 0.9244016345592527,
+            "top": 0.9727104532839963
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_LOG_BROKEN_A_LOD2.glb",
+          "sha256": "67219790217e41ecf50c6e0c89fc0c5a161189856dd5503dba2d70300165489f",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_PROP_LOG_BROKEN_B",
+      "lod0_triangles": 166,
+      "source_sha256": "40a43bd46e5fafe06881a568f9d636c55ae00129b2d0dcbf283eebb84e39a737",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 130,
+          "views": {
+            "front": 0.998293208767517,
+            "side": 0.9924798405363776,
+            "diagonal45": 0.997532778795996,
+            "top": 0.9931095406360424
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_LOG_BROKEN_B_LOD1.glb",
+          "sha256": "eea727d51016ef78a43b20432bc8ae165acefeafcb3e542b618fc225592d14df",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 112,
+          "views": {
+            "front": 0.9883219547251167,
+            "side": 0.9910905741294433,
+            "diagonal45": 0.9919639080783872,
+            "top": 0.9906360424028269
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_LOG_BROKEN_B_LOD2.glb",
+          "sha256": "f9fb6bc5b733d329a3705104b8f33663307afe54574a7b6df318b4526ec3e7c3",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_PROP_LOG_STRAIGHT_A",
+      "lod0_triangles": 76,
+      "source_sha256": "a575f7e4d07cf016389ee9daca168116438b986ef6338c178e2dc58ce005330d",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 50,
+          "views": {
+            "front": 0.9911321922045783,
+            "side": 0.9919468998710246,
+            "diagonal45": 0.9931972789115646,
+            "top": 0.9831055633272355
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_LOG_STRAIGHT_A_LOD1.glb",
+          "sha256": "6b6f7191b98a1011474c3a6e05ce857fd347ee38487c4f8f60d22f0caf14e28e",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 50,
+          "views": {
+            "front": 0.9911321922045783,
+            "side": 0.9919468998710246,
+            "diagonal45": 0.9931972789115646,
+            "top": 0.9831055633272355
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_LOG_STRAIGHT_A_LOD2.glb",
+          "sha256": "c8be2c7c861a7db4983087418b4a1b634964fb572c5e5cc04d7162849d76cf75",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_PROP_LOG_STRAIGHT_B",
+      "lod0_triangles": 102,
+      "source_sha256": "09bf8293ade8187011470c3c7919421eb1907baf61e790516d41ed14849d17e4",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 90,
+          "views": {
+            "front": 0.9991845887269392,
+            "side": 0.992477568653515,
+            "diagonal45": 0.998639224357884,
+            "top": 0.9985832827362882
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_LOG_STRAIGHT_B_LOD1.glb",
+          "sha256": "5ca5c3458a99fb83b9d83e408a6fc4ac923c5bf273b294493298f75fddcc5c4d",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 80,
+          "views": {
+            "front": 0.9991845887269392,
+            "side": 0.991087882541313,
+            "diagonal45": 0.998639224357884,
+            "top": 0.9985832827362882
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_LOG_STRAIGHT_B_LOD2.glb",
+          "sha256": "f319dad40bf45b2325735f9a075e19911d68b9c5a003f8e34558ea2de4467978",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_ROUND_A",
+      "lod0_triangles": 110,
+      "source_sha256": "aa353203d5e044748d22caa04a71c08be1b5fbc6bcf318e5243c951c301e0015",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 110,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 94,
+          "views": {
+            "front": 0.9997684649224358,
+            "side": 0.998403163257547,
+            "diagonal45": 0.9961098667924083,
+            "top": 0.9933236190223871
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_STUMP_ROUND_A_LOD2.glb",
+          "sha256": "8c48208e3181fa7899d32f9e2e2b1184960b21103d279d2c3473743255d9e2ce",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_ROUND_B",
+      "lod0_triangles": 136,
+      "source_sha256": "c4130c360335a807921e2dedb2fe6165e8764b54d4f5fc86d6c9a5875256e989",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 136,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 118,
+          "views": {
+            "front": 0.9999555772733331,
+            "side": 0.9998644190355674,
+            "diagonal45": 1.0,
+            "top": 0.9969417954620191
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_STUMP_ROUND_B_LOD2.glb",
+          "sha256": "20c39f45155cfc4564b77d25e1299a1e4c5de1d8dc8f96a7447fe269ad2bf35e",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_SPLIT_A",
+      "lod0_triangles": 76,
+      "source_sha256": "cc343169174acf4b0dabfd7bb39b5cb169b975e7903e6d4f4cb1d538bd6f050e",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 56,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 0.9995131450827653,
+            "top": 0.9999281023822078
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_STUMP_SPLIT_A_LOD1.glb",
+          "sha256": "6e19972b9d76f546e230eaa07cfbdbd5a7bd7b0caa168a61762f7ae263770b04",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 46,
+          "views": {
+            "front": 0.9913490222074909,
+            "side": 1.0,
+            "diagonal45": 0.9995131450827653,
+            "top": 0.9999281023822078
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_STUMP_SPLIT_A_LOD2.glb",
+          "sha256": "1dde3a22ac9e7c398ed26870e380217aefda1d0bc45697842ddf125fa4d29a6b",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_PROP_STUMP_SPLIT_B",
+      "lod0_triangles": 122,
+      "source_sha256": "7c6981313dec40f66b3b226e5cdbe66ee2a8d3b38cc61c62cd47a10b3395a9f9",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 78,
+          "views": {
+            "front": 0.9942846774925157,
+            "side": 0.9995251661918328,
+            "diagonal45": 0.9995251661918328,
+            "top": 0.9991938242048175
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_STUMP_SPLIT_B_LOD1.glb",
+          "sha256": "311d776b5541067ce30fce91dcbffd45a708f94578d6e8a94e9287297482579b",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 66,
+          "views": {
+            "front": 0.9942846774925157,
+            "side": 0.9975955829969129,
+            "diagonal45": 0.9995251661918328,
+            "top": 0.9991694149261023
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_PROP_STUMP_SPLIT_B_LOD2.glb",
+          "sha256": "5d919ad774ca61431fabda6cb1e6c21aed6b825345ef087a3e0752f463a11f6e",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_A",
+      "lod0_triangles": 260,
+      "source_sha256": "a68f09e3244afef905b1ae1b60088142fa602965bda84d659f6246fde3f3edee",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 240,
+          "views": {
+            "front": 0.9944300164024057,
+            "side": 0.9999105011933174,
+            "diagonal45": 0.9998732733493854,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_CLUSTER_LARGE_A_LOD1.glb",
+          "sha256": "47c45a58307d335dfcbdea10813ec2df58760fc5e0e65792430a91513a7768a4",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 224,
+          "views": {
+            "front": 0.9921746856205577,
+            "side": 0.9999104958529745,
+            "diagonal45": 0.9988594240091246,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_CLUSTER_LARGE_A_LOD2.glb",
+          "sha256": "ae0650c4bb613af3a61256d49d9d42bcc4d36b51c03da4f7d089194cd8f33755",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_LARGE_B",
+      "lod0_triangles": 360,
+      "source_sha256": "bc90f89d022ded23e536dbb53c6a5019d327218aa84741277e3714484e5a392d",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 344,
+          "views": {
+            "front": 0.9995824489369846,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_CLUSTER_LARGE_B_LOD1.glb",
+          "sha256": "911cada2cb07c5f7cf458360b1d288dde12c8e49f96b21f4ca08e315f27bcd2e",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 312,
+          "views": {
+            "front": 0.9994432652493128,
+            "side": 0.9896582036299705,
+            "diagonal45": 0.9965055142344191,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_CLUSTER_LARGE_B_LOD2.glb",
+          "sha256": "6793fc9894ef95b0485eeb17d943d71727a1c7f8804fc5a1455509236bb98977",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_A",
+      "lod0_triangles": 156,
+      "source_sha256": "162b8f6f441a0267d1583082921952f6517497984619fef6041da0460ee7a248",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 144,
+          "views": {
+            "front": 0.9947740320918592,
+            "side": 1.0,
+            "diagonal45": 0.9999653547671841,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_CLUSTER_SMALL_A_LOD1.glb",
+          "sha256": "a919ec528839f00ddea7b14b620238f7962bd92417c6d66eff7c89cbb2ac110f",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 130,
+          "views": {
+            "front": 0.9910201678198145,
+            "side": 1.0,
+            "diagonal45": 0.9895371396895787,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_CLUSTER_SMALL_A_LOD2.glb",
+          "sha256": "169f37297bbf1d5d31f5c5933e7690cac579da4e827f8a6b8b2933464cca21d9",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_ROCK_CLUSTER_SMALL_B",
+      "lod0_triangles": 240,
+      "source_sha256": "674f8e5e114d0496e690d7db4d5027efcac795fd6f071aaadc9578359a6185f8",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 226,
+          "views": {
+            "front": 0.999927370447035,
+            "side": 1.0,
+            "diagonal45": 0.9987380111055023,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_CLUSTER_SMALL_B_LOD1.glb",
+          "sha256": "224f3bedc53ee751031b7cabeb07180d936124e0d7fd4f83ad549186b541435b",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 212,
+          "views": {
+            "front": 0.9995642226822093,
+            "side": 1.0,
+            "diagonal45": 0.9956731809331506,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_CLUSTER_SMALL_B_LOD2.glb",
+          "sha256": "73cbd3c4dbc9056650bc9c11b6a5a29c977b5fc8060ad129862ab5b2c4759b71",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_ROCK_FLAT_SLAB_A",
+      "lod0_triangles": 52,
+      "source_sha256": "f9574e90e020db4e2d5b022f24420f7256978a56f58e783ba1945153be07f9ab",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 42,
+          "views": {
+            "front": 0.9862122788761707,
+            "side": 0.977226299462813,
+            "diagonal45": 0.9858786015260221,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_FLAT_SLAB_A_LOD1.glb",
+          "sha256": "5629e22840e48fdf5690915b41ba2d48e020f249f52ddd36fc1fb2a9260af1ab",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 38,
+          "views": {
+            "front": 0.9829604578563996,
+            "side": 0.9545282590603011,
+            "diagonal45": 0.9430588771210568,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_FLAT_SLAB_A_LOD2.glb",
+          "sha256": "b1cf77bd70bfb98be6844a0fc6908912b6852e655c96e0673bc0c916f1e53a3d",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_ROCK_FLAT_SLAB_B",
+      "lod0_triangles": 60,
+      "source_sha256": "830962164596514222c2b71b1b0a09197df21c12281db9e1f08154b64a566193",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 52,
+          "views": {
+            "front": 0.9880013712718546,
+            "side": 0.999947919379199,
+            "diagonal45": 0.9900912646675358,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_FLAT_SLAB_B_LOD1.glb",
+          "sha256": "d7e6d8fe07ed52a8214ac888d94bbe6a98906fd00f2fc87bcd19255735373401",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 42,
+          "views": {
+            "front": 0.9650325677065478,
+            "side": 0.9306806937138691,
+            "diagonal45": 0.9646210013908206,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_FLAT_SLAB_B_LOD2.glb",
+          "sha256": "1c8e015a84b9b33b12e607025a74c360761d109c7e4fd25ee0b55556a26e7c82",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_ROCK_LOW_WEDGE_A",
+      "lod0_triangles": 66,
+      "source_sha256": "9ebe53370cd60d7570b9db91d8f2f2593c53622873b6115a93cbdc34661ebe61",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 60,
+          "views": {
+            "front": 0.9999567043338962,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 0.9946736361531081
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_LOW_WEDGE_A_LOD1.glb",
+          "sha256": "1a8d1d6170eee4013933d26d1b8fde75f64b273adc9013785249cd50c9fccb7e",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 52,
+          "views": {
+            "front": 0.9997402260033771,
+            "side": 0.9985486211901307,
+            "diagonal45": 0.9999194684920475,
+            "top": 0.9907036755218844
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_LOW_WEDGE_A_LOD2.glb",
+          "sha256": "e6350b204f3541abe20e1376904b25bd8b20ffb791519c7bbbb19adfa1cfcd22",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_ROCK_LOW_WEDGE_B",
+      "lod0_triangles": 60,
+      "source_sha256": "d552561d80713f5a3e5147a869dac64a7673f639c46aceca7b0e16a7144e295b",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 54,
+          "views": {
+            "front": 0.9944543718035616,
+            "side": 1.0,
+            "diagonal45": 0.9997459134411789,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_LOW_WEDGE_B_LOD1.glb",
+          "sha256": "590539a75e0a13e587d45a9a1a1ac95dc0906569576c0c991002c09a89ab9b70",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 50,
+          "views": {
+            "front": 0.9893420404139971,
+            "side": 0.9887750402947272,
+            "diagonal45": 0.992165996188863,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_LOW_WEDGE_B_LOD2.glb",
+          "sha256": "d81f934ba57127c8c7274ec1a0020422e10586010326f8feba26a71163028db7",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_ROCK_SPLIT_MASS_A",
+      "lod0_triangles": 104,
+      "source_sha256": "d23f57c3371fa09a2d55750cdfe6ca78a52c50fd91a4c8b5cbf3f1c44ff907c9",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 98,
+          "views": {
+            "front": 0.9983532630725578,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_SPLIT_MASS_A_LOD1.glb",
+          "sha256": "3b4c77453fb96bf082a560a55ec990179abc98fb357c96b6651cdbaba108dfed",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 96,
+          "views": {
+            "front": 0.9957944872314552,
+            "side": 1.0,
+            "diagonal45": 0.9999775301096531,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_SPLIT_MASS_A_LOD2.glb",
+          "sha256": "aec1d840d9d3c5201f127ae9f39275e617bdc8227cf4075ebbc7419cae7c4574",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_ROCK_SPLIT_MASS_B",
+      "lod0_triangles": 180,
+      "source_sha256": "4128347565273d376770ba848c8aa7aa7f2fcbc83ac573a9fed1e51c03ec8a5f",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 174,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_SPLIT_MASS_B_LOD1.glb",
+          "sha256": "77397d0af0d278be782b89985ae732dff99a2d9316a06bd604fb0587b2e8a458",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 154,
+          "views": {
+            "front": 0.9828458246383476,
+            "side": 0.9982316534040672,
+            "diagonal45": 0.9968306462725645,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_SPLIT_MASS_B_LOD2.glb",
+          "sha256": "f86d7f2d69441ecbd4337978e51780925bb76a833a9e61177446abcf95a86eb5",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_ROCK_UPRIGHT_A",
+      "lod0_triangles": 70,
+      "source_sha256": "15e8218a1698156291c34a3623b10742f1f468aeebafb632c21680ff6f382386",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 56,
+          "views": {
+            "front": 0.9918909105579538,
+            "side": 0.9965214761040533,
+            "diagonal45": 0.9957888955005264,
+            "top": 0.9999700742159444
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_UPRIGHT_A_LOD1.glb",
+          "sha256": "0204f6fa2c9ce5fefac82f2df1478dbc171bd4fb6b4293141e9f510e2eb17e7c",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 48,
+          "views": {
+            "front": 0.9894702868439101,
+            "side": 0.9948578342407743,
+            "diagonal45": 0.9686913535039136,
+            "top": 0.9995810390232224
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_UPRIGHT_A_LOD2.glb",
+          "sha256": "2a5e39e93d6530fa7f80eeceb408d6f69806a8195bc71c8931c56dc22273501f",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_ROCK_UPRIGHT_B",
+      "lod0_triangles": 60,
+      "source_sha256": "97ec12b495274caf24bfaa5aec19c8fabf60ca3c5fe64c3762e624898b3e617f",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 60,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 54,
+          "views": {
+            "front": 0.9995405115637923,
+            "side": 1.0,
+            "diagonal45": 0.9980102882655537,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_ROCK_UPRIGHT_B_LOD2.glb",
+          "sha256": "1a2789396b60633359869f567c2f5c43185be0972b865a8e096615d365c87845",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_L90_A",
+      "lod0_triangles": 240,
+      "source_sha256": "0b466eb3aa7163ee9a441c895cffcc36c482a260e6b6288c7e6763b1e55391ca",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 240,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 240,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_L90_B",
+      "lod0_triangles": 312,
+      "source_sha256": "bf6b9c115ad155019f43d36fd9c6bfa3255ed1d0e755a22926337937a6024788",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 312,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 312,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_R90_A",
+      "lod0_triangles": 252,
+      "source_sha256": "5f47c5e2d4bc36b3dad214eaeb1554bc3f6b3c1441832ea337233eadddd16f84",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 252,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 252,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_CORNER_R90_B",
+      "lod0_triangles": 324,
+      "source_sha256": "6ecbce1e94895d8243fbf60ad1e122108a6bb2adaf720bab4d4315f8e9370fcb",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 324,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 324,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_END_CAP_A",
+      "lod0_triangles": 48,
+      "source_sha256": "b19bc0fe8ce6194bd59faf584fbeb99cbe6e769d852a487d4c8658cdea847d71",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 48,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 48,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_END_CAP_B",
+      "lod0_triangles": 72,
+      "source_sha256": "6313d43b790e834832baceaf6e39924af56868f2eafa76d6fb738883ff31afc7",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 72,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 72,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_END_RUIN_A",
+      "lod0_triangles": 60,
+      "source_sha256": "480073c99238911ed9604f5f39198846770055e9dcbaebcc7c25bd7909b33d29",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 60,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 60,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_END_RUIN_B",
+      "lod0_triangles": 96,
+      "source_sha256": "7118b9a56cabf6f3836b93e11f7997b7e344032803af93ce6bb4b04b7a20629d",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 96,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 96,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_POST_A",
+      "lod0_triangles": 36,
+      "source_sha256": "a14589de61b3fbdb8ee476d721733c499d9c8f447df30e520328252b1e80f364",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 36,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 36,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_POST_B",
+      "lod0_triangles": 60,
+      "source_sha256": "5b1e7a9b0d6eb21f30e13f507b9264738e7ebeb9369cdba97ca5fb353addd06a",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 60,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 60,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_WALL_1M_A",
+      "lod0_triangles": 120,
+      "source_sha256": "54c1c1124aca9d2c0f84f8f767acfa7c9317788a183a728545ebe6032cb0a4f9",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 120,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 120,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_WALL_1M_B",
+      "lod0_triangles": 156,
+      "source_sha256": "736a9f3da569dda81e0cf2d576286487e88752c82f785b9eff64125734afa1ea",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 156,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 156,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_WALL_2M_A",
+      "lod0_triangles": 192,
+      "source_sha256": "6e9404cf3b2b4d0f753e2b48894b71adbc05ccb898486ef9d81ba3b59f1a839c",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 192,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 192,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_WALL_2M_B",
+      "lod0_triangles": 252,
+      "source_sha256": "f85f412e3c2384b99703a7538f47104062214ca5914f39a2d0d141a32d8e5854",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 252,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 252,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_WALL_4M_A",
+      "lod0_triangles": 372,
+      "source_sha256": "b32b7139eaa796fb27e9bb190e0a8b7b270e5a499e02452cfa22d4f2ed1a547a",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 372,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 372,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_STONE_WALL_4M_B",
+      "lod0_triangles": 420,
+      "source_sha256": "de6fba5390e793c77542d9c9ea5f2309dcdb0850e149656875c04668077ecd5a",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 420,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 416,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 0.997796453828021,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_STONE_WALL_4M_B_LOD2.glb",
+          "sha256": "38edbd20dda7c068dfd48d4043d1bce3a2c98c64a49001e15f2f73a38673fae1",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_FORK_A",
+      "lod0_triangles": 156,
+      "source_sha256": "f1ea7b494866b35226f15b5e630e52c4dc9b299083eb57ec73f4015c0ffeb071",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 156,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 156,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_FORK_B",
+      "lod0_triangles": 212,
+      "source_sha256": "9b544316f07b4e7bfde2b99c9fb9efe48b5794efaef129c88791d8162ca6b701",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 212,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 212,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_LEAN_A",
+      "lod0_triangles": 124,
+      "source_sha256": "9c16b152d6270dbda086b82a7e93c5395b6b45dcc66e663a20644a3f5f1f21e4",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 124,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 124,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_DEAD_LEAN_B",
+      "lod0_triangles": 174,
+      "source_sha256": "61e55c97bc1390a11f1ce1e9f2b040cc57eb5de1d9f4e537d53b31a75ed3f64f",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 174,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 174,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_BROAD_A",
+      "lod0_triangles": 380,
+      "source_sha256": "37e6aca16ea8a6b37021b2eace30683a5fb9d783947de90a38a8580b90d440d3",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 348,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 0.9998434809829394,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_TREE_ROUND_BROAD_A_LOD1.glb",
+          "sha256": "7c9858b1110130935489b56985a8d102919980df957650ac21e49bf73d95edb8",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 332,
+          "views": {
+            "front": 1.0,
+            "side": 0.9998394090252127,
+            "diagonal45": 0.9998434809829394,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_TREE_ROUND_BROAD_A_LOD2.glb",
+          "sha256": "2bc332e4ffd1ad768e7cdd2c599d043f416c2635355dfb901b2c6f44c2982e2d",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_BROAD_B",
+      "lod0_triangles": 478,
+      "source_sha256": "828196bd6b4b6c3ba06e16ec4f11d0a60e97a179f536a93c2a2e7793e6e9cb7f",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 448,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_TREE_ROUND_BROAD_B_LOD1.glb",
+          "sha256": "9aa9f3f424a5a14cd14c42e1cd8e894dbc73743be4935118bc6fd7da0189be43",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 418,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 0.9988133319574863,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_TREE_ROUND_BROAD_B_LOD2.glb",
+          "sha256": "059ed3b3107c77cc02173363017feea4273c58d1d5801d826b7739334ee35346",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_SMALL_A",
+      "lod0_triangles": 352,
+      "source_sha256": "b975c9c0da24d917b40d583ba22d25b623e821cbf1a61f7598527214885cd827",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 322,
+          "views": {
+            "front": 0.9979838709677419,
+            "side": 1.0,
+            "diagonal45": 0.9999379460130313,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_TREE_ROUND_SMALL_A_LOD1.glb",
+          "sha256": "ce21a61280b7fc94c0b060b8b13607f49a42ae3cd6523dd4d1d95bb6a28bf0d1",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 276,
+          "views": {
+            "front": 0.9876152073732719,
+            "side": 0.9962999669639907,
+            "diagonal45": 0.9960285448340056,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_TREE_ROUND_SMALL_A_LOD2.glb",
+          "sha256": "b29cbb8efa34bf89fe9a87fd973fb78ab4935ad4e450cc2dc7a7c58d12a6cebd",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_ROUND_SMALL_B",
+      "lod0_triangles": 404,
+      "source_sha256": "ae8d357dbd9d385cdf89bfa853b6972a4c5083e2116dd4e3735a64e26e631dee",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 364,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 0.9998816568047337,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_TREE_ROUND_SMALL_B_LOD1.glb",
+          "sha256": "94f444f0516a66006e71d08db079aeeb558f73f7d5467399761b6d98b2b491ce",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 356,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 0.9998816568047337,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_TREE_ROUND_SMALL_B_LOD2.glb",
+          "sha256": "99ca2bf439c51766242ad5f93fb84d624f7b7b4c587ea18773648dec5cdd1caf",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_SLIM_A",
+      "lod0_triangles": 248,
+      "source_sha256": "7a32145cbe0efd5381519a061ddb98dbc23cb1677d00ac76f6c6546760c41ac0",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 230,
+          "views": {
+            "front": 0.9875566616300774,
+            "side": 0.9863699102829537,
+            "diagonal45": 0.988427143608627,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_TREE_TIERED_SLIM_A_LOD1.glb",
+          "sha256": "a2707f10d9c8484d1788b02dbad9925177065eada190757ec68edc24e1c61843",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 184,
+          "views": {
+            "front": 0.9466714069860457,
+            "side": 0.940303657694962,
+            "diagonal45": 0.9594950026301946,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_TREE_TIERED_SLIM_A_LOD2.glb",
+          "sha256": "7fe58a3cd3088287de0861693d2634a5e3587d4f1369bf24b35c81f1344c6174",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_SLIM_B",
+      "lod0_triangles": 268,
+      "source_sha256": "1769950de1cf6e65681bc66792fc4e4bce50b242f9ee79e8596c02b40a9a3a5f",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 240,
+          "views": {
+            "front": 0.9930258508461968,
+            "side": 0.9937870919881305,
+            "diagonal45": 0.9806014479302023,
+            "top": 0.9999066249591484
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_TREE_TIERED_SLIM_B_LOD1.glb",
+          "sha256": "e9564f27d12a5bc6f0db59a1ed28907bad6d1ea57378f8d7954077f910fc25f7",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 168,
+          "views": {
+            "front": 0.9575971731448764,
+            "side": 0.9238686943620178,
+            "diagonal45": 0.9475589381845183,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_TREE_TIERED_SLIM_B_LOD2.glb",
+          "sha256": "aacf1cc3d69bb14fe45baf326056bacaaa2ccce09b14c36efa9fb7354d83e169",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_WIDE_A",
+      "lod0_triangles": 198,
+      "source_sha256": "c2008f00049f323b226474789a16cc060fef8bcadf8f6d1d6a605873d1865298",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 198,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 174,
+          "views": {
+            "front": 0.9717290621381706,
+            "side": 0.9665522741553483,
+            "diagonal45": 0.9720840376720599,
+            "top": 0.9999507704425737
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_TREE_TIERED_WIDE_A_LOD2.glb",
+          "sha256": "03617e6c29e3baeb73e11b4692b0c55588679a46291a562f66c20eb9b4193418",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_TREE_TIERED_WIDE_B",
+      "lod0_triangles": 268,
+      "source_sha256": "263ba8d3c9480c08e51444d1eec1e2e96f33905b25424af4dbeb79ebea8efa99",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 258,
+          "views": {
+            "front": 0.9931799791931568,
+            "side": 1.0,
+            "diagonal45": 0.9955586318278825,
+            "top": 0.9999066249591484
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_TREE_TIERED_WIDE_B_LOD1.glb",
+          "sha256": "b0495b1680c6929729b3985de1afff752622e3371741ba6b43c3075d58a77b1a",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 180,
+          "views": {
+            "front": 0.9658420991792857,
+            "side": 0.9449287074987012,
+            "diagonal45": 0.9422045336563419,
+            "top": 0.9999066249591484
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_TREE_TIERED_WIDE_B_LOD2.glb",
+          "sha256": "566ae199787b82aa5ab8ca380ccb34a2bdaf8fc13eefaf11d962b2d86a7c51b1",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_LONG_A",
+      "lod0_triangles": 112,
+      "source_sha256": "a25804a3e7ae148fec08253007d925b500162dd29f18d2c6d6c09eea40ca7f3a",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 112,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 112,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_LONG_B",
+      "lod0_triangles": 160,
+      "source_sha256": "8da8f35101376ef39a8a8623e9e9a4ee4e1ee1b779d0de4e7e7896489ef3169f",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 160,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 160,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_ROUND_A",
+      "lod0_triangles": 84,
+      "source_sha256": "564536ee78416551cfd18f17aeb5ae80eb16d19566152a4c98b95c4994185e2d",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 84,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 84,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_ROUND_B",
+      "lod0_triangles": 128,
+      "source_sha256": "d726cc5c78b95cf60ef4c27424aa9c35134a836b47871498f3f2fd81f00d58dd",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 128,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 128,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_SPARSE_A",
+      "lod0_triangles": 56,
+      "source_sha256": "48f94d2f1d7168f067e6a3676884d1a5bf59c5f7e5550ee22d0d9c8772cebeaf",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 56,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 56,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_VEG_BUSH_SPARSE_B",
+      "lod0_triangles": 96,
+      "source_sha256": "1340173082b68a37f9a91c170593942001f157b708905f7e927cfa7d7fd63588",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 96,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 96,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_FAN_A",
+      "lod0_triangles": 50,
+      "source_sha256": "ca9b8945e136b92ee7a3987d536dade10d3b8a600fc8b4448a19adfbd95c32d5",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 44,
+          "views": {
+            "front": 0.9973110247983269,
+            "side": 0.981328092096027,
+            "diagonal45": 0.9923240434577232,
+            "top": 0.9769723315514304
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_VEG_GRASS_FAN_A_LOD1.glb",
+          "sha256": "11c33715bef276f8387db4a85efb26b28810f8a5422e989f8f9d0402bebf642e",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 40,
+          "views": {
+            "front": 0.9973110247983269,
+            "side": 0.9796434086761197,
+            "diagonal45": 0.9923240434577232,
+            "top": 0.966545262292193
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_VEG_GRASS_FAN_A_LOD2.glb",
+          "sha256": "0ef94a35af82581973dc17e9cddc0ad7283e1ed433450809e2161effdc3e64f4",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_FAN_B",
+      "lod0_triangles": 70,
+      "source_sha256": "0dfe2c2e1e25f6797f78b2c735570ec9824284845fcd2073ae9504edb1381621",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 58,
+          "views": {
+            "front": 0.9875776397515528,
+            "side": 0.9643302569219256,
+            "diagonal45": 0.9862627022958224,
+            "top": 0.9961127723195216
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_VEG_GRASS_FAN_B_LOD1.glb",
+          "sha256": "4059c4aa05eef1260e53b3e4bb10beec2e3e0b830cbd20b8590f9a39aa061301",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 56,
+          "views": {
+            "front": 0.9674413945101182,
+            "side": 0.9643302569219256,
+            "diagonal45": 0.9862627022958224,
+            "top": 0.9961127723195216
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_VEG_GRASS_FAN_B_LOD2.glb",
+          "sha256": "a1ab4f5a659824fdb1fc43d72e9db0384d98d57615155580322936cba71bd1e9",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_LOW_A",
+      "lod0_triangles": 50,
+      "source_sha256": "b21dad48f98e8d377e889d9522206d241fa7def0497f8dfbddc39e7aa888b896",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 50,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 42,
+          "views": {
+            "front": 1.0,
+            "side": 0.985621521335807,
+            "diagonal45": 0.9620445344129555,
+            "top": 0.9239766081871345
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_VEG_GRASS_LOW_A_LOD2.glb",
+          "sha256": "5a42ea2a32ae2c5b1c006369e51167aa35eb76727d1436fdb22f5e5b06590b2a",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_LOW_B",
+      "lod0_triangles": 70,
+      "source_sha256": "261092133c3e9741494e956b0a0c8789becd387daabdf8edcda9ef5b0b059332",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 70,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 56,
+          "views": {
+            "front": 0.9482104121475055,
+            "side": 0.9470664012179412,
+            "diagonal45": 0.9586065573770491,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_VEG_GRASS_LOW_B_LOD2.glb",
+          "sha256": "728397be230fdea65fe3afaa883b1ff247d45cf73f44ae9d248af32a9c60a400",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_TUFT_A",
+      "lod0_triangles": 50,
+      "source_sha256": "018619a9bc25e9ee4fd97d6941f4d9ace55d36b7c180d3deffbc673e41aad946",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 50,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 44,
+          "views": {
+            "front": 1.0,
+            "side": 0.9849335579262587,
+            "diagonal45": 0.9918417295533347,
+            "top": 0.9440877150472499
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_VEG_GRASS_TUFT_A_LOD2.glb",
+          "sha256": "6ee278f347c801a5b1bb41e6910e77545530477f56429e2389d474369050d3c2",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_VEG_GRASS_TUFT_B",
+      "lod0_triangles": 70,
+      "source_sha256": "ac4aa8d1706f09219dc25522a4f9bdf63b99e9be7b78527c88e72048dfa801f1",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 68,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_VEG_GRASS_TUFT_B_LOD1.glb",
+          "sha256": "47a042a3ea5377b704857d9277ab58eb331a82a71a17ecd88e582f952a14229a",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 56,
+          "views": {
+            "front": 0.9664324396902834,
+            "side": 0.9553079466144239,
+            "diagonal45": 0.9489450092926642,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_VEG_GRASS_TUFT_B_LOD2.glb",
+          "sha256": "020ad66eb2a57d5a44cf153c9d8e6fdc0f9e6a82b345810eeb67f794d498ab39",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_L90_A",
+      "lod0_triangles": 88,
+      "source_sha256": "32f2039555e826230bdb94a577d31f42bb2839593c90c0cc877d5fd153ce0c7f",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 88,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 84,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_CORNER_L90_A_LOD2.glb",
+          "sha256": "f476809ec03b47da401be2247880c0ac38fbeb8754606e1ba4c8d9b2ee0eda9e",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_L90_B",
+      "lod0_triangles": 124,
+      "source_sha256": "a1694c7c69b9e2d5ca68b90232f07c670f2544126d8ee55fe8be77ca5e1c826f",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 124,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 120,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_CORNER_L90_B_LOD2.glb",
+          "sha256": "ae72d2204c742d3fbe6bc5ca4255a5f134192587bddb746517f34461f183ab65",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_R90_A",
+      "lod0_triangles": 100,
+      "source_sha256": "6bba074d91e7386592871b773cf1d725b503f10a732ae88e6549e0caacc313d9",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 100,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 96,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_CORNER_R90_A_LOD2.glb",
+          "sha256": "d1709c549aad02f496654d6fd3da9737ea88edba0836e8701d8430d3a380d7f0",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_CORNER_R90_B",
+      "lod0_triangles": 136,
+      "source_sha256": "f608ad90000801350a7354374bba9c7db00d73a8324c6bec541d961a62fa1ea8",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 136,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 132,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_CORNER_R90_B_LOD2.glb",
+          "sha256": "5e14ba46f03dd06cc6b2beeaa1068e75aba2f731031b024df4118a712878379e",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_END_BROKEN_A",
+      "lod0_triangles": 36,
+      "source_sha256": "7155b32721e15e798b814269b5be46f7912ee90a625f9c41db5716371e50f88d",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 36,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 36,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_END_BROKEN_B",
+      "lod0_triangles": 48,
+      "source_sha256": "60b90dbf8156c43fb36704559b78039a61c41a04c1dc5934df65e8e73f40d88a",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 48,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 48,
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_END_CAP_A",
+      "lod0_triangles": 32,
+      "source_sha256": "c6a21f1c03cdde0d618034e7f77a9a1900cdd34d3dbd7a465ef1bb88d7870483",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 32,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 26,
+          "views": {
+            "front": 0.9255057408419901,
+            "side": 1.0,
+            "diagonal45": 0.9575957984827854,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_END_CAP_A_LOD2.glb",
+          "sha256": "112dffd7e9c8047a7ba998cf0817fc0562e0081fc0b731ee06cb9b36829fe29c",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_END_CAP_B",
+      "lod0_triangles": 44,
+      "source_sha256": "756a0823e90202e27c8c39fd7e96226861ff53b2ca7d20165c9a623442c567ad",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 44,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 38,
+          "views": {
+            "front": 0.934168012924071,
+            "side": 1.0,
+            "diagonal45": 0.9622966507177033,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_END_CAP_B_LOD2.glb",
+          "sha256": "3ce073ed722948c1e8b4d260ffca0fc509dbd4fbdd07752d5b7981f8c26226ef",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_FRAME_A",
+      "lod0_triangles": 76,
+      "source_sha256": "df498fd2f7ab6e36d438b03e1127e12b67cc7a948b272f19df14ea174cc7f238",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 72,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_GATE_FRAME_A_LOD1.glb",
+          "sha256": "f9a9bf1b2acd0904e8ce455161d67cb65f9d4932b2bb93caa5ffa7067bf6a4a7",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 60,
+          "views": {
+            "front": 0.8945800499711705,
+            "side": 1.0,
+            "diagonal45": 0.9369695064445143,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_GATE_FRAME_A_LOD2.glb",
+          "sha256": "486b3bbd5ede078c27c3ac9db6f2c1cb618e31431deb13d1fc47a34390f2c00b",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_FRAME_B",
+      "lod0_triangles": 88,
+      "source_sha256": "c55b523cff3f19d69963934ebda3baee0b9631fbf4b4d99d49edbcaa0475bdbb",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 80,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_GATE_FRAME_B_LOD1.glb",
+          "sha256": "a7807f0a6a36d548bba9003bfe738cbef332e9ca6a730e659c8d89ae119c130b",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 72,
+          "views": {
+            "front": 0.8930086699870873,
+            "side": 1.0,
+            "diagonal45": 0.9377749340158362,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_GATE_FRAME_B_LOD2.glb",
+          "sha256": "864f7283401b878998c2c6c79b866234dca113dbd1767bed7d8e6794ae5e0a91",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_LEAF_A",
+      "lod0_triangles": 108,
+      "source_sha256": "0d291233150378fa73edb484e9746436a8cbb23c5a79576648278b89fdd3f6d8",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 108,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 100,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_GATE_LEAF_A_LOD2.glb",
+          "sha256": "fc52f68b8c149b81681149fd1afb18bc1aa3608f1e9a8778b8a652fbcecdba6a",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_GATE_LEAF_B",
+      "lod0_triangles": 132,
+      "source_sha256": "67d7aa1fb224066e72c771a96ca49a3b8f18d9cd076dc291e39a8f969237cc14",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 132,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 124,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_GATE_LEAF_B_LOD2.glb",
+          "sha256": "c2ba266a8fe55b7ae10845236d7bc70c148078060ca9b36c7005789975fc42d2",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_POST_A",
+      "lod0_triangles": 20,
+      "source_sha256": "eb3155543122749f06d5dc9c28cacbfd8789d5f9cdb27e71421de0a6da0e4ced",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 20,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 18,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_POST_A_LOD2.glb",
+          "sha256": "53b7740dff694a2f759b80f8d870addf3e2b1a8a787df85320d4c319b83a78e2",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_POST_B",
+      "lod0_triangles": 32,
+      "source_sha256": "86f17a8ffdefa510745548f35de75d91afee9d1c38d6c896f7fb9f9c655c96f6",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 32,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 30,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_POST_B_LOD2.glb",
+          "sha256": "5b81d7484b2593bbf87c042a712f429f1bc413bd41d1d7d3e0688d5da648f381",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_1M_A",
+      "lod0_triangles": 56,
+      "source_sha256": "20ce213fde2e82f2992cb3df5372f567aee66456d711d720c1e22068ee41d09f",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 56,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 54,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_RAIL_1M_A_LOD2.glb",
+          "sha256": "88d0841dc4859526ad1338af7e77fef60ec698e748480335d4345475748bb2c4",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_1M_B",
+      "lod0_triangles": 68,
+      "source_sha256": "0c124730e42f152d21b8b61c2ee4a839216441985d8203863600d378fbd04610",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 68,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 66,
+          "views": {
+            "front": 1.0,
+            "side": 1.0,
+            "diagonal45": 1.0,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_RAIL_1M_B_LOD2.glb",
+          "sha256": "0a87acb4237d7a65edc3797af8b6f920997fff0c1ad2e8058fecbadb026c10e5",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_2M_A",
+      "lod0_triangles": 44,
+      "source_sha256": "2909c2ab8572e0398c606631f7a23d501daad4a750f368cfd8ad3ee49f37828b",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 44,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 36,
+          "views": {
+            "front": 0.9634326780807441,
+            "side": 1.0,
+            "diagonal45": 0.9681528662420382,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_RAIL_2M_A_LOD2.glb",
+          "sha256": "ca0b130bf894cc1139a05f4ab6c1b9debdab53ebba34f7757be2d3a7bab164d8",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_2M_B",
+      "lod0_triangles": 68,
+      "source_sha256": "0a6ee5a1d685f59bb13956bd593abcdf7631edca9a6594d782bd8ec69c0a4799",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "OMISSION_REVIEW_REQUIRED",
+          "reason": "No triangle reduction under bounds/support constraints",
+          "triangles": 68,
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 60,
+          "views": {
+            "front": 0.9692431400140717,
+            "side": 1.0,
+            "diagonal45": 0.9749804534792806,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_RAIL_2M_B_LOD2.glb",
+          "sha256": "a3fed5239e717a1f439e67812c242dbe86830a73cf0aeb9d55f7693975f44a7a",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_4M_A",
+      "lod0_triangles": 44,
+      "source_sha256": "27693237968e3a43277426a3f6053c81ef648a9ae5eb0341b3c5fb57b3d0ed68",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 36,
+          "views": {
+            "front": 0.9874008399440037,
+            "side": 1.0,
+            "diagonal45": 0.9883972772277227,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_RAIL_4M_A_LOD1.glb",
+          "sha256": "029c1ccf65fa411005375634fc1530927471488fc1dd953a3ec0d2a8549f53aa",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 28,
+          "views": {
+            "front": 0.9874008399440037,
+            "side": 1.0,
+            "diagonal45": 0.979115099009901,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_RAIL_4M_A_LOD2.glb",
+          "sha256": "b7dc1f513f66fc33559f74b01ca2f9a8b02c25548fb89b85c9c9e95083ca7a1b",
+          "exception_approved": false
+        }
+      ]
+    },
+    {
+      "asset_id": "TW_WOOD_RAIL_4M_B",
+      "lod0_triangles": 68,
+      "source_sha256": "d0414ea4ce808a012d938ffe8f1949211ba7ea4a68d37fbd9cbe3614c47748b8",
+      "approval": "PENDING",
+      "levels": [
+        {
+          "lod": 1,
+          "support_tolerance_ratio": 0.01,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 58,
+          "views": {
+            "front": 0.981404958677686,
+            "side": 0.9929225137278829,
+            "diagonal45": 0.9859194593072373,
+            "top": 1.0
+          },
+          "threshold": 0.95,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_RAIL_4M_B_LOD1.glb",
+          "sha256": "888774f4494941bb2ad2c29e54c11755eafea8c7eaccee6055265102cf676301",
+          "exception_approved": false
+        },
+        {
+          "lod": 2,
+          "support_tolerance_ratio": 0.02,
+          "status": "SILHOUETTE_PASS_REVIEW_REQUIRED",
+          "triangles": 44,
+          "views": {
+            "front": 0.981404958677686,
+            "side": 0.9882855399633923,
+            "diagonal45": 0.9673331455927907,
+            "top": 1.0
+          },
+          "threshold": 0.88,
+          "sockets_preserved": true,
+          "collider_policy": "Reuse unchanged LOD0 collider; engine binding unverified",
+          "file": "models/TW_WOOD_RAIL_4M_B_LOD2.glb",
+          "sha256": "dbad28d8bbdedbc207a048056d11bca6333407bfce5c2fe3dbc463809ccf938b",
+          "exception_approved": false
+        }
+      ]
+    }
+  ],
+  "complete_candidates": true,
+  "sales_approved": false
+}

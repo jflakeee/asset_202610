@@ -1,0 +1,551 @@
+{
+  "validator": "2.0.0-dev.3.10",
+  "results": [
+    {
+      "file": "TW_PROP_BRANCH_FORK_A_LOD2.glb",
+      "sha256": "416fa00fd7b574356a28e9e36ce177d3bb133d43fce0d7a2b19b01791fb0f697",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_BRANCH_FORK_B_LOD1.glb",
+      "sha256": "259b3a0af1616c69a963800711520582d3f6d482892b658c3b2b7199d9c06138",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_BRANCH_FORK_B_LOD2.glb",
+      "sha256": "1e77b9fa9bf005de03e8c22505c67f69eb717bb51b678bb49573d0b17ee1f8a8",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_BRANCH_PILE_A_LOD1.glb",
+      "sha256": "cdda96e9af701a32e6b986b2bf3b821618f17407f412edfa436057c4aabc9352",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_BRANCH_PILE_A_LOD2.glb",
+      "sha256": "7eb08c7a81da0171f97063d6466a2215b589a5bb7fcbd08bf00ed9bc22393824",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_BRANCH_PILE_B_LOD1.glb",
+      "sha256": "e27584f95006d11b190d40c1e081926847e7a106b76732e3f405ec3736bfdd15",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_BRANCH_PILE_B_LOD2.glb",
+      "sha256": "2198adf84a932b272840c313c20ac4a4e0c17151c612e0b46f3bfbbc27287f4d",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_LOG_BROKEN_A_LOD1.glb",
+      "sha256": "ea81a9664505ad9a8c9226e53cd96da90177a5ca173aa4434cf93f55a1b70c71",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_LOG_BROKEN_A_LOD2.glb",
+      "sha256": "67219790217e41ecf50c6e0c89fc0c5a161189856dd5503dba2d70300165489f",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_LOG_BROKEN_B_LOD1.glb",
+      "sha256": "eea727d51016ef78a43b20432bc8ae165acefeafcb3e542b618fc225592d14df",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_LOG_BROKEN_B_LOD2.glb",
+      "sha256": "f9fb6bc5b733d329a3705104b8f33663307afe54574a7b6df318b4526ec3e7c3",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_LOG_STRAIGHT_A_LOD1.glb",
+      "sha256": "6b6f7191b98a1011474c3a6e05ce857fd347ee38487c4f8f60d22f0caf14e28e",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_LOG_STRAIGHT_A_LOD2.glb",
+      "sha256": "c8be2c7c861a7db4983087418b4a1b634964fb572c5e5cc04d7162849d76cf75",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_LOG_STRAIGHT_B_LOD1.glb",
+      "sha256": "5ca5c3458a99fb83b9d83e408a6fc4ac923c5bf273b294493298f75fddcc5c4d",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_LOG_STRAIGHT_B_LOD2.glb",
+      "sha256": "f319dad40bf45b2325735f9a075e19911d68b9c5a003f8e34558ea2de4467978",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_STUMP_ROUND_A_LOD2.glb",
+      "sha256": "8c48208e3181fa7899d32f9e2e2b1184960b21103d279d2c3473743255d9e2ce",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_STUMP_ROUND_B_LOD2.glb",
+      "sha256": "20c39f45155cfc4564b77d25e1299a1e4c5de1d8dc8f96a7447fe269ad2bf35e",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_STUMP_SPLIT_A_LOD1.glb",
+      "sha256": "6e19972b9d76f546e230eaa07cfbdbd5a7bd7b0caa168a61762f7ae263770b04",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_STUMP_SPLIT_A_LOD2.glb",
+      "sha256": "1dde3a22ac9e7c398ed26870e380217aefda1d0bc45697842ddf125fa4d29a6b",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_STUMP_SPLIT_B_LOD1.glb",
+      "sha256": "311d776b5541067ce30fce91dcbffd45a708f94578d6e8a94e9287297482579b",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_PROP_STUMP_SPLIT_B_LOD2.glb",
+      "sha256": "5d919ad774ca61431fabda6cb1e6c21aed6b825345ef087a3e0752f463a11f6e",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_CLUSTER_LARGE_A_LOD1.glb",
+      "sha256": "47c45a58307d335dfcbdea10813ec2df58760fc5e0e65792430a91513a7768a4",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_CLUSTER_LARGE_A_LOD2.glb",
+      "sha256": "ae0650c4bb613af3a61256d49d9d42bcc4d36b51c03da4f7d089194cd8f33755",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_CLUSTER_LARGE_B_LOD1.glb",
+      "sha256": "911cada2cb07c5f7cf458360b1d288dde12c8e49f96b21f4ca08e315f27bcd2e",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_CLUSTER_LARGE_B_LOD2.glb",
+      "sha256": "6793fc9894ef95b0485eeb17d943d71727a1c7f8804fc5a1455509236bb98977",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_CLUSTER_SMALL_A_LOD1.glb",
+      "sha256": "a919ec528839f00ddea7b14b620238f7962bd92417c6d66eff7c89cbb2ac110f",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_CLUSTER_SMALL_A_LOD2.glb",
+      "sha256": "169f37297bbf1d5d31f5c5933e7690cac579da4e827f8a6b8b2933464cca21d9",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_CLUSTER_SMALL_B_LOD1.glb",
+      "sha256": "224f3bedc53ee751031b7cabeb07180d936124e0d7fd4f83ad549186b541435b",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_CLUSTER_SMALL_B_LOD2.glb",
+      "sha256": "73cbd3c4dbc9056650bc9c11b6a5a29c977b5fc8060ad129862ab5b2c4759b71",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_FLAT_SLAB_A_LOD1.glb",
+      "sha256": "5629e22840e48fdf5690915b41ba2d48e020f249f52ddd36fc1fb2a9260af1ab",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_FLAT_SLAB_A_LOD2.glb",
+      "sha256": "b1cf77bd70bfb98be6844a0fc6908912b6852e655c96e0673bc0c916f1e53a3d",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_FLAT_SLAB_B_LOD1.glb",
+      "sha256": "d7e6d8fe07ed52a8214ac888d94bbe6a98906fd00f2fc87bcd19255735373401",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_FLAT_SLAB_B_LOD2.glb",
+      "sha256": "1c8e015a84b9b33b12e607025a74c360761d109c7e4fd25ee0b55556a26e7c82",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_LOW_WEDGE_A_LOD1.glb",
+      "sha256": "1a8d1d6170eee4013933d26d1b8fde75f64b273adc9013785249cd50c9fccb7e",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_LOW_WEDGE_A_LOD2.glb",
+      "sha256": "e6350b204f3541abe20e1376904b25bd8b20ffb791519c7bbbb19adfa1cfcd22",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_LOW_WEDGE_B_LOD1.glb",
+      "sha256": "590539a75e0a13e587d45a9a1a1ac95dc0906569576c0c991002c09a89ab9b70",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_LOW_WEDGE_B_LOD2.glb",
+      "sha256": "d81f934ba57127c8c7274ec1a0020422e10586010326f8feba26a71163028db7",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_SPLIT_MASS_A_LOD1.glb",
+      "sha256": "3b4c77453fb96bf082a560a55ec990179abc98fb357c96b6651cdbaba108dfed",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_SPLIT_MASS_A_LOD2.glb",
+      "sha256": "aec1d840d9d3c5201f127ae9f39275e617bdc8227cf4075ebbc7419cae7c4574",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_SPLIT_MASS_B_LOD1.glb",
+      "sha256": "77397d0af0d278be782b89985ae732dff99a2d9316a06bd604fb0587b2e8a458",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_SPLIT_MASS_B_LOD2.glb",
+      "sha256": "f86d7f2d69441ecbd4337978e51780925bb76a833a9e61177446abcf95a86eb5",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_UPRIGHT_A_LOD1.glb",
+      "sha256": "0204f6fa2c9ce5fefac82f2df1478dbc171bd4fb6b4293141e9f510e2eb17e7c",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_UPRIGHT_A_LOD2.glb",
+      "sha256": "2a5e39e93d6530fa7f80eeceb408d6f69806a8195bc71c8931c56dc22273501f",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_ROCK_UPRIGHT_B_LOD2.glb",
+      "sha256": "1a2789396b60633359869f567c2f5c43185be0972b865a8e096615d365c87845",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_STONE_WALL_4M_B_LOD2.glb",
+      "sha256": "38edbd20dda7c068dfd48d4043d1bce3a2c98c64a49001e15f2f73a38673fae1",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_TREE_ROUND_BROAD_A_LOD1.glb",
+      "sha256": "7c9858b1110130935489b56985a8d102919980df957650ac21e49bf73d95edb8",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_TREE_ROUND_BROAD_A_LOD2.glb",
+      "sha256": "2bc332e4ffd1ad768e7cdd2c599d043f416c2635355dfb901b2c6f44c2982e2d",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_TREE_ROUND_BROAD_B_LOD1.glb",
+      "sha256": "9aa9f3f424a5a14cd14c42e1cd8e894dbc73743be4935118bc6fd7da0189be43",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_TREE_ROUND_BROAD_B_LOD2.glb",
+      "sha256": "059ed3b3107c77cc02173363017feea4273c58d1d5801d826b7739334ee35346",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_TREE_ROUND_SMALL_A_LOD1.glb",
+      "sha256": "ce21a61280b7fc94c0b060b8b13607f49a42ae3cd6523dd4d1d95bb6a28bf0d1",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_TREE_ROUND_SMALL_A_LOD2.glb",
+      "sha256": "b29cbb8efa34bf89fe9a87fd973fb78ab4935ad4e450cc2dc7a7c58d12a6cebd",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_TREE_ROUND_SMALL_B_LOD1.glb",
+      "sha256": "94f444f0516a66006e71d08db079aeeb558f73f7d5467399761b6d98b2b491ce",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_TREE_ROUND_SMALL_B_LOD2.glb",
+      "sha256": "99ca2bf439c51766242ad5f93fb84d624f7b7b4c587ea18773648dec5cdd1caf",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_TREE_TIERED_SLIM_A_LOD1.glb",
+      "sha256": "a2707f10d9c8484d1788b02dbad9925177065eada190757ec68edc24e1c61843",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_TREE_TIERED_SLIM_A_LOD2.glb",
+      "sha256": "7fe58a3cd3088287de0861693d2634a5e3587d4f1369bf24b35c81f1344c6174",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_TREE_TIERED_SLIM_B_LOD1.glb",
+      "sha256": "e9564f27d12a5bc6f0db59a1ed28907bad6d1ea57378f8d7954077f910fc25f7",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_TREE_TIERED_SLIM_B_LOD2.glb",
+      "sha256": "aacf1cc3d69bb14fe45baf326056bacaaa2ccce09b14c36efa9fb7354d83e169",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_TREE_TIERED_WIDE_A_LOD2.glb",
+      "sha256": "03617e6c29e3baeb73e11b4692b0c55588679a46291a562f66c20eb9b4193418",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_TREE_TIERED_WIDE_B_LOD1.glb",
+      "sha256": "b0495b1680c6929729b3985de1afff752622e3371741ba6b43c3075d58a77b1a",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_TREE_TIERED_WIDE_B_LOD2.glb",
+      "sha256": "566ae199787b82aa5ab8ca380ccb34a2bdaf8fc13eefaf11d962b2d86a7c51b1",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_VEG_GRASS_FAN_A_LOD1.glb",
+      "sha256": "11c33715bef276f8387db4a85efb26b28810f8a5422e989f8f9d0402bebf642e",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_VEG_GRASS_FAN_A_LOD2.glb",
+      "sha256": "0ef94a35af82581973dc17e9cddc0ad7283e1ed433450809e2161effdc3e64f4",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_VEG_GRASS_FAN_B_LOD1.glb",
+      "sha256": "4059c4aa05eef1260e53b3e4bb10beec2e3e0b830cbd20b8590f9a39aa061301",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_VEG_GRASS_FAN_B_LOD2.glb",
+      "sha256": "a1ab4f5a659824fdb1fc43d72e9db0384d98d57615155580322936cba71bd1e9",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_VEG_GRASS_LOW_A_LOD2.glb",
+      "sha256": "5a42ea2a32ae2c5b1c006369e51167aa35eb76727d1436fdb22f5e5b06590b2a",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_VEG_GRASS_LOW_B_LOD2.glb",
+      "sha256": "728397be230fdea65fe3afaa883b1ff247d45cf73f44ae9d248af32a9c60a400",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_VEG_GRASS_TUFT_A_LOD2.glb",
+      "sha256": "6ee278f347c801a5b1bb41e6910e77545530477f56429e2389d474369050d3c2",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_VEG_GRASS_TUFT_B_LOD1.glb",
+      "sha256": "47a042a3ea5377b704857d9277ab58eb331a82a71a17ecd88e582f952a14229a",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_VEG_GRASS_TUFT_B_LOD2.glb",
+      "sha256": "020ad66eb2a57d5a44cf153c9d8e6fdc0f9e6a82b345810eeb67f794d498ab39",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_CORNER_L90_A_LOD2.glb",
+      "sha256": "f476809ec03b47da401be2247880c0ac38fbeb8754606e1ba4c8d9b2ee0eda9e",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_CORNER_L90_B_LOD2.glb",
+      "sha256": "ae72d2204c742d3fbe6bc5ca4255a5f134192587bddb746517f34461f183ab65",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_CORNER_R90_A_LOD2.glb",
+      "sha256": "d1709c549aad02f496654d6fd3da9737ea88edba0836e8701d8430d3a380d7f0",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_CORNER_R90_B_LOD2.glb",
+      "sha256": "5e14ba46f03dd06cc6b2beeaa1068e75aba2f731031b024df4118a712878379e",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_END_CAP_A_LOD2.glb",
+      "sha256": "112dffd7e9c8047a7ba998cf0817fc0562e0081fc0b731ee06cb9b36829fe29c",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_END_CAP_B_LOD2.glb",
+      "sha256": "3ce073ed722948c1e8b4d260ffca0fc509dbd4fbdd07752d5b7981f8c26226ef",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_GATE_FRAME_A_LOD1.glb",
+      "sha256": "f9a9bf1b2acd0904e8ce455161d67cb65f9d4932b2bb93caa5ffa7067bf6a4a7",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_GATE_FRAME_A_LOD2.glb",
+      "sha256": "486b3bbd5ede078c27c3ac9db6f2c1cb618e31431deb13d1fc47a34390f2c00b",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_GATE_FRAME_B_LOD1.glb",
+      "sha256": "a7807f0a6a36d548bba9003bfe738cbef332e9ca6a730e659c8d89ae119c130b",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_GATE_FRAME_B_LOD2.glb",
+      "sha256": "864f7283401b878998c2c6c79b866234dca113dbd1767bed7d8e6794ae5e0a91",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_GATE_LEAF_A_LOD2.glb",
+      "sha256": "fc52f68b8c149b81681149fd1afb18bc1aa3608f1e9a8778b8a652fbcecdba6a",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_GATE_LEAF_B_LOD2.glb",
+      "sha256": "c2ba266a8fe55b7ae10845236d7bc70c148078060ca9b36c7005789975fc42d2",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_POST_A_LOD2.glb",
+      "sha256": "53b7740dff694a2f759b80f8d870addf3e2b1a8a787df85320d4c319b83a78e2",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_POST_B_LOD2.glb",
+      "sha256": "5b81d7484b2593bbf87c042a712f429f1bc413bd41d1d7d3e0688d5da648f381",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_1M_A_LOD2.glb",
+      "sha256": "88d0841dc4859526ad1338af7e77fef60ec698e748480335d4345475748bb2c4",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_1M_B_LOD2.glb",
+      "sha256": "0a87acb4237d7a65edc3797af8b6f920997fff0c1ad2e8058fecbadb026c10e5",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_2M_A_LOD2.glb",
+      "sha256": "ca0b130bf894cc1139a05f4ab6c1b9debdab53ebba34f7757be2d3a7bab164d8",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_2M_B_LOD2.glb",
+      "sha256": "a3fed5239e717a1f439e67812c242dbe86830a73cf0aeb9d55f7693975f44a7a",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_4M_A_LOD1.glb",
+      "sha256": "029c1ccf65fa411005375634fc1530927471488fc1dd953a3ec0d2a8549f53aa",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_4M_A_LOD2.glb",
+      "sha256": "b7dc1f513f66fc33559f74b01ca2f9a8b02c25548fb89b85c9c9e95083ca7a1b",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_4M_B_LOD1.glb",
+      "sha256": "888774f4494941bb2ad2c29e54c11755eafea8c7eaccee6055265102cf676301",
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "file": "TW_WOOD_RAIL_4M_B_LOD2.glb",
+      "sha256": "dbad28d8bbdedbc207a048056d11bca6333407bfce5c2fe3dbc463809ccf938b",
+      "errors": 0,
+      "warnings": 0
+    }
+  ]
+}

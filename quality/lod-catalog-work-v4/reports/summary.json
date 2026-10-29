@@ -1,0 +1,9 @@
+{
+  "canonical_models": 84,
+  "lod_decisions": 168,
+  "silhouette_pass_candidates": 91,
+  "omission_reviews_required": 77,
+  "all_exported_models_validated": true,
+  "at12_complete": false,
+  "reason": "Omission approvals, engine LOD switching/collider binding, GPU visual and art review remain open"
+}
